@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375058" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD031F04D-9CFF-48B9-A22B-905AE7CC4434">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Kwanzas</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">30</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1B8D27B8-1393-4EF1-940B-A6DC321FB189">
-		<Aux:document_text xml:lang="en-US">The very basics are sold here – like beans, maniok roots and leaves, fruit, and tomatoes. Here and there, you see canned food or drinks. You can drink beer in Luena – but it's only available in cans. A can will cost you 30 Kwanzas ($1.10), three times the price in Luanda, and the same price as a Coke. That more or less sums up the obvious capitalist consumer goods – if you don't count the few radios children are often carrying. The telephone has been out of service for the past month.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode492DC41B-8E8A-4264-A0EB-339011643891">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD031F04D-9CFF-48B9-A22B-905AE7CC4434"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9BC4B489-E1B9-46E0-BCA4-DDD9FA48B297">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD031F04D-9CFF-48B9-A22B-905AE7CC4434"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">30</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode33447122-2C57-4499-AC3B-38A41600793D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD031F04D-9CFF-48B9-A22B-905AE7CC4434"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Kwanzas</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

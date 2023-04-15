@@ -1,123 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372771" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode510C6685-364D-45EB-B7D6-433A89FE6E07">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">6</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode84E7811F-B9CD-4EF6-974F-9E8EF8846F69">
-		<BasicEntity:ms_major_currency xml:lang="en-US">€</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3BD3A1AB-B86D-4975-9234-49ED16720EED">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">12</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode8FE81A10-7280-4FB7-983D-25452F2C7067">
-		<BasicEntity:ms_major_currency xml:lang="en-US">€</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeC8F702E0-6C21-47F2-8549-3EAEE977B223">
-		<Aux:document_text xml:lang="en-US">Rampe des Ardennais, 23 - 1348 Louvain-la-Neuve - Belgium  The Training Booklets can be downloaded from the AIC website (in PDF format):  www.aic-international.org  1 year subscription, to be paid to the account of your national AIC association:  - To receive the booklets by post: 10€/12$  - To receive copies by email: 4€/6$  Collaborators for this issue:  Original Text:  Laurence de la Brosse The Prospects Group  Selina Suarez Ferrmn and her training team Tayde de Callataÿ  Translation:  Catherine Avery</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeA2D2CCFC-ED40-40B9-B3FD-946C2AC602CA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8FE81A10-7280-4FB7-983D-25452F2C7067"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE3F30FF5-39F5-4E88-8F75-FDD250C328ED">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8FE81A10-7280-4FB7-983D-25452F2C7067"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7F1F335C-9258-4B0E-9EE2-8DBFB3C167C9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8FE81A10-7280-4FB7-983D-25452F2C7067"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">€</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9A8D23DA-3144-4AC3-BB7A-669084211350">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3BD3A1AB-B86D-4975-9234-49ED16720EED"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">12</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD537AD67-A5FC-4954-8820-17960727C0F3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3BD3A1AB-B86D-4975-9234-49ED16720EED"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBDD3829E-2D91-4591-8ABF-FB36D6A883CC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3BD3A1AB-B86D-4975-9234-49ED16720EED"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode91913B20-3C75-4273-847B-AD31EB7F2780">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">321</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode84E7811F-B9CD-4EF6-974F-9E8EF8846F69"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode3B97CB33-261A-4FB3-8996-305F4FF62B3C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">321</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode84E7811F-B9CD-4EF6-974F-9E8EF8846F69"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0D4647E8-37F6-4328-911D-BAD72F21A4A9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode84E7811F-B9CD-4EF6-974F-9E8EF8846F69"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">€</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode57D37DD8-1E64-4D19-8F57-81A7A813BABF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode510C6685-364D-45EB-B7D6-433A89FE6E07"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA5930B2-035A-40D0-A1FB-9B28556CBEAA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode510C6685-364D-45EB-B7D6-433A89FE6E07"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">6</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0AC433C8-B1DE-4E55-9F53-099793465784">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode510C6685-364D-45EB-B7D6-433A89FE6E07"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

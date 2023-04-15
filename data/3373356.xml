@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373356" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode17467303-F178-4C9D-B227-AAD3F894A40D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">drachma</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2FF10553-9631-4D6B-99DE-540765D22E9D">
-		<Aux:document_text xml:lang="en-US">The basic workshop was often family-operated. Lysias's shield manufacture employed 350 slaves; Demosthenes' father, a maker of swords, used 32. After the death of Pericles in 429 BC, a new class emerged: that of the wealthy owners and managers of workshops. Examples include Cleon and Anytus, noted tannery owners, and Kleophon, whose factory produced lyres. Non-slave workers were paid by assignment since the workshops could not guarantee regular work. In Athens, those who worked on state projects were paid one drachma per day, no matter what craft they practised. The workday generally began at sunrise and ended in the afternoon. Pottery The potter's work consisted of selecting the clay, fashioning the vase, drying and painting and baking it, and applying varnish. Part of the production went to domestic usage (dishes, containers, oil lamps) or for commercial purposes, and the rest served religious or artistic functions. Techniques for working with clay have been known since the Bronze Age; the potter's wheel is a very ancient invention. The ancient Greeks did not add any innovations to these processes.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1165D37A-20FC-405D-93D2-B4A2340436A5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode17467303-F178-4C9D-B227-AAD3F894A40D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0002C541-604C-4D69-A460-D7ACB3748390">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode17467303-F178-4C9D-B227-AAD3F894A40D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDCDB53F9-1CD5-4FEB-87C2-09BB31D8FAD6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode17467303-F178-4C9D-B227-AAD3F894A40D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">drachma</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

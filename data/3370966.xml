@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370966" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode89A97DCA-DECE-406C-AC68-F86F9F9140E4">
-		<BasicEntity:ms_major_currency xml:lang="en-US">hryvnyas</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">150</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeA51B3772-6919-4666-AB63-81E352BF5501">
-		<Aux:document_text xml:lang="en-US">Every project is accompanied by a standard organization structure. Every task is precisely defined. Technical realization and project- specific management is strictly separated. Conference-hall is fitted with the equipment, needed for conduction of high level conferences, seminars and other events. The price of conference – hall rent is 150 hryvnyas per hour. If needed to conduct arrangements with participation from 100 up to 270 people we offer a conference hall with 270 theatrical seats. . Saint Bruno of Cologne (1030–1101) founds the first charterhouse (grande chartreuse) near to Grenoble in France.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8B569277-7B08-4A98-A7B2-E4DE3CB468A8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode89A97DCA-DECE-406C-AC68-F86F9F9140E4"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8184D8E6-B8B8-446A-A98B-BFA2B7309FA4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode89A97DCA-DECE-406C-AC68-F86F9F9140E4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">150</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5B9B403B-ACA8-4E53-8AFE-EA70523D1E12">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode89A97DCA-DECE-406C-AC68-F86F9F9140E4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">hryvnyas</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

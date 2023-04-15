@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372678" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeECD8E092-16C8-45D6-A74E-54C148FC3E21">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1890700000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC4A2E325-423D-42B3-BDDD-D351CA088959">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1833400000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode3A5A4AE3-1375-4088-8500-988266894824">
-		<Aux:document_text xml:lang="en-US">Project Owner : Sendai Okura GD Daiichi Godo Kaisha Sponsor: Gunkul Engineering Public Company Limited Objective: Photovoltaic power generation Operation from: May 2018 (planned) Location: Sendai City, Miyagi Prefecture, Japan Overview of The Siam Commercial Bank Public Company Limited: Representative: Mr. Arthid Nanthawithaya Loan Balance: 1,833.4 billion THB (as of December 31, 2015) Deposit Balance: 1,890.7 billion THB (as of December 31, 2015) Number of Locations: 1,209 (as of December 31, 2015) Overview of Gunkul Engineering Public Company Limited: Representative: Ms. Sopacha Dhumrongpiyawut Established: 1982 (listed in the Stock Exchange of Thailand (SET) in 2010)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeB737F475-6DAB-4B3B-9440-F2C55580B67A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">362</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC4A2E325-423D-42B3-BDDD-D351CA088959"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode95DEA35D-8DFE-4CE3-8FF1-990B1CDD7AB3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC4A2E325-423D-42B3-BDDD-D351CA088959"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1833400000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4B0ADFA0-BACE-467D-8E1E-EE57255C306D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">362</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC4A2E325-423D-42B3-BDDD-D351CA088959"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode645A5D79-7405-4E79-A222-93CCC268284C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeECD8E092-16C8-45D6-A74E-54C148FC3E21"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode829D1F84-3112-467E-8C33-DBBDF047A3FC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeECD8E092-16C8-45D6-A74E-54C148FC3E21"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1890700000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode88C0CF7F-6E19-4191-B109-20B60C2AA708">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeECD8E092-16C8-45D6-A74E-54C148FC3E21"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

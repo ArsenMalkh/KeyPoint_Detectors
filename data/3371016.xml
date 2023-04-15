@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371016" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7E0A401D-FB42-4628-A6C0-D366DE024BE8">
-		<BasicEntity:ms_major_currency xml:lang="en-US">U.S. dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">500000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode0824728A-FA62-4E28-9FAC-518CA4749B21">
-		<BasicEntity:ms_major_currency xml:lang="en-US">tenge</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4780000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode925AEC4D-2FFF-415E-BA2F-0DD9AA7BDC45">
-		<Aux:document_text xml:lang="en-US">"For 16 years, the population of the city increased almost three times, the gross regional product increased more than fourfold, the share of Astana in the country's GDP increased 6 times from 1.5% to about 10%, while investments increased 28 times," Tasmagambetov said.  According to him, 4 trillion 780 billion tenge has been invested in the economy of Astana since 1998.  Tasmagambetov also said that it was planned to sign 11 MoUs with investors totaling approximately 500 million U.S. dollars at the forum in Astana.  Теги: Kazakhstan,GDP,Astana </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeFE81F2A6-9882-4434-84A6-1288A0B25613">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0824728A-FA62-4E28-9FAC-518CA4749B21"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode54B5FC22-7FBA-4514-A70F-84DFA758BB1D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0824728A-FA62-4E28-9FAC-518CA4749B21"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4780000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode90023D45-00A2-4312-BF20-C0A50DA2D5C3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0824728A-FA62-4E28-9FAC-518CA4749B21"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">tenge</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4F548A82-7CFD-45B7-868D-543990BC7488">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7E0A401D-FB42-4628-A6C0-D366DE024BE8"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2822A508-036E-4633-A85D-61F9EE5323AC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7E0A401D-FB42-4628-A6C0-D366DE024BE8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">500000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA0C27362-7291-468A-A156-F3B5A92D58FD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7E0A401D-FB42-4628-A6C0-D366DE024BE8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">U.S. dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

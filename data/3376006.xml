@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376006" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4372C1BA-F452-4F6D-BFC7-D78CF288F87D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">bitcoins</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">744000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeB84D1F3F-C45C-4756-BE24-8A8551D91AC7">
-		<Aux:document_text xml:lang="en-US">In early February 2014, one of the largest bitcoin exchanges, Mt. Gox, suspended withdrawals citing technical issues. By the end of the month, Mt. Gox had filed for bankruptcy protection in Japan amid reports that 744,000 bitcoins had been stolen. Months before the filing, the popularity of Mt. Gox had waned as users experienced difficulties withdrawing funds. In June 2014 the network exceeded 100 petahash/sec. On 18 June 2014, it was announced that bitcoin payment service provider BitPay would become the new sponsor of St. Petersburg Bowl under a two-year deal, renamed the Bitcoin St. Petersburg Bowl. Bitcoin was to be accepted for ticket and concession sales at the game as part of the sponsorship, and the sponsorship itself was also paid for using bitcoin. In July 2014 Newegg and Dell started accepting bitcoin. In September 2014 TeraExchange, LLC, received approval from the U.S.Commodity Futures Trading Commission "CFTC" to begin listing an over-the-counter swap product based on the price of a bitcoin. The CFTC swap product approval marks the first time a U.S. regulatory agency approved a bitcoin financial product.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD07A3F9D-3F5F-46D2-A567-32CF8CF1DA24">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4372C1BA-F452-4F6D-BFC7-D78CF288F87D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF76D28A6-1799-4502-8013-CFA8F5664586">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4372C1BA-F452-4F6D-BFC7-D78CF288F87D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">744000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD6C87B94-547A-4058-935D-73FE4B6E313B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4372C1BA-F452-4F6D-BFC7-D78CF288F87D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">bitcoins</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

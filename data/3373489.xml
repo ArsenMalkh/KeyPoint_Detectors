@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373489" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode43FF1CF0-D656-45FE-8582-4BF085FF3E55">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Ukrainian hryvnia</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">6000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode17364C1E-9604-4FCE-9E5C-29FC4F032FDF">
-		<Aux:document_text xml:lang="en-US">On 14 February 2012 Bogatyrova was removed from the National Security and Defense Council of Ukraine and appointed Minister of Health On 24 February 2014, just after the "Maidan revolution", the Verkhovna Rada dismissed Bogatyrova. Criminal proceedings against Bogatyrova On 20 October 2014 Bogatyrova was declared a suspect of the crime of large-scale embezzlement of 6 million Ukrainian hryvnia in budget funds, the next day she was placed on the wanted list and the court ordered the seizure of three apartments in Kiev, one apartments in Yalta and three houses in (the village) Pidhirtsi (in Obukhiv Raion) owned by her and her husband.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode26BC7ADF-6DC8-4295-9D96-0AD6FA2FA545">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode43FF1CF0-D656-45FE-8582-4BF085FF3E55"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB3A2CEBF-2CA0-434D-9C25-C81EA70D55AE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">378</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode43FF1CF0-D656-45FE-8582-4BF085FF3E55"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">6000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode146F8E20-51C7-489E-BCDF-013F07F0C9A1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode43FF1CF0-D656-45FE-8582-4BF085FF3E55"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Ukrainian hryvnia</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

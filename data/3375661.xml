@@ -1,123 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375661" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3AE52374-025B-4971-AF65-836EDE0A1B99">
-		<BasicEntity:ms_major_currency xml:lang="en-US">¥</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">287000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode94FC928E-945E-4FA3-8C6B-875F58EC5F4A">
-		<BasicEntity:ms_major_currency xml:lang="en-US">¥</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode418C8AE6-22D8-4863-8764-5F0517B24773">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode58A6E06F-A998-4432-97F8-E45F75442BC4">
-		<BasicEntity:ms_major_currency xml:lang="en-US">SGD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">500000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode82AF4226-2AAF-496B-BC6E-702AA0197D86">
-		<Aux:document_text xml:lang="en-US"> Nakakoma District, Yamanashi Prefecture ¥10mn 100.0% Consolidated Used vehicle purchasing and sales Transactions with parent Apple Auto Auction (Thailand) Co. Ltd. Kingdom of Thailand ¥287mn 34.4% Equitymethod Management of auto auction sites Dual directorship APPLE HEV INTERNATIONAL Pte. Ltd Singapore 500,000 SGD 60.0%  HV and EV repairs and maintenance business Dual directorship APPLE INTERNATIONAL (THAILAND) Co., Ltd. Kingdom of Thailand 2 million THB 49.0%  Exports of used commercial vehicles Dual directorship Source: Prepared by FISCO from Company materials APPLE INTERNATIONAL CO., LTD.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA04CDBBB-6CD1-48A8-AAC2-30DDAB81A3FE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode94FC928E-945E-4FA3-8C6B-875F58EC5F4A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">¥</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9F95023-4356-40D6-B4AF-CA6F15D5DF5F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode94FC928E-945E-4FA3-8C6B-875F58EC5F4A"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9ADF36CF-35B6-4558-98FD-E32479E31451">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode94FC928E-945E-4FA3-8C6B-875F58EC5F4A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeE413209E-E65B-4B1E-8848-411CEEBA18B5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3AE52374-025B-4971-AF65-836EDE0A1B99"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode63D2C941-E621-4A72-872C-66467ED2F0BE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3AE52374-025B-4971-AF65-836EDE0A1B99"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">¥</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBD562701-B95F-4AE8-BC3A-A2A3A6C988DE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3AE52374-025B-4971-AF65-836EDE0A1B99"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">287000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode67001848-9C02-481C-9953-CE17DDF8CD9C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode58A6E06F-A998-4432-97F8-E45F75442BC4"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode63003AB1-16C5-4A8A-9780-BC15142A27B4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode58A6E06F-A998-4432-97F8-E45F75442BC4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">500000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCBF9D2D7-C81A-4281-AFB4-961D9E9BA291">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode58A6E06F-A998-4432-97F8-E45F75442BC4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">SGD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE6508C34-2279-4978-8D16-F833357DDF0B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode418C8AE6-22D8-4863-8764-5F0517B24773"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0184E1A1-ECE0-4942-B575-FEFBEBDF2BBF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode418C8AE6-22D8-4863-8764-5F0517B24773"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4B22BF2D-E3FB-4613-A4E7-80F4E0DD7451">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">456</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode418C8AE6-22D8-4863-8764-5F0517B24773"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371728" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode797F5A52-A590-46B2-B64B-5F8120CE89C8">
-		<BasicEntity:ms_major_currency xml:lang="en-US">pesos</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">40000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1812BD12-E844-4248-98EA-151C5B345EA0">
-		<Aux:document_text xml:lang="en-US">The facts underlying appellant’s offenses are these. On September 10, 2006, a U.S. Coast Guard helicopter spotted a “go-fast” boat in the Caribbean Sea. As it approached, those aboard the boat began to jettison bales of cocaine - even as the helicopter fired warning shots. Further shots disabled the boat, and a Coast Guard cutter approached. A boarding party boarded the boat, arrested appellant and five other men, and recovered thirty-seven bales of cocaine weighing approximately 840 kilograms. Appellant and the others each gave a post-arrest statement. Appellant stated that he had been recruited by Don Pedro, a Colombian, to pilot the go-fast boat to Haiti. At sentencing, appellant acknowledged that he had been recruited to pilot the go-fast boat and was to have been paid between 20 million and 40 million pesos for doing so. Aside from being the boat’s captain, he said that his duties 2 were the same as those of the other crewmen. He asked the court to reduce the offense level under U.S.S.G. § 3B1.2(b), but, as noted above, the court refused to do so.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5B63787C-9CC6-4783-9767-8550DBDA9D3A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">807</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">823</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode797F5A52-A590-46B2-B64B-5F8120CE89C8"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode502B83D5-ECAB-417E-8577-F0346C88AD65">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">807</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">817</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode797F5A52-A590-46B2-B64B-5F8120CE89C8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">40000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE6092D50-623F-48B7-A82C-CAB7141A5AFB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">818</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">823</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode797F5A52-A590-46B2-B64B-5F8120CE89C8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">pesos</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

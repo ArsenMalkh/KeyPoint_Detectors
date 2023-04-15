@@ -1,94 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372818" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode24849701-487D-49A9-806A-0D851078AB5D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4.4</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode56E7E550-589D-4447-A0E3-C6550515BD75">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Haitian gourdes</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">300</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDE10F493-B96E-4797-AA6D-9D9E47BD3357">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Haitian gourdes</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">50</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode51269808-93CC-468E-80AC-988AFC91CDF1">
-		<Aux:document_text xml:lang="en-US">Since the hat-makers in Labiche started working with ITC, they have produced hats for three fashion brands - Tucker, Yestadt Millinery and Yanvaiou Designs, three brands based in the United States. In the process, they have increased their incomes six-fold, from about 50 Haitian gourdes (or less than $1) to 300 Haitian gourdes (about $4.40) per day.  before  50 Haitian gourdes per day  after  300 Haitian gourdes per day  Income growth for hat-makers in Labiche  The principal aim is to strengthen existing partnerships and connect new United States and European buyers to the hat-making communities to generate greater sales, incomes and jobs. The expansion strategy also seeks to build links to the region’s tourism industry; the cruise company Royal Caribbean, for example, has expressed interest in purchasing mid-range hats for their customers.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4D083A4B-ED42-458B-BD91-C9E25945F300">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDE10F493-B96E-4797-AA6D-9D9E47BD3357"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3EFADAEE-A885-45FE-82BE-BBB6DCD90DD8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDE10F493-B96E-4797-AA6D-9D9E47BD3357"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">50</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF41D08F5-A4F7-40BC-9695-D1C2DE7AA03E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDE10F493-B96E-4797-AA6D-9D9E47BD3357"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Haitian gourdes</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeAA5825DF-F8F9-4C6A-BA9A-6D94142747F5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode56E7E550-589D-4447-A0E3-C6550515BD75"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">300</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeA15BD3C4-7BBD-4E35-8728-D179FE47BDCE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode56E7E550-589D-4447-A0E3-C6550515BD75"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8B733E90-2684-4B74-B0DB-0154E3536BC3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode56E7E550-589D-4447-A0E3-C6550515BD75"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Haitian gourdes</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode9E78B64E-0EA4-481B-A964-AD784AA24C76">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode24849701-487D-49A9-806A-0D851078AB5D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode70F7800F-6B53-41E2-B932-7E6FEE45DB40">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode24849701-487D-49A9-806A-0D851078AB5D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEDF26DA9-A6AD-4CE3-B2DC-7C8735844038">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode24849701-487D-49A9-806A-0D851078AB5D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4.4</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

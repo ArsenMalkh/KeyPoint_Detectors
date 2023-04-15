@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371908" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode53729E90-D6E3-4073-8A5A-EAFBEF09E64B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Korean won</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1133.95</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode60040F91-78F3-481A-AAFE-AB3CF182BE8A">
-		<Aux:document_text xml:lang="en-US">"It does keep people agile and alert, but people joke that once you work more than five years at Samsung you've probably heard it more than enough and think it more of a repetitive cycle," said a Samsung chip developer, who wasn't authorized to talk publicly about the company. "You just get used to these things." Even 70-year-old billionaire Lee may be mellowing. Briefed after the bruising Apple defeat, Lee said only: "Deal with it well," according to a person familiar with the matter. ($1 = 1133.9500 Korean won) (Reporting by Miyoung Kim; Editing by Ian Geoghegan )</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3A50902-A147-457E-B709-B5F44D48F9F6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode53729E90-D6E3-4073-8A5A-EAFBEF09E64B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA77B216-8D29-486D-83A3-667E2C3B9AF3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode53729E90-D6E3-4073-8A5A-EAFBEF09E64B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1133.95</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode22D86430-966B-4F29-9FF1-D2E27323BEEA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode53729E90-D6E3-4073-8A5A-EAFBEF09E64B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Korean won</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

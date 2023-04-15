@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372690" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD69AE39C-7172-4888-BE2E-4A3F2F68D5D5">
-		<BasicEntity:ms_major_currency xml:lang="en-US">NOK</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode971315CF-FAA3-4CC6-B0DB-D0D0E074738B">
-		<Aux:document_text xml:lang="en-US">Established by an act of Parliament in 1926 as a state administrative body, Kommunalbanken AS (KBN) gained its current organisational form by a conversion act in 1999. KBN’s primary objective is to provide stable and low cost funding to Norwegian municipalities, counties, intermunicipal companies and other companies with a municipal guarantee for their primary municipal investments. FINANCIAL HIGHLIGHTS (Amounts in NOK 1 000 000) REPORT FOR SECOND QUARTER 2015 /PAGE 2 RESULTS January-June 2015 January-June 2014 2014 Net interest income 803 731 1 515 Core earnings1 528 486 1 026 Profit before tax 712 319 673 Profit for the period 520 233 491 2</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode78CBBCC1-50F5-4FF0-9CC1-F535A312DF98">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD69AE39C-7172-4888-BE2E-4A3F2F68D5D5"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5AFBBD84-46E7-4604-898B-95F4CB13ADA5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD69AE39C-7172-4888-BE2E-4A3F2F68D5D5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">NOK</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC55A7C76-C9EF-4012-9351-5A461D790B5F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD69AE39C-7172-4888-BE2E-4A3F2F68D5D5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

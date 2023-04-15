@@ -1,94 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372742" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6D2D656F-3AB9-4EC4-BE0B-A03BF552AFFF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">12500000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFC88AFBF-23B3-41A3-9C65-3D1E0412E255">
-		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4452</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF57B435A-92CF-428F-A4F5-A2E59516D678">
-		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">23600000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode89F2B5A1-C4A6-4E82-B459-26144EB81BD0">
-		<Aux:document_text xml:lang="en-US"> USD 23.6 bn (2011 est.) GDP per capita USD 4,452 (2011 est.)vii GDP composition by sector Services (30.1%), Public services (20.6%), Agriculture (17.5%), Trade &amp; Transport (13.5%), Mining &amp; Manufacturing (9.4%), Construction (7.6%), Banks &amp; Insurance (1.3%)vii Public budget USD 12.5 bn(IQD 12,604 tr) (2012) Trade partners (selection) Turkey, Iran, China, UAE, Syria, Lebanon, Jordan, USA, EU countries FDI countries (selection) Turkey, UAE,Lebanon, Egypt, USA, UK and other EU countries Labor force 1.2 m (2012) Unemployment rate 6% (2012)ix Population under 14 years</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8B70CFFC-50BB-4F08-999D-C14C5CB7591C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF57B435A-92CF-428F-A4F5-A2E59516D678"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0BCDDEC4-B59E-439F-BAB7-FA9EB6C96D9A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF57B435A-92CF-428F-A4F5-A2E59516D678"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode93F89939-5A22-4EA9-A570-8BE11A7A7C88">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF57B435A-92CF-428F-A4F5-A2E59516D678"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">23600000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9222D731-71F7-4D8C-914F-6530A387F4E0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFC88AFBF-23B3-41A3-9C65-3D1E0412E255"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD0026DDA-43EC-4AF6-A379-D21388BF68FC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFC88AFBF-23B3-41A3-9C65-3D1E0412E255"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3C790B6B-520F-4E5D-A61B-F4E731128989">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFC88AFBF-23B3-41A3-9C65-3D1E0412E255"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4452</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode6B95BD6C-5433-42FC-8DBE-D91C6DA7EC84">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6D2D656F-3AB9-4EC4-BE0B-A03BF552AFFF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEE6F0655-E907-4A72-8178-DFA381FB420D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6D2D656F-3AB9-4EC4-BE0B-A03BF552AFFF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE69A43F5-C205-4263-BC14-C7496356EEC0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6D2D656F-3AB9-4EC4-BE0B-A03BF552AFFF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">12500000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

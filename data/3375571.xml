@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375571" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD18F393A-80FE-4DEE-8E8A-71007A4D8803">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Tunisian dinar</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD52D6E74-E293-4B1B-AC22-DE57066457E8">
-		<Aux:document_text xml:lang="en-US">Tunis Re participates in the capital of the following companies : In 1981 and on the initiative of authorities, was created the first national reinsurance Tunis Re in the form of a public company with the help of Tunisian banks and insurance companies , with a capital of 2.000.000 Tunisian dinar which was shared between the Tunisian State (10 %) the national insurance companies (47 %) and Tunisians banks (43 %). The objectives of the creation of Tunis Re were: The installation of a structure specialized to answer the growing needs of the insurance direct market in Tunisia</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode217E6AFE-2AFA-4442-B0ED-22FC95350916">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD18F393A-80FE-4DEE-8E8A-71007A4D8803"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA3F999F8-543E-4F4A-8F2F-5184F4D1AD34">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD18F393A-80FE-4DEE-8E8A-71007A4D8803"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode627293CF-BAC8-4F92-8350-1AB746E17727">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD18F393A-80FE-4DEE-8E8A-71007A4D8803"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Tunisian dinar</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

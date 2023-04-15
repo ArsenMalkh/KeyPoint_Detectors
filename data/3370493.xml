@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370493" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFA02C0D6-B3CE-43B4-90A2-96FB6242CA07">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HUF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">880469531</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeA6179944-C2BB-4517-8EC3-98712353D86E">
-		<Aux:document_text xml:lang="en-US">In March 2002, Resilux started a new production unit in Hungary. A new company was set up for this purpose, Resilux Hungaria Packaging Kft. of which currently 70% of the shares are held by Resilux NV and 30% by Resilux Schweiz AG. As per December 31st, 2008 the capital of Resilux Hungaria Packaging Kft. is HUF 880,469,531, share premiums included. RESILUX Resilux and the Brussels Stock Exchange Stock exchange listing The Resilux share is listed since October 3rd, 1997. Resilux is listed on Euronext Brussels under the code 'RES' with I SI N code BE0003707214 / sector description 2723: Industrials / Containers &amp; Packaging.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode39C2E617-A41B-47C1-BDAD-5FFA01699290">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFA02C0D6-B3CE-43B4-90A2-96FB6242CA07"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9B01F4A1-FC55-4CF0-8EAE-7FE11F247138">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFA02C0D6-B3CE-43B4-90A2-96FB6242CA07"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HUF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode96E7363C-91BB-42B6-ABAA-A1A7CA1DC54C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFA02C0D6-B3CE-43B4-90A2-96FB6242CA07"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">880469531</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374583" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode304E905F-A38E-4747-8086-05D3999409BF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">25580000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6802E723-221B-4D38-B3F3-00691509C64B">
-		<Aux:document_text xml:lang="en-US">Figure 1 points out the huge relevance of P2P lending in the US, especially as far as consumer loans are concerned.  Figure 1. Volume ($ billion) of crowdfunding in the United States  To Consumers 7.60 76.3%  Reward-based 0.55 2.2% Donation 0.22 0.9%  2015  (total: 25.58 b$)  To Consumers 21.10 82.5%  Source75: (Ziegler, et al., 2017)  Figure 2 shows a much smaller but more diversified market for Europe, with a higher relative weight of equity crowdfunding, although P2P lending is the major branch as well, and it continues growing. Consumer loans take the lion’s share again, although business credit is relatively more relevant than in the US and it is growing more rapidly.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9312B61-929F-4F2C-943A-CDC706715C21">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode304E905F-A38E-4747-8086-05D3999409BF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF7F39063-5D6A-4820-B614-F63F5B6A116D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode304E905F-A38E-4747-8086-05D3999409BF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">25580000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode511E57AA-A6BB-49CB-8A46-542FFA346A80">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode304E905F-A38E-4747-8086-05D3999409BF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

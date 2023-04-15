@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374727" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6C730EBE-010A-4DBC-9007-6381B3EAC62F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Sudanese pounds</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">20000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4ED6349F-0E6A-4CC1-99E9-EBD881F65835">
-		<Aux:document_text xml:lang="en-US">• These indicators are from reports of joint teams, the Government, the United Nations, the World Health Organization, the United Nations Children's Fund and the World Food Programme. • Natural mortality rates are normal, at less than 0.8 per 10,000 per day, which is below the emergency threshold. • Prices are reasonable and stable. The price of a sack of grain is 20,000 Sudanese pounds, which is less than average and less than prices in industrial areas. Negative consequences of aid from abroad have begun to appear, since it has led to a decline in prices and changes in consumption patterns. • The percentage coverage by humanitarian aid to affected and displaced persons is 100 per cent.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode62ECA9DF-3EED-4D55-A669-79BA5F127C93">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6C730EBE-010A-4DBC-9007-6381B3EAC62F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode36260536-118E-4759-99EB-A4EC6BDEECF5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6C730EBE-010A-4DBC-9007-6381B3EAC62F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">20000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode169C432F-AC8A-4626-9D33-C460AC3233BC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">374</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6C730EBE-010A-4DBC-9007-6381B3EAC62F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Sudanese pounds</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

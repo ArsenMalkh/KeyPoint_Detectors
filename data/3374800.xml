@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374800" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE8AB0742-B722-44CD-AD0B-BD5A1EE9525F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">RUB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode3CA8BCED-6840-4087-AFCC-9ADEB0656981">
-		<Aux:document_text xml:lang="en-US">17 September 2010 18:16 Kemerovo OFAS Russia lawfully fined “Gazpromneft-Kuzbass” CJSC On 14th September 2010, the 7th Arbitration Appeal Court confirmed validity of a 10-million RUB administrative fine imposed by the Kemerovo Office of the Federal Antimonopoly Service (OFAS Russia) upon “Gazpromneft-Kuzbass” CJSC for yet another violation of the antimonopoly law. Earlier three court instances supported position of the antimonopoly body that actions of “Gazpromneft-Kuzbass” CJSC, “Barrel” Ltd. and “Kompania Tsentr” Ltd. were engaged in concerted actions for fixing the same prices for petrol and diesel fuel in Kemerovo.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF420B93A-702B-44CD-8A39-BAB0AC627C7B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE8AB0742-B722-44CD-AD0B-BD5A1EE9525F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDF1E50E7-4C9E-413D-BBFC-EA50BA79E4DD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE8AB0742-B722-44CD-AD0B-BD5A1EE9525F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA2A22D8F-7B97-4B30-BDFD-A5BD6B9FEAC0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE8AB0742-B722-44CD-AD0B-BD5A1EE9525F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">RUB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

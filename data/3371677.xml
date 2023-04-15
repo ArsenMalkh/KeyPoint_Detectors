@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371677" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC9BF8EFA-64CC-467D-801D-1ED5D8744860">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">69700</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7822626E-3E91-4414-B228-7BCB88B4A525">
-		<Aux:document_text xml:lang="en-US">On-Site Visits -2 visits per team average of 3.5 days per site (1 trainer per visit) Site Visit and Fidelity Report - 2 reports per team (32 hours per report) Initial Site Development Activities Costs: Total Training Days - 41 days x $1,700 per day..........................$69,700 Provider Telephone meetings and Webinars - 24 hours x $90/hour...........2,160 Site Visit Days - 84 days x $1,700 per day..............................142,800 Telephone and ODM reviews -1,440 hours x $90/hour.......................129,600 Record Reviews - 684 hours x $90/hour...................................61,560 Site Visit and Fidelity Reports - 768 hours x $90 hour..................69,120</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeFF6ACFC6-CD92-4974-8915-F6B2AE7B361C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC9BF8EFA-64CC-467D-801D-1ED5D8744860"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEE56BC40-AB9C-4C1C-8BC2-985645AF06EC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC9BF8EFA-64CC-467D-801D-1ED5D8744860"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0C098561-455F-4BAC-BBC5-C1A737C981DB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC9BF8EFA-64CC-467D-801D-1ED5D8744860"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">69700</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

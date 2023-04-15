@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372551" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode5184D8FB-B9AF-4330-A2B6-240F0B12F455">
-		<BasicEntity:ms_major_currency xml:lang="en-US">New Zealand dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2190000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode804FB083-84A8-4CCB-9BE9-1805ABF9EC51">
-		<Aux:document_text xml:lang="en-US">A Government-appointed Ministerial Reference Group established for the International Year of Volunteers was comprised of representatives of the community and voluntary sector and was responsible for promotion and coordination of the Year and for providing advice to Government on volunteer issues. New Zealand was one of three countries noted in the Secretary-General's report that increased funding to provide longer-term support to the voluntary sector as a result of the Year. Some 2.19 million New Zealand dollars were allocated to strengthen the infrastructure of volunteering organizations over three years. This contributed specifically towards the formation of Volunteering New Zealand; the creation of new voluntary centres, especially in rural and isolated areas; funding for volunteering within Maori, Pacific peoples and ethnic communities; and the expansion of Web-based volunteering resources.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode809F8374-DFF2-4AAC-B1D9-29D132B39E18">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5184D8FB-B9AF-4330-A2B6-240F0B12F455"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCD081642-25D3-42E4-8472-BEA39B04A26E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5184D8FB-B9AF-4330-A2B6-240F0B12F455"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2190000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0BAAECE9-1A54-412D-B8F2-E06658539FE3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5184D8FB-B9AF-4330-A2B6-240F0B12F455"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">New Zealand dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

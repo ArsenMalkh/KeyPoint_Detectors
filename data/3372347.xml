@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372347" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode550BA051-CCC3-4BA3-8E85-E657A7C90224">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Aus$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">30000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7671A152-8C01-4401-86A1-45C72AE46EA1">
-		<Aux:document_text xml:lang="en-US">First UNFCCC workshop on RED in developing countries is held in Rome, Italy. Participants discuss scientific issues as well as policy approaches. The Stern Review on the economics of climate change recommends that "avoided deforestation measures" should be included in global climate policy. Australia and Indonesia establish the Kalimantan Forests and Climate Partnership [76.3kB] initially funded with Aus$30 million from Australia, to develop and implement a large-scale REDD demonstration in central Kalimantan in Indonesia. REDD measures are officially recognised as potential nationally appropriate mitigation actions (NAMAs) that may be included in post-2012 climate policy at the UNFCCC talks in Bali, Indonesia. The agreed Bali Action Plan [101kB] includes: "Policy approaches and positive incentives on issues relating to reducing emissions from deforestation and forest degradation in developing countries; and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries."</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeE08F3225-DEE0-4987-A742-73690882536A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode550BA051-CCC3-4BA3-8E85-E657A7C90224"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE820C7E2-14A7-45BC-A54A-2E054EDBDD04">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode550BA051-CCC3-4BA3-8E85-E657A7C90224"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Aus$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCDC15D01-114C-4A9B-BDB1-CE41739D7290">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode550BA051-CCC3-4BA3-8E85-E657A7C90224"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">30000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

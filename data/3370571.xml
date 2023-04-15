@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370571" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD1A64F90-7D42-42B6-82DB-C3CC20FDFE05">
-		<BasicEntity:ms_major_currency xml:lang="en-US">EUR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">827</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode61442E4D-5026-460A-9A14-A374DE76AD65">
-		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">127</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeE4B80277-2D18-48A8-ADB6-9D122EB60AB2">
-		<Aux:document_text xml:lang="en-US">(transaction costs to be amortised over the term of the SFA, issue prices and fair value adjustments) Gross Debt composition as per 31 December 2011 Financial-term structure Interest rate exposure Floating 8% Fixed 92% Split by currency Short-term debt 217 Long-term debt 79% Interest rate management Split by source AUD 1% Other 6% Other 5% USD 127, EUR 827 Bond /EMTN 81% Debt certificates 9% Bank loans 14% Contents Page Overview and key figures Results by Group areas Financial report Outlook 2012 Economic environment has improved on global level Crash of Greece could be avoided; Italy and Spain able to refinance at lower rates</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode2E638E0E-398D-449D-81CB-896C117DAB83">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode61442E4D-5026-460A-9A14-A374DE76AD65"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode81D55A4F-1750-4B41-9F3A-7E2E0863ED1F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode61442E4D-5026-460A-9A14-A374DE76AD65"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4013FA54-EE50-4339-B96C-51C0419B621A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode61442E4D-5026-460A-9A14-A374DE76AD65"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">127</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode77BF71FA-24B0-46EA-B791-87F5F767273D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD1A64F90-7D42-42B6-82DB-C3CC20FDFE05"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDBEEFD18-ABAD-43EA-9026-47BAD403609C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD1A64F90-7D42-42B6-82DB-C3CC20FDFE05"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">EUR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode451B292F-873B-46DA-BB2C-2E04E8B15FCD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD1A64F90-7D42-42B6-82DB-C3CC20FDFE05"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">827</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373617" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7BAF23AA-D002-4832-9D0B-AFDFE646DDC6">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CZK</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">15000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeA4D937F6-2747-4C1F-BCCA-68D927F974BC">
-		<Aux:document_text xml:lang="en-US">Hušbauer joined Italian side Cagliari on loan in January 2015. However, he only played two matches under manager Gianfranco Zola, and played no further first-team matches after Zola was replaced by Zdeněk Zeman, subsequently cutting his loan period short and returning to Sparta. In the autumn part of the 2015–16 Czech First League, Hušbauer dropped out of the Sparta Prague first team starting eleven and played only two full matches out of 15. Slavia Prague Hušbauer signed for Sparta Prague's fierce rivals Slavia Prague in December 2015 for a reported fee of 15 million CZK. On 9 May 2018, he played as Slavia Prague won the 2017–18 Czech Cup final against Jablonec. In January 2020, Hušbauer joined 2. Bundesliga side Dynamo Dresden on loan until the end of the 2019–20 season. Dresden also secured an option to sign him permanently.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode2D63452C-05C2-44AA-9AD7-A1320CA1AC81">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">578</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7BAF23AA-D002-4832-9D0B-AFDFE646DDC6"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDBE40250-1F15-4B6A-8B7B-9FCB11E2B48B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">574</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7BAF23AA-D002-4832-9D0B-AFDFE646DDC6"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">15000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode727103E5-AE32-4E22-BFAD-6FFECE5C7BD4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">575</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">578</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7BAF23AA-D002-4832-9D0B-AFDFE646DDC6"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CZK</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

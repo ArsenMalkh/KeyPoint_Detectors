@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375500" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2F08861C-1410-4173-8430-9BFD5C8D5AE2">
-		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">325000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC1844E55-0E35-4550-B193-F194CB1BA043">
-		<BasicEntity:ms_major_currency xml:lang="en-US">IDR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">6058000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode549D3469-E0E2-4435-9E6F-74FDFFA6D23F">
-		<Aux:document_text xml:lang="en-US">(1) The following consolidated subsidiaries became our group company during the fiscal year that ended in March 2015. Name Address Capital Activities Voting rights held % Relationship with the Company Leasing of facilities and equipment Joint directors Persons Financial support Million yen Business relationship [Electronic components business] 6,058 million IDR Manufacture and sale of electronic components and equipment etc. 100.0 (Note 1) (99.8) 1 - - - KAGA ELECTRONICS INDONESIA, PT (Note 3) Jakarta Indonesia HUBEI KAGA ELECTRONICS CO.,LTD. (Note 5) Hubei Province, China 325 thousand USD Sale of electronic equipment etc.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode02F80DB3-62F3-4594-85A9-F281D4755995">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC1844E55-0E35-4550-B193-F194CB1BA043"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8E8C2488-A652-4FA1-8BCC-CF6861347479">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC1844E55-0E35-4550-B193-F194CB1BA043"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">6058000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB84F098A-1549-4AB9-9F07-FA85D88E0C99">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC1844E55-0E35-4550-B193-F194CB1BA043"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">IDR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode9F8D8CF4-39E1-4BB2-8562-BB57348AD714">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">580</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2F08861C-1410-4173-8430-9BFD5C8D5AE2"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode091808E9-DC15-48F0-861C-D3EDC7D564D6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">580</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">592</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2F08861C-1410-4173-8430-9BFD5C8D5AE2"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">325000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0DB1ABCB-7E73-4F20-8685-92D4C28C8A0D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">593</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2F08861C-1410-4173-8430-9BFD5C8D5AE2"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

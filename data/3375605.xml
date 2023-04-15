@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375605" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode71ABFB7D-2F10-422B-B8FF-1228E62EF0CF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Sudanese pounds</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">300</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeA1E374EC-E8EF-4F10-9314-197760EABE5E">
-		<Aux:document_text xml:lang="en-US">Police also tied their hands and legs behind their backs and accused them of being spies. They were released on 17 November. Members of a group of volunteer polio vaccination workers were given 20 lashes each by SPLM police in Regifi near Kurchi on 19 November, and made to pay 300 Sudanese pounds. They were accused of being spies. Administration of justice, arbitrary arrests and ill-treatment of detainees are causes for concern. Suspects are often detained for several days without appearing before traditional courts. For example, in Abyei, two women, aged 16 and 18, were arrested by Joint Integrated Units and a police officer for allegedly preventing the police officer from beating street children in Abyei market and did not receive any judgement for several days.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode276A849B-581D-474D-8B56-8C0456CE9B15">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode71ABFB7D-2F10-422B-B8FF-1228E62EF0CF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF64CB682-E6C2-410C-BB51-4EF57374A49A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode71ABFB7D-2F10-422B-B8FF-1228E62EF0CF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">300</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEE24F259-5A54-4A08-80BD-D66E3BCD2BAC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode71ABFB7D-2F10-422B-B8FF-1228E62EF0CF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Sudanese pounds</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

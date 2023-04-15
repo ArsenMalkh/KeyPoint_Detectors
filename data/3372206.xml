@@ -1,94 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372206" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode1943874D-F850-4CD6-8A0A-FD25AB96C3C5">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">16</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2F96495F-26F1-4E08-931D-1F57C2571C54">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Chinese yuan</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode03A1966F-0B22-4391-B34F-4380423FE33A">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Chinese yuan</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1470000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7B97BDA1-8194-4A52-9F7E-D02FB0B90FF1">
-		<Aux:document_text xml:lang="en-US">With these activities they were able to reduce natural gas consumption by 5% or 30,000m3 annually and saved 1,470,000 Chinese yuan*.  Also, the amount of water contained in sludge was reduced from 70% to 20%, and the cost of waste treatment was reduced by 100,000 Chinese yuan* annually.  *  1 yuan =16 yen (As of August 2013)        温水格に熱交換用パイプと温度制御装思を設屋  スラッジ乾澡装屋の再熱利用  TOPICS  Global Activities  NORTH AMERICA  DYNA-MIG  Received Award of Excellence from Stratford Festival Hydro</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode53BB4001-6DA7-4CE6-B419-5D8D8CB713A8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode03A1966F-0B22-4391-B34F-4380423FE33A"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4A769CC2-F585-4EB6-A4F4-EA1DDE0AD69A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode03A1966F-0B22-4391-B34F-4380423FE33A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1470000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDC61668A-0F28-4F93-BF82-2194809BF488">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode03A1966F-0B22-4391-B34F-4380423FE33A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Chinese yuan</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode69BB2F61-98AB-4E89-9D18-F392F5BEAF54">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2F96495F-26F1-4E08-931D-1F57C2571C54"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDA6841AD-9408-44A4-91E9-9FE4F189FEEE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2F96495F-26F1-4E08-931D-1F57C2571C54"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8B32C7E2-661E-47B3-BF01-6BE012336F26">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2F96495F-26F1-4E08-931D-1F57C2571C54"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Chinese yuan</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode2DAA4D0B-D2A6-4132-8098-2BCD447A3DDB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1943874D-F850-4CD6-8A0A-FD25AB96C3C5"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode40EC9B5A-EFD9-48F1-B5F1-E36919316C2C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1943874D-F850-4CD6-8A0A-FD25AB96C3C5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">16</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDADB71BA-A70E-4751-AED1-752A95AB39A1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1943874D-F850-4CD6-8A0A-FD25AB96C3C5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

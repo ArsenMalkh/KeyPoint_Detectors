@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370241" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode52F73913-52E6-49ED-896B-91489046996F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">EUR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">54500000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeDEEE945F-0982-4B0B-B095-D97860B6C97C">
-		<Aux:document_text xml:lang="en-US">The Commission announced the creation of the European Institute on Gender Equality even before Parliament had delivered its report on the subject. Procedurally speaking, that is the wrong way to go about it. We are voting on it today, and Parliament’s voice carries weight in this matter. The intention is that an Institute should be created, with a budget of EUR 54.5 million, with the specific function of monitoring men’s and women’s equality of opportunity by producing statistics and reports. This House has, however, for practical and financial reasons, and as recently as last year, recommended that the Institute for Gender Equality should form part of the European Human Rights Agency.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode66D3EAF0-978A-47DD-AD70-E4475CB1E0F9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode52F73913-52E6-49ED-896B-91489046996F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCF29A3E3-83BA-4F96-A8D1-AF8901568371">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode52F73913-52E6-49ED-896B-91489046996F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">EUR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC958CAE6-3739-47BE-889B-85FD60A7E220">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode52F73913-52E6-49ED-896B-91489046996F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">54500000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

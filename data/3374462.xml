@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374462" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode39E4D532-4EFE-4AFF-AA9E-31B2574D6437">
-		<BasicEntity:ms_major_currency xml:lang="en-US">baht</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1300000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode82932441-4414-4BD9-983C-6C2BC967DB90">
-		<Aux:document_text xml:lang="en-US">Ichitan Company is a Thai beverage company that manufactures green tea drinks, herbal drinks, fruit drinks, and energy drinks. Ichitan company has received many awards and standards such as Bureau of Laboratory Quality Standards, Food Safety System Certification 22000, and Standards ISO 9001:2008 History Ichitan company was founded by Tan Passakornatee who was the original founder of Oishi Group. Ichitan company incorporated the company on the third of September 2010. Later, the company registered capital for 1,300 million baht and a paid up capital of 1,300 million baht into ordinary shares on December 31, 2015. On August 27, 2014 Ichitan company, Mitsubishi Corporation and PT Sigmantara Alfindo have entered into a joint venture which aims to produce and sell Ichitan drinks in Indonesia. Products Ichitan Greentea is the main seller of Ichitan company which consists of 7 flavors: Original, Honey Lemon, Genmaicha, Chrysanthemum, Lychee, Sugar Free, and Oolong Sugar Free. Ichitan Greentea also includes 4 packages: 420 ml, 600 ml, 840 ml, and UHT 300 ml. All Ichitan's tea is made with organic tea plants.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5D35C317-7703-4C3E-BCE3-E8A7B7B15F42">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">533</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode39E4D532-4EFE-4AFF-AA9E-31B2574D6437"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode98803F72-F4EC-46CE-8017-07D958482281">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode39E4D532-4EFE-4AFF-AA9E-31B2574D6437"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1300000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA9905DA2-E7CF-48E1-A39E-95F4AC149B17">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">529</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">533</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode39E4D532-4EFE-4AFF-AA9E-31B2574D6437"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">baht</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

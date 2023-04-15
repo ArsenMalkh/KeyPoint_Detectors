@@ -1,123 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372645" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6151C989-BA7D-49F7-B148-E03C5FE9A43D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode0EC0A92F-AD25-46E6-8C38-5DE077157537">
-		<BasicEntity:ms_major_currency xml:lang="en-US">VND</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1006000000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD0E1CFD5-FDE6-4D8D-9638-EAE71399EAD8">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">170000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF7728470-C438-476B-86EB-55C28B907025">
-		<BasicEntity:ms_major_currency xml:lang="en-US">VND</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">34190000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode0D7820F0-2002-4816-B50B-EFA45DC6A981">
-		<Aux:document_text xml:lang="en-US">(1) Name Joint Stock Commercial Bank for Investment and Development of Vietnam (2) Location BIDV Tower, 35 Hang Voi Street, Hoan Kiem, Ha Noi (3) Representative Phan Duc Tu (Chief Executive Officer) (4) Year of establishment 1957 (5) Capital stock VND 34.19 trillion (approx. JPY 170 billion) (6) Total assets VND 1,006 trillion (approx. JPY 5 trillion) (7) Main business Banking business in Vietnam (8) Remarks BIDV was established in 1957 as a government related financial institution and later reorganized as a commercial bank. BIDV is one of the top four leading commercial banks in Vietnam. BIDV was listed in December 2011, with approx. 95% of its shares held by the Vietnamese government.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode13030366-E13A-4812-AAC9-45659E6CE7C0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF7728470-C438-476B-86EB-55C28B907025"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode34F53B7B-6CC7-42EC-AC54-3F57B0ECD07C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF7728470-C438-476B-86EB-55C28B907025"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">VND</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6D56F524-4EE6-474F-B1EA-CA22CF0E3346">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF7728470-C438-476B-86EB-55C28B907025"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">34190000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7BD9C22E-FAAB-4973-8566-8C11558AB208">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD0E1CFD5-FDE6-4D8D-9638-EAE71399EAD8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF35C46F4-2536-412E-B6A5-E850B17B2A9E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD0E1CFD5-FDE6-4D8D-9638-EAE71399EAD8"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4953206B-96D0-4B58-ADFB-5490E9EC24A2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD0E1CFD5-FDE6-4D8D-9638-EAE71399EAD8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">170000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9B4072FA-58D4-4397-9D7E-B6C24900A5B3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0EC0A92F-AD25-46E6-8C38-5DE077157537"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">VND</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5BE58C95-B059-4AEA-ACF6-BBF296B52406">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0EC0A92F-AD25-46E6-8C38-5DE077157537"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBEE61B59-FAB9-4AF8-B998-6DE5C3D54C92">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0EC0A92F-AD25-46E6-8C38-5DE077157537"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1006000000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode97FFF7D8-E924-45D4-AF23-82F8DFA38EB4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">352</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6151C989-BA7D-49F7-B148-E03C5FE9A43D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4468A4F2-05DC-4D7E-92C9-2A8D16D4AEB2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6151C989-BA7D-49F7-B148-E03C5FE9A43D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0BC8DA1F-1A5D-4CB8-B9A4-6030F04A0309">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">352</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6151C989-BA7D-49F7-B148-E03C5FE9A43D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5000000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

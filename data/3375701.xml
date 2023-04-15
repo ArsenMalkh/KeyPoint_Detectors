@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375701" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF2A8B6C0-9685-4B30-96EE-7039AB373855">
-		<BasicEntity:ms_major_currency xml:lang="en-US">dirhams</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeCCBB33E5-89E0-4CF0-83F9-C00A5D93305D">
-		<Aux:document_text xml:lang="en-US">Amount to be invested HT Number of tourism beds Number of property units for sale Number of direct jobs Delivery timeframe:  o Provisional opening at end-2015 for the Noria Oasis in Marrakech o Provisional opening in 2016 for Saïdia and Taghazout  4 billion dirhams 7,200  920 apartments and homes 900 jobs  About Caisse de Dépôt et de Gestion (CDG)  Caisse de Dépôt et de Gestion du Maroc (CDG) is a Moroccan financial institution, created in 1959 as a state-owned company. Over the years, the CDG has become a major player in the national economy accompanying government development policies. Its main mission is to contribute to mobilising long-term savings and monitoring their allocation to useful employment for the economic development of Morocco. In its mission for collective utility, Caisse de Dépôt et de Gestion is a major player in the pensions sector, a key figure in the consolidation of the banking and finance sector and a benchmark operator in land development in the Kingdom of Morocco.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1CDAC39-349F-4F3A-925D-BD3D65AEFCCC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF2A8B6C0-9685-4B30-96EE-7039AB373855"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode93C9C164-5A10-4CEA-AC72-0C3BC93C781F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF2A8B6C0-9685-4B30-96EE-7039AB373855"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1D1A6716-BCDD-4A29-B86E-64EA8DA4C676">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF2A8B6C0-9685-4B30-96EE-7039AB373855"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">dirhams</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

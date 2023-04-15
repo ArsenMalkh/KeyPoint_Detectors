@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370118" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode0FD35064-E562-40B4-90E2-3155448BA8A2">
-		<BasicEntity:ms_major_currency xml:lang="en-US">renminbi</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">51000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1F1525D7-4611-4A0F-88CE-3027BA37F947">
-		<Aux:document_text xml:lang="en-US">Wang’s team conducted a randomized controlled trial that showed that depression screening – to find workers who could benefit from treatment – was cost-effective, reducing health insurance costs to employers, decreasing absence due to sickness, and increasing job retention and productivity. Depression is also costly in developing countries. In China, according to a recent article by Teh-wei Hu and colleagues in Social Psychiatry and Psychiatric Epidemiology , depression costs 51 billion renminbi, or more than $6 billion, per year at 2002 prices. A few years ago, a research team led by Vikram Patel reported in the British Medical Journal that depression is common in Zimbabwe, where it was often known by a Shona word that means “thinking too much.”</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode7DBF29A5-B869-4653-9612-BB9C7CE09942">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">481</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0FD35064-E562-40B4-90E2-3155448BA8A2"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9D2A2B79-F74C-4A16-9DBC-80F9A9FBE617">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">481</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">491</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0FD35064-E562-40B4-90E2-3155448BA8A2"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">51000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB9A745E7-889E-4204-B44A-0ABB89E16FCD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0FD35064-E562-40B4-90E2-3155448BA8A2"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">renminbi</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

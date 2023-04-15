@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370742" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode133B455C-7955-4269-8581-C6296BD9C004">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Spanish pesetas</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode92A7D0B8-53E4-424D-9609-EDE5D2B15A0B">
-		<Aux:document_text xml:lang="en-US">If, however, for the sake of comparability, the tax refunds to households, which were deferred from the final quarter of 1989 to the first quarter of 1990, are discounted, the deficit would be smaller as a percentage of GDP Financial Accounts - Spain 1990 million Spanish pesetas Credit institutions and insurance enterprises Total Nonfinancial corporate and quasicorporate enterprises Non-profit institutions and households Central banking Other monetary Insurance authorities and credit enterprises institutions National economy vis-à-vis Uw rest of the world Currency and transferable sight deposits 0 Other deposits</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4863B193-819B-449D-8F63-1C7E20375F46">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode133B455C-7955-4269-8581-C6296BD9C004"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC588E96E-0F0B-418B-94ED-B6A461321BE6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode133B455C-7955-4269-8581-C6296BD9C004"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode067687EA-DEAD-4919-83BD-6F9E242546E9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode133B455C-7955-4269-8581-C6296BD9C004"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Spanish pesetas</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

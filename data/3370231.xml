@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370231" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeED32829D-113C-4A82-AD8E-09D916D4936E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">escudos</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6D0B559D-9727-46CD-8556-5A142660E36E">
-		<Aux:document_text xml:lang="en-US">I declare that the Portuguese socialists in the European Parliament voted for Amendment No 13 calling for the setting of Objective 7 in the Structural Funds to introduce co-participation and financial assistance for the replacement of water mains systems and distribution networks, a vital process for reducing the lead content of drinking-water and whose overall costs are enormous: one year's Community budget at European level, 200 billion escudos in Portugal's case.  This amendment was rejected by the House (by 189 votes to 179) and the PPE members all voted against , something we must emphasize. In the framework of the work carried out on this directive, we now await the initiatives of the Commission and the discussions in Council so that this error can be rectified.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode770022E0-F274-44BB-AE8C-C2A8B26BD2AC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeED32829D-113C-4A82-AD8E-09D916D4936E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDC6927A4-E85E-4AA7-9073-88E1720E6013">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeED32829D-113C-4A82-AD8E-09D916D4936E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF4AD3BC1-0206-4CB5-9F01-6B1958A5990E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeED32829D-113C-4A82-AD8E-09D916D4936E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">escudos</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

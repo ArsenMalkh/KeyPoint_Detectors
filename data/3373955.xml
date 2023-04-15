@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373955" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD77A7966-A926-4456-850F-69F77CD63771">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HUF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1162500</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4ADC9278-DD4D-4184-884D-A27C6FBFED4E">
-		<Aux:document_text xml:lang="en-US">Teachers at the school are generally recommended and appointed by the German Ministry for Education (Kultusministerkonferenz) and have to be confirmed by the school. The positions are highly competitive and are based on three year contracts with the possibility of extension. Unfortunately not many teacher stay the full 3 year term. For 2019 as example about 25% of teachers left the school. In some cases, especially for subjects taught in Hungarian, the school hires teachers directly from Hungary. Several years of experience at a highly reputable Hungarian secondary school is a minimum requirement. Tuition Tuition for the 2016-2017 school year is 1,162,500 HUF excluding additional fees for registration, materials, extracurriculars, lunch, class trips, excursions, and transportation. This makes the DSB one of the most expensive private schools in the country. Student body The school prides itself on its diversity, serving students from a wide range of cultural, ethnic and racial backgrounds. Albeit smaller than most other international schools in Budapest, it is proportionally more diverse and more focused on a cosmopolitan education with especially Grades 9-12 serving as examples of cross-cultural communication and understanding.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode17C9F64E-5101-49FE-BEA2-5341654272DD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">654</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">667</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD77A7966-A926-4456-850F-69F77CD63771"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8DAB728E-68CA-450C-ADBB-B53F1F8C4BCA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">654</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">663</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD77A7966-A926-4456-850F-69F77CD63771"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1162500</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCE70357F-1B69-475B-AD9F-91D571700525">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">664</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">667</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD77A7966-A926-4456-850F-69F77CD63771"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HUF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

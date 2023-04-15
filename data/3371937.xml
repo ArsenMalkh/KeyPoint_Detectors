@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371937" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD510FF0F-6AC8-4B7A-9D7B-37D10C749BA4">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Nigerian naira</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">162.9</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7273F2CA-C8E3-4C63-89B9-F91E6D714257">
-		<Aux:document_text xml:lang="en-US">In Abuja, UPDC has started its 228-unit 'Metro City', which consists of well-designed blocks with balconies built in palm-fringed private compounds. Privately owned Churchgate Group is building its ambitious $1 billion World Trade Centre, a series of skyscrapers housing offices, flats and upscale shops. "Nigeria is a huge real estate opportunity," said Ejekam at Actis. "The story is getting out, slowly." ($1 = 162.9 Nigerian naira) (Writing by Joe Brock; Editing by Giles Elgood )</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode42665921-F23A-4ADB-9DE3-71833DAB4E2E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">434</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD510FF0F-6AC8-4B7A-9D7B-37D10C749BA4"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE24DEB8A-4669-40A3-926C-102E1AC75B9D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD510FF0F-6AC8-4B7A-9D7B-37D10C749BA4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">162.9</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFAAFC5B9-B7A5-42E7-92F1-EDC0E9FD69C2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">434</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD510FF0F-6AC8-4B7A-9D7B-37D10C749BA4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Nigerian naira</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

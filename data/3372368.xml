@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372368" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB8095400-A1C9-49B3-818D-5F36524BEC75">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Korean Won</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode89C188A2-7235-421D-99D5-2A79057F0D0F">
-		<Aux:document_text xml:lang="en-US">As a result, the amount of subsidy for Hyundai Steel Company was based on the benefits received under the following actionable subsidy program: Program 32: Customs Duties Exempted. [180] The total amount of subsidy for Hyundai Steel Company is equal to 100 Korean Won (KRW) per MT, or 0.0%[32], when expressed as a percentage of the export price. [181] Hyundai Corporation provided a response to the subsidy RFI that was considered to be complete. Hyundai Corporation was sent one SRFI to gather additional information.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF8F7117F-D5BA-49C8-A735-03457790091B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB8095400-A1C9-49B3-818D-5F36524BEC75"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4DE76910-84A3-4E56-B140-C2ED9DB23BE4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB8095400-A1C9-49B3-818D-5F36524BEC75"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA09FB357-7BDA-4A42-9A4C-F21B2FEF6566">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB8095400-A1C9-49B3-818D-5F36524BEC75"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Korean Won</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

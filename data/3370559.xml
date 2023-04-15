@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370559" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode40F3942B-4FF8-4274-BBF0-6562ED4627C7">
-		<BasicEntity:ms_major_currency xml:lang="en-US">XPF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2347F8C7-E24E-4B8E-81F3-72ADE9EB8ECF">
-		<Aux:document_text xml:lang="en-US">Restaurant, Bar, 24-hour front desk, Newspapers, Non-smoking rooms, Rooms/facilities for disabled guests, Lift/elevator, Express check-in/check-out, Safety deposit box, Heating, Luggage storage, Allergy-free room available, Air conditioning, Designated smoking area, Restaurant (à la carte) Restaurant, Bar, Garden, Non-smoking rooms, Luggage storage, Air conditioning, Private beach area, Sun terrace One older child or adult is charged XPF 2000 per person per night in an extra bed. Room service, Business centre, Babysitting/child services, Laundry, Breakfast in the room, Ironing service, Fax/photocopying Laundry, Ironing service, Packed lunches, Tour desk, Special diet menus (on request), Water sports facilities on site, Airport shuttle (surcharge)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeFABB7F5B-C7AC-4B44-8CD6-77556C1629A0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">438</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode40F3942B-4FF8-4274-BBF0-6562ED4627C7"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode312FD50D-D7A3-4E13-94F6-913D458293DE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">438</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode40F3942B-4FF8-4274-BBF0-6562ED4627C7"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">XPF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD9C4A9E0-284C-4C0E-A445-93DBC7D7EB5C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode40F3942B-4FF8-4274-BBF0-6562ED4627C7"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

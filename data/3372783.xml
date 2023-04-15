@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372783" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode14A44B91-DBA4-4549-A9E6-7341B50E0FEB">
-		<BasicEntity:ms_major_currency xml:lang="en-US">MZN</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">20000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2598189C-5394-406F-977D-42BE574A1130">
-		<BasicEntity:ms_major_currency xml:lang="en-US">XAF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6EB925B5-0EF4-46CC-967E-3927E40E87E4">
-		<Aux:document_text xml:lang="en-US">This wholly-owned subsidiary of our Group (capital: XAF 1 million), headquartered in Bamako (Mali) was created in 2013 to support the development of mining operations in this country. Our activities continued to grow in relation to 2014, accompanied by an improvement in margins.  CIS NACALA  This company (capital: MZN 20,000) created in 2013 with its registered office in Nacala (Mozambique) is a 80%-owned subsidiary of our Group with the balance of shares held by a local partner.    &gt; Financial report  This subsidiary experienced a decrease in activity reflecting the planned personnel scale-back of our customer, the Brazilian mining group, Valé.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeBC47BEB6-74ED-4873-912F-25EDB0AF2982">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2598189C-5394-406F-977D-42BE574A1130"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC4012843-6093-4BBF-8200-A16BF4963344">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2598189C-5394-406F-977D-42BE574A1130"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">XAF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA17319F6-70A8-4DAD-A61C-E9EF6430F611">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2598189C-5394-406F-977D-42BE574A1130"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0FF5F996-1DD7-4CBA-A535-CFB04CFCEE45">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode14A44B91-DBA4-4549-A9E6-7341B50E0FEB"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5E3B6B85-F712-4341-95CD-F09F3B323EEC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode14A44B91-DBA4-4549-A9E6-7341B50E0FEB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">MZN</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA1081520-E4C1-45D6-9B39-8F4075E949F6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode14A44B91-DBA4-4549-A9E6-7341B50E0FEB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">20000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

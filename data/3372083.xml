@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372083" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA7339AEC-2EBE-463B-9D95-EEC5143BCB87">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD7F3A4F9-2E98-4765-BDA6-3769AB9C9C7C">
-		<Aux:document_text xml:lang="en-US">Most islands are served by regular passenger ferries, although sailings and timetables are highly weather-dependent, especially from May to October. One of the largest operators is Tigerline Travel, which runs to islands including Koh Lanta, Koh Tarutao, Koh Phi-Phi, Koh Kradan and Phuket (tigerlinetravel.com). Tuk-tuks are the easiest way to explore on dry land, although scooters and bicycles can usually be hired. VISA You can get a Thai visa on arrival at Bangkok's Suvarnabhumi Airport for THB 1,000 (about ' 1,890). Visit the embassy website for more information (thaiemb.org.in). EMBASSY ALERT Traditional longtail boats lined up at Laem Tong Beach Budget STAY BARGAIN^ Despite bargain prices, the Merrison Inn offers plenty of style - polished floors, flatscreen TVs and cosy Thai-themed interiors.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode278B75D7-A62C-4EB8-92E7-C2AF42EE0806">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA7339AEC-2EBE-463B-9D95-EEC5143BCB87"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6F57C40C-3DFF-42CD-A52E-19D000F16F2B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA7339AEC-2EBE-463B-9D95-EEC5143BCB87"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC84838ED-E9C3-4C13-B73B-3F60041956E4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">501</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA7339AEC-2EBE-463B-9D95-EEC5143BCB87"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

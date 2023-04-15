@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371513" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD20B48C3-D76F-4699-8B13-4E9AB83DEBDB">
-		<BasicEntity:ms_major_currency xml:lang="en-US">South Sudanese pounds</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode44818A15-EF79-405E-AA1F-ED49F562D7CE">
-		<Aux:document_text xml:lang="en-US">Peter Biar is an even greater advocate for reading, a passion he traces back to stumbling across a quote by Cicero – “A room without books is like a body without a soul.” Biar, like many young men in South Sudan, was a child soldier “educated in the struggle”. Now he treasures every book he owns. Leaves has more male customers than female, a reflection of the fact that only 16% of women can read and write, and even fewer have the kind of income which allow them to buy books, which can cost over 100 South Sudanese pounds, around £13. In December 2013, civil war broke out once again in South Sudan. Thousands have been killed and nearly two million displaced. This makes Leaves even more relevant, the bookshop’s manager, Yohanis Riek, believes. Speaking to a local radio station, he says that “now more than ever we need books. Self development is key to resolving the South Sudan crisis.” The fighting, largely carried out by young, illiterate soldiers, has also pushed South Sudanese citizens from every walk of life to consider what sort of state they wish to live in.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5F744599-62B8-4054-8AC2-05E9B7FAAD04">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">525</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD20B48C3-D76F-4699-8B13-4E9AB83DEBDB"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB9778E4D-640A-4D93-ABEE-073A9B6A9DBC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD20B48C3-D76F-4699-8B13-4E9AB83DEBDB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0E408183-B0CE-49B1-A1EF-56452A4A9917">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">525</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD20B48C3-D76F-4699-8B13-4E9AB83DEBDB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">South Sudanese pounds</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

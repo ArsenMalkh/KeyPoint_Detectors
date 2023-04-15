@@ -1,123 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375488" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7725A58D-FDE7-4F13-8444-1DAFAD9D0D24">
-		<BasicEntity:ms_major_currency xml:lang="en-US">AUD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">38154000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode8622EC5A-2902-4EBC-9A1F-602305A63960">
-		<BasicEntity:ms_major_currency xml:lang="en-US">AUD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1413197000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode9C0530B8-15BE-4EA2-AB80-E1498F46700C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">AUD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">182272000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF903FA38-E92E-4301-BFAE-9F5EF577D3F3">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Euros</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">891000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeC5646E0E-58DB-424A-8617-710503C0EFCE">
-		<Aux:document_text xml:lang="en-US">Company Name: Treatwell Holdings B.V.  Company Representative: Laurens Hendrikus Groenendijk  Paid-in Capital: 891 thousand Euros Establishment: November 2012  Major Acquisitions in 2015 (Staffing)  Chandler Macleod  Company Name: Chandler Macleod Group Limited  Company Representative: Michelle Loader  Paid-in Capital:182,272 thousand AUD Establishment: June 1,1959  Chandler Macleod Group Limited is a comprehensive staffing services provider and reported consolidated net sales of 1,413,197 thousand AUD and EBITDA of 38,154 thousand AUD for its fiscal year ended June 2014. Established in 1959, Chandler Macleod has been in business for over 50 years and ranks second by market share in Australia. Chandler Macleod responds to all manner of staffing needs, but specializes in administrative and light-duty work. In addition to Australia, Chandler Macleod has operations in China, Singapore, Indonesia, New Zealand, the U.K., Ireland and other countries.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDDD0D93B-0249-416A-A18B-200FCFAC3CC6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF903FA38-E92E-4301-BFAE-9F5EF577D3F3"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC8EA9F6E-C19D-46B9-BFE1-9734D6352D1D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF903FA38-E92E-4301-BFAE-9F5EF577D3F3"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">891000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode97F6EDBD-5F2E-43FE-956A-E183DB5B036C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF903FA38-E92E-4301-BFAE-9F5EF577D3F3"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Euros</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE42A5628-6E7A-404B-B6DE-1DA54AFA9BDB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9C0530B8-15BE-4EA2-AB80-E1498F46700C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">182272000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeE71B66B7-F936-4B63-878C-A771E7AE6FD8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9C0530B8-15BE-4EA2-AB80-E1498F46700C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC327572F-6B6D-4F54-83B2-ADF0B3E637EA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9C0530B8-15BE-4EA2-AB80-E1498F46700C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">AUD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDCF74537-2059-4C37-96B8-7D4496FF56DA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8622EC5A-2902-4EBC-9A1F-602305A63960"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1413197000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeB7999A65-D048-4A49-88F2-4553139AFF0E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8622EC5A-2902-4EBC-9A1F-602305A63960"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode307F11BD-5C14-49BD-97CF-C2AC78C2A317">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8622EC5A-2902-4EBC-9A1F-602305A63960"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">AUD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode3BE74805-EC82-4853-873F-CA3384A345FC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">541</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7725A58D-FDE7-4F13-8444-1DAFAD9D0D24"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC6F0F3AC-87B1-492C-874F-669530FDF24D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">537</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7725A58D-FDE7-4F13-8444-1DAFAD9D0D24"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">38154000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD16DD7E8-BB1A-4FD5-B7A4-77883558462B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">541</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7725A58D-FDE7-4F13-8444-1DAFAD9D0D24"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">AUD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370111" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode8654CE4E-4397-4562-AF55-7F9EB4E492ED">
-		<BasicEntity:ms_major_currency xml:lang="en-US">dinars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">336</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6C88DBEC-2451-47FB-BACA-F58704B67C9D">
-		<Aux:document_text xml:lang="en-US">As a result, the percentage of our citizens who live on less than $1 a day now stands at zero; thus, none of our citizens suffer from hunger.  Bahrain is also working to eliminate relative poverty.  According to the most recent data, the average monthly income of a family of five is now 336 dinars, or approximately $1,000.  In Bahrain, joint efforts are being made by the public and private sectors to implement poverty reduction programmes and projects as a shared responsibility of society.  One such project, launched in 1972, provides subsidies to 1,095 needy families with a total of 20,960 members as of 2005.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode6EFB978F-F20D-4BB3-96CF-CDBB01C0E551">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8654CE4E-4397-4562-AF55-7F9EB4E492ED"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6B911722-E308-4778-85AA-FB3E106B0D32">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8654CE4E-4397-4562-AF55-7F9EB4E492ED"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">336</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC1B5BDB1-13BB-4C84-A70D-A315B87D8FF1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8654CE4E-4397-4562-AF55-7F9EB4E492ED"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">dinars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

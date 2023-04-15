@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371671" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD95BE838-1E2C-4C5E-B615-0FF1E518A545">
-		<BasicEntity:ms_major_currency xml:lang="en-US">US Dollar</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">109892.25</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeF600A9FC-7514-49A5-8DE2-8ECCE08BBF7E">
-		<Aux:document_text xml:lang="en-US">Contract option Anniversary Primary contact name Phone Pax Email 0000040346 7102985 7843396 Passport Advantage Government GOVERNMENT July Sandy Jones 3172340246 sejoneseiot.in.gov Customer Quote SQO reference Relationship SVP level Quote value Currency Quote start date Quote expiration date 0001217940 GV 109,892.25 US Dollar 04-May-20io 30-Jun-2010 Any and all prices herein are suggested prices only and are subject to change at IBM's sole discretion- Products listed herein are subject to withdrawal or modification by IBM at any time at IBM’s sole discretion. Quote details Part Part</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeFAD5C73B-4B08-46CD-B973-769F2829139A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD95BE838-1E2C-4C5E-B615-0FF1E518A545"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3D5066FB-9E8C-4FBC-BC15-24DE9AA52CAE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD95BE838-1E2C-4C5E-B615-0FF1E518A545"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">109892.25</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDFCC82D5-032A-4E11-93AF-4E9875726D49">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD95BE838-1E2C-4C5E-B615-0FF1E518A545"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">US Dollar</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

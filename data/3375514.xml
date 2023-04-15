@@ -1,152 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375514" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC67308B9-1ECA-4C60-B332-D17B5A7D48A4">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">7</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA66C81A9-0A5B-44B3-9D42-27C05D6606EC">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">3.5</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode56629DC8-2369-4E28-B5B6-F303782D4910">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">3.5</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode02AB4138-EDCA-4C2A-A78F-77AA61139393">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">612565000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEE8DF9C2-39FB-438F-9177-E1C146A9171E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">653991000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD91F0DED-4585-4DD0-800E-6ABFAD273201">
-		<Aux:document_text xml:lang="en-US">&lt;Reference&gt; Net worth As of Dec. 31, 2009: 653,991 million yen As of Mar. 31, 2009: 612,565 million yen 2. Dividends  Dividends per share (Record date) June 30 September 30 December 31 March 31 Annual Year ended March 31,2009 yen - yen 3.50 yen - yen 3.50 yen 7.00 YearendingMarch31,2010 - 3.50 -  7.00 YearendingMarch31,2010 (Forecast)  3.50 (Note) Modification to dividend forecast: No modification 3. Forecast of Consolidated Results for the Year Ending March 31, 2010 (April 1, 2009 - March 31, 2010) (Percentages (%) represent forecasted changes from the previous year.)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode6F92A18C-FEB6-48EC-96EB-75DB14E1DD5C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEE8DF9C2-39FB-438F-9177-E1C146A9171E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEDE9F854-A009-4FC4-9778-EBAAB7FFB3F9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEE8DF9C2-39FB-438F-9177-E1C146A9171E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">653991000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1C9766EB-E81B-4001-8D6F-B0BEB64D86EC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEE8DF9C2-39FB-438F-9177-E1C146A9171E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode69211EF2-C8D9-45AF-9BD0-F417D5B5273F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode02AB4138-EDCA-4C2A-A78F-77AA61139393"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">612565000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode290833EC-49E9-47D0-8E5A-8CFAB9103702">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode02AB4138-EDCA-4C2A-A78F-77AA61139393"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0378418F-967A-40FA-A052-B5DC14D5F24C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode02AB4138-EDCA-4C2A-A78F-77AA61139393"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFCFE27A3-F6F1-42D2-8FE3-C4D78EE39E56">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode56629DC8-2369-4E28-B5B6-F303782D4910"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0D602A05-CFF3-4240-8F29-8172A34E6227">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode56629DC8-2369-4E28-B5B6-F303782D4910"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD3C3EBED-CC73-49A4-91B9-EB21056842AC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode56629DC8-2369-4E28-B5B6-F303782D4910"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">3.5</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4371A33D-F59F-4ABE-8A6A-17A9C8AE7735">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA66C81A9-0A5B-44B3-9D42-27C05D6606EC"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5BB6ED9D-1FC1-4FB3-9909-424217A1E233">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA66C81A9-0A5B-44B3-9D42-27C05D6606EC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode19CDCD42-CFA7-49A1-94AA-A04CF98B3133">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA66C81A9-0A5B-44B3-9D42-27C05D6606EC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">3.5</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode654B3346-515F-4664-99F0-79175C08EC11">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC67308B9-1ECA-4C60-B332-D17B5A7D48A4"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5C553BA6-D67A-4462-84AF-57BE21C097AB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC67308B9-1ECA-4C60-B332-D17B5A7D48A4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE5965AF2-9112-4B84-9BAF-9B0057F5A5D7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC67308B9-1ECA-4C60-B332-D17B5A7D48A4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">7</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

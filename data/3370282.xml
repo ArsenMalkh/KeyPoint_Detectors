@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370282" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDABE6006-0125-4908-B28A-31272F3CB855">
-		<BasicEntity:ms_major_currency xml:lang="en-US">GBP</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">45000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode770849E8-18CD-4660-B93B-89417A90A5ED">
-		<Aux:document_text xml:lang="en-US">on behalf of the EFD Group. - Madam President, I had the pleasure a few weeks ago of meeting some of the UK returning forces from Afghanistan and I heard the same story over and over again that they were ill-equipped. Yet the UK pays GBP 45 million a day into this corrupt institution. Some of that money could be better spent in arming our forces in Afghanistan, forces that actually train the Afghan police force, etc. It is quite right, as some of you have said; this is an important area in the world and an important area that we may need to make progress in.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8F469296-53F0-4122-9788-EE6E244BC1A1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDABE6006-0125-4908-B28A-31272F3CB855"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA6030BA0-BB9E-4399-9867-79DB2EE0F7F9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDABE6006-0125-4908-B28A-31272F3CB855"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">GBP</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode680B5D95-23F8-4571-B092-9AAD8BFE883E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDABE6006-0125-4908-B28A-31272F3CB855"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">45000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

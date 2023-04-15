@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376130" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCD30D1C4-520E-4779-8B76-3CE041FD7F36">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HUF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2975</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode0C0C13D9-84B5-4294-9117-99D2526AF709">
-		<Aux:document_text xml:lang="en-US">The e-vignette user charge system applies to motorcycles, passenger cars and their trailers, as well as cargo vehicles with a maximum permissible gross weight of 3.5 tonnes, campers and buses, and their trailers. These vehicles are authorized to use the Hungarian toll speedway network's roads exclusively with pre-purchased –purchased prior to entering a toll speedway section– road use authorization, i.e. e-vignettes. The amount of toll charges depends on the category of the vehicle and the type of the e-vignette. The category of the motor vehicles must be determined according to the official entry that appears in the vehicle registration certificate, based on the maximum permissible gross weight of the motor vehicle and the number of persons it is allowed to transport. Hungarian system has 2 main type in terms of salary. 1, time-based fee vignettes (E-matrica) with a validity of either 10 days (2975 HUF), 1 month (4780 HUF) or 1 year (42980 HUF). The following motorway sections are toll-free for cars up to 3.5 t: the following sections of the M0 expressway: - 63 km the section between Main Road 1 (exit -1) and the M5 motorway (exit 32), the section between M4 expressway (exit 41) and M3 motorway (exit 68),</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeEE0A589D-160B-4B9A-9FDE-FF7755F911BF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">908</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">916</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCD30D1C4-520E-4779-8B76-3CE041FD7F36"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode93F117E2-409E-4EB2-87F1-89C3B36478B7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">908</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">912</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCD30D1C4-520E-4779-8B76-3CE041FD7F36"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2975</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3368BEED-BA38-4884-91F2-85678F86486A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">913</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">916</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCD30D1C4-520E-4779-8B76-3CE041FD7F36"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HUF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

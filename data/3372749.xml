@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372749" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC8BE1571-4BCA-46EA-99CB-DA0E868C738B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">SGD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode15F56FBA-83B2-45C7-A977-2C9FC9C92203">
-		<Aux:document_text xml:lang="en-US">3-D Matrix, Ltd. (3DM) decided to found a new consolidated subsidiary in Singapore for the purpose of research and development and business partnership in Asia region according to the board of directors on October 15, 2012. 1. Overview of consolidated subsidiary newly founded Name: 3-D Matrix Asia Pte. Ltd. Location: Singapore Representative: Director: Keiji Nagano Tsuboi Kazuharu Jun Okada Nature of business: medical products business such as hemostat in Asia region Capital stock: Foundation date: 100,000 SGD late October, 2012 Shareholder: solely owned by 3DM Personal relationship: CEO of 3DM, Keiji Nagano will serve concurrently as the  representative. Vice President of 3DM, Jun Okada will serve concurrently as the representative. Reason of subsidiary foundation 3DM decided to found a new consolidated subsidiary in Singapore for research and development, marketing, and sales since we desire to develop in Asia region our medical products business with self-assembly peptide technology (business development of our pipelines such as absorbable local hemostat and regenerative products of alveolar bone).</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode3CD3146F-82CA-4B5B-8331-2DE6BDF56E46">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC8BE1571-4BCA-46EA-99CB-DA0E868C738B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2211A184-47CE-44A6-9680-9DC28AF504D4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC8BE1571-4BCA-46EA-99CB-DA0E868C738B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5A38E1F4-012E-4215-9C6B-C9C55204C808">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC8BE1571-4BCA-46EA-99CB-DA0E868C738B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">SGD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

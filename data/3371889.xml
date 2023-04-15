@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371889" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDC1F03FC-2F2A-45B4-A7C5-5373AE82D61A">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Chinese yuan</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">6.2982</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2BF6E650-9120-4541-998E-3ADF26767FC4">
-		<Aux:document_text xml:lang="en-US">"But the PLA's progress needs to be viewed in the context of China's low level of economic development," he added. "China's economic weaknesses constrain its ability to produce cohesive military systems that link weapons and soldiers to sensors, satellites and command centers." ($1 = 6.2982 Chinese yuan) (Additional reporting by Ben Blanchard in Beijing, and Kiyoshi Takenaka in Tokyo, Rosemarie Francisco in Manila and Jim Wolf in Washington; Editing by Nick Macfie and Will Dunham )</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode231638FD-06CE-4081-B0D9-3F513A62F827">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC1F03FC-2F2A-45B4-A7C5-5373AE82D61A"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB15EE9B8-31CA-4419-B9C5-1B075A1D5315">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC1F03FC-2F2A-45B4-A7C5-5373AE82D61A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">6.2982</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC6AE1EAF-C37D-4C52-8480-12BEE0696EE2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC1F03FC-2F2A-45B4-A7C5-5373AE82D61A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Chinese yuan</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

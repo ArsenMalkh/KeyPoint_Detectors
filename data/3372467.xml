@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372467" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2FC71F4A-8381-4DE5-8328-593D736B4734">
-		<BasicEntity:ms_major_currency xml:lang="en-US">markkaa</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">6.44</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode19CC7F32-4D55-44BF-B413-C2F56E671C27">
-		<Aux:document_text xml:lang="en-US">National currency and unit of measure: millions of Estonian krooni, at current prices (The unit of measure should not exceed one ten thousandth of the total military expenditures. [Original: English] [2 July 2001] Country: Finland Fiscal year: 2000 National currency and unit of measure: millions of markkaa ($US=6.44 markkaa) Country: Finland Fiscal year: 2001 [Original: French] [4 April 2001] National currency and unit of measure: millions of francs (The unit of measure should not exceed one ten thousandth of the total military expenditures. The figures provided concern the French military budget for 2001, excluding pensions, using a unit of currency and nomenclature requested by the United Nations.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode03798DC0-1042-440D-99BF-CDD6D777F251">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2FC71F4A-8381-4DE5-8328-593D736B4734"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3475CB2A-E4F8-4553-9DF1-62B9E6988978">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2FC71F4A-8381-4DE5-8328-593D736B4734"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">6.44</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4C74DE0C-CDD5-4EDE-9BC2-EB9FFD79D99A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2FC71F4A-8381-4DE5-8328-593D736B4734"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">markkaa</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372274" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDFCF6D83-EB62-4476-A530-802E2C50185F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">8000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode88392C00-FB85-4D1B-8700-503A02FFA9E8">
-		<Aux:document_text xml:lang="en-US">Menu/Pamphlets in Other Languages  Not available  Nearest station  JR Kitsuki Station (JR杵築駅)  Access  15 minutes from JR Kitsuki Station by car. 15 minutes from Oita airport by car. Price 1 night 2 meals (with stonefish kaiseki meal): from JPY 8,000 Telephone number 0978-63-9214 Visit the Historic and Cultural City of Kitsuki in Oita Among the traditional shops and buildings, you will be able to see the history thriving throughout the castle town of Kitsuki. It is easily accessible from Ogura Station and Oita Airport, so why not slip back in time to stroll around the streets of the Edo Period in a kimono on your next visit?</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5713C861-8C0B-4D3F-BA45-98FB3711C5D1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDFCF6D83-EB62-4476-A530-802E2C50185F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA71E487E-1FCC-4A4F-AF01-2218896191CA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">244</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDFCF6D83-EB62-4476-A530-802E2C50185F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode29B5E3A4-2C58-490E-A81C-8629A7F4126B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDFCF6D83-EB62-4476-A530-802E2C50185F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">8000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

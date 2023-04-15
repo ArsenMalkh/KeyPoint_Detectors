@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370783" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode596E9438-5D62-47DE-9A75-32476B215615">
-		<BasicEntity:ms_major_currency xml:lang="en-US">American dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeBD048BDD-C195-4F7E-B26D-FBDFE5A92462">
-		<Aux:document_text xml:lang="en-US">He was after something else. You see, Kostia knew that Mr Jack Osborne wanted something. - That's... - What did Osborne want? A chest. A big church chest. That's not a nun with tits. You know, with religious panels. Big... But he promised me 2,000 American dollars if I could get him one. - And did you? - Yes, I did. But Mr Jack Osborne looked straight through me. He got one from those three. Cheaper, I'll bet. - Kirwill, Valerya and Kostia? And I can't sell the one I got.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC6FAB9CC-27E8-475E-B4D3-7DA08DEE095F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode596E9438-5D62-47DE-9A75-32476B215615"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA33318B6-2FA2-421F-8697-F2693C948A12">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode596E9438-5D62-47DE-9A75-32476B215615"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFD62FFC7-C1E6-44E5-9A83-88F911365223">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode596E9438-5D62-47DE-9A75-32476B215615"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">American dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

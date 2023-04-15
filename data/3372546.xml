@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372546" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2466C35A-908C-4ABF-AD87-703F8F388BC0">
-		<BasicEntity:ms_major_currency xml:lang="en-US">new Israeli shekels</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4.45</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode26C5F677-90BC-4F97-AF46-215E86A5EA4B">
-		<Aux:document_text xml:lang="en-US">In addition to references supra, the Vienna Convention on the Law of Treaties (art. 27) provides that “A party may not invoke the provisions of its internal law as justification for its failure to perform a treaty.” Testimony of Isa Samandar, Land Defence Committee, in meeting with Special Rapporteur, Ramallah, 6 January 2002. Based on exchange rate of 4.45 new Israeli shekels to the US dollar. Figures provided in the Adva Center, “Governmental Funding of the Israeli Settlements in the West Bank, Gaza Strip and Golan Heights in the 1990s of Local Governments, Home Construction, and Road Building”, 27 January 2002, summarized in Nehemia Strasler, “Every settler a king”,</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeB7A4FBA4-1401-4818-AE78-4F02E15D6BB2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2466C35A-908C-4ABF-AD87-703F8F388BC0"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2576AFA1-9245-4C09-B34B-0B1DF6FB0B8E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2466C35A-908C-4ABF-AD87-703F8F388BC0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4.45</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB5F5B630-3234-49B8-8BFF-4C53BB113126">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2466C35A-908C-4ABF-AD87-703F8F388BC0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">new Israeli shekels</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

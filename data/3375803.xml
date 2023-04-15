@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375803" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode195E3F02-FF3C-4C3F-B900-8AF14742674E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6BF6B6EA-9010-4D4C-905D-45679CBA71D3">
-		<Aux:document_text xml:lang="en-US">In year 2006, 3 hydrogen-fuelcell-powered Citaro buses began their test launch in Beijing, China. They ran on an 18.2 km long ring-line, which contains 11 stations and uses Summer Palace North Gate as departure/terminal station. The operating hours ranged from 9am to 3pm, the bus came approx. every 40 minutes. Each ride costs 2 CNY. During the launch, these 3 Citaro left a very positive impression to the passengers. Japan In 2010, Keisei Bus ordered 15 articulated Citaro G buses, primarily for service in east Tokyo. Nishitetsu also operates several Citaro G buses on the Fukuoka BRT.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC06EAA62-33C2-45D9-8605-2FF04EA1E3E1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode195E3F02-FF3C-4C3F-B900-8AF14742674E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode541D8087-B405-4693-A39E-E05E4D00A366">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode195E3F02-FF3C-4C3F-B900-8AF14742674E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode91FBEC5E-F620-4430-89D0-63C973A35024">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode195E3F02-FF3C-4C3F-B900-8AF14742674E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375099" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3CD0A85D-4F0C-4C6B-8221-E60FB666A169">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Hong Kong dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">113.50</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode8412D084-3A9A-4074-AC89-C56C580DB885">
-		<Aux:document_text xml:lang="en-US">The shares are still up about 21 percent since the close on Aug. 29, when the company announced the sale of ING Direct Canada. That has outpaced the 8.2 percent gain in the 33-company Stoxx Europe 600 Insurance index over the same period. Cheung Kong Holdings Ltd. (1), the flagship company of Richard Li’s father, Li Ka-shing, fell 0.7 percent to 113.50 Hong Kong dollars. HSBC Holdings Plc is advising Li on the ING deal. Goldman Sachs Group Inc. (GS) and JPMorgan Chase &amp; Co. (JPM) are advising ING. The purchase by Li, 45, is the biggest insurance deal in Asia since Chow Tai Fook Nominee Ltd., controlled by billionaire  Cheng Yu Tung, bought a $2.5 billion stake in Ping An Insurance Group Co. (2318) in March last year.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode661A413E-00B9-484C-903A-166468B4AD20">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3CD0A85D-4F0C-4C6B-8221-E60FB666A169"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDB83B5A0-BA13-4C6B-8165-6A5701595AA7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3CD0A85D-4F0C-4C6B-8221-E60FB666A169"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">113.50</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode91D984B3-4E30-4B1D-A5DA-A4AF5AE6BA7D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3CD0A85D-4F0C-4C6B-8221-E60FB666A169"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Hong Kong dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

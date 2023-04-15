@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376146" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFAEC223A-A025-4FB4-878C-96B981AF907E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">GTQ</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">68700</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode61AACA01-58C4-46D0-B25B-7FA0AD946745">
-		<Aux:document_text xml:lang="en-US">Vidal Efraín Requena Mazariegos, former Deputy Director of the Prison System, is being prosecuted under this case after a property was searched in Cobán (Alta Verapaz Department), where a series of documents were found, such as notepads containing information on financial transactions made by a drug trafficking organization to the personal bank account of Requena Mazariegos. This was demonstrated by copies of the accused’s deposit slips and bank statements.  On July 11, 2012, First High-Risk Court B sentenced Requena Mazariegos to six years in prison and ordered the payment of a GTQ 68,700 fine for money  laundering, passive bribery and criminal association. When determining the former official’s involvement in money laundering, the court considered the financial transactions related to the ill-gotten money deposited in the personal account of the accused party.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6EEC128-F315-4D5A-A0E7-48185FB0FBC4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFAEC223A-A025-4FB4-878C-96B981AF907E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5C939FC9-CB72-48B1-A47F-EC73E2E32883">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">589</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFAEC223A-A025-4FB4-878C-96B981AF907E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">GTQ</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode569360F5-D49F-4692-930E-A0FEC9266D67">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">590</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFAEC223A-A025-4FB4-878C-96B981AF907E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">68700</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

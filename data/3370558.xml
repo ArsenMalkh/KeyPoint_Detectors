@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370558" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3AE329A3-1932-47EB-A798-C15596C0C3FD">
-		<BasicEntity:ms_major_currency xml:lang="en-US">XPF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1435</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode5E55A722-26D1-4777-AA7B-00C1DA15EC9C">
-		<Aux:document_text xml:lang="en-US">Restaurant, Bar, 24-hour front desk, Newspapers, Non-smoking rooms, Rooms/facilities for disabled guests, Family rooms, Lift/elevator, Express check-in/check-out, Safety deposit box, Heating, Luggage storage, All public and private spaces non-smoking, Air conditioning, Restaurant (à la carte), Restaurant (buffet) Wi-Fi is available in all areas and costs XPF 1435 per 24 hours. Fishing, Massage, Hot tub, BBQ facilities, Diving, Snorkelling, Outdoor swimming pool (all year) Restaurant, 24-hour front desk, Non-smoking rooms, Rooms/facilities for disabled guests, Lift/elevator, Chapel/shrine, Heating, Luggage storage, Air conditioning, Designated smoking area Room Service, Business Center, Laundry, Dry Cleaning, VIP Room Facilities, Breakfast in the Room, Ironing Service, Currency Exchange, Packed Lunches, Car Rental, Tour Desk, On-Site ATM Machine, Bikes Available (Free), Concierge Service, Shuttle Service (Surcharge), Special Diet Meals (upon request), On-Site Water Sports Facilities, Airport Shuttle (surcharge)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode421330F7-74F2-4E61-839F-BB404FE0D429">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">365</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3AE329A3-1932-47EB-A798-C15596C0C3FD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode13CA1D76-99E1-47D5-9C1C-F1AFF91A409F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3AE329A3-1932-47EB-A798-C15596C0C3FD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">XPF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode302E140D-FF71-4063-A114-12D97B005C37">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">365</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3AE329A3-1932-47EB-A798-C15596C0C3FD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1435</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

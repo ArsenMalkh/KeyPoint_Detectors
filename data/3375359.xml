@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375359" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode5E3FA33C-7184-4A14-B4E0-4412F1BBD890">
-		<BasicEntity:ms_major_currency xml:lang="en-US">RMB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode900E94DD-C59F-458E-ACB8-D79C231457EB">
-		<Aux:document_text xml:lang="en-US">     1.3  Change or depose any board of the directors or replace any senior administrator;       1.4  Sell or obtain or otherwise dispose in other ways any assets or rights with the amounts excess 200,000 RMB, including but not limited to any intellectual property rights;       1.5  Provide its assets or intellectual property rights guarantee to any third-party or any other form of guarantee or set any other rights on the company’s assets; </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4474A43E-349B-45D6-A03F-CC9B37191745">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5E3FA33C-7184-4A14-B4E0-4412F1BBD890"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode440C149C-32B1-4017-B15E-72D4174F8F15">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5E3FA33C-7184-4A14-B4E0-4412F1BBD890"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB587B0DD-39FF-4956-ABD5-1171ED0D99C0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5E3FA33C-7184-4A14-B4E0-4412F1BBD890"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">RMB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

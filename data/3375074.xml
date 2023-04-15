@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375074" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE00C7ECF-F63C-4706-AD56-BA77F4241DE5">
-		<BasicEntity:ms_major_currency xml:lang="en-US">rubles</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">25000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeB70303A1-ABB8-458E-BFCB-B56757071EC3">
-		<Aux:document_text xml:lang="en-US">MOSCOW, April 21 (RIA Novosti) – Three unidentified men have taken four people hostage in a bank in southern Russia, a source in the regional police force told RIA Novosti Monday. “According to preliminary information, there are three attackers and four hostages,” the source said, adding that the criminals were demanding 25 million rubles (around $700,000). At least one attacker is armed with a Saiga rifle. The Zapadny Bank branch under attack is located just 25 miles (40 kilometers) north of Ukraine. On Monday, the Central Bank of Russia announced the revocation of the license of the Zapadny Bank over the unreliability of its accounts and records.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode47DC97B6-3D79-41CA-8A20-E883DD36FA20">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE00C7ECF-F63C-4706-AD56-BA77F4241DE5"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7E720ED1-160A-4084-9D22-F80505CF18B3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE00C7ECF-F63C-4706-AD56-BA77F4241DE5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">25000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE9257074-8982-4882-B03B-C72C7F9FB398">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE00C7ECF-F63C-4706-AD56-BA77F4241DE5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">rubles</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370827" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6B388EF0-A322-41F5-ABF9-A4F2BEC5AC4E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Austrian Schilling</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode9E2F3926-07A0-48CA-B96E-399B5A979380">
-		<Aux:document_text xml:lang="en-US">Besides the transmission of sports events through ADSL/ISDN connection, "and integrated Webcam makes live video telephone transmission between multimedia stations. Another favourite feature is the taking of digital photos, which may be sent to friends and e-mail"". The usage of these stations costs 1 Austrian Schilling per niinille.Payment can be made by cash or credit card. Techno-Points: are a joint venture between post offices and APC. The current stage is a pilot project running with about 10 such Techno-Points. The first Post-Box. a new integrated store at highly frequented places allowing receiving post and financial services by passing by. started on the Vienna Mariahilfer Straße, by now especially for post products and service delivery, like sending letters electronically and to be received through traditional mail.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode604299E7-5072-4C0C-ACA9-6CCA8722D264">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6B388EF0-A322-41F5-ABF9-A4F2BEC5AC4E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB47E07BC-EBD8-4D97-A0EC-3698C18849F6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6B388EF0-A322-41F5-ABF9-A4F2BEC5AC4E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5DF8B45A-0167-410C-B538-42039CEC4535">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6B388EF0-A322-41F5-ABF9-A4F2BEC5AC4E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Austrian Schilling</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370242" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6C0A9FBE-08E6-481E-B1D7-53FB3F1561CE">
-		<BasicEntity:ms_major_currency xml:lang="en-US">EUR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4100000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode060AAEDD-8F70-40B7-A4EA-AB75F9B3D111">
-		<Aux:document_text xml:lang="en-US">in writing. - (FR) I voted for the European Parliament resolution on the own-initiative report on a coordinated strategy to improve the fight against fiscal fraud, drafted by British Member Sharon Bowles in response to a Commission communication on the subject. Fiscal revenue, in other words the total amount of taxes and compulsory social contributions, accounted for 39.3% of the European Union's GDP in 2004, at EUR 4 100 billion. There are very few estimates of the amount of taxes that go uncollected because of fiscal fraud, which is estimated at around 2-2.5% of GDP. Although taxation is a national responsibility, fiscal fraud is an obstacle to the successful operation of the internal market in that it distorts competition between taxpayers.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1B0825B6-ED5D-4559-9457-A9F70BAF8ABC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">433</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6C0A9FBE-08E6-481E-B1D7-53FB3F1561CE"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6D65C4C8-E387-4E29-BBEF-DAF54AD37A38">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6C0A9FBE-08E6-481E-B1D7-53FB3F1561CE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">EUR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF9E51D9C-11ED-4D8C-9A3F-4E264C8DCCA9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">433</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6C0A9FBE-08E6-481E-B1D7-53FB3F1561CE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4100000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

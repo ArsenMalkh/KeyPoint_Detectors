@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375255" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC23FB590-FEE1-4B33-BF03-1C5493B11D43">
-		<BasicEntity:ms_major_currency xml:lang="en-US">rubles</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">60</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2F99D924-8084-4F4D-AB6E-F8B5ECDA529F">
-		<Aux:document_text xml:lang="en-US">It happened before and after the meeting between National bank chief Nadzezhda Yermakova and Alyaksandr Lukashenka, who returned from Sochi after a two-week vacation. On February 6, the dollar was down 60 rubles, the euro – 130 rubles and the Russian rubles 3 rubles against the Belarusian rubles at the Belarusian Currency and Stock Exchange. On February 7, the dollar was up 60 (!), the euro – 130 (!) and the Russian ruble 3 rubles against the Belarusian ruble, “Salidarnasts” reports. Between the trading sessions, head of state Alyaksandr Lukashenka met with National Bank chief Nadzezhda Yermakova. The National Bank head reported the Belarusian ruble exchange rate remained stable for the last three months with only insignificant fluctuations. She marked the exchange rate of the national currency strengthened in late January-early February, Interfax.by informs.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode82F0F8A5-A672-4258-96E6-CF50136A8C99">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC23FB590-FEE1-4B33-BF03-1C5493B11D43"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE15B17D6-5E4C-497A-AA98-21783C2CD49E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC23FB590-FEE1-4B33-BF03-1C5493B11D43"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">60</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode440CCED6-800C-43C5-8A4F-404297B4E9BC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC23FB590-FEE1-4B33-BF03-1C5493B11D43"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">rubles</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

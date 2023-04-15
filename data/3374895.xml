@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374895" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode0A3F9F93-8AF8-453C-8265-72DEF027685B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Macedonian denars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6E46FF96-447B-4E97-B372-D6E4EEDCEE3E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Croatian kuna</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2D15E553-BAEB-4073-886A-0501C26845F4">
-		<Aux:document_text xml:lang="en-US">Under IFRS, all business combinations must be accounted for using the purchase method. The acquirer allocates the cost of a business combination by recognizing the acquiree's identifiable assets, liabilities and contingent liabilities that satisfy the recognition criteria at their fair value at the acquisition date. Non-current assets that are classified as held for sale are recognized at fair value less costs to sell. Any excess of the cost of the business combination over the acquirer's interest in the net fair value of identifiable assets, liabilities and contingent liabilities taken over, regardless of the level of the investment held, is recognized as goodwill. Any excess of the acquirer's interest in the net fair value of the identifiable assets, liabilities and contingent liabilities over the cost of a business combination is recognized in profit or loss.Annual average rate Rate at the reporting date100 Czech korunas (CZK) 1 Pound sterling (GBP) 100 Croatian kuna(HRK) 1,000 Hungarian forints (HUF) 100 Macedonian denars(MKD) 100 Polish zlotys (PLN) 1 U.S. dollar (USD) Income and expenses of a subsidiary remain included in the consolidated financial statements from the acquisition date. Income and expenses of a subsidiary are included in the consolidated financial statements until the date on which the parent ceases to control the subsidiary. The difference between the proceeds from the disposal of the subsidiary and its carrying amount, including the cumulative amount of any exchange differences that are recognized in equity and relate to the subsidiary, is recognized in the consolidated income statement as the gain or loss on the disposal of the subsidiary. Intercompany income and expenses, receivables and liabilities, and profits or losses are eliminated.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode19C89995-CD01-4CEB-8355-90BBF53E4D86">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">989</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6E46FF96-447B-4E97-B372-D6E4EEDCEE3E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0782448C-E81F-4542-A88A-68108327523D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">970</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6E46FF96-447B-4E97-B372-D6E4EEDCEE3E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode69371F55-5D3B-4523-B56F-3255CCEB5A47">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">971</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">989</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6E46FF96-447B-4E97-B372-D6E4EEDCEE3E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Croatian kuna</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode56F18CD1-A163-4D73-8D80-09D226624704">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1020</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1046</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0A3F9F93-8AF8-453C-8265-72DEF027685B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode16EEE7B1-1AB0-4446-B518-3EFF0630882D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1020</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1023</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0A3F9F93-8AF8-453C-8265-72DEF027685B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4839FFD9-7AF3-422A-A5A4-CC6571B47BD0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1046</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0A3F9F93-8AF8-453C-8265-72DEF027685B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Macedonian denars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

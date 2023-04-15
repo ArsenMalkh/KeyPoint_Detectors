@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372293" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4760F2D4-B83B-411D-B09B-6C0ADA84FB4C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode0B247F18-6F7E-41B7-A84E-98F20B368240">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">400</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeDA6B1D97-5C5A-46E7-A1CB-C82EA08DC2B0">
-		<Aux:document_text xml:lang="en-US">The first spot on this list is a cave that has been designated as a natural monument of Nara Prefecture. Found underground on a plateau, Menfudo-Shonyudo Limestone Cave is the largest cave in the Kansai region with a total length spanning about 150m. There is no wind inside this dome-shaped cavern, so its temperature averages 8 degrees all year round. There are stalactites, stalagmites and various other objects inside, but what is especially famous here are the so-called soda straws that are found in the areas called “kinshi no iwaya” (gold cave) and “ginshi no iwaya” (silver cave). These straws are hollow in the middle and are considered real treasures in Japan. Tour rates: 400 JPY (incl. tax) for adults and 200 JPY (incl. tax) for children 1. Menfudo-Shonyudo Limestone Cave (Nara) • Map • Dorogawa Spa Tourism Bureau Official Homepage (Japanese only) 2. Goyomatsu Shonyudo Limestone Cave (Nara) This has also been designated as a natural monument of Nara Prefecture. Found deep in the ground and spreading over a span of more than 200m, the Goyomatsu Shonyudo Limestone Cave is a place where there are expressive natural works of art that emerge from the pale light that is cast inside the cave. Here, there are stalactites as small as 20-30cm and as big as 3-4m. Further, the “koganebashira,” the biggest underwater stone pillar in this cave, is 8m tall! You will surely be awed by this spectacular sight.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC8A486BF-5FDB-4DA8-957C-B274F68CE5C0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">691</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0B247F18-6F7E-41B7-A84E-98F20B368240"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode621D49B1-62D1-4FB4-967D-FC8B27B6CF0D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0B247F18-6F7E-41B7-A84E-98F20B368240"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">400</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE7D3E5E0-C164-46CE-A307-C6702CB2AC0C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">688</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">691</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0B247F18-6F7E-41B7-A84E-98F20B368240"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8F160D56-604D-418A-AC67-1C668A545EA3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">726</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4760F2D4-B83B-411D-B09B-6C0ADA84FB4C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode66A79595-9F7C-4110-8D52-0BDA89AC37FA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">722</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4760F2D4-B83B-411D-B09B-6C0ADA84FB4C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4219F343-2076-446F-90B8-B835A60B952A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">726</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4760F2D4-B83B-411D-B09B-6C0ADA84FB4C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

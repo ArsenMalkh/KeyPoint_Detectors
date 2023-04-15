@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375037" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode61843C8F-76C8-445E-8E95-AA4863650142">
-		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode12206FB5-EAB5-41CB-8039-8AA9DDFF0697">
-		<Aux:document_text xml:lang="en-US">In 300 words or less we want to know who you are, what category you are entering in, what your company does and why you think you should be one of the companies pitching to our panel of judges on 16 January. You must submit your entries through this form by 15 December 2013. To enter the competition click on this link and complete the online entry form What will I win? The winner gets $50,000 SGD investment from MediaGuru, £100k worth of advertising for their company on the Guardian website and a platform at the Activate Summit the next day where they can speak alongside some of the world's most influential innovators on the Tech Talent day panel.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6D36AD9-95FA-48F2-BDA3-48512D8D8F7F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode61843C8F-76C8-445E-8E95-AA4863650142"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0BD9A1FE-F51A-403C-9BC9-7739522D1CFD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode61843C8F-76C8-445E-8E95-AA4863650142"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5EF05943-66BE-476C-B9D0-C6147D6213D3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode61843C8F-76C8-445E-8E95-AA4863650142"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

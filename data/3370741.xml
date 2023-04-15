@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370741" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6E05F852-28E1-4868-B9A1-266604887A65">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Finnish marks</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode14246011-1AC6-45BB-9E1B-0FE1C848E2BE">
-		<Aux:document_text xml:lang="en-US">The pilot projects launched by RIS have proved instrumental In ensur­ing a real commitment and involvement of business to the process of framing a cross-border strategy. A primary aim of the RIS was to launch 10 pilot proj­ects with a view to ensuring the full implementation of at least two mobilising up to 1 million Finnish marks. The pilot project selection was based on the six RIS focus branches (electronics, software technology, metal industry, wood processing/paper, space tech­nology and environmental technology); the cross bor­der cooperation possibilities; and the potential con­tribution to the RIS strategy formulation process. To date, eight pilot projects have been launched (e.g. mapping multimedia resources; environmental infor­mation technology plan; cross-border market study on telemedlcine software).</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode52691585-EE13-4236-A4F6-0D857CF25265">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6E05F852-28E1-4868-B9A1-266604887A65"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2431B2FB-C467-4C94-AABE-DEFC1D30FA60">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6E05F852-28E1-4868-B9A1-266604887A65"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode14F98F3E-C8D2-461A-8512-7B9181593042">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6E05F852-28E1-4868-B9A1-266604887A65"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Finnish marks</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

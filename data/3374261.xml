@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374261" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA419A9CB-BFB9-4998-B596-019067106D6E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HUF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1200000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode8E6DF225-B125-4929-AB14-C662C68DD00A">
-		<Aux:document_text xml:lang="en-US">Balmazújvárosi FC, also known by the sponsor name Balmaz Kamilla Gyógyfürdő or the company name Balmazújváros Sport, is a Hungarian football club located in Balmazújváros, Hungary. It currently plays in Nemzeti Bajnokság I. The team's colors are orange and black. History Between 2011 and 2016 the club received 1.2 billion HUF as a backing to develop the club's stadium and the team. On 17 September 2012, László Arany was sacked by the club after the defeat against Ceglédi VSE at home. The team with Arany could win only the first match of the 2012–13 Nemzeti Bajnokság II season against DVSC-DEAC but after they lost four matches in a row.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8838E0B9-166A-485A-BDFB-DB8FD532B284">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA419A9CB-BFB9-4998-B596-019067106D6E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5C3F026A-24C6-4E77-B9E6-B1BA3B2249D3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA419A9CB-BFB9-4998-B596-019067106D6E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1200000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode28C854C4-334E-4FF3-9727-D24D93F00E0E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA419A9CB-BFB9-4998-B596-019067106D6E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HUF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

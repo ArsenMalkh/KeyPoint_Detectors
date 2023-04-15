@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375724" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode48D814D9-E4C0-4F56-BFD8-A52B650F75AF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">7200</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode3807AC75-3DAC-4992-B216-6A4703D603A4">
-		<Aux:document_text xml:lang="en-US">Beginning January 1, 1998, each child under age 18 will accumulate CESG contribution room of $2,000 per year, up to and including the year in which they attain age 17. The CESG will be payable on contributions made in the year to the extent that the contributions in respect of the child do not exceed the lesser of $4,000 and the unused CESG contribution room available in the year. While unused CESG contribution room will be carried forward for use in future years, contributions made in one year that exceed the amount of available CESG contribution room cannot be carried forward for purposes of attracting a CESG payment in a subsequent year. Contributions made by any subscriber in respect of a beneficiary can qualify for the CESG. The maximum total amount of CESG that can be paid in respect of any individual born after 1997 will be $7,200 (i.e. 20 per cent x $2,000 x 18 years).  Example  A child is born in February 1999. The child's CESG contribution room for that year is $2,000. In March 1999, the father makes an RESP contribution of $800 in respect of the child. A CESG of $160 (20 per cent of $800) is paid to the plan trustee. In November of the same year, the child's grandmother makes a $2,500 contribution to another RESP on behalf of the child. Since only $1,200 of the child's CESG contribution room is available at the time of the grandmother's contribution, only $1,200 of the grandmother's contribution qualifies for a CESG. The remaining $1,300 will not qualify for a CESG in the following year.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode103C26BD-4710-4DEA-8C6C-FFCCEAA2159C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">843</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">849</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode48D814D9-E4C0-4F56-BFD8-A52B650F75AF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBDD68DC8-C307-4DBE-9DD0-6FB96CD0462D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">843</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">844</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode48D814D9-E4C0-4F56-BFD8-A52B650F75AF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode93D1D329-67E6-48CE-AD0A-493EECAFA1B8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">844</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">849</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode48D814D9-E4C0-4F56-BFD8-A52B650F75AF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">7200</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

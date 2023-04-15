@@ -1,75 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370782" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode67FB971A-8369-429F-ACA0-CA3A6D4EEE00">
-		<BasicEntity:ms_minor_amount xml:lang="en-US">75</BasicEntity:ms_minor_amount>
-		<BasicEntity:ms_major_currency xml:lang="en-US">zloty</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">8</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode12A66DB5-9D30-41E7-BC6C-F0F43A2B8C7D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">zloty</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">20</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeCB9BEC35-A5E4-4207-9DC0-5E2DBEB20358">
-		<Aux:document_text xml:lang="en-US">And put Siletsky's picture on Page 105. - Good evening. - Good evening. Have you by any chance Anna Karenina by Tolstoy? Yes. - How much is it? - 20 zloty. That's much too expensive, I'm sorry. - We'll take these stamps. Eight zloty 75. Yes, can I help you gentlemen? - We are looking for Mrs. Maria Tura. - I am Mrs. Tura. You have to come along with us. I haven't done anything. 205, 206. Mrs. Tura is here, sir. Yes, sir. Good evening, Mrs. Tura.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode43AD3AC0-742E-41B8-AE79-002CF759D2A3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode12A66DB5-9D30-41E7-BC6C-F0F43A2B8C7D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode432C9533-523B-46E7-A022-1ED42942B432">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode12A66DB5-9D30-41E7-BC6C-F0F43A2B8C7D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">20</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFC4B99F6-29BB-41C1-A40C-05AC6B105CB4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode12A66DB5-9D30-41E7-BC6C-F0F43A2B8C7D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">zloty</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeFEDCAB74-A269-433D-9AE5-F9A9668B34B1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode67FB971A-8369-429F-ACA0-CA3A6D4EEE00"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0F7FE446-968F-4F72-8BA5-2242477CCFF7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode67FB971A-8369-429F-ACA0-CA3A6D4EEE00"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">8</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA5FB45BE-1C22-4DDC-9CEC-3AEE4798375E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode67FB971A-8369-429F-ACA0-CA3A6D4EEE00"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">zloty</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB2432A7E-92DF-4DCB-8EBB-1E6C7863ADEB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode67FB971A-8369-429F-ACA0-CA3A6D4EEE00"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_minor_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">75</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

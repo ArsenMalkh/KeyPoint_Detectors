@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375521" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD14CCFC7-7318-4308-9926-627EC36A84B0">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Malaysian Ringgit</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">330000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7628EBC8-7F51-42EF-8A41-E082B694AE42">
-		<Aux:document_text xml:lang="en-US">Corporate Planning &amp; Control Sector Mitsui Mining &amp; Smelting Co., Ltd. Email: PR@mitsui-kinzoku.co.jp (Reference) Mitsui Copper Foil (Malaysia) SDN. BHD. (1) Name Mitsui Copper Foil (Malaysia) SDN. BHD. (2) Location Selangor, Malaysia (3) President Yuji Tejima (4) Established April 1989 (5) Capital 330,000,000 Malaysian Ringgit (6) Investment Mitsui Kinzoku (100%) (7) Business Activities Manufacturing of copper foil for printed circuit boards</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode77AD4319-CC2A-444B-9BD8-7B3086948F05">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD14CCFC7-7318-4308-9926-627EC36A84B0"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB8782683-D0D2-434E-9FD9-FD13AE762A26">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD14CCFC7-7318-4308-9926-627EC36A84B0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">330000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4A42348E-35CF-437D-9CEF-EF95861476A6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD14CCFC7-7318-4308-9926-627EC36A84B0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Malaysian Ringgit</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

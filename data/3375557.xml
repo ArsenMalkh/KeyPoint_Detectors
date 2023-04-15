@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375557" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode47A2D30B-2D97-449E-89BC-47545AA08A49">
-		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">531000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4E3B9870-06FF-4DBB-8DFB-46F2E1DE0299">
-		<Aux:document_text xml:lang="en-US">The Group includes NIG (National Insurance and Guarantee), Devitt Insurance Services Limited, Inter Group Insurance Services and Prudential's General Insurance operation. Churchill is part of the Credit Suisse Group, one of the world's leading global financial services companies with current assets under management of over £531 billion and 80,000 staff worldwide. * excluding international business Montreal, Quebec, August 31, 2000 - CGI is proud to announce that it has been retained for a 5-year Application Service Provider (ASP) project with le Centre hospitalier Angrignon, worth a few million Canadian dollars. As part of the project, CGI will implement SAP healthcare financial solutions and MediSolution (MSH:TSE) Human Resources and Payroll solutions to a minimum of 125 desktops within the centre. This agreement positions CGI as the first systems integrator in Canada to apply SAP solutions to an ASP model in the healthcare sector.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeEA3BCCCB-1D0B-42F6-92D9-FBC48238BE01">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode47A2D30B-2D97-449E-89BC-47545AA08A49"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD6BC04D7-93BF-4982-B13A-E50FA111FA6F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode47A2D30B-2D97-449E-89BC-47545AA08A49"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1465EA5B-F6E5-4B50-A19B-D4E3C78FEA20">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode47A2D30B-2D97-449E-89BC-47545AA08A49"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">531000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

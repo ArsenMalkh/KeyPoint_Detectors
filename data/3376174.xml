@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376174" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6F5FC7D8-F344-479C-AFE0-F09F47CBAD57">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Greek drachmas</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode8186468F-3306-45DC-B7CF-C1914AA0BA99">
-		<Aux:document_text xml:lang="en-US">Stavropoulos holds the distinction of being the first ever player to make a 3-point basket in the Greek League, after the 3-point shot was first introduced into the league, in the 1984–85 season. Playing career Club career Stavropoulos began his club playing career with the Greek club Gymnastikos S. Larissas, in 1975. He was transferred to PAOK Thessaloniki in 1983, for the amount of 10 million Greek drachmas, which was the highest amount for a player transfer fee in the league's history to that point in time. With PAOK, Stavropoulos won the Greek Cup title in 1984, in which he was the Greek Cup Finals Top Scorer. With PAOK, he also won the European-wide secondary level FIBA European Cup Winners' Cup (Saporta Cup) championship in the 1990–91 season, and played in the same competition's final in the 1991–92 season. He also won the Greek League championship with PAOK in 1992. After he left PAOK, he finished his playing career with the Greek club Iraklis Thessaloniki.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC414E007-A444-4184-904B-BA082B34D83C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6F5FC7D8-F344-479C-AFE0-F09F47CBAD57"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFB72114D-5398-47EB-8EED-D3867C4A06B0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6F5FC7D8-F344-479C-AFE0-F09F47CBAD57"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0F1F8F9C-43EF-4D6C-A0C0-EAA050F28EE1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">398</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6F5FC7D8-F344-479C-AFE0-F09F47CBAD57"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Greek drachmas</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

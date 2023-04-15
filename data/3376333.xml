@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376333" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3FF7D987-FFAC-419B-B845-13A540D7A394">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HUF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeAB0378E9-3C6A-405E-BEFF-7B300AC40BB0">
-		<Aux:document_text xml:lang="en-US">The Orbán Government kept the earlier existed family allowance (Hungarian: családi pótlék) and beside that introduced the family tax benefit (Hungarian: családi adókedvezmény). Marriage support The government introduced the discount for first married couples (Hungarian: első házasok kedvezménye) which means that newly married couples receive together 5,000 HUF per month during the next 24 months after marriage. Housing support Since 2015 CSOK (családi otthonteremtési kedvezmény, transl. family housing benefit) can be required by married couples for used or newly built houses and apartments if they promise that they will have one, two, three or four children. The size of support depends on the number of children the couple plans to have. At least one of the parents has to be under 40 years old. They also have to meet the following requirements: unpunished life, 180 days social security payment before the request (in case of one or two children) or 2 years social security payment (in case of 3 or more children). The children - who could be of blood or adoptee - have to live with the parents to fulfill the criteria. They can get CSOK as fix sum of money or as preferential mortgage rates on housing</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC52C0F8D-E6E0-4C49-B588-ED157FBEEB35">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">353</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">362</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3FF7D987-FFAC-419B-B845-13A540D7A394"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4F1E9F8B-A5EE-4F6B-816F-67D7AD56BA21">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">353</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3FF7D987-FFAC-419B-B845-13A540D7A394"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1BEB4C91-9127-4FFA-B6E1-7D07DD886B0C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">362</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3FF7D987-FFAC-419B-B845-13A540D7A394"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HUF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

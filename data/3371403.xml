@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371403" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4BDF99EE-34CC-4AE3-A8FA-6BB2AF52BBD5">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Egyptian pounds</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">150</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode12203627-9A4E-495F-816C-5439E32756B5">
-		<Aux:document_text xml:lang="en-US">Pena and I have been friends since college. The last time I visited her in 2010, we toured some of the dozens of belly- dancing clubs in Cairo, ranging from decrepit colonial buildings to Vegas-style show palaces catering to Egypt’s elite, oil-rich Gulf visitors and Westerners. I came back again this year to be in Cairo for the first anniversary of Egypt’s revolution. Our Thursday night out began at the VIP Club in Giza’s Al Nabila Hotel, where the entrance fee was 150 Egyptian pounds, or about $25. Gaudy with red carpeting, crimson and silver curtains and a stage worthy of a Milan fashion show, the sprawling venue was virtually empty. Even so, the heavy-set manager insisted that the vacant tables awaited very important high flyers and stuck us far away from the action, such as it was, with one lonely dancer gyrating in the distance.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode7CCDB375-07AE-484A-A134-255C40758C61">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">470</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">489</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4BDF99EE-34CC-4AE3-A8FA-6BB2AF52BBD5"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4B31FE8B-9613-4D7D-BA3F-75AB77BA9155">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">470</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4BDF99EE-34CC-4AE3-A8FA-6BB2AF52BBD5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">150</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC10187D7-4DB8-4342-8018-1BE89CFACA54">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">489</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4BDF99EE-34CC-4AE3-A8FA-6BB2AF52BBD5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Egyptian pounds</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

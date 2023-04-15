@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375420" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode63A6C120-2B64-4F83-B1B8-258EDCCABF82">
-		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">15000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBFEC84C9-CD6E-48FB-B24F-DD7798D45E00">
-		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4.50</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2AB6ADF1-E1C6-4CEF-AB30-4F401E1B988D">
-		<Aux:document_text xml:lang="en-US">SEPTEMBER 2 0 15 ISSUE 638 £4.50 Jaa'i MR F1 DRIVES \SUPER-McLAREN! EXCLUSIVE New Lotusand new Aston vs Wales ADVENTURE Defender's last mission First and last Landies battle the Highlands PL US DRIVING SAGARIS WITH TVR'S SAVIOUR, THE £15M BENTLEY &amp; 19 MORE UNFORGETTABLE ICONS! Driven: the latest greatest, exquisitely British sensations money can (and can't) buy</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0FB328D5-FC74-4F4A-8BFE-76965DFAFFC9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBFEC84C9-CD6E-48FB-B24F-DD7798D45E00"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9002EF37-78F7-4D61-850F-7A99CFD60F52">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBFEC84C9-CD6E-48FB-B24F-DD7798D45E00"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCFA13191-DF76-436A-85AA-0BE41F0D88FA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBFEC84C9-CD6E-48FB-B24F-DD7798D45E00"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4.50</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode439F8746-B02D-4B92-99ED-12746408B578">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode63A6C120-2B64-4F83-B1B8-258EDCCABF82"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBCF489F1-11F8-4ADF-9D8E-8595C52C6097">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode63A6C120-2B64-4F83-B1B8-258EDCCABF82"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4B796DFD-2D5C-4A17-83D7-1E9D71C0162D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode63A6C120-2B64-4F83-B1B8-258EDCCABF82"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">15000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

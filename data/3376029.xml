@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376029" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCB637822-BC9F-4116-A678-ECC36E531DFF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">₽</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">3000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeCBFA0FDD-7AAC-448D-852F-66B462114011">
-		<Aux:document_text xml:lang="en-US">Popova was born in Yekaterinburg. She works as a model, and in addition to Russian, she can speak fluent English and Chinese. She is currently studying at Moscow State University, with plans on becoming a journalist. Pageantry Miss Russia 2017 Popova represented Sverdlovsk Oblast in the Miss Russia 2017 pageant; it was her first ever pageant. She went on to win the competition, winning ₽3,000,000, a Hyundai Solaris, and the opportunity to study at any university in the world. Her runners-up were Ksenia Alexandrova of Moscow and Albina Akhtyamova of Bashkortostan. Popova represented Russia in the Miss World 2017 competition, where she placed in the Top 10.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode654D317F-484F-485C-B9BE-C453EEBBB475">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB637822-BC9F-4116-A678-ECC36E531DFF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode62B08CF7-923F-4EA1-971E-6FD872D953E2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB637822-BC9F-4116-A678-ECC36E531DFF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">₽</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA7E8268-EC55-40B4-B30C-85625C3A65B2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB637822-BC9F-4116-A678-ECC36E531DFF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

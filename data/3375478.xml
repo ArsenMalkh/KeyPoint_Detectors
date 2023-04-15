@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375478" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA019C868-C8D0-4A6D-A7EB-CF754BEF2095">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">24899000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6CBFD201-B66C-435D-AFFC-966FB913BF9F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">8381000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeBBBE5C9C-9BC3-423D-A39A-84EAA469B825">
-		<Aux:document_text xml:lang="en-US">General Manager Corporate Communications Office Corporate Planning Division ARCO Tower, 19th Floor, 1-8-1, Shimo-Meguro, Meguro-ku, Tokyo 153-8662 Tel : 81-3-5434-8637 / Fax : 81-3-5434-8607 E-Mail : mishikaw@minebea.co.jp URL : http://www.minebea.co.jp/ [Attachment] Outline of Minebea Thai Ltd. Established: May 1984 Capital: THB 8,381 million Net sales: THB 24,899 million (fiscal year ending March 2007) Locations: Lop Buri Plant (Lop Buri Province) Bang Pa-in Plant (Ayutthaya Province) Rojana Plant (Ayutthaya Province) Number of employees: 14,267 (as of March 2007) Business description: Manufacture and sale of machine and electronics parts</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode53212858-3F07-428B-9FD4-C49EB503D2CD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6CBFD201-B66C-435D-AFFC-966FB913BF9F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3B7C884B-EDAA-4612-8BFE-6E2DF01D9A99">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6CBFD201-B66C-435D-AFFC-966FB913BF9F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5EE2FA90-88C3-4ABD-89F5-DD84CA9B3C33">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6CBFD201-B66C-435D-AFFC-966FB913BF9F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">8381000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode21898463-CB73-4C9B-8E42-85250AF419BE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA019C868-C8D0-4A6D-A7EB-CF754BEF2095"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode32D23023-ECCD-4B99-83B9-BD97C0E1E9AE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA019C868-C8D0-4A6D-A7EB-CF754BEF2095"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFA11A5A3-9AF0-4139-BB84-98FBEF9C21F7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA019C868-C8D0-4A6D-A7EB-CF754BEF2095"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">24899000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

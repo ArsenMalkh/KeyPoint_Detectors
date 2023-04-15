@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372477" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode881E8283-62CE-43DD-9F14-E8F1D27354E0">
-		<BasicEntity:ms_major_currency xml:lang="en-US">¥</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">18640000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeF9DDB555-990E-4636-96B2-055A15B3CB3C">
-		<Aux:document_text xml:lang="en-US">1. Outline of the acquisition 1) Asset to be acquired: Domestic Real Estate Land: Ownership (share of co-ownership) Building: Co-ownership of compartmentalized building units (share of ownership of the building: 55.35443%) (Note 1) 2) Name of asset: AER 3) Acquisition price: ¥18,640 million 4) Scheduled acquisition date: September 1, 2015 5) Seller: SCG16 Tokutei Mokuteki Kaisha 6) Method of Settlement: Lump sum payment at closing of acquisition 7) Acquisition funds: Loans (Note 2) and own funds Note 1: Share of ownership of the building represents the shares of communal space stipulated in the bylaw.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5F432B15-3B3A-41C3-924E-55BB740D3508">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode881E8283-62CE-43DD-9F14-E8F1D27354E0"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode24BB7264-B0D2-4287-BCAF-E0A237A18560">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode881E8283-62CE-43DD-9F14-E8F1D27354E0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">¥</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8ADA6D6-EBC8-408D-B014-E8E049A0B7ED">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode881E8283-62CE-43DD-9F14-E8F1D27354E0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">18640000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

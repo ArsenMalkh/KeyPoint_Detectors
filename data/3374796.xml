@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374796" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD177FACD-C832-4900-BD09-DC6AA14A2A6C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode5DBCA253-A641-4A26-8533-1EADE3D74F63">
-		<Aux:document_text xml:lang="en-US">Central Banks and of the European Central Bank (hereinafter referred to as the 'Statute') and in particular to Article 48 thereof, Whereas the European Central Bank (ECB) was established on 1 June 1998; Whereas the capital of the ECB shall amount to ECU 5 000 million and shall become operational as of 1 June 1998; Whereas the national banks of the Member States shall be the sole subscribers to and holders of the capital of the ECB; Whereas the subscription to the ECB's capital shall be in accordance with Article 1 of the ECB Decision on the method to be applied for determining the national central banks' percentage shares in the key for the capital of the European Central Bank (ECB/1998/1);</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode84F22E2E-0418-4991-8295-F0CE71802071">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD177FACD-C832-4900-BD09-DC6AA14A2A6C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode76E58492-30BE-4374-8395-0440368FA41E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD177FACD-C832-4900-BD09-DC6AA14A2A6C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode966E6107-35E6-4094-862B-A43EDAF28EE5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD177FACD-C832-4900-BD09-DC6AA14A2A6C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372042" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7A422D27-3CB5-4DC1-A9E0-3A0B1C5E3CBB">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HRK</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">7000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode3BBBBF41-E7E1-4707-BAFB-B7AE39EE932D">
-		<Aux:document_text xml:lang="en-US">Thursday, 06/06/2013|18:10 | Source: seebiz.eu      Germany's RWE is going to enter the Croatian electricity supply market through the acquisition of the Energija 2 sistemi DOO company, SEEbiz has reported.  Last year Energija 2 implemented close to HRK 7 million worth of projects it won contracts for.  Among its partner companies and institutions are the National Lottery of Croatia, the University of Zagreb, Municipal Court in Split, the Faculty of Natural Sciences and Mathematics in Split, the city management of Makarska and Umag, the Archeological Museum of Istra, and the Technical School in Zagreb.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeCF1AB7C0-2A73-46DB-AA26-7C1020FCE528">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7A422D27-3CB5-4DC1-A9E0-3A0B1C5E3CBB"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode704A2426-32AA-41BF-8C96-C6BEE2C637C2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7A422D27-3CB5-4DC1-A9E0-3A0B1C5E3CBB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HRK</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC0DF2F04-88F9-49BC-886B-8646E572E93B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7A422D27-3CB5-4DC1-A9E0-3A0B1C5E3CBB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">7000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

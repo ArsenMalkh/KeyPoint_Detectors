@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372456" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEDB9E117-E863-4867-84F4-9B3D1FA6B0C1">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Birr</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">47800000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode373B7270-9BFB-4B90-85F3-E347671B915C">
-		<Aux:document_text xml:lang="en-US">Out of the total external debt outstanding in 2006/07, 51.5 per cent is due to multilateral creditors while the remaining 34.8 per cent &amp; 13.7 per cent is accounted as bilateral and commercial outstanding debt respectively. External debt outstanding including arrears by source of financing (In million USD) Source: Credit Administration Department (MoFED), November 2007. During 2006/07, the total domestic debt outstanding was about Birr 47.8 billion. Looking the outstanding debt by instruments, direct advance accounted 43.5 per cent while the share of the bonds and treasury bills stood at 30.6 and 25.8 per cent respectively. Compared to the previous fiscal year, the amount of domestic debt outstanding has increased by 18.4 per cent.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeE6CB9DD3-93A8-4521-A637-776B401E0055">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEDB9E117-E863-4867-84F4-9B3D1FA6B0C1"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE32B42E7-F54F-4623-B864-72964AC26893">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEDB9E117-E863-4867-84F4-9B3D1FA6B0C1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Birr</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4C366A3F-78A7-4374-B911-24B85ABAA6B0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEDB9E117-E863-4867-84F4-9B3D1FA6B0C1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">47800000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

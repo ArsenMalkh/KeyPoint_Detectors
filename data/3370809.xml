@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370809" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE6F4B38A-4E88-470A-84D0-E5BD697A3CCB">
-		<BasicEntity:ms_major_currency xml:lang="en-US">baht</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7207C488-D357-4869-B703-39D8253D8764">
-		<Aux:document_text xml:lang="en-US">How can you swear at the Father? I forgot You dumb shit! How rude! Sorry, sorry You all are worthless, man! Where's my staff? Don't tell me... I'm so fucked! Hum... I don't believe it Damn, you scared me! 100,000 baht 100,000? You are robbing me! What about it, Maew? Listen, Master doesn't usually take these kinds of jobs A hundred thousand is actually pretty cheap Looks like teacher and student are of the same ilk You don't even have to compare us Me, I'm just an amateur hack</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9B6D393-06D9-4CF4-A60F-1B7F299F9E0A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE6F4B38A-4E88-470A-84D0-E5BD697A3CCB"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0E8E2596-385F-49A0-8E27-21236AFE0B8F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE6F4B38A-4E88-470A-84D0-E5BD697A3CCB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode611ACB30-9C8D-4883-ACBB-A683D32944B4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeE6F4B38A-4E88-470A-84D0-E5BD697A3CCB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">baht</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

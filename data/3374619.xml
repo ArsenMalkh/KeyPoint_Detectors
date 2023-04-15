@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374619" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode1F4A2C29-A1CA-4707-A8FF-1C17107B8C46">
-		<BasicEntity:ms_major_currency xml:lang="en-US">american dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">12919000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode06363A68-C7F1-40BE-A58E-FADA04BC8E4D">
-		<Aux:document_text xml:lang="en-US">At 30 June 2011, the Fersa Group uses a debt payable in american dollars to hedge certain net foreign investments for which it also uses debt denominated in non-Euro currency. At the balance sheet date, the total notional amount of the debt in non-Euro currency (debt for the deferred payment of the investment in the subsidiary in Panama) which is used as a net foreign investment hedging instrument (net investment in the Panamanian subsidiary) totals american dollars 12,919 thousand.  NOTE 10 -EQUITY  Share capital  The share capital of the parent company as at 30 June 2011 and 31 December 2010 is represented by 140,003,778 shares, each with a nominal value of Euro 1, which have been fully subscribed and paid, all with the same economic and voting rights.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0C42BCAD-9F3B-4E10-B615-B62C9CD2AC5B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">454</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1F4A2C29-A1CA-4707-A8FF-1C17107B8C46"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode54C1C8D8-2D6B-49A3-8248-DC7CD895E748">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">454</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">470</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1F4A2C29-A1CA-4707-A8FF-1C17107B8C46"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">american dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3AC443B5-1A97-4D63-9074-FF2B811662F0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">471</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1F4A2C29-A1CA-4707-A8FF-1C17107B8C46"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">12919000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

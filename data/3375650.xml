@@ -1,123 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375650" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4C3C2878-99E2-4D3A-99E0-4ED64B98D53A">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">0.0048</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode76501B46-6F3D-4026-940B-A3A3F48549BE">
-		<BasicEntity:ms_major_currency xml:lang="en-US">VND</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCA5AF99C-D37E-4CD8-8D74-FDD578C38C28">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">961000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode1B10C10F-66D2-48B2-9E6E-B2613582F170">
-		<BasicEntity:ms_major_currency xml:lang="en-US">VND</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200200000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode721C0524-983C-425A-B2B5-1089C9839D55">
-		<Aux:document_text xml:lang="en-US">Mitani and PBP N/A 5. Overview of Son Ha (1) Name Son Ha Spice &amp; Flavorings Co., LTD. (2) Head office Bac Ni Province, Vietnam (3) Representative General Director: Mark Andrew Barnett (4) Business Activity Spice production and processing business (5) Capital 200.2 billion VND ( = 961million Yen) (6) Establishment February 7, 2002 (7) Fiscal Year-End December 31 (8) Shareholders PBP: 100% i^Son Ha was made into a subsidiary due to the capital more than one-tenth of Mitani’s capital (Exchange rate: one VND to 0.0048 yen)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode2AC81EA9-0E8F-4560-B839-7C9011C37CD0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1B10C10F-66D2-48B2-9E6E-B2613582F170"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2FFACF08-1C95-4478-A943-C961FFB2397C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1B10C10F-66D2-48B2-9E6E-B2613582F170"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200200000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB6D758A2-D2AD-4611-8E19-026C70D7A577">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1B10C10F-66D2-48B2-9E6E-B2613582F170"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">VND</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode196EA089-36C7-404A-817C-57D347AF9543">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCA5AF99C-D37E-4CD8-8D74-FDD578C38C28"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">961000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5892B88-78E7-4C59-8765-CF48E341EF01">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCA5AF99C-D37E-4CD8-8D74-FDD578C38C28"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode087FC2B8-3744-44BF-B32F-C32BD77EBAE4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCA5AF99C-D37E-4CD8-8D74-FDD578C38C28"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode255FF139-99FA-4BFC-A1FB-3596D045AC78">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">505</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode76501B46-6F3D-4026-940B-A3A3F48549BE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeEAE7D828-E4AD-4BB4-BF44-DCCDD92DD1B3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">509</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode76501B46-6F3D-4026-940B-A3A3F48549BE"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5B2E466E-2081-49B9-A3CD-1793479A2882">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">509</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode76501B46-6F3D-4026-940B-A3A3F48549BE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">VND</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5BC90A11-E497-49F7-A495-338D2B49149F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4C3C2878-99E2-4D3A-99E0-4ED64B98D53A"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4275CE20-23E8-4D3E-8597-07A5FDC92A90">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4C3C2878-99E2-4D3A-99E0-4ED64B98D53A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">0.0048</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeAB9EE3E7-EAD8-49E3-B4EC-0B599CFAF358">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">520</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4C3C2878-99E2-4D3A-99E0-4ED64B98D53A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

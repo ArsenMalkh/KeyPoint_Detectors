@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3376111" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode9F169EA7-0C66-483A-A761-265A30E8D364">
-		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode22108A25-48B8-4308-B3ED-E812159660E3">
-		<Aux:document_text xml:lang="en-US">The Municipality of Trinidad in Davao del Sur province, created in 1948, was renamed as the Municipality of Jose Abad Santos in his honor in 1954. The Abad Santos Avenue is a three-kilometre (1.9-mile), six- to eight-lane divided city street in Tondo, Manila. The Abad Santos station of LRT 1 was named after him He is commemorated on the ₱1,000 banknote of the Philippines together with Brigadier General Vicente Lim and Josefa Llanes Escoda, founder of the Girl Scouts of the Philippines, who were all killed by the Imperial Japanese Army during the Second World War. On 1945, one of the six campuses of Arellano University was built in Pasay City and its name is derived by his name.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode07674AD1-2055-431D-BC0A-7F4437CDDD26">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9F169EA7-0C66-483A-A761-265A30E8D364"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6B3C4784-990D-4261-9915-405E12466D56">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9F169EA7-0C66-483A-A761-265A30E8D364"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6BB0BF52-5E60-4282-8059-3ACC13D96FA9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9F169EA7-0C66-483A-A761-265A30E8D364"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

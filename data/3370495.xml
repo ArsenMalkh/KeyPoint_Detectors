@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370495" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC3E1E882-FD7B-4490-BFD4-B3E51EB4E02C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD4995335-4FAA-4E4D-8BCE-D385BC4F922E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">RUB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5700000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode0BF2B137-12B8-4A6C-82A8-09DCD555F8E7">
-		<Aux:document_text xml:lang="en-US">Focused on stabilizing and improving margins; moving away from an subscriber acquisition-focused model towards one of retention MGTS acquisition now completed No immediate M&amp;A plans Bashkirenergo US$ 200 mln cost cutting programme underway Energy efficiency programmes decreased fuel consumption and contributed to OIBDA margin increase from 6% to 10% YoY Sold ESKB retail company for RUB 5.7 bin and evaluating opportunities to focus on higher margin segments such as grid Developing Assets SMM Peter Gerwe (ex CTC media founder) appointed as CEO Group undergoing restructuring and cost cutting; may partner with MTS in Omlet expansion Medsi Zero tax on investments in heath care now approved - likely to have positive impact on Medsi; up to 10 new clinics planned in 2012; considering M&amp;A opportunities in the sector</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode7592ABCA-C622-4651-A5B7-3FF6A0598A86">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC3E1E882-FD7B-4490-BFD4-B3E51EB4E02C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDBF28CAA-CE4B-4033-B2EF-9139D4D1D725">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC3E1E882-FD7B-4490-BFD4-B3E51EB4E02C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9AF423E9-A3D3-4602-B661-D634C501E361">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC3E1E882-FD7B-4490-BFD4-B3E51EB4E02C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0639BEEF-5FD8-40E2-AC66-04451ADF87C3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD4995335-4FAA-4E4D-8BCE-D385BC4F922E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0B17DCAC-F6CC-4505-80B7-B9C3F62C7C31">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD4995335-4FAA-4E4D-8BCE-D385BC4F922E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">RUB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEB811F50-83B3-4F0A-9F91-96EC6111A3F9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD4995335-4FAA-4E4D-8BCE-D385BC4F922E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5700000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

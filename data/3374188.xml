@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374188" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3B396585-462A-4CF2-9C69-3C852897FBFC">
-		<BasicEntity:ms_major_currency xml:lang="en-US">bitcoins</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">40000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6982AE63-0E29-4B8E-A438-D87541C6A63A">
-		<Aux:document_text xml:lang="en-US">Linode operates 11 data centers around the world, connected by the company’s Next Generation Network and extensive peering arrangements. IPv6 is fully enabled on all of Linode’s supported operating systems and free DDoS protection is included on all of the company’s virtual machines. Security incidents The accounts of eight Linode customers that held Bitcoin electronic currency were compromised in March 2012. Roughly 40,000 bitcoins were stolen. Hack The Planet (HTP) accessed Linode's web servers in 2013. The group exploited a technical vulnerability in Adobe's ColdFusion application server. Linode said that HTP could not decrypt any financially sensitive information and reset all account passwords. Linode announced plans to introduce two-step authentication for its services in May 2013.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode3E524490-D77D-43AB-8BAA-BE6F241E1FA1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3B396585-462A-4CF2-9C69-3C852897FBFC"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode70452DFF-762B-4668-BE27-A1A146DAD4CB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3B396585-462A-4CF2-9C69-3C852897FBFC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">40000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEF8E366A-2CBA-4DB0-979E-6E3CE61A3142">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3B396585-462A-4CF2-9C69-3C852897FBFC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">bitcoins</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

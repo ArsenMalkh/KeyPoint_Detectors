@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374781" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode62BFF0E1-FE9E-4F0D-97AC-976702BA1DF4">
-		<BasicEntity:ms_major_currency xml:lang="en-US">GBP</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">39000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD7621D84-49FC-480E-81E1-D6987A91C3CA">
-		<Aux:document_text xml:lang="en-US">Well, Mr Blair, having collapsed in the negotiations, having been totally outwitted, outclassed and outplayed by President Chirac, has signed a really rather bad deal for the British taxpayer. And now a majority of British people are asking: ‘why are we paying GBP 39 million a day into an organisation which cannot sign off its own accounts’? Why should British taxpayers be helping to build a new underground system in Warsaw and new sewers in Budapest? Why are we paying all this money to a group of countries that sell us far more than we sell them?</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode53A8DEBF-F723-4F2D-8E79-DAD3F433418B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode62BFF0E1-FE9E-4F0D-97AC-976702BA1DF4"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4010E662-EA13-41FB-AD01-61F307A7CDE4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode62BFF0E1-FE9E-4F0D-97AC-976702BA1DF4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">GBP</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7688D63E-821A-444A-B27C-8BA0210BB7EF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode62BFF0E1-FE9E-4F0D-97AC-976702BA1DF4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">39000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

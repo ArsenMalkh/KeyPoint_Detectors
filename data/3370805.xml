@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370805" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCD6D4768-BD76-45BE-A464-D16ACED6E47A">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Schillings</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">35000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode52E75194-811A-4160-9277-43476C00A3D4">
-		<Aux:document_text xml:lang="en-US">The first business to open was an Internet café which is proving to be a lively and popular venue. European funding provided the seed for success but private support was also a key factor. Overall, commissioning a standard design for all the units and developing the public space in the area required a further 35 million Schillings. On top of this, businesses are footing the bill to actually develop the shop units. To raise this level of awareness and interest, the project publicised its plans to many companies. More than 200 businesses expressed an interest in the regenerated archways.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode6BB38ABE-3FCD-4892-B5DB-644437D1B660">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCD6D4768-BD76-45BE-A464-D16ACED6E47A"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD9990350-3D6C-46E9-9BC2-2D84A1B2FE41">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">321</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCD6D4768-BD76-45BE-A464-D16ACED6E47A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">35000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2E85DB2E-AD43-4F0A-8238-09FEE9D2A4DB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCD6D4768-BD76-45BE-A464-D16ACED6E47A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Schillings</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

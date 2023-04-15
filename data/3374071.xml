@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374071" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA8F7F7A1-C653-43CD-B2C8-8A86C9DC430D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Irish pounds</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2700000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeA5BC0DEA-1148-408F-A138-E09F2ADE011C">
-		<Aux:document_text xml:lang="en-US">By November 1992 seven key members of the BAG had sought an injunction at the Irish High Court against the construction work. This argued that the OPW’s exemption from the need for planning permission was unconstitutional and that the OPW lacked the statutory power to build the visitor centre. In December 1992, the WWF and An Taisce brought an action at the European Court of Justice, claiming that 2.7 million Irish pounds of Community funds allocated to the project should be suspended. The Court, however, dismissed the application. In January 1993, a key political ally of BAG, Michael D. Higgins became Minister for Arts, Culture and Gaeltacht. In early 1993 work at the proposed site stopped, following action by BAG at the Irish High Court. The High Court found in February that the OPW had unconstitutionally and illegally initiated construction and that it did indeed lack the relevant statutory power. OPW appealed, but the injunction was upheld.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDCD1BB78-28AD-4F35-80FE-04B88116AC25">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA8F7F7A1-C653-43CD-B2C8-8A86C9DC430D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode45BC3D6D-AF46-4CF8-A356-CC93F3633216">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA8F7F7A1-C653-43CD-B2C8-8A86C9DC430D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2700000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDB3FCF1B-6D13-4FBC-AB6A-D5E37000C8E2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA8F7F7A1-C653-43CD-B2C8-8A86C9DC430D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Irish pounds</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

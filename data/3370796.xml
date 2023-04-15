@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370796" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode97E043F5-A88F-41D9-BB0B-84D3D52D70FD">
-		<BasicEntity:ms_major_currency xml:lang="en-US">kyats</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">50</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7B673327-5E70-4727-8DA7-4F87754A813E">
-		<Aux:document_text xml:lang="en-US">My name is Aung Ko. And this is my motorcar. So. There I was in a beat-up Chevy, in the middle of nowhere... ...but there was something comforting about traveling with someone who knew nothing about me. Oh. Checkpoint. -Oh. Is it time to do some persuading? -Yes. 50 kyats would be very persuasive now. Burma is a land of monks... and soldiers... ...as you may have noticed. We all spend a little time as a monk. But once a soldier, always a soldier. They gave you a hard time.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeCFB78C8D-0738-49A0-AAC1-5AF0BD28385E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode97E043F5-A88F-41D9-BB0B-84D3D52D70FD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4E00B55F-A635-412C-9314-FE9D6FE09F80">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode97E043F5-A88F-41D9-BB0B-84D3D52D70FD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">50</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE3BD1AB3-60F1-4673-BF35-58E2531ED07B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode97E043F5-A88F-41D9-BB0B-84D3D52D70FD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">kyats</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

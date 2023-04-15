@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374959" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7AEA82F3-CC18-44CE-B9B1-9BE0E7FAB6FE">
-		<BasicEntity:ms_major_currency xml:lang="en-US">tenge</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1121400000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeC9CF44DF-3B0C-4675-A79A-3A1FD5A546E2">
-		<Aux:document_text xml:lang="en-US">Wage arrears reduced by 20.4% in regions 22 January 2013 As of January 1, 2013, the amount of wage arrears reduced by 20.4% and made 1121.4 million tenge in the country, the press service of the Ministry of Labor and Social Protection of Population reported.  The Ministry of Labor and Social Protection of Population of Kazakhstan carries out permanent monitoring of the wage arrears. The Ministry weekly updates the information on its website about enterprises holding back wages of their employees.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1B5E28AB-C63E-4611-8AC5-A4D2AF91828C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7AEA82F3-CC18-44CE-B9B1-9BE0E7FAB6FE"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode80292A2D-A9E9-45EE-B9F2-B4FED6B1E7A3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7AEA82F3-CC18-44CE-B9B1-9BE0E7FAB6FE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1121400000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode66279151-E682-45E2-8CC3-78E06CFFCE4B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7AEA82F3-CC18-44CE-B9B1-9BE0E7FAB6FE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">tenge</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370557" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2ADC2AC5-AEC8-4EF7-BC8A-FD16D6E40005">
-		<BasicEntity:ms_major_currency xml:lang="en-US">XPF</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2200</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeBBC69873-8713-44F6-A287-3A66AD602FC2">
-		<Aux:document_text xml:lang="en-US">Room service, Meeting/banquet facilities, Airport shuttle, Laundry, Car hire, Tour desk, ATM/cash machine on site, Concierge service, Shuttle service (surcharge) Golf course (within 3 km), Fishing, Spa and wellness centre, Massage, Children's playground, Hot tub, Hiking All further older children or adults are charged XPF 2200 per person per night when using existing beds. Restaurant, Bar, 24-Hour Front Desk, Newspapers, Grounds, Terrace, Non-smoking Rooms, Rooms/Facilities for Disabled Guests, Family Rooms, Lift/elevator, Safe, Baggage Storage, Allergy-free Room Available, All Spaces Non-Smoking (Public and Private), Restaurant With Dining Menu, Buffet-Style Restaurant, Sun Deck</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5EFEF3AB-CAF0-4DAD-993B-1150FF3679DD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2ADC2AC5-AEC8-4EF7-BC8A-FD16D6E40005"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9F7F62CE-4751-48F8-BF10-E4FAA2B6BA71">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2ADC2AC5-AEC8-4EF7-BC8A-FD16D6E40005"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">XPF</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5EF6C10D-19BA-4AE2-81FB-6F1DD45B879A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2ADC2AC5-AEC8-4EF7-BC8A-FD16D6E40005"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2200</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

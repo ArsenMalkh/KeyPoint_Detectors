@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375018" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB4BC58D4-F5E0-4DCE-B533-0B0FC6151374">
-		<BasicEntity:ms_major_currency xml:lang="en-US">rupees</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode66EC1C22-0C3F-45AD-B5F5-18D43BD6C088">
-		<Aux:document_text xml:lang="en-US">I'm just a small time gangster. Our gang fixes derbies. People bet money on the favorite horses that win.. ..but we bet on losing. Blue thunder was favorite in yesterday's derby. This race was fixed. I had bet my life time earning, rupees hundred thousand.. ..on that horse. But the jockey double crossed us. I had to pay a heavy price for this shortcut. Our booking company lots its reputation and hazard. The company is run by three Bengali brothers. This is Mujeeb and that's Shumon.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4F6A43D1-0728-4469-A769-DE35C2C91AF4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB4BC58D4-F5E0-4DCE-B533-0B0FC6151374"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF683F557-0A53-427E-AAE8-F90D93467544">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB4BC58D4-F5E0-4DCE-B533-0B0FC6151374"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">rupees</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7B270C46-194B-4DAB-921F-E48B5AE62FD3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB4BC58D4-F5E0-4DCE-B533-0B0FC6151374"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

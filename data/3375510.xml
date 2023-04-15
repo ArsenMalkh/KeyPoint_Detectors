@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375510" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC36DE5BA-D6CA-4DA4-83B0-E987B2C837E6">
-		<BasicEntity:ms_major_currency xml:lang="en-US">IDR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode88FEB9D8-2E51-486D-ABFE-4AAB6EEBDAA1">
-		<BasicEntity:ms_major_currency xml:lang="en-US">IDR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">20000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6F0ECB96-B184-4042-9D9C-FB0C000BC128">
-		<Aux:document_text xml:lang="en-US">Overall, the Indonesian requirements as mentioned above continue to be largely consistent with OECD BEPS Action 13. This is a positive continuation for Indonesia and, as Southeast Asia’s largest economy, should help multinational companies manage and support their Indonesian transfer pricing needs. pu/c www.pwc. co m/id Master File and Local File The Master and Local files must be prepared and maintained by taxpayers who have related party transactions and: whose prior year annual gross turnover exceeds IDR 50 billion; or whose prior year annual related party transactions exceeds: IDR 20 billion for tangible goods transactions; or IDR 5 billion for each transaction on services, interest, intangible goods, or other related party transactions; or have related party transactions with parties domiciled in countries or jurisdictions with lower income tax rates than Indonesia.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeEC07552A-B1C4-4478-9480-0CD7966280BE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode88FEB9D8-2E51-486D-ABFE-4AAB6EEBDAA1"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1E7290F1-FDFC-46C9-A01B-CF93D85833AE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">591</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode88FEB9D8-2E51-486D-ABFE-4AAB6EEBDAA1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">IDR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB954DED7-0CD0-4605-B7FC-299158C629CB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">592</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode88FEB9D8-2E51-486D-ABFE-4AAB6EEBDAA1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">20000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode55366A7C-3C5B-44EA-B2FF-BD11D33B0A9A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">639</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">652</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC36DE5BA-D6CA-4DA4-83B0-E987B2C837E6"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF9C73CF3-1C96-46F1-BFAA-D5FF9EC631C0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">639</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC36DE5BA-D6CA-4DA4-83B0-E987B2C837E6"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">IDR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC6EFE7EE-BE76-4125-B65B-264BB50C24A4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">643</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">652</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC36DE5BA-D6CA-4DA4-83B0-E987B2C837E6"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

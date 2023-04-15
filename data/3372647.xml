@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372647" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode19044F30-A296-471F-A135-58B1237ABC6A">
-		<BasicEntity:ms_major_currency xml:lang="en-US">€</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeAEB00502-AB18-4DB9-BD23-C9BAF73F5073">
-		<Aux:document_text xml:lang="en-US">€1 million EU aid package for redundant French abattoir workers By Cécile Barbière | EURACTIV.fr | translated by Samuel White 21-11-2014 The decline of the French pork industry has led to thousands of redundancies. [United Soybean Board/Flickr]  The European Parliament has adopted a motion to provide one million euros in EU aid to the ex-employees of Brittany’s GAD Abattoirs. The crisis in the French pork industry and the misuse of foreign workers are blamed for the company’s difficulties. EURACTIV France reports. The redundant employees of GAD Abattoirs in France, victims of the French pork industry’s decline, may soon receive a large aid package from the European Globalisation Adjustment Fund (EGF).</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode692BDD70-B3B4-418C-89FF-EEC87590CE2F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode19044F30-A296-471F-A135-58B1237ABC6A"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA25EDCD9-AD1C-43D5-9408-02BE16131FC3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode19044F30-A296-471F-A135-58B1237ABC6A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">€</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6523B68D-8CF4-414B-84B4-2707D97E78DC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode19044F30-A296-471F-A135-58B1237ABC6A"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

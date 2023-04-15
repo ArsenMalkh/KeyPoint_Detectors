@@ -1,181 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372585" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode931601AC-E798-4325-8392-56F4D30E75BF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">22000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode8ED7400C-6C7F-48E0-A6D4-3AA27E48DCD4">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">62000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF0CEE1C4-413A-4401-9033-322003EFCD6F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">49000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF721D8AF-7885-483D-8DCC-202E1BFD46CB">
-		<BasicEntity:ms_major_currency xml:lang="en-US">TWD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode465E7F19-CE50-4C99-85BA-E75825FBB28C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">500000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF7A332CB-511E-408A-85A0-0BAC2BDE0C3B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">90000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode3C758071-36BA-4F9C-AA5D-DA27494B699B">
-		<Aux:document_text xml:lang="en-US"> Manufacturing and sales of valves and fittings for semiconductor production equipment KITZ Micro Filter Corporation 90 million JPY 100.0 Manufacturing and sales of fluid separation products for filters and related products KITZ (Thailand) Ltd. 500 million THB 92.0 Manufacturing and sales of valves KITZ Corporation of Taiwan 200 million TWD 100.0 Manufacturing and sales of valves KITZ Corporation of Jiangsu Kunshan 49 million CNY 100.0 Manufacturing and sales of valves KITZ Corporation of Kunshan 62 million CNY 100.0 (100.0) Manufacturing and sales of valves KITZ SCT Corporation of Kunshan 22 million CNY</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode3E94AEE7-EC77-448C-AA51-4076064E6BD5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF7A332CB-511E-408A-85A0-0BAC2BDE0C3B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA841DD89-C737-4B0B-A3C4-6DC86E3125E7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF7A332CB-511E-408A-85A0-0BAC2BDE0C3B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">90000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2FE57C47-93BF-4E5F-A59A-5400FC0F865C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF7A332CB-511E-408A-85A0-0BAC2BDE0C3B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8089306B-853D-4894-BF24-CE03B7FAE817">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode465E7F19-CE50-4C99-85BA-E75825FBB28C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEF86A86D-F3A6-403B-A7CA-204C2F942D5A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode465E7F19-CE50-4C99-85BA-E75825FBB28C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">500000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCA8B914F-AC19-4AD7-AC47-0C7009982224">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode465E7F19-CE50-4C99-85BA-E75825FBB28C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6444C87D-7E3C-4CBE-B4B6-BE9575BF9589">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF721D8AF-7885-483D-8DCC-202E1BFD46CB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF75E8694-8DC0-477E-9BAF-54C7FF1C5EDC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF721D8AF-7885-483D-8DCC-202E1BFD46CB"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2B77525D-9F14-4593-83D2-A982AED8DC04">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF721D8AF-7885-483D-8DCC-202E1BFD46CB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">TWD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2904CA62-33E1-46AB-8787-CB1D30619CA2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF0CEE1C4-413A-4401-9033-322003EFCD6F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">49000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode2D23008D-40C1-4022-ACD6-2367A6FA1C72">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">433</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF0CEE1C4-413A-4401-9033-322003EFCD6F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6CA33575-1BD3-4401-A171-7CBEDC0B2467">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">433</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF0CEE1C4-413A-4401-9033-322003EFCD6F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode64E5F2CA-1B58-4328-BDFA-5DA2E6593ED1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8ED7400C-6C7F-48E0-A6D4-3AA27E48DCD4"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB76CA44A-4E0F-45B8-98E5-0646B9C2C114">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8ED7400C-6C7F-48E0-A6D4-3AA27E48DCD4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">62000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6C9C0770-C067-418A-B549-1CAAC33A3283">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8ED7400C-6C7F-48E0-A6D4-3AA27E48DCD4"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4CCAA730-31AE-425B-B975-B68AA476B51A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">597</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode931601AC-E798-4325-8392-56F4D30E75BF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6F74F713-BE37-4309-AE78-1819320517F8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">597</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">607</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode931601AC-E798-4325-8392-56F4D30E75BF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">22000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode74618492-3DD0-469F-8B48-55C3018F6535">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">608</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode931601AC-E798-4325-8392-56F4D30E75BF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

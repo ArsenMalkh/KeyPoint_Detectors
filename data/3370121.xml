@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370121" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6A9C90F2-5F83-4B18-9F6A-DE4A49087477">
-		<BasicEntity:ms_major_currency xml:lang="en-US">gold francs</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">7800000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeAA1A098D-57E7-4B9C-B3DD-29C372071477">
-		<Aux:document_text xml:lang="en-US">How many stairs to get to the top? 1665 from the ground to the top via the east pillar. However, the steps from the second floor to the top are closed to the public. How much did it cost to build the Eiffel Tower? 7,800,000 gold francs (in 1889). Was the foundation laid over water, mercury or a hydraulic jack? Neither on water nor mercury. The foundation was constituted in stonework. Hydraulics was used during construction to aid in establishing the correct inclinations of the pillars in relation to the first floor.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC146F2CD-1148-41CE-9F98-5E77B169FCC4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6A9C90F2-5F83-4B18-9F6A-DE4A49087477"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2B7816E0-AFEC-4882-B030-C5E0035A1923">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6A9C90F2-5F83-4B18-9F6A-DE4A49087477"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">7800000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD2245A50-69B9-4C12-935F-A1FB1FFC0247">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6A9C90F2-5F83-4B18-9F6A-DE4A49087477"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">gold francs</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371373" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode230020A0-6B06-4B5F-AD73-6A2B868E820E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">shillings</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5.6</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4A2207B1-4286-4E81-837C-AD240CB1C4C8">
-		<Aux:document_text xml:lang="en-US">The FTSE/Namibia Overall Index (FTN098) advanced for a third day, increasing 0.6 percent to 870.26 in Windhoek. The Nigerian Stock Exchange All-Share Index (NGSEINDX) fell 0.2 percent to 20,635.07 in Lagos, according to an e-mailed statement from the bourse. Mauritius’s SEMDEX Index (SEMDEX) gained for a second day, climbing 0.1 percent to 1,890.13 by the end of trading. The following shares were active in sub-Saharan Africa, excluding South Africa. Stock symbols are in parentheses. AccessKenya Group Ltd. (ACCESS), the nation’s only publicly traded Internet company, jumped 8.7 percent, the most since April, to 5.6 shillings on speculation it will post a full-year profit. “Earnings for 2011 are expected to be substantially stronger than 2010 and we are seeing a lot of position taking on the counter,” Eric Musau, a research analyst at Nairobi-based Standard Investment Bank Ltd., said by phone today. “Although it did not have a good first half, the second half is expected to be good.”</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDEE15D7A-809F-4749-99CC-7DD24F6606C5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">618</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode230020A0-6B06-4B5F-AD73-6A2B868E820E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5D3266E3-C86B-4BDA-BF40-A08B372DC191">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">618</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode230020A0-6B06-4B5F-AD73-6A2B868E820E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5.6</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode320C9F69-8546-4514-86FF-4C202DC584B9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">622</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode230020A0-6B06-4B5F-AD73-6A2B868E820E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">shillings</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

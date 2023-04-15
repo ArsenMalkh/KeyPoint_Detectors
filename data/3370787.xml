@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370787" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCE773323-6AA3-47C5-BDCE-E518E39FDB20">
-		<BasicEntity:ms_major_currency xml:lang="en-US">schilling</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">187</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeB86DFE85-8D8F-4252-869D-6498536AB536">
-		<Aux:document_text xml:lang="en-US">The whole class. The teacher came in and asked what was on the floor. She ran away. So it was up to us to clean it up anyway. But, I mean, you know how kids are. What else could we have said? 187 schilling. Yes, hello? Why, what is it? No, I'm afraid it's not possible this week. I can't believe it... What is the matter with you? Hey, are you not well? - What do you mean, "why"? What gave you the idea to say you were blind?</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode61F3D367-503C-42D0-9D9F-EF5CE2785072">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCE773323-6AA3-47C5-BDCE-E518E39FDB20"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8A15D6B6-F384-439B-AA7B-4B97582C0782">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCE773323-6AA3-47C5-BDCE-E518E39FDB20"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">187</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode67F3C48D-0590-432C-B273-07C22034F9C1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCE773323-6AA3-47C5-BDCE-E518E39FDB20"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">schilling</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

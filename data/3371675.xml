@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371675" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3B2961F7-84E2-46BB-8C37-C1383543B286">
-		<BasicEntity:ms_major_currency xml:lang="en-US">roubles</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">800000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7160ED76-63EF-42E3-ABF9-1214E6A444CA">
-		<Aux:document_text xml:lang="en-US">More than 40 enterprises of the “Belarusian Light Industry” concern will take part in the agrarian festival. It is worth noting that markups will be lowed and some goods will be sold without any markups at all during the fair. The row of stalls will be 270 meters long. Women’s coats, men’s suits and various children’s clothes as well as other goods will be sold there. Enterprises of “Belarusian Light Industry” made more than 800 million roubles at “Dazhynki” last year, reports BelTA.    The dress rehearsal of the concert took place in Maladzechna amphitheatre yesterday. A lot of viewers gathered there.            </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode7F4C99E4-9944-4A65-A6B2-058DCA560D68">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3B2961F7-84E2-46BB-8C37-C1383543B286"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode636644CD-0C65-456E-BBB1-DF9C631FA58A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3B2961F7-84E2-46BB-8C37-C1383543B286"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">800000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8C944A3E-B52E-483F-B1C8-AD50E00A70A1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3B2961F7-84E2-46BB-8C37-C1383543B286"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">roubles</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

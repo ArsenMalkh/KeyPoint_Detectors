@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375559" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDC839E8E-AF5A-4A31-9C7F-E548B0E2AD2E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Somali shillings</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeFB334C51-1ED9-4850-851E-840009572432">
-		<Aux:document_text xml:lang="en-US">It is reported that some of the individuals involved in this business are: Mohamed Qanyare Afrah, in control of Daynille airstrip, who collects $5,000 per day; Abukar Omar Adan and Bashir Rage who control El Ma'an port; and Abdullahi Yusuf who controls the Boosaaso seaport. It is interesting to note that Mohamed Dhere allegedly collects a birth tax in the region under his control. Families must pay 1,000,000 Somali shillings (approximately $44) every time a male child is born and 50,000 for female children. (g) Kidnapping Motives for kidnappings in Somalia may vary from political to economic. Economic motives appear to be the most common, of which kidnappings to ensure the repayment of a khat debt or abductions to obtain money to sustain a two-day confrontation are examples.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode35B8E93C-6991-4E46-B98F-300283ED0CE1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC839E8E-AF5A-4A31-9C7F-E548B0E2AD2E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7DBF4381-6B3A-4FF7-98BC-EBAC8CD32ACC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">411</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC839E8E-AF5A-4A31-9C7F-E548B0E2AD2E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode937868D5-FCA3-433F-AA13-A5409C146A3F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC839E8E-AF5A-4A31-9C7F-E548B0E2AD2E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Somali shillings</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

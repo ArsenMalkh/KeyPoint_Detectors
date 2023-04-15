@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372199" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode84361307-5DFE-4914-ADA3-88408130BFE3">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Rmb</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">7500000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode1ADB6F3D-7412-48B4-8E31-6F06B1DA99BC">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Rmb</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">11000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode594A1887-7498-4397-9918-3B90D2924B33">
-		<Aux:document_text xml:lang="en-US">The Hamamatsu Manufacturing Unit, the parent  plant for electronic components, obtains ISO 14001 certification. October The Fujisawa and Omori Manufacturing units obtain ISO 14001 certification. Minebea Electronics (UK) Ltd. obtains ISO 14001 certification. 2001 May The Shanghai-Minebea Environmental Protection Fund is increased to Rmb 11.0 million, from Rmb 7.5 million. July U.S subsidiary Hansen Corporation obtains ISO 14001 certification. November U.S. subsidiary New Hampshire Ball Bearings, Inc.'s Chatsworth plant obtains ISO 14001 certification. 1999 January The Kyoto Manufacturing Unit obtains ISO 14001 certification. February Rose Bearings Ltd.'s Skegness plant obtains ISO 14001 certification.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode557D509A-66CC-470E-B46C-233C2466053E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1ADB6F3D-7412-48B4-8E31-6F06B1DA99BC"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode70B62DFE-5B9A-4F19-8BFC-6C57E6E2855C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1ADB6F3D-7412-48B4-8E31-6F06B1DA99BC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Rmb</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBB4ED787-73D1-4DD8-A726-A4A15F50ABFA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode1ADB6F3D-7412-48B4-8E31-6F06B1DA99BC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">11000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD7D68B3D-36D2-4935-B374-3ACB459404FD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode84361307-5DFE-4914-ADA3-88408130BFE3"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7BA2FE3B-AD96-4F56-A780-6ECF6F5E5F85">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode84361307-5DFE-4914-ADA3-88408130BFE3"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Rmb</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode958C1452-C1B9-4E08-9AA2-762E527989C9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode84361307-5DFE-4914-ADA3-88408130BFE3"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">7500000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370803" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode0A139D4B-BECE-4FDE-98F7-997BA2D6601C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Reichsmarks</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1500</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4261A519-4902-4DC2-A32E-8A83FC797472">
-		<Aux:document_text xml:lang="en-US">I hope you're lucky enough to get it. I want you to have it. You'll also get the bracelet with the topaz pendant. A birthday present from the Führer. I owe some money to the Heise company. There may be more debts, but no more than 1500 Reichsmarks. All correspondence with the Führer must be burned. I'm sending you some food and tobacco. Also, the coffee is for Lindner and Kathl. The cigarettes are for Mandi, the tobacco for dad, the chocolate for mom. I can't think of anything else.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode7F06ECC7-6480-450F-A520-1B196CF4B028">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0A139D4B-BECE-4FDE-98F7-997BA2D6601C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode81D895D7-A14B-4DF8-8308-5704612D7BA7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0A139D4B-BECE-4FDE-98F7-997BA2D6601C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1500</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB350774B-C0DB-4ED5-8B1A-806E657B490B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode0A139D4B-BECE-4FDE-98F7-997BA2D6601C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Reichsmarks</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

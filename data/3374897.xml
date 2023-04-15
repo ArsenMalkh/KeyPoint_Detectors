@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374897" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode64731E7D-1B6E-4AC6-9218-6E0C62AF3AAF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">150000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode3D0442EB-94C3-4DFC-8C5C-686B22FADC95">
-		<BasicEntity:ms_major_currency xml:lang="en-US">euro</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">14700000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode899B0FC5-43A0-43FF-84CB-CD178355854C">
-		<Aux:document_text xml:lang="en-US">Interest paid and similar expense Net interest Currency exchange differences Financial result Sundry financial obligations There were no other financial obligations as at December 31, 2010 (p.y. 14.7 million euro). The guarantee that had been given for the liabilities in the amount of 150 million CNY of Merck Consumer Health Care Trading Co. Ltd., Shanghai, to Deutsche Bank in Beijing, China, was transferred to Merck KGaA. Financial instruments We employ derivative financial instruments solely to hedge currency and interest positions in order to minimize foreign-currency and financing-cost risks caused by exchange rate/ interest rate movements. We employ forward exchange contracts, exchange options and interest-rate swaps, customary in the market, for this purpose. The use of such derivative contracts is set out in guidelines. The concluding of derivative transactions is subject to constant risk control. A strict separation of functions between business, execution and control is assured. Derivative financial contracts are only concluded with banks of good credit standing and are limited to the hedging of financing transactions.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1367F479-E0D8-4455-BDEA-1EA9860AFCB4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3D0442EB-94C3-4DFC-8C5C-686B22FADC95"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE157A824-C38B-42BA-9128-FEEDD5D164B5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3D0442EB-94C3-4DFC-8C5C-686B22FADC95"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">14700000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6873DF4D-8057-40E9-9FB2-50A87557F7B4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode3D0442EB-94C3-4DFC-8C5C-686B22FADC95"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">euro</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeEBAAF45B-09FB-42B5-BDE4-57C001894DF7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode64731E7D-1B6E-4AC6-9218-6E0C62AF3AAF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode76CF3A3E-C5A7-4A65-8DD7-83966A9BECE9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode64731E7D-1B6E-4AC6-9218-6E0C62AF3AAF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">150000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode275C7AF7-46E4-4D7E-BF88-E71DF3FEE952">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode64731E7D-1B6E-4AC6-9218-6E0C62AF3AAF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

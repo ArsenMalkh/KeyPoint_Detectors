@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372553" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode827FEB70-D395-4333-A0DE-CE4D67E9CFB5">
-		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2900000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1A3E149A-EB95-4D6F-8A35-898A469DE149">
-		<Aux:document_text xml:lang="en-US">The El Niño phenomenon also had an adverse effect on traditional exports and drove up imports of consumer non-durables (foodstuffs) and capital goods destined for rehabilitation of the Coastal region. The United Nations Economic Commission for Latin America put the infrastructure, production and income losses at US$ 2,900 million (14.5 per cent of GDP). Imports of consumer goods (Millions of dollars f.o.b.) Source: Central Bank of Ecuador's statistics. These problems, and others related to the drop in production caused by the El Niño phenomenon, put pressure on price levels, the exchange rate and interest rates.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode9DD7C1E2-E8DB-4E80-BAA6-ADAA8E237E45">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode827FEB70-D395-4333-A0DE-CE4D67E9CFB5"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode945C2EE8-FF85-4331-A697-313573545E33">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode827FEB70-D395-4333-A0DE-CE4D67E9CFB5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC08F7D72-70B9-4754-930E-91F29366B16F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode827FEB70-D395-4333-A0DE-CE4D67E9CFB5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2900000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

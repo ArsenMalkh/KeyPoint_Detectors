@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371992" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4660A6E5-9436-412A-825D-5A10EB67A4DD">
-		<BasicEntity:ms_major_currency xml:lang="en-US">dirhams</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD8F72715-879D-4720-AD5E-EE83615D8C69">
-		<Aux:document_text xml:lang="en-US">The general tone of the Koran and the hadith—the associated teachings and deeds of the Prophet Mohammed—is one of conducting business fairly and using the proceeds to support Islam, not of hedging commercial life with prohibitions and treating it with distrust. One tradition reports Mohammed saying: “If thou profit by doing what is permitted, thy deed is a jihad [holy act], and if thou usest it for thy fam- 136 ALAN BEATTIE ily and kindred it will be a sadaqa [charitable deed], and truly a dirham lawfully gained from trade is worth more than ten dirhams gained in any other way” This rather recalls the dictum of John Wesley, the founder of Methodist Christianity (and a favorite of that apostle of low-church capitalism, Margaret Thatcher): “Gain all you can; save all you can; give all you can.” Mohammed is also cited thus: “The merchant who is sincere and trustworthy will [on Judgment Day] be among the prophets, the just and the martyrs ” The Prophet Mohammed was, after all, a trader before he became a preacher. And Islam is the only major religion to be founded by a trader.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6644CEF-E387-4DA0-80EA-D67E997D62E2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4660A6E5-9436-412A-825D-5A10EB67A4DD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE0CC757C-794E-4466-AC19-30C0018AEE4C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4660A6E5-9436-412A-825D-5A10EB67A4DD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode97245F52-3BED-40DE-BAF7-B3F65C2260EC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4660A6E5-9436-412A-825D-5A10EB67A4DD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">dirhams</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

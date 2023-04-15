@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375527" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode55CE2EFB-181B-465B-91D2-B82B1D70F9D8">
-		<BasicEntity:ms_major_currency xml:lang="en-US">EUR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">19616</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode59CD798E-7FEE-478C-8C54-A6D7ADE5F09D">
-		<Aux:document_text xml:lang="en-US">‘Ministerie van Economische Zaken The address details under the heading ‘SWEDEN’ shall be replaced with: Commission Regulation (EC) No 1368/2005 The world price for unginned cotton as referred to in Article 4 of Regulation (EC) No 1051/2001 is hereby determined as equalling 19,616 EUR/100 kg. Commission Regulation (EC) No 1369/2005 This Regulation shall enter into force on 23 August 2005. to Commission Regulation of 22 August 2005 establishing the standard import values for determining the entry price of certain fruit and vegetables Commission Regulation (EC) No 1370/2005</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode35DA7226-F6A8-4503-BC9C-50CB3FB7A985">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode55CE2EFB-181B-465B-91D2-B82B1D70F9D8"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA4B2DF22-3EFF-4693-8B00-BFEE5CA24B8B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode55CE2EFB-181B-465B-91D2-B82B1D70F9D8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">19616</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3F612EB4-7E88-4630-AB4A-D0AA47DCFADF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode55CE2EFB-181B-465B-91D2-B82B1D70F9D8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">EUR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

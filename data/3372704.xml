@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372704" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode8291F091-97EC-4196-8DE3-BE8991075502">
-		<BasicEntity:ms_major_currency xml:lang="en-US">MXN</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1700000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD37B906B-1BBE-426B-BC17-C9399875F253">
-		<Aux:document_text xml:lang="en-US">European Bank for Reconstruction and Development CREDIT AGRICOLE CORPORATE &amp; INVESTMENT BANK EBRD Microfinance Bonds Tokyo I London, December 7, 2015 - The European Bank for Reconstruction and Development (EBRD) issued a new MXN 1,700 million 10 year note following the principle of “Microfinance Bonds”. Credit Agricole Corporate and Investment Bank was the sole underwriter for this Bond. The Dai-chi Life Insurance Company, Limited (Dai-ichi Life; President: Koichiro Watanabe) is the sole investor in the bond, and with this investment Dai-ichi Life became the first financial institutional investor to support EBRD’s Microfinance bond program.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode994BE8FA-FDE3-4057-A836-0A81879225CF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8291F091-97EC-4196-8DE3-BE8991075502"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode593F7B35-CBA1-4143-AD32-21EA19465C29">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8291F091-97EC-4196-8DE3-BE8991075502"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">MXN</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB3C34367-339A-4102-BE31-B4405FB2582D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8291F091-97EC-4196-8DE3-BE8991075502"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1700000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

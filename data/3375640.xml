@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375640" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD02A3BF7-A67E-41AE-8BC6-8946C910B398">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">63600000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode213F0D44-C06A-4D21-9187-87CA9B0B6B9D">
-		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">100000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode27457825-B134-480A-9C79-0711360074F4">
-		<Aux:document_text xml:lang="en-US">In-station store business, convenience store business • Implement sequential conversion to Seven-Eleven franchise stores over a period of about two years. Product procurement • Efficiency improvement and cost reduction through mutual utilization of distribution functions Odakyu Shoji will aim for sales of 100.0 billion yen in FY2025. (FY2017 sales: 63.6 billion yen) । FY2020 Achievement Status 2 Creation of content that produces emotionally moving moments Seek to create new content along the Odakyu Line and strengthen connections with local initiatives to attract customers to areas along the Odakyu Line and create community prosperity.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode065B8839-91EA-4881-A033-6B9AD4E28980">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode213F0D44-C06A-4D21-9187-87CA9B0B6B9D"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5F9FB63D-F27F-46A1-B50E-68BB76C84D4B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode213F0D44-C06A-4D21-9187-87CA9B0B6B9D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">100000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA428964D-46AC-4748-AA0C-80B06550CD73">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">321</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode213F0D44-C06A-4D21-9187-87CA9B0B6B9D"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF13D3D50-45E6-43FF-B29D-1BCAF83B9CA1">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD02A3BF7-A67E-41AE-8BC6-8946C910B398"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8B566645-5934-4B96-B191-B2D6CD7CDB05">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD02A3BF7-A67E-41AE-8BC6-8946C910B398"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">63600000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode530BCD45-95A5-405D-8DE0-515A2D174D92">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD02A3BF7-A67E-41AE-8BC6-8946C910B398"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375540" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCB9CB60E-A059-48F9-939F-263F5D4F5821">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CFA francs</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">750</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode317E62B2-6DA3-4F06-AF5B-94DFB2C55DDE">
-		<Aux:document_text xml:lang="en-US">Using small carts bought with a start-up grant from the United Nations Development Programme, Set Setal teams take the waste to a composting site, which supplies local farmers and a nursery (annual output of 12,000 trees). Set Setal's 30 employees and almost 1000 member households all strive to ensure the sustainability of their initiative. Their daily operational costs are covered by the monthly rental of CFA francs 750 paid by members for a rubbish bin. The fact that all financial transactions are managed by women is a guarantee that payments are made. The group plans to increase its income through market gardening and by operating a telecentre (see Spore 79) so that it can create more capital for expanding its services to the whole city.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode134A14CE-84E3-4BD7-A3C4-D2F6B2701EDB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">410</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB9CB60E-A059-48F9-939F-263F5D4F5821"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4BB048E7-E0CA-475D-8A20-94FE55106365">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">410</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB9CB60E-A059-48F9-939F-263F5D4F5821"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CFA francs</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0DDBBEF9-9450-4C6D-8E2C-F9FEF4127866">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB9CB60E-A059-48F9-939F-263F5D4F5821"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">750</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

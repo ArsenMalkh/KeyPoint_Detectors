@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373957" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4B391B42-8E91-4611-9099-898C254B9A40">
-		<BasicEntity:ms_major_currency xml:lang="en-US">NZ$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10575</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode071D2301-46A1-4808-9B6D-A5B1E54CEE70">
-		<Aux:document_text xml:lang="en-US">In 2014, the digitization of Westra's archive of negatives held at the Alexander Turnbull Library, Wellington, came into effect through her representative, Suite Tirohanga. Westra's print Untitled, from Washday at the Pa, 1963, set a new auction record price at NZ$10,575 at Webb's in Auckland, New Zealand, on 11 June 2015. Westra Museum On 20 April 2016 a museum was established, dedicated to Westra's work. Located above {Suite} at 243 Cuba St, Wellington, New Zealand, the space is 'centrum' for Westra and over 55 years of images. Visitors may browse through articles about the artist dating back to 1960 and view over 200 books featuring her images. Exhibitions change regularly, as do displays of the artist's ephemera.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF066DA4B-DB1B-4F6D-A4D7-E4CF1BBC3847">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">262</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4B391B42-8E91-4611-9099-898C254B9A40"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA2F86208-F3C8-41ED-ADAC-D88735C0C8D0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">262</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4B391B42-8E91-4611-9099-898C254B9A40"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">NZ$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode48E74AF3-CE8B-4991-9438-20979B29F41E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4B391B42-8E91-4611-9099-898C254B9A40"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10575</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372449" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode9BDE946E-87D1-466F-87F0-00C91703C9E7">
-		<BasicEntity:ms_major_currency xml:lang="en-US">tolars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode8BF3E08A-F40B-4541-9B0B-AC80644F1C10">
-		<Aux:document_text xml:lang="en-US">In the school-year 1998/99, 1,067 Romany children attended 58 elementary schools in 24 municipalities in Slovenia. One hundred and forty nine students attended schools providing special curricula for children with special needs, and 259 children attended such kindergartens. In the school-year 1998/99, the Ministry of Education remitted 1,000 tolars monthly for each Romany student as assistance in covering the costs of monthly school requisites, transport and entrance fees for cultural activities, days of natural science activities and sports days. Schools provide textbooks for Romany children from textbook holdings. Children who are foreign nationals or stateless persons residing in Slovenia have, in compliance with article 10 of the Elementary School Act, the right to compulsory elementary education under the same conditions as citizens of Slovenia.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8CAB2EA5-87EC-45E7-887C-BEA587CD2B14">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9BDE946E-87D1-466F-87F0-00C91703C9E7"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6F2CDD71-E0F5-4159-8B73-531B7882519A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9BDE946E-87D1-466F-87F0-00C91703C9E7"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode380CBF3C-D4C8-42BF-9FB5-21BAF2A8FD2F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">344</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9BDE946E-87D1-466F-87F0-00C91703C9E7"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">tolars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370952" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode790697B4-13B3-4BA1-A96C-F919453941A8">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CZK</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">990</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeACFA7B3E-7854-41AC-B638-CE95410A2FB9">
-		<Aux:document_text xml:lang="en-US">If you need to change your booking, you can do so at any time and free of charge. Economy Class passengers who have tickets in the Y and M booking classes can make their flights more pleasant by purchasing an upgrade to Business Class for CZK 990. This service is available on OK-designated flights operated by Czech Airlines, except for long-haul flights to the US, Canada, Kazakhstan, and Kuwait, and domestic flights. The service can be paid for by card directly at a check-in or transfer desk, or in cash, for example at the Czech Airlines sales counter at Prague Airport.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1ED34FD1-65A5-403B-8B36-4D83402DF817">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode790697B4-13B3-4BA1-A96C-F919453941A8"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0BED8CD5-B7F6-4687-ACA6-B61C89CC3825">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode790697B4-13B3-4BA1-A96C-F919453941A8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CZK</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1D74FE3F-3FE2-444E-AD39-A5F46A6EA66B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode790697B4-13B3-4BA1-A96C-F919453941A8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">990</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

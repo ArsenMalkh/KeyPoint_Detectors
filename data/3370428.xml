@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370428" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2EFB745B-E4B6-4352-B1B9-B7152E0D65BC">
-		<BasicEntity:ms_major_currency xml:lang="en-US">SKK</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">3000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode17B906F3-BCA0-4A00-83DA-E6325FCB2A00">
-		<Aux:document_text xml:lang="en-US">CURRENT FINANCIAL ELV TAKE BACK CONDITIONS IMPLEMENTATION OF ANNEX I REQUIREMENTS – CURRENT STATUS COLLECTION AND DISMANTLING SHREDDER OPERATORS Comments:Hungary:  High amount of orphaned brand cars (Trabant, Wartburg, etc.: Total +/- 10% of car parc) Slovakia:  Recycling Fund is fuelled by 3000 SKK/newly registered vehicle.  Fund is to support infrastructure Slovenia:  - The current system is based on a  weight– based tax to be paid at import or registration  Fund supports infrastructure up to 2006 Cyprus: 4 take back points in the country is accepted as area coverage</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode60EB8E2A-4371-4138-9E62-057ACC3B815A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2EFB745B-E4B6-4352-B1B9-B7152E0D65BC"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA45B1576-7663-44A9-A6D0-BF619EF5F36E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2EFB745B-E4B6-4352-B1B9-B7152E0D65BC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">3000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA6BD71D3-2D5F-47B6-9F98-993878E5945B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2EFB745B-E4B6-4352-B1B9-B7152E0D65BC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">SKK</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

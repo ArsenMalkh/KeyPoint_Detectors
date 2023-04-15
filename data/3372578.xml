@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372578" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB885B8FC-EF3E-4757-AAAD-F1733D11D68E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">6400000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode06664F7C-0EE2-49C9-9825-943F197EBAC9">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Thai Baht</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode8F8EA070-E275-460C-8C3B-5DA36A7A5989">
-		<Aux:document_text xml:lang="en-US">Under these circumstances, We decided to establish a foreign subsidiary in Thailand for promoting sales of functional foods, lead by ”Inulin”, and developing various business, sugar business as a first priority, into the Southeast Asia. 2. Corporate Profile (1) Company name: FUJI NIHON (Thailand) Co.,Ltd. (a tentative name) (2) Representative: Kazumi Fujiwara (3) Location: Bangkok (4) Business scope: Distribution of Inulin and other functional food materials (5) Paid-in capital: Thai Baht 2 million (approx.. JPY6.4 million) (6) Date of establishment: May, 2013 (scheduled) (7) Shareholding: Fuji Nihon Seito Corporation 49% Other two companies based in Thailand are under negotiation regarding to the ratio of investment.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1EA8D6CA-1117-43E4-A46A-096CE078B3C4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode06664F7C-0EE2-49C9-9825-943F197EBAC9"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode85F4B285-01BC-46CD-AA70-F7084CF2FAAF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">493</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode06664F7C-0EE2-49C9-9825-943F197EBAC9"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Thai Baht</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD3FC7A57-2B7A-408D-AA19-4F54E9202225">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">494</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode06664F7C-0EE2-49C9-9825-943F197EBAC9"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode78CFDE4B-809F-45B0-9477-62E5006DA2FD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB885B8FC-EF3E-4757-AAAD-F1733D11D68E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode74D5C97B-BC5D-4FA8-A611-8B2059530B29">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB885B8FC-EF3E-4757-AAAD-F1733D11D68E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB9F56237-80AD-41B9-9DDE-0A4B9266ECEE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB885B8FC-EF3E-4757-AAAD-F1733D11D68E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">6400000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

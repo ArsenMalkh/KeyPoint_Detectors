@@ -1,94 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372196" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDC32A30B-A457-4B83-AEC9-B65C9AA90E03">
-		<BasicEntity:ms_major_currency xml:lang="en-US">SP$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">8000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF28B984A-9F95-4E42-B09D-AE9C133D9EDD">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HK$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC86F6FDA-351A-4132-BF4E-6B33B8EF4D06">
-		<BasicEntity:ms_major_currency xml:lang="en-US">EUR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode74C72CF3-3887-4612-B774-FDBB1C65F017">
-		<Aux:document_text xml:lang="en-US">Businesspark Marximum, Modecenterstrasse 17, Unit 2-7-A, 1110 Vienna, Austria TEL.43-1-706-7932 FAX.43-1-706-7933 Capital stock: 1 million EUR Business line: Sales of various kinds of capacitors NICHICON (HONG KONG) LTD. Unit 308, Harbour Centre Tower 1, 1 Hok Cheung Street, Hunghom, Kowloon, Hong Kong TEL.852-2363-4331 FAX.852-2764-1867 Capital stock: 5 million HK$ Business line: Sales of various kinds of capacitors NICHICON (SINGAPORE) PTE. LTD. 20 Jalan Afifi, #06-08, Certis CISCO Centre II, Singapore 409179 TEL.65-6481-5641 FAX.65-6481-6485 Capital stock: 8 million SP$ Business line: Sales of various kinds of capacitors NICHICON (TAIWAN) CO., LTD.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode210FDB1B-FB57-478E-AF55-6DB403B7BEAE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC86F6FDA-351A-4132-BF4E-6B33B8EF4D06"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1F5511E4-0841-4682-85B5-3F588E9F5D13">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC86F6FDA-351A-4132-BF4E-6B33B8EF4D06"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeFE271A35-5259-4C94-BC50-77F40980F326">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC86F6FDA-351A-4132-BF4E-6B33B8EF4D06"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">EUR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA7B7D330-EA1F-4DCD-B401-4DA02B909B11">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF28B984A-9F95-4E42-B09D-AE9C133D9EDD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode6C85BF38-DDE1-4640-9BBF-DA09708EC256">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF28B984A-9F95-4E42-B09D-AE9C133D9EDD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode687BEB56-A9F1-4B51-BD9C-7A2F366654E2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">365</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF28B984A-9F95-4E42-B09D-AE9C133D9EDD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HK$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode213FAA17-4BF0-4D5B-B945-2FF228ED20DC">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC32A30B-A457-4B83-AEC9-B65C9AA90E03"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC37ACC29-80A7-4D46-B40E-88BD7F2BC5D5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">575</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC32A30B-A457-4B83-AEC9-B65C9AA90E03"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">8000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB4369158-2415-4820-9075-467302C55F61">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">576</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">579</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeDC32A30B-A457-4B83-AEC9-B65C9AA90E03"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">SP$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372376" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode00FB91A0-3F5F-4A2E-BC32-8E9157484004">
-		<BasicEntity:ms_major_currency xml:lang="en-US">bolivianos</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeF26B5098-900A-4C65-9BFD-5A374D5F9CCA">
-		<Aux:document_text xml:lang="en-US">(b) In the administrative sphere at the national level, the Ministry of Labour is responsible for monitoring the implementation of labour and occupational safety standards, through the inspection services under the supervision of the Labour Department and the Industrial Safety Department. Infringements of labour and occupational safety standards are subject to administrative penalties in the form of fines of between 1,000 and 10,000 bolivianos. These amounts are to be changed, as is borne out by the Tripartite Negotiation Agreement concluded with the technical assistance of ILO on 21 April 2004 (attached). At the local level, the Offices of the Ombudsmen for Children and Young Persons are responsible for handling individual complaints concerning violations of labour standards affecting young persons who work.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode55E13CAD-BAB9-4601-A2D4-3266D77B13C2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">447</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode00FB91A0-3F5F-4A2E-BC32-8E9157484004"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode84969785-69FC-4641-A9CD-3095BF0E45F2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode00FB91A0-3F5F-4A2E-BC32-8E9157484004"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC0DDDD45-DEAD-4801-A98C-E53C6727EC76">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">447</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode00FB91A0-3F5F-4A2E-BC32-8E9157484004"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">bolivianos</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

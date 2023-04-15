@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370866" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode51E1E796-13E0-43A9-B8C4-6132267CD4EC">
-		<BasicEntity:ms_major_currency xml:lang="en-US">French francs</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">116000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4A266DDA-609A-4CA4-8B99-EC2ECBA56D07">
-		<Aux:document_text xml:lang="en-US">In a first phase which would begin three months after the entry into force of the agreement, 20 kg/per second of chlorine ions would be injected into the deeplying strata of the ground. The cost of this first phase would be about 116 million French francs over 10 years. The other contracting parties would participate in the total costs, by providing France with a monetary contribution according to the following key: The intention is to increase the retention of chlorine ions to 40 kg/per second 2 years after entry into force of the agreement and if possible, to 60 kg/per second in the two following years.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8FF6CCE3-5231-44F6-B70D-B2459FBAAA04">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode51E1E796-13E0-43A9-B8C4-6132267CD4EC"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2945364A-7004-454C-A26E-10804FA6D609">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode51E1E796-13E0-43A9-B8C4-6132267CD4EC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">116000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode684196E2-AE92-49AC-B17F-737517C91646">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode51E1E796-13E0-43A9-B8C4-6132267CD4EC"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">French francs</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

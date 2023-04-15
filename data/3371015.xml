@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371015" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB02A59E0-5625-4295-9864-A7383E41E886">
-		<BasicEntity:ms_major_currency xml:lang="en-US">lei</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">444000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode024A5DE4-2267-45F9-A3F0-454995D7AC2B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Transnistrian rubles</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">400000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1C68F6A8-D9AB-48EA-9A5D-E3C0BDABBAD4">
-		<Aux:document_text xml:lang="en-US">08:23, 21 Jun 2008     Summer vacation officially starts for Transnistria's children  08:23, 21 Jun 2008    The authorities of Tiraspol city in the breakaway Transnistria region have allocated 400,000 Transnistrian rubles (some 444,000 lei) to arrange leisure activities for children, Info-Prim Neo's special correspondent reports.  With these funds there were opened nine daytime camps at schools in the city for children under 10. In addition, there were opened four clubs for teenagers from underprivileged families, for orphans and children left without parental care.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode209734D3-33E1-4D8A-9BE7-D27B75AE4085">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode024A5DE4-2267-45F9-A3F0-454995D7AC2B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA5B6D86C-7A5B-4653-8322-29708AFE2966">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode024A5DE4-2267-45F9-A3F0-454995D7AC2B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">400000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4242474E-B91F-42BD-BFFF-EC3831E92119">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode024A5DE4-2267-45F9-A3F0-454995D7AC2B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Transnistrian rubles</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1E08487B-3942-445A-9551-DA02154516C9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB02A59E0-5625-4295-9864-A7383E41E886"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF36FF4B5-6242-4CBE-BCAE-FF5AD06ECC4F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB02A59E0-5625-4295-9864-A7383E41E886"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">444000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode19143323-92B1-4280-A356-0327049A5BB6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeB02A59E0-5625-4295-9864-A7383E41E886"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">lei</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

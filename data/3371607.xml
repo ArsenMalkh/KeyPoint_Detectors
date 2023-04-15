@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371607" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode15D642AF-5791-4151-AEEA-2CC996DC4496">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Russian Roubles</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">3212875000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeD15BB00B-FB5E-4734-BC6A-2AFE9D0C85E2">
-		<Aux:document_text xml:lang="en-US">ZAO "Deloitte &amp; Touche CIS" 5 Lesnaya Street Moscow, 12 5047 Russia  Tel: +7 (495) 787 06 00 Fax: +7 (495) 787 06 01 www.deloitte.ru Basis for qualified opinion  The Group's investment in CJSC "Technolnvest Alliance", acquired during 2011, is carried at cost in the amount of Russian Roubles 3,212,875 thousand on the consolidated statement of financial position at 31 December 2011. We were unable to obtain sufficient appropriate audit evidence about the carrying amount of Group's investment in CJSC "Technolnvest Alliance" at 31 December 2011. Consequently, we were unable to determine whether any adjustment to this amount was necessary.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5FB266E0-6053-4E76-AEFF-9D027B19EF83">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode15D642AF-5791-4151-AEEA-2CC996DC4496"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC8DC57E3-0124-43A1-A7AC-17BA76E7124E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode15D642AF-5791-4151-AEEA-2CC996DC4496"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Russian Roubles</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8BC21A22-0402-4381-916B-A75781031C82">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode15D642AF-5791-4151-AEEA-2CC996DC4496"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">3212875000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

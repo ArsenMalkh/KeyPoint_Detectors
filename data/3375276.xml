@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375276" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4ACEFDCF-2873-4DF6-B50F-D9BF568203B2">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Qatari riyals</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">400000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeE15F61F2-BE71-49DD-931F-21B9130CC1E4">
-		<Aux:document_text xml:lang="en-US">This is not some romanticised recreation of the past but Qatar's biggest annual pearl diving event, the "Senyar". And just like their pearl diving predecessors, today's divers are there to try to secure a good bounty -- a first prize of 400,000 Qatari riyals ($110,000). "There are four other boats," says one of the competing captains, Mohamed bin Abdullah al-Sada. "The total number of teams is five. There are two teams that we need to watch out for, but God willing we'll finish ahead of them," he adds.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC69A3E5B-6CCE-4EE9-8BD0-D1674946956B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4ACEFDCF-2873-4DF6-B50F-D9BF568203B2"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode0B89B66E-6F13-4723-B8CA-194D93BB9F25">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">244</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4ACEFDCF-2873-4DF6-B50F-D9BF568203B2"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">400000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA8276B9-2744-4C2F-AB35-3768826F80E0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4ACEFDCF-2873-4DF6-B50F-D9BF568203B2"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Qatari riyals</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

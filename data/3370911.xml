@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370911" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7EFE298A-92B6-46AC-915A-8C213A224468">
-		<BasicEntity:ms_major_currency xml:lang="en-US">somoni</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">600000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode70B62143-8B00-41D8-A4E5-0B5C4FB7409D">
-		<Aux:document_text xml:lang="en-US">The director of the college is desperate for change, and the residents, too, are angry. One woman said, "We see foreigners come: they take pictures and nothing changes." Last year, thecollege applied for assistance from the government, but has heard no answer yet. In the best case scenario, the government would give the families land nearby (no one can buy or sell land) and then organisations such as Habitat for Humanity could help them build homes on this land. To repair the buildings as they stand would be excessively expensive and would keep families in the squalid conditions for longer. Replacing the roof on the three buildings is estimated at 600,000 somoni (more than £80,000). The goal of land is not impossible, just very, very difficult. A similar request in the north of the country took six years of pressure by the people for the government to grant them land. The lack of civic responsibility and civic education in Tajikistan is just one more impediment. People there have not yet learned to use their voices and their skills. Perhaps they do not know they have a voice. The women here desperately want their situation to change but, faced with an obstinate and complicated government, it will be a long wait.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDE859121-4C1B-495C-9331-9DCBF6634E03">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7EFE298A-92B6-46AC-915A-8C213A224468"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode50C0FE25-3883-4624-8B76-A6927CDAC854">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">663</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7EFE298A-92B6-46AC-915A-8C213A224468"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">600000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD3FC646B-5A52-4F06-84F2-8A557B9B1348">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">664</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7EFE298A-92B6-46AC-915A-8C213A224468"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">somoni</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

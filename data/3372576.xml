@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372576" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode801A595A-3103-4942-A609-E7C85167F7FB">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">7100000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode7FB195A0-6F27-4A88-A8F2-4A74BF5FF0A6">
-		<Aux:document_text xml:lang="en-US">TOKYO, June 16, 2014 —ORIX JREIT Inc. (“OJR”) announces the following decision on new debt financing. 1. New debt financing summary Long-term loan “Term-Loan 31” a. Lenders Mitsubishi UFJ Trust and Banking Corporation Sumitomo Mitsui Trust Bank, Limited Sumitomo Mitsui Banking Corporation Mizuho Bank, Ltd. b. Loan amount JPY 7,100,000,000 c. Applicable interest rate Basic interest rate (JBA three month JPY TIBOR) (Note1,2,3 )+0.5% d. Draw down date June 20, 2014 e. Loan terms Based on the term loan agreement dated June 18, 2014 f. Maturity June 20, 2022 g. Principal payment</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4D5B8FFC-E98B-4AD4-9B85-A0EFEF313F6A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode801A595A-3103-4942-A609-E7C85167F7FB"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8B20FB50-3852-4E93-AAD3-D56360548BFB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode801A595A-3103-4942-A609-E7C85167F7FB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4EDA3244-6356-4ADE-A10F-AE4D42F95EF6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode801A595A-3103-4942-A609-E7C85167F7FB"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">7100000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375417" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA0210CDD-9696-42B5-A02B-19D94A9F31F8">
-		<BasicEntity:ms_major_currency xml:lang="en-US">€</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">200000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode6F56F990-954A-4A97-BB02-0893FA04EFA8">
-		<Aux:document_text xml:lang="en-US">Find out what's happening in France this October with popular festivals, the latest travel news, book releases and a reader giveaway 14 OUR DREAM PROPERTY Eve Middleton explains why a 19th-century manor house in Charente is her dream buy 16 WHAT'S ON THE MARKET Cover story This month, we select a variety of properties under €200,000, including a three-bedroom house by the sea 6 Living France October 2015 completefrance.com WIN! Julia Stagg's latest novel Page 13 65 PROPERTY AND CURRENCY NEWS The latest from the property market, including details of the extended cooling-off period for property buyers, plus a currency update</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode342C973D-AABC-4D49-BE20-690FF10A0D54">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA0210CDD-9696-42B5-A02B-19D94A9F31F8"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode86BDB0FB-39C9-4487-928C-ACB9AA40D1BE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA0210CDD-9696-42B5-A02B-19D94A9F31F8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">€</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7293DEDA-2A54-4879-A6F7-BD3F5910E9A4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA0210CDD-9696-42B5-A02B-19D94A9F31F8"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">200000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

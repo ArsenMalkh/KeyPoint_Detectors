@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372682" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF67BEFFD-0D09-43F4-8885-64B1E5FB6273">
-		<BasicEntity:ms_major_currency xml:lang="en-US">US Dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1300000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode16B1C29A-22EF-418A-9058-2D5290EA9D6A">
-		<Aux:document_text xml:lang="en-US">06/12/2002 - Hollywood remakes Sur mes lèvres, Tanguy with Jimmy Fallon and Ma femme est une actrice starring Penn &amp; Wright  French films are enjoying an unprecedented wave of popularity in the United States, Paramount’s acquisition of the rights to Jacques Audiard’s Sur mes lèvres [+see also: trailer  film profile] (US Dollars 1.3 million at the US box office) for Barry Levinson’s remake was followed by Miramax’s acquisition of the rights to Etienne Chatiliez’s Tanguy from TF1. The new film will star Jimmy Fallon. The third Gallic title is Ma femme est une actrice by Yvan Attal, a hit in America with a reported box office of US Dollars 1 million. Sean Penn is said to be very interested in co-starring in the remake alongside his wife, Robin Wright-Penn in the role made famous by Charlotte Gainsbourg. Since Penn is shortly due to join Gainsbourg on the set of Mexican director Alejandro Gonzalez’s new film 21 Grams, it likely they will discuss the remake of Ma femme....</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode1F999CE5-0495-45A9-AA6B-4281812DCBBE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF67BEFFD-0D09-43F4-8885-64B1E5FB6273"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE996948A-0F96-45B8-84B2-DC97C1CA3584">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF67BEFFD-0D09-43F4-8885-64B1E5FB6273"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">US Dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8977DDC-ADAB-470B-A141-25688CC793E0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF67BEFFD-0D09-43F4-8885-64B1E5FB6273"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1300000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

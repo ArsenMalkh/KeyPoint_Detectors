@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372200" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode5BF6052E-9665-4991-91FB-70CEE12C9972">
-		<BasicEntity:ms_major_currency xml:lang="en-US">¥</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">165000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeDF134FE3-3DD3-4E85-81FF-71790B116C26">
-		<Aux:document_text xml:lang="en-US">^&gt;&gt;Shanghai-Minebea Environmental Protection Fund In April 1996, Minebea Electronics &amp; Hi-Tech Components (Shanghai) established the Shanghai-Minebea Environmental Protection Fund with the aim of helping preserve the quality of the water in Lake Daishan-hu. As of June 2004, the fund stood at Rmb 11.0 million (approximately ¥165 million). Accrued interest from the fund is used to finance a variety of activities, including riparian works near the company's Shanghai Plant and greening projects. Riparian works funded by the Shanghai-Minebea Environmental Protection Fund  Trees grown from saplings donated by the fund </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD8244627-C0C3-4FA2-86DD-7E25E82A8D49">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5BF6052E-9665-4991-91FB-70CEE12C9972"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA16D0695-656B-4365-92AA-E32D78101443">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5BF6052E-9665-4991-91FB-70CEE12C9972"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">¥</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7D7C6209-AA47-4DB3-BA0B-E5B32742A1C8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5BF6052E-9665-4991-91FB-70CEE12C9972"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">165000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370266" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode07991C0D-45E2-40CD-BC64-7223B7E9375E">
-		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">70000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode9DAEB741-F509-4393-A764-40005BA3CD73">
-		<Aux:document_text xml:lang="en-US">The fact is that there are agreed goals in place and we now need all audacious and principled people to get down to working out how we meet the challenges: the challenges presented by the needless deaths of 11 million children under five every year; how we feed eight hundred million people who still go hungry; the 2.4 billion who have no adequate sanitation and the six million people we are losing every year to AIDS, TB and malaria. Aid is essential, as Mr Deva says, for developing countries, but trade will bring benefits on a far greater scale. If sub-Saharan Africa had just one percent more of the global export market, it would bring in an extra USD 70 billion each year. That is five times what the region now receives in aid and debt relief combined. Of course poor countries need more aid, but they also need better and fairer export opportunities. The great thing about trade is that it brings self-reliance; trade brings opportunities for jobs and for investments.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5704150F-0D5A-43A8-A1EF-4E2D374C8ED6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode07991C0D-45E2-40CD-BC64-7223B7E9375E"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC9D80C1C-1097-4F11-AA17-997D621C99E0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">659</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode07991C0D-45E2-40CD-BC64-7223B7E9375E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode74071EFA-DC17-423E-AAFB-59054A857136">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode07991C0D-45E2-40CD-BC64-7223B7E9375E"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">70000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

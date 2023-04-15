@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375982" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBEFF685A-FEF9-4A3C-8397-6D3166670324">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Hungarian forints</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeB239FF73-5F95-4132-852E-95CB405C9B61">
-		<Aux:document_text xml:lang="en-US">Echo TV founded as a business news channel in 2005 at the initiative of Gábor Széles, the 4th richest man of Hungary (as of 2017) and the head of Videoton and Ikarus Bus. Széles had only days previously purchased Hungary's daily Magyar Hírlap; the acquisition of both stations helped Széles establish a major media presence in Hungary. Széles reportedly spent two billion Hungarian forints in creating Echo TV. In 2006 Echo TV became a media partner of Feratel media technologies AG, based in Austria. Gábor Széles sold Echo TV to Fidesz-backed businessman and oligarch Lőrinc Mészáros on December 2, 2016. On December 4, 2017 the whole channel was renewed. Echo TV ceased operations on March 31, 2019. Its staff and technical equipment were integrated into Hír TV, which had returned as a pro-government media portfolio after the 2018 parliamentary election.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD2CDF289-6EE3-433A-AC83-306CECAF6C6D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBEFF685A-FEF9-4A3C-8397-6D3166670324"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD9DA8A5E-4348-47CA-97DF-F355E88F091B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">371</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBEFF685A-FEF9-4A3C-8397-6D3166670324"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA6237F93-EFEB-4246-90F7-5B39F15C34F4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBEFF685A-FEF9-4A3C-8397-6D3166670324"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Hungarian forints</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

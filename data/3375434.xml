@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375434" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode737A094C-7BCD-44F0-B386-5BEF7A0E00C9">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">488</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode5E6543DF-7852-4A97-AF4D-851B2ABDCC75">
-		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">328</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode622ACEF1-8CD3-403D-96E0-7ED3FC17A971">
-		<Aux:document_text xml:lang="en-US">Mooncake is a delicacy exclusive to these thousands of years old holiday. This year moon cake selections are inspired by the modern preferences with flavors ranging from savory to sweet. The packages are beautifully done to be a valuable gift for friends, family and business associates as a show of appreciation. Enjoy a selection of flavors 6 pieces mooncake Renewal Moon box: CNY 328 8 pieces mooncake Royal Moon box: CNY 488 For more information, please call 6629 7803 / 7777 or Email: f&amp;b.beijing@westin.com. BEIJING FINANCIAL STREET For a better you: CULTURE Spring, River, Flower, Moon, Night The world premiere of Pear! electrifies Lincoln Center with its heartfelt tribute to one of America's greatest novelists By Corrie Dosh</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0230233B-0465-48C5-80B6-B31E54624D7B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5E6543DF-7852-4A97-AF4D-851B2ABDCC75"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7A65AD12-7459-4EF7-9474-A6650A7B4D39">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5E6543DF-7852-4A97-AF4D-851B2ABDCC75"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3920856C-3BEA-42F4-9A95-9AD399C2A174">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5E6543DF-7852-4A97-AF4D-851B2ABDCC75"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">328</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode17FFF131-5626-443F-923D-31F5D06142C7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode737A094C-7BCD-44F0-B386-5BEF7A0E00C9"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF26CA300-95DD-4D01-8A96-A8CBDA200835">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode737A094C-7BCD-44F0-B386-5BEF7A0E00C9"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBB40FA67-3281-4593-8BF1-EB033C865AF7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode737A094C-7BCD-44F0-B386-5BEF7A0E00C9"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">488</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371057" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC75D00AA-C26C-4D80-88BE-0EE7C544D6C0">
-		<BasicEntity:ms_major_currency xml:lang="en-US">hryvnia</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode80C1A90C-01FD-446B-9146-EACFFFD2942D">
-		<Aux:document_text xml:lang="en-US">:petrol (2) budget (51) prices (13) shadow economy (1)  05.02.13 21:29 06.02.13 15:04  Petrol Market is in Shadow, Budget Shortreceived Billions, Kolobov Wrote a Letter to Klymenko  In 2012 the state budget did not receive more than 4 billion hryvnia due to the reduction of legal import of petrol and the schemes for tax evasion in the market of motor gasoline.  This is stated in a letter of the Ministry of Finance to Ministry of Revenues on January 24, 2013, reports Interfax-Ukraine. "Calculated consumption of motor gasoline in 2012 (taking into account imports, domestic production, exports and changes in the balance) is different from the official data of the State Statistics on gasoline consumption by 936.9 thousand tons, or 22.3%, while in the past the difference was less than 5% ... The above suggests that the large proportion of petrol market is in the shadow sector," said the letter.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD03CA7ED-EF97-4566-90DC-0DACECB5EC8C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC75D00AA-C26C-4D80-88BE-0EE7C544D6C0"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6F34892D-CDF7-4D52-AE58-18E55F2E2B33">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC75D00AA-C26C-4D80-88BE-0EE7C544D6C0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2F80E369-461A-41F3-BE10-5D1E44222E5D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC75D00AA-C26C-4D80-88BE-0EE7C544D6C0"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">hryvnia</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

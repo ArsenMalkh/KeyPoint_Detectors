@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374994" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode08DA220E-A1EA-4B90-A081-4DC4D80F16B9">
-		<BasicEntity:ms_major_currency xml:lang="en-US">SKK</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">3900000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeEB7CEE0E-FACD-4E94-8DF6-6BEAE07E06C4">
-		<Aux:document_text xml:lang="en-US">Because the Ministry of Finance changed the way it reports the state budget execution -principal payments on state debt are now excluded in line with international practices - comparisons between 1997 and 1998 are not possible. Nevertheless, the results from the first half of 1998 indicate that it will be difficult to contain the state budget deficit within the planned limits. After six months the deficit already amounts to SKK 3.9 billion, compared to a full-year target of SKK 5 billion. Taking into account that expenditures are traditionally concentrated in the second half of the year and that elections will be held at the end of September, it seems unlikely that the budget targets can be fulfilled without additional measures. The high real interest rates, which followed from exchange rate pressures and the imbalanced policy mix, created additional difficulties for the already weak banking sector, especially for those institutions that depend on the interbank market for their financing.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC151C944-CF3E-416F-8668-EB832A1A8255">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode08DA220E-A1EA-4B90-A081-4DC4D80F16B9"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeAB9CD0C1-805F-4E0D-BDAE-8C6281A35F63">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode08DA220E-A1EA-4B90-A081-4DC4D80F16B9"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">SKK</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8CF6E8C2-1DD2-4831-8494-CBED44853391">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode08DA220E-A1EA-4B90-A081-4DC4D80F16B9"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">3900000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

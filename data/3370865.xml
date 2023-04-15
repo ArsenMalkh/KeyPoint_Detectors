@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370865" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode5F21F4B6-4FC3-4722-B0C3-8B53AC994EE1">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Hungarian Forints</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode77643F31-E6DE-433F-822B-5BCD1CFBC20F">
-		<Aux:document_text xml:lang="en-US">For vocational and secondary schools, it is according to the location of the school. Table: Surfaced public roads Reference period: 1994 (national roads) and 1989 (local roads). Table: Environment (1991-1994) Investment is defined as all gross fixed capital formation in productive capacity and infrastructure of at least 1 million Hungarian Forints. Note on comparability The definitions and methods used by the Hungarian Central Statistical Office do not always coincide with those used by Member States of the European Union.Comparisons of Hungarian counties with regions in the EU should therefore be made with caution.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode7EDA87DB-064A-484C-80D2-F4244FAF6F82">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5F21F4B6-4FC3-4722-B0C3-8B53AC994EE1"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode10C007C1-726F-4B2C-AE26-0552E10FF98D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5F21F4B6-4FC3-4722-B0C3-8B53AC994EE1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode879595A8-E3D2-4C86-AF00-94D2A07D39E4">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode5F21F4B6-4FC3-4722-B0C3-8B53AC994EE1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Hungarian Forints</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

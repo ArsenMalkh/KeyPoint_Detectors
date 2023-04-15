@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374898" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEC9D9B0D-A7F0-44F1-946D-04B4B5C6A08B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">18000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode0A7BF56D-7548-4AA2-A464-3AC3D3C4DB25">
-		<Aux:document_text xml:lang="en-US">IBM partners with Ericsson, Nokia and Alcatel. In speech recognition projects, IBM cooperates with BNN Systems and Technologies. IBM has also entered into an alliance with AMDOCS geared towards editing systems. Nortel Networks Nortel has been in the DA business for some 20 years.Nortel employs a total of 80,000, who in 1997 generated 18 billion US$ in revenue. Nortel is an end-to-end provider, offering everything from switches to operator positions and automation to databases. Volt Delta Resources Volt Delta Resources was set up in 1971, originally as Delta Resources. In 1983, the company was bought by Volt Information Sciences and lias since been called Volt Delta Resources. Its head office is in New York, while the development and marketing departments are located in Orange, California. Volt Delta Resources is represented both in North America and Europe. The company's installations comprise some 100 million listings and 2,400 operators.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode339D19A6-572E-43AE-92AB-114F8FC2052B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEC9D9B0D-A7F0-44F1-946D-04B4B5C6A08B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF2938F82-3A5E-42BE-B401-880D4C3C1333">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEC9D9B0D-A7F0-44F1-946D-04B4B5C6A08B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">18000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD0789903-8B1A-47AD-B009-CD643D962884">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">347</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeEC9D9B0D-A7F0-44F1-946D-04B4B5C6A08B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

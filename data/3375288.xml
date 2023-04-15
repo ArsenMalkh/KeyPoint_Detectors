@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375288" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode8B34171C-9AEF-4198-B953-BFE37571FD3F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Belarusian rubles</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">247</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode9D5AC9E6-7829-4C42-8A7D-A055F5B4DF62">
-		<Aux:document_text xml:lang="en-US">Iosub: devaluation of Russian ruble will not cause decrease in supplies  Russian ruble continued to fall and reached the annual minimum. From October 31, 1 Russian ruble will cost 247 Belarusian rubles.  30.10.2014 - 18:43 Tamara Savich    Belarusian Currency and Stock Exchange held regular trading session on October 30. The Russian ruble continued to fall and reached its annual minimum. From October 31, 1 Russian ruble will cost 247 Belarusian rubles. It is 39 rubles less than at the beginning of the year. </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode92684CA7-22F8-4E49-B088-460F822BBCA5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8B34171C-9AEF-4198-B953-BFE37571FD3F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeA724C196-4006-43E9-979F-C9047B43B309">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8B34171C-9AEF-4198-B953-BFE37571FD3F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">247</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode34E6F3DA-6FC4-4114-B973-A11AE089B615">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode8B34171C-9AEF-4198-B953-BFE37571FD3F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Belarusian rubles</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

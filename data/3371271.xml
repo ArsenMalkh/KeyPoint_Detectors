@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371271" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode36DEF301-C098-4880-8BA2-8CC5862E0E0F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">forint</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">4000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode62FD279F-63CE-4CF8-B2A4-3F5E678680B9">
-		<Aux:document_text xml:lang="en-US">OTP Rallies to Six-Month High on Bailout Ruling: Budapest Mover OTP Bank Nyrt. (OTP), Hungary’s largest lender, rallied to the strongest in six months after Germany’s top constitutional court allowed the country to ratify a euro- area bailout fund with certain conditions. The shares rose 0.8 percent to 4,000 forint by 10:34 a.m. in Budapest in a ninth day of advances, the longest streak of gains since August 2009 and the highest intraday level since March 2012. The benchmark BUX stock index fell 0.1 percent to 18,584.79. Stocks in Europe rallied after the Federal Constitutional Court in Karlsruhe today dismissed motions filed by groups including a conservative lawmaker and an opposition political party that sought to block the fund, known as the European Stability Mechanism, and a deficit-control treaty championed by  Chancellor Angela Merkel.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode4EF2D6D9-A969-4229-AB25-E543CA3C7D66">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode36DEF301-C098-4880-8BA2-8CC5862E0E0F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDC93ECF9-AF1F-4383-9869-3C30DAA90DE9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode36DEF301-C098-4880-8BA2-8CC5862E0E0F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">4000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode9B20BA4A-9EB8-47E6-A957-66041C2C3B05">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode36DEF301-C098-4880-8BA2-8CC5862E0E0F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">forint</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

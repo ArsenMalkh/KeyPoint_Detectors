@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374764" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAF4B5308-641A-4AEF-801D-7287031B4048">
-		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">12</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeE0791A36-9DAF-408B-8275-B55EAAF6150C">
-		<Aux:document_text xml:lang="en-US">The competent authority may, at the request of the purchaser, authorise the first stage processing and repackaging of the beef in a non-military establishment, provided the relevant operations take place under appropriate supervision. In such cases, the re-packaged cartons shall be marked as in paragraph 1. 1. The security provided for in Article 15(1) of Regulation (EEC) No 2173/79 shall be ECU 12 per 100 kilograms. In addition to the requirements laid down in Article 15(3) of Regulation (EEC) No 2173/79, delivery of the beef to a military establishment shall also constitute a principal requirement. This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode20B1C194-BE4E-4313-8194-D367B1264311">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeAF4B5308-641A-4AEF-801D-7287031B4048"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeC619037E-028A-48CD-AC44-E5CE98B48B6F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">398</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeAF4B5308-641A-4AEF-801D-7287031B4048"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE2051789-62D6-4FDC-BD52-82B96F6828E6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeAF4B5308-641A-4AEF-801D-7287031B4048"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">12</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

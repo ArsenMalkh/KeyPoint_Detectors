@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375775" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode4F6C6650-A87F-40C2-AD2C-BD87B346A18B">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Hungarian forint</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeF624A8C2-5DFF-4F88-BF77-BA1CB984D62E">
-		<Aux:document_text xml:lang="en-US">In 2008, the István Széchenyi Chair in International Economics was privately endowed at Quinnipiac University in Hamden, Connecticut, United States. In collaboration with Mathias Corvinus Collegium and Sapientia Hungarian University of Transilvania, the Chair oversees and develops three major academic programs to strengthen relations with Central Eastern Europe, especially Hungary: the Hungarian American Business Leaders (HABL), the QU executive MBA Trip in Hungary, and the Foreign Lecture Series. Since 1990, Széchenyi's portrait has been featured on the 5000 Hungarian forint banknote, with a new design in 1999. 2002, a Hungarian made-for-TV movie portrayed his life from 1820–1860; it is entitled A Hídember (The Bridgeman) (in Hungarian). István Széchenyi Postage stamp was issued by Hungary on 1 July 1932 by honoring him in Famous Hungarians series of stamps.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode152DE96F-81C9-4D7B-8678-00EBD84A6176">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">582</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4F6C6650-A87F-40C2-AD2C-BD87B346A18B"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB00D7DE0-5ABD-43A0-8A33-73C3DB2C26EE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">565</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4F6C6650-A87F-40C2-AD2C-BD87B346A18B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode74580929-2044-4683-862B-2DBBBB8654E6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">582</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode4F6C6650-A87F-40C2-AD2C-BD87B346A18B"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Hungarian forint</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

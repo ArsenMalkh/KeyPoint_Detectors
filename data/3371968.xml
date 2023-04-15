@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371968" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6628E926-33AB-453C-A4D8-2B86EC9E3310">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Russian rouble</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">37.938</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeCD2B1C05-7B8D-40EF-A642-B94398FC74F9">
-		<Aux:document_text xml:lang="en-US">"There is still talk of some form of transitional measures which would limit potential opportunity for Russian 'retaliation' and cut the Ukrainians as much slack as possible," he said in a note. A tug of war between the EU and Russia over Ukraine has contributed to a crisis in the former Soviet republic, which has been battling a pro-Russia separatist insurgency since mid-April. (1 US dollar = 37.9380 Russian rouble) (Writing by Alessandra Prentice; Editing by Lidia Kelly)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF2A4CDCB-7718-4F05-B849-D81898FCA494">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6628E926-33AB-453C-A4D8-2B86EC9E3310"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode119F174C-BEA0-4F79-B24C-0AAEEFC5CB17">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6628E926-33AB-453C-A4D8-2B86EC9E3310"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">37.938</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode779FABF5-098D-429D-BD84-60347051879E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6628E926-33AB-453C-A4D8-2B86EC9E3310"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Russian rouble</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

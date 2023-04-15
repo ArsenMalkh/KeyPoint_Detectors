@@ -1,94 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372571" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCB5489A7-A213-4BA6-9490-2238F3BDCFB1">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">12700000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAC5A61C3-15FD-4691-9585-FAA972D3AC3C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">12650000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA16D0CFC-C045-450C-B5BB-8E5A6829BBB5">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">50000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeC8AE0402-65BF-49DB-B464-B2B24DDE9599">
-		<Aux:document_text xml:lang="en-US">A new company named Sumida Electronic Components Co., Ltd. will be established as a 100% subsidiary of the SUMIDA CORPORATION for managing the existing business. The new company will not be liable for any liabilities of SUMIDA CORPORATION. Moreover, no asset of SUMIDA CORPORATION will be transferred to the new company before and after the company separation and transfer. Therefore, the above mentioned restructuring of the group will not affect the parent and consolidated business figures. 2. Summary of the New Established Company Company Name Sumida Electronic Components Co., Ltd. Address 3-3-6, Nihonbashi-Ningyocho, Chuo-ku, Tokyo, Japan Date of Establishment 1 April 2005 Capital JPY 50,000,000 Capital Reserve JPY 12,650,000,000 Total JPY 12,700,000,000 Financial Period End 31 December No. of Employees 40 (Estimated) Business Generalize the existing business of SUMIDA CORPORATION (Developing manufacturing and sales of the electronics parts related to coils) Directors Representative Director &amp; President Chiu Ka Sheung (Representative Executive Officer of SUMIDA CORPORATION)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDFB17D4F-FB75-43E3-8DEE-2E63E494EF1B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">690</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">704</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA16D0CFC-C045-450C-B5BB-8E5A6829BBB5"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD0E5E025-A262-4247-84DD-90241AC35A2B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">690</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">693</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA16D0CFC-C045-450C-B5BB-8E5A6829BBB5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode20804464-F327-4E7E-94B3-413058634B19">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">694</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">704</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA16D0CFC-C045-450C-B5BB-8E5A6829BBB5"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">50000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeBF22ADFC-761A-4370-86B1-128BB09A525A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">721</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeAC5A61C3-15FD-4691-9585-FAA972D3AC3C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode76EC236B-3EFF-4B43-8F41-2CCA2F54435E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">721</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeAC5A61C3-15FD-4691-9585-FAA972D3AC3C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode63212AD3-FB21-4F7F-B3A7-712C5B181189">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeAC5A61C3-15FD-4691-9585-FAA972D3AC3C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">12650000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDE699645-0E06-410E-835B-992DF5127E8D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">746</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">764</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB5489A7-A213-4BA6-9490-2238F3BDCFB1"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6D0A252A-DE4C-407F-AF69-4874D83C0C1C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">746</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB5489A7-A213-4BA6-9490-2238F3BDCFB1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4B60358E-8104-4693-8907-4E356E531717">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">764</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeCB5489A7-A213-4BA6-9490-2238F3BDCFB1"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">12700000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

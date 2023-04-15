@@ -1,65 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373278" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeABC8E9EC-FB8C-4522-9240-BEBA0311FABE">
-		<BasicEntity:ms_major_currency xml:lang="en-US">IDR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">22000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode841DBCCC-82A7-4A81-A7DA-7BAC86AB097C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">IDR</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">18000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeCDC199D0-3A2F-4A17-85B4-6C92CBA43846">
-		<Aux:document_text xml:lang="en-US">The airport is designed to serve only 2.87 million passengers per year, but the airport served 4.13 million passengers in 2018. Due to overcrowding, airport authority pledges to expand the airport capacity from current 3.84 million passengers movement to 5.7 million passengers starting from 2018. Apart from expanding the airport, airport authority also focuses on renovating the airport preexisting facilities. Some facilities that have been refurbished are the toilet and the arrival gates. After finishing the first phase of development, the passenger terminal building is expanded to 36,789 square meters so it can accommodate 3.7 million passengers per year. Ground transportation The airport can be reached by bus service, taxi, and airport train service. Buses Service Destination Fare Shuttle Airport Bus Tranex Mandiri Lubuk Begalung, Padang IDR 18,000 Damri Pasar Raya, Padang IDR 22,000 Taxi Passengers are encouraged to use metered taxi to avoid scams. Taxis are available anytime at the taxi parking area. They are usually available from 07:00 AM to 22:30 PM. Train A 3.9 km railway connecting the airport to the nearby Duku Railway Station has been inaugurated by President Joko Widodo on 21 May 2018. From Duku Railway Station, the railway continues to run to Padang railway station. It is the third airport rail link in Indonesia after Kualanamu Airport Rail Link and Soekarno–Hatta Airport Rail Link.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode8587A385-B8B6-42FE-8536-CB1FD59DDFA6">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">852</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">862</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode841DBCCC-82A7-4A81-A7DA-7BAC86AB097C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE804C8E3-E12F-4622-AFD3-A718F50F5199">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">852</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">855</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode841DBCCC-82A7-4A81-A7DA-7BAC86AB097C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">IDR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode54FAE882-017C-4CDA-8F38-36E04BEB0E57">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">856</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">862</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode841DBCCC-82A7-4A81-A7DA-7BAC86AB097C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">18000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeCAF7FDFC-F297-4E92-95D9-18AFF41101FA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">888</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeABC8E9EC-FB8C-4522-9240-BEBA0311FABE"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode3DEE5993-8DA0-498E-A0F4-0230493DB925">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">888</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">891</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeABC8E9EC-FB8C-4522-9240-BEBA0311FABE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">IDR</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE387C152-EDF4-4164-9134-ACC8AFC5B0B5">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">892</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeABC8E9EC-FB8C-4522-9240-BEBA0311FABE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">22000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

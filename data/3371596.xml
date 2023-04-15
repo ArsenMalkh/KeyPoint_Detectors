@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371596" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode80A508B6-473E-4B88-A81C-D619B9CD68FA">
-		<BasicEntity:ms_major_currency xml:lang="en-US">RUB</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">211</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1375E77C-D702-4982-9DA5-37A5A477EB26">
-		<Aux:document_text xml:lang="en-US">Average daily refining rose by 2.8%; Revenue increased by 18.9%; Adjusted EBITDA added 24.6%; Net income increased by 18.5%.  Key events in 1H 2014 Bashneft completes reorganization through consolidation of CJSC Bashneft-lnvest; Bashneft AGM decides to pay dividends of RUB 211 per share for 2013 Bashneft started pilot operation of a catalytic cracking gasoline hydrotreater at the Bashneft-UNPZ Branch; Bashneft and Lukoil establish JV - Vostok NAO - to conduct geological exploration and develop license areas in the Nenets Autonomous District</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode495CBFA1-A64F-439F-885C-87CFB3A5EA04">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode80A508B6-473E-4B88-A81C-D619B9CD68FA"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode70922CAD-F174-403B-AC3C-42FE0E33CC1C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode80A508B6-473E-4B88-A81C-D619B9CD68FA"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">RUB</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeF007E23A-1E44-4B6A-9828-5E86FD8A763E">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode80A508B6-473E-4B88-A81C-D619B9CD68FA"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">211</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,94 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372875" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBB219F29-8102-4039-8F87-A20786476A56">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Angolan Kwanza</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">2515452</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFC825118-01E1-4A19-A713-15F5A2D6257F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Angolan Kwanza</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">91666</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF0D7BB44-8867-417E-B249-BF0F44AF9258">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Angolan Kwanza</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">14</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode2BFF4952-AED1-4D6C-8B39-69322FBF72D4">
-		<Aux:document_text xml:lang="en-US">This is a chart of trend of nominal gross domestic product of Angola at market prices using International Monetary Fund data; figures are in millions of units. Year Gross Domestic Product (*$1,000,000) US Dollar Exchange Per Capita Income  (as % of USA) 1980 6.33 1985 4.46 1990 4.42 1995 5,066 14 Angolan Kwanza 1.58 2000 9,135 91,666 Angolan Kwanza 1.96 2005 28,860 2,515,452 Angolan Kwanza 4.73 The following table shows the main economic indicators in 1980–2017. Inflation below 5% is in green. Year GDP (in Bil. US$ PPP) GDP per capita (in US$ PPP) GDP growth (real) Inflation rate (in Percent) Government debt (in % of GDP)</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeBDC75402-37EF-4944-84B7-A10580163FC2">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF0D7BB44-8867-417E-B249-BF0F44AF9258"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode2D2A1F75-CF16-4A10-9E32-3D118BF85CA0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF0D7BB44-8867-417E-B249-BF0F44AF9258"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">14</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode475C6F6F-179E-42F1-A409-043F32092C82">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeF0D7BB44-8867-417E-B249-BF0F44AF9258"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Angolan Kwanza</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode20FE3A4A-B54D-4416-A28B-A798DA1C919D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">335</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFC825118-01E1-4A19-A713-15F5A2D6257F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">91666</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode0450ABEF-5986-4B71-881C-292B612A6E76">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFC825118-01E1-4A19-A713-15F5A2D6257F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode809D7387-8652-4C60-8987-DB3246999D64">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFC825118-01E1-4A19-A713-15F5A2D6257F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Angolan Kwanza</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode599215F8-FEF2-47DC-A5F9-349B2D7A183B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBB219F29-8102-4039-8F87-A20786476A56"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCB2CCA09-74A5-474A-9F00-35C71FD84D81">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBB219F29-8102-4039-8F87-A20786476A56"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">2515452</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode1361C86D-6DC7-4146-90E9-BB183ED44D4A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">378</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBB219F29-8102-4039-8F87-A20786476A56"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Angolan Kwanza</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

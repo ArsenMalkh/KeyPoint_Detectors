@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372688" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode9B7B450C-B629-4451-BD43-33C90DF4DAB3">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Japanese yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">36000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode9D73050D-82B1-475D-A53E-C12D11E11A7F">
-		<Aux:document_text xml:lang="en-US">▼ O Click on “Confirm Application/Print Application Form for Global Arts” on the top page. ▼ O Enter your reception no., ref. no., and email address and log in. ▼ O Proceed to entrance screening fee payment procedures. © Amount: 36,000 Japanese yen ® Payment period: Thursday, January 4 - Wednesday, January 10, 2018 O Check with the financial institution, etc. you plan to use concerning the hours during which payment procedures may be conducted. Please note that payment on the final day is accepted only until 11:59 pm of this day, regardless of the handling time of each financial institution.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode539AEB2C-2B18-4471-8E6B-2F503DD34008">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9B7B450C-B629-4451-BD43-33C90DF4DAB3"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB0A0FE94-1EF6-4968-AA68-596D9DB2F1AD">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9B7B450C-B629-4451-BD43-33C90DF4DAB3"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">36000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode6022A7A0-1C36-4B1E-8587-B529A60160DB">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode9B7B450C-B629-4451-BD43-33C90DF4DAB3"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Japanese yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370112" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode40DB07D9-EBAF-4C02-84AB-2D53B494AA06">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Eastern Caribbean dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">30000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode23A852EB-41C0-4E80-8E2B-044966AB755A">
-		<Aux:document_text xml:lang="en-US">In the same vein, I turn now to the issue of the Caribbean Sea. Our economies derive tremendous benefits from the resources of the Caribbean Sea. In fact, the annual estimate of the economic value to Grenada of production from the sea is more than 30 million Eastern Caribbean dollars. That is a contribution that we as a people strongly feel must be conserved, preserved, maintained and protected, not merely for this generation, but for future generations. I would like specifically to refer to the transshipment of radioactive materials through our waters, which continues to pose a tremendous threat to the human health, marine life, ecosystems, tourism and economies of the region.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode855AC673-3D9C-468A-AFCF-4812A8882731">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode40DB07D9-EBAF-4C02-84AB-2D53B494AA06"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode63E18C27-D8C2-404C-B2DC-416FF72DBF38">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode40DB07D9-EBAF-4C02-84AB-2D53B494AA06"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">30000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode22B59D83-E55B-49CD-9B25-9547AA091DA8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode40DB07D9-EBAF-4C02-84AB-2D53B494AA06"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Eastern Caribbean dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3371672" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode411DA984-FC31-47EF-866F-491F1FF14422">
-		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">57807</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode261CF166-578B-4398-800A-2ECA01B4B560">
-		<Aux:document_text xml:lang="en-US">Director of Division of Prime Time and Reading First Indiana Department of Education Room 229, State House Indianapolis, IN 46204-2798 The Trustees of Indiana University P.O.Box 1847 Bloomington, IN 47402-1847 Technical Assistance for DIBELS Data Analysis/Reading First August 1, 2006 to October 31,2006 $57,807 August 14, 2006 Jonathan Plucker Director, Center for Evaluation &amp; Education Policy Indiana University School of Education Authorizing Official: Steven A. Martin Associate Vice Provost for Research Indiana University Teresa A. Miller Director of Sponsored Program Administration Sponsored Research Services P.O. Box 1847 Bloomington, IN 47402-1847</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF0925190-FBE5-431E-B198-B3B036DD9A84">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode411DA984-FC31-47EF-866F-491F1FF14422"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode45152DFC-AD4E-4EE6-B61C-BCC03FDE4957">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode411DA984-FC31-47EF-866F-491F1FF14422"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode64DE8787-4793-448A-9C7F-6DDB4917B65C">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode411DA984-FC31-47EF-866F-491F1FF14422"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">57807</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

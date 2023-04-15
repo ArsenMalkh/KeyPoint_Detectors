@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372695" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD016FA35-DAC8-48B0-95EA-7C3CB75AA350">
-		<BasicEntity:ms_major_currency xml:lang="en-US">Japanese yen</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">18900000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode954B175A-73C6-4768-880C-8C42076A16B1">
-		<Aux:document_text xml:lang="en-US">We have introduced environmental accounting to quantify costs related to environmental preservation and their benefits and to utilize the data as guidelines for environmental preservation activities. Classification and calculation of environmental preservation costs are based on the "Environmental Accounting Guidelines 2005” specified by the Ministry of the Environment as well as Toshiba Group’s own specifications. For the environmental measures with the increase in production, the costs totaled approximately 18.9 billion Japanese yen in fiscal 2016. Cost of green procurement Cost of ISO14001 operations and environmental education Cost of resource utilization Cost of global warming prevention Cost of pollution such as air and gas protection PRTR The PRTR Law of Japan mandates a system to monitor the amounts of chemical substances released to the environment (air, water area or soil), the amounts transferred, etc., and to aggregate the results and disclose data to the public.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode79E9A2EE-EE3B-4A5E-80B7-4F7EE075BEDF">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">540</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD016FA35-DAC8-48B0-95EA-7C3CB75AA350"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8CECF1A6-19B5-4A4F-A94F-FB81DF2A6C65">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD016FA35-DAC8-48B0-95EA-7C3CB75AA350"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">18900000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8E296CB-9C39-485D-9F2A-9EE94BB6E650">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">540</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeD016FA35-DAC8-48B0-95EA-7C3CB75AA350"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">Japanese yen</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

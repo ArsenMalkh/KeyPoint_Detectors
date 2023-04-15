@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370285" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode05BB45DB-A581-4F3F-9B32-271261FA5C1F">
-		<BasicEntity:ms_major_currency xml:lang="en-US">pesetas</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">21000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode4947CF8C-A310-4620-87B0-44A898CBE473">
-		<Aux:document_text xml:lang="en-US">Mr President, I presume that you, as a neighbour from the region, although from another country, are aware of the heavy rains and violent winds experienced in Malaga from 31 January to 5 February. This damaged farming and livestock products, land and woodland infrastructures and capital assets of all forms. The damages represent more than 21 000 million pesetas. I, on behalf, I would say, of almost all of the Spanish delegation, regardless of the group they belong to, would ask the Commission, through this resolution, to secure emergency aid to relieve the damage in the province of Malaga.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5244F7C-D418-4D82-846C-B2A424DB5847">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode05BB45DB-A581-4F3F-9B32-271261FA5C1F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode4CB40F65-8C52-458F-9A57-F84603751137">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode05BB45DB-A581-4F3F-9B32-271261FA5C1F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">21000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode8C0EBD51-5068-4823-8696-DF41B7DB772F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">356</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode05BB45DB-A581-4F3F-9B32-271261FA5C1F"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">pesetas</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

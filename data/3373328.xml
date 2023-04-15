@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373328" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode124B62E1-D72C-4F63-BBE7-2288189F6E9C">
-		<BasicEntity:ms_major_currency xml:lang="en-US">₪</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">25000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode1F14C34E-5D75-4C87-B9C5-903F3A57F888">
-		<Aux:document_text xml:lang="en-US">In September 2016 a new solar system which can produce 639 kW has been installed on the roof of Teddy stadium. In the middle of 2018 Teddy stadium has been started to be renovated, as Jerusalem municipality announced that it will assign 25 million ₪ for upgrading the stadium. List of things that have been completed until the end of this year: Dressing rooms renovations. Players warm-up hall renovations. New players bench ergonomic seats. Professional sound system installation. In February 2019 the second phase of the renovation has been started, and after one year - on May 2020 it has been completed:</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode40D74DD3-5ED6-47BF-8E0C-0CE917578F9A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode124B62E1-D72C-4F63-BBE7-2288189F6E9C"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeB8F83AF2-A885-4D58-A33B-9150097E8529">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode124B62E1-D72C-4F63-BBE7-2288189F6E9C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">25000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeCE537F4A-04C4-480B-84E3-E03B93299711">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode124B62E1-D72C-4F63-BBE7-2288189F6E9C"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">₪</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

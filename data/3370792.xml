@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370792" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode18F006D1-87E7-47E9-A934-9661CE5358BF">
-		<BasicEntity:ms_major_currency xml:lang="en-US">HKD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">20000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeAAB8C096-5033-4BAE-B0A2-489A147B45D7">
-		<Aux:document_text xml:lang="en-US">Don't teII me you got assigned as an undercover cop. What are you after, missy? To know everything about what's happening at the station? I don't know anything. I only know that you're a smaII time detective with only about HKD 20 000 in salary. Why don't you quit? I'II support you. As if I needed you to support me financiaIly! What about my Iack of face then? Are you aII sweaty now? Come back and take a bath. I don't have time. I'II come up to your place Iater.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode9E2B1ACC-DFA3-45E6-B4E0-24CD6E8BD565">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode18F006D1-87E7-47E9-A934-9661CE5358BF"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeE90DEBF5-F259-4ACD-8ACA-41D8DFAF3A0F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode18F006D1-87E7-47E9-A934-9661CE5358BF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">HKD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeAE25A633-5DE1-4C9B-8008-8E226D3CB1B3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode18F006D1-87E7-47E9-A934-9661CE5358BF"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">20000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

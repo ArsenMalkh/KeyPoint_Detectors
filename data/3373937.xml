@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3373937" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode2940DCF3-E87E-41BF-A484-47582AF1DE10">
-		<BasicEntity:ms_major_currency xml:lang="en-US">patacas</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">10000000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeA86B3E34-D746-41BB-BE94-298B4D6ECB55">
-		<Aux:document_text xml:lang="en-US">On 4 April, the government of Macau followed the Chinese central government in holding a day of mourning throughout Macau. Chinese flags and Macau flags were to be flown at half mast, and public entertainment and celebrations or festive events were to stop. Starting at 10 AM that day, Macau would observe a three-minute moment of silence. Effective 6 April, the government suspended bus links over the Hong Kong–Zhuhai–Macau Bridge, only allowing dual licence (HK/Macau) and freight vehicles to use the bridge. On 8 April, the Secretary for Economy and Finance announced that 10 billion patacas would be put into an anti-epidemic assistance fund to help residents and businesses. On 20 April, the Education and Youth Affairs Bureau introduced a child mask plan to provide masks to children starting school. On 25 April, the Education and Youth Affairs Bureau announced a testing plan for non-tertiary teachers and cross-border students, starting with testing 5,000 secondary school teachers.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeDFAEDE2E-2E64-4E73-AAE1-845B4D1BF9A3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">577</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2940DCF3-E87E-41BF-A484-47582AF1DE10"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode7D697A00-2DF5-4563-8D7C-30DC17590030">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">577</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2940DCF3-E87E-41BF-A484-47582AF1DE10"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">10000000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeEF53B225-0806-4AA2-A377-ABD916A3072A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode2940DCF3-E87E-41BF-A484-47582AF1DE10"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">patacas</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

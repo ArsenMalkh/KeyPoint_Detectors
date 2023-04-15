@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3374559" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC1B02BB5-58BD-4610-9630-77995EA92A19">
-		<BasicEntity:ms_major_currency xml:lang="en-US">₺</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">1430000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode519EFE90-8387-4185-BD33-4888606B2A0F">
-		<Aux:document_text xml:lang="en-US">Controversies Show TV case In July 2019, Yılmaz filed a lawsuit against Show TV for using his channel's videos without permission and publishing defamatory broadcasts. As a result of the lawsuit, it was reported that Show TV would pay him ₺1.43 million in non-pecuniary damages. Show TV later denied this claim. 2019 UEFA Super Cup controversy In August 2019, Yılmaz jumped onto the field at the 2019 UEFA Super Cup, played at Vodafone Park between two English clubs Liverpool and Chelsea. 4 other people who accompanied Yılmaz during the streak were taken into custody. As a result of these events and subsequent criticism by YouTubers such as Enes Batur as well as media outlets, the number of subscribers on his channel started to decrease.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode10C8DDBA-8607-4AEC-A138-DB9FEF3DD71B">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC1B02BB5-58BD-4610-9630-77995EA92A19"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD0CA0E5D-D9C9-481B-A364-712EAAF12106">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC1B02BB5-58BD-4610-9630-77995EA92A19"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">₺</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD8819976-3E83-4709-BD2F-93F0991D7BE7">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeC1B02BB5-58BD-4610-9630-77995EA92A19"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">1430000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

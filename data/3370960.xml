@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3370960" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode7E66123C-2D36-49F7-9763-AC92B5939227">
-		<BasicEntity:ms_major_currency xml:lang="en-US">NZD</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">5</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnodeF397A0A0-2F0D-414F-A77F-7D8D74D2AB0C">
-		<Aux:document_text xml:lang="en-US">In the evening, enjoy the relaxed atmosphere of Mercure Hotel's Vertigo Restaurant and Bar. Located on the top floor of the hotel, it offers panoramic views of the city and the harbour. When would you like to stay at the Mercure Auckland? Wireless internet is available in public areas and costs NZD 5.00 per 30 minutes. Vertigo restaurant offers contemporary New Zealand cuisine in a relaxed setting. The restaurant is located on the top floor of the hotel offering stunning views of Auckland city and Waitemata Harbour. Click thumbnail to see larger photo.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeC82BCB77-D338-48A5-8C32-4DE12580EA43">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7E66123C-2D36-49F7-9763-AC92B5939227"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode94E05877-E9F3-437C-87C4-D9B2C2860E91">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7E66123C-2D36-49F7-9763-AC92B5939227"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">NZD</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeD7007E0F-A6FA-4896-BE69-C447420B92B3">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode7E66123C-2D36-49F7-9763-AC92B5939227"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">5</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

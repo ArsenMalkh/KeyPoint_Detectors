@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3375321" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnode6FEF513C-95C1-49EB-B1EC-07220D404CFE">
-		<BasicEntity:ms_major_currency xml:lang="en-US">dollars</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">190300000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode3DBC1CB7-9076-4367-BF9D-C72DDED92978">
-		<Aux:document_text xml:lang="en-US">Region Foreign trade turnover of Armenia with Russia fell by 41.2%  Foreign trade turnover of Armenia with Russia fell by 41.2% 04 May, 2015  15:26  Baku. 4 May. REPORT.AZ/ Foreign trade turnover of Armenia with Russia in January-March 2015 amounted to 190.3 million dollars, down 41.2% compared to the same period in 2014.Report informs referring to the Armenian media, it was declared by the National Statistical Service of Armenia. The share of foreign trade turnover of Armenia with Russia of the total foreign trade turnover for the reporting period was 20.1%.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode604198A4-7380-4277-BFB4-9DCF47E6D377">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6FEF513C-95C1-49EB-B1EC-07220D404CFE"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode55026C03-6579-47B6-832C-354D0F090C2F">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6FEF513C-95C1-49EB-B1EC-07220D404CFE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">190300000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnodeDF1286A0-0A58-4D5A-9619-87089DA6BE4A">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode6FEF513C-95C1-49EB-B1EC-07220D404CFE"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">dollars</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

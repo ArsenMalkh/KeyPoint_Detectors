@@ -1,36 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="3372589" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA9EDCBA4-D3CD-45A4-AF8D-610337CE0BAD">
-		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
-		<BasicEntity:ms_major_amount xml:lang="en-US">37101000000</BasicEntity:ms_major_amount>
-	</BasicEntity:MoneySimplified>
-	<Aux:TextAnnotations rdf:nodeID="bnode81172295-9B03-43BD-A362-5E350F16E4BA">
-		<Aux:document_text xml:lang="en-US">Tokyo, Japan - Asahi Group Holdings, Ltd. (the “Company”) announced on October 25, 2016, a forecast of recording extraordinary losses (“loss on valuation of investment securities”) for the 3rd quarter of the fiscal year ending on December 31, 2016. Details of the disclosure are outlined below: 1. Recording extraordinary losses (“loss on valuation of investment securities”) The Company prospects to record a loss on valuation of investment securities of JPY 37,101 million caused by the decline in fair value of the stock of Ting Hsin (Cayman Islands) Holding Corp. held by China Foods Investment Corp., a subsidiary of the Company. 2. Impact on the Company’s financial performance The Company’s consolidated financial performance for the fiscal year ending on December 31, 2016(J-GAAP) is not yet determined and will be disclosed on November 2 when the Company announces its consolidated results for the 3rd quarter of FY2016.</Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode56539228-A7CC-449E-B4A9-327EDFAB86D9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">456</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA9EDCBA4-D3CD-45A4-AF8D-610337CE0BAD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5667801E-E6B2-4108-B690-AC0A7E579872">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">456</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA9EDCBA4-D3CD-45A4-AF8D-610337CE0BAD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:PropertyAnnotation rdf:nodeID="bnode5E9B8E01-F39D-42D3-91BC-33E018F5ABDA">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeA9EDCBA4-D3CD-45A4-AF8D-610337CE0BAD"/>
-				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
-				<Aux:property_value xml:lang="en-US">37101000000</Aux:property_value>
-			</Aux:PropertyAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>
