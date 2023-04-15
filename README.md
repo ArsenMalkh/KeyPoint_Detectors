@@ -1,5 +1,3 @@
-# KeyPoint_Detectors
-
 # Keypoint matching
 
 ### method - repeatablity
@@ -7,6 +5,9 @@
 shi-thomasi - 0.67\
 sift - 0.41\
 orb - 0.5
+
+Percent of repeated points on Nth img
+![N rep](https://github.com/ArsenMalkh/KeyPoint_Detectors/blob/main/graphs_dir/nth_descriptor.jpg)
 
 # Motion Estimation
 
