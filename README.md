@@ -15,3 +15,9 @@ orb - 0.5
 shi-thomasi - 0.5\
 sift - 0.47\
 orb - 0.49
+
+### method - time keypoint (ms)
+
+shi-thomasi - 0.00487\
+sift - 0.04538\
+orb - 0.00573
