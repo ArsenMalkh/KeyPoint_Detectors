@@ -1,5 +1,3 @@
-# Keypoint matching
-
 ### method - repeatablity
 
 shi-thomasi - 0.67\
