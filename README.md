@@ -1,15 +1,17 @@
 # KeyPoint_Detectors
 
-## Keypoint matching
+# Keypoint matching
 
-method - repeatablity
+## method - repeatablity//
 
-shi-thomasi - 0.67
-sift - 0.41
-orb - 0.5
+shi-thomasi - 0.67//
+sift - 0.41//
+orb - 0.5//
 
-## Motion Estimation
+# Motion Estimation
 
-shi-thomasi - 0.5
-sift - 0.47
-orb - 0.49
+## method - repeatablity//
+
+shi-thomasi - 0.5//
+sift - 0.47//
+orb - 0.49//
