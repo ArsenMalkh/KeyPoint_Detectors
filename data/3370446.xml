@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370446" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF4FF2460-17C0-48F9-B7A4-0D479A78F31F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">hryvna</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8136314B-169B-4841-A355-BFE3CABAE94E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">hryvna</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode33308EE4-4CAA-4E70-AA59-409DE5E400C2">
+		<Aux:document_text xml:lang="en-US">New economic conditions of operation of mining enterprises make raised demands to the personal protection facilities from anthropogenic dust, as a cost of annual set of standard filter- elements (FE) from nonwoven materials (fabrics of Petrianov) for one worker is ~200hryvna, and for 250 000 miners of Ukraine - 50 million hryvna per year. A high efficiency of respiratory protection from a dust by means of filter-materials made from a fabric of Petrianov quickly reduces in a damp atmosphere of coal mines. Degradation of protective characteristics of such filter-materials is explained by significant exceed of dust burden against a normative (0,2 mg/cm2 at humidity of 80%). and also by disturbance of uniformity of a structure of material after mechanical shaking of FE, realized by the workers at raised resistance towards breathing. Only a fiber structure from metal, sintered in vacuum can resist a disturbance of uniformity at shaking, which after rolling till porosity of 49-60% and following additional sintering ensures strength of material at tensile strength of 5-20 MPa. High heat and corrosion resistances of this material create prerequisites for application of various methods of regeneration (blowing by compressed air, rinsing in detergent solutions with imposition of ultrasonic vibrations), and also sanitary and hygienic treatment</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode33E280D6-22A1-42F4-83C3-9F43DA49BCE3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8136314B-169B-4841-A355-BFE3CABAE94E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode40B90396-A129-47B0-B1B3-F545EB30BD9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8136314B-169B-4841-A355-BFE3CABAE94E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB2922433-D41B-4690-99AC-60948AE38112">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8136314B-169B-4841-A355-BFE3CABAE94E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">hryvna</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4D8063E4-265F-4544-BC51-FB3CAD925033">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF4FF2460-17C0-48F9-B7A4-0D479A78F31F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode236ECDFF-4AF1-460B-8EE5-01E322B26CF2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF4FF2460-17C0-48F9-B7A4-0D479A78F31F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA2744223-6981-46FD-928E-31AD8FBDF3EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF4FF2460-17C0-48F9-B7A4-0D479A78F31F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">hryvna</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

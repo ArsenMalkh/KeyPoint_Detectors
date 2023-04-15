@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371243" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7DEF7CD9-E632-4925-89C1-2DD55A63F8E8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">831</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC423BAC4-9CF6-4CD2-8343-99AE1F6FBBB6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ringgit</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2537</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode62605C9C-5272-4F19-8418-FB2F59384B75">
+		<Aux:document_text xml:lang="en-US">Palm oil climbed the most in more than a week after improved manufacturing data from China buoyed speculation that the economy is picking up in the second-largest buyer, lifting commodity prices. The contract for January delivery advanced 1.6 percent to 2,537 ringgit ($831) a metric ton on the Malaysia Derivatives Exchange, the biggest gain at close since Oct. 22. Most-active prices dropped in October for a second straight month. China’s Purchasing Managers ’ Index rose to 50.2 in October from 49.8 in September, the National Bureau of Statistics and China Federation of Logistics and Purchasing said, matching the median forecast in a Bloomberg survey of 30 economists. A reading above 50 indicates expansion. Crude oil, copper and grain prices advanced.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDAE03889-24B4-46B2-B38F-3861352C5037">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC423BAC4-9CF6-4CD2-8343-99AE1F6FBBB6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6A3EDED4-50EF-423B-9730-485FA1A5364D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC423BAC4-9CF6-4CD2-8343-99AE1F6FBBB6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2537</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode43A822D4-D9C8-4505-8292-F3F84E299EAE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC423BAC4-9CF6-4CD2-8343-99AE1F6FBBB6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ringgit</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD3A99D96-1793-4041-832A-68935267BDCB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7DEF7CD9-E632-4925-89C1-2DD55A63F8E8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode568887DC-BC7A-4AD9-A766-8A079CFAB7C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7DEF7CD9-E632-4925-89C1-2DD55A63F8E8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode541DB751-08D9-4E53-900E-D18C4E22B666">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7DEF7CD9-E632-4925-89C1-2DD55A63F8E8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">831</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

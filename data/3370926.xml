@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370926" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode85252A35-FFBE-4574-8CD6-913AAE28896E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ostmark</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA2B978A8-FEFA-4A7E-9830-526A54D56D61">
+		<Aux:document_text xml:lang="en-US">But the real challenges are yet to come. There is talk of the differing so-called fischereiphilosophie, or fisheries philosophy, of the DAV and VDSF, which will have to be overcome if the two bodies are to work together successfully. In communist East Germany, DAV members viewed themselves as sportsmen and women who thrived on competition. Regulation was also more liberal and whoever paid the 10 ostmark membership fee had free rein to fish whenever and wherever he or she liked, and even received train-ticket discounts to enjoy the pursuit throughout East Germany. In comparison, West German anglers were obliged to observe a nighttime ban, were restricted to certain waters and viewed fishing as more of an ecological than competitive pursuit.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6C2AA6F7-6661-45EE-BFE7-357C3C00F517">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85252A35-FFBE-4574-8CD6-913AAE28896E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode274491BC-E43B-4925-BFAC-0E55F108A862">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">398</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85252A35-FFBE-4574-8CD6-913AAE28896E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC5AB55D0-80D3-4156-8B4E-0F25EA842248">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85252A35-FFBE-4574-8CD6-913AAE28896E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ostmark</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

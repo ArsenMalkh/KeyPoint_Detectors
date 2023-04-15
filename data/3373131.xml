@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373131" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4EE51B9F-D22B-4550-9F60-734A2B5AC4AD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">EGP</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5C16E702-41F4-4953-916D-961621B3BF11">
+		<Aux:document_text xml:lang="en-US">Tomb KV17, located in Egypt's Valley of the Kings and also known by the names "Belzoni's tomb", "the Tomb of Apis", and "the Tomb of Psammis, son of Nechois", is the tomb of Pharaoh Seti I of the Nineteenth Dynasty. It is one of the best decorated tombs in the valley, but now is almost always closed to the public due to damage. As per November 2017 holders of a 1200 EGP entry ticket or of a Luxor Pass can visit this tomb. It was first discovered by Giovanni Battista Belzoni on 16 October 1817. When he first entered the tomb he found the wall paintings in excellent condition with the paint on the walls still looking fresh and some of the artists paints and brushes still on the floor.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode577DEBED-FCA8-44DF-8B15-3B365A2D015F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4EE51B9F-D22B-4550-9F60-734A2B5AC4AD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode065E5686-7139-4750-9AAB-368A398053EF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4EE51B9F-D22B-4550-9F60-734A2B5AC4AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEED7320E-0E88-425D-9954-8E3132D35465">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4EE51B9F-D22B-4550-9F60-734A2B5AC4AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">EGP</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

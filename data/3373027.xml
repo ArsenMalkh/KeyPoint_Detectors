@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373027" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode71843D27-80B3-4133-800C-EEDB37612AFC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Chilean peso</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBB7C1759-09D1-4B00-845C-A6EDF47B351A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Venezuelan bolívar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3906F92E-81A8-4A8C-BE30-9DAC6AD14CD0">
+		<Aux:document_text xml:lang="en-US">Andrés de Jesús María y José Bello López (Spanish pronunciation: [anˈdɾes ˈβeʝo]; November 29, 1781 – October 15, 1865) was a Venezuelan humanist, diplomat, poet, legislator, philosopher, educator and philologist, whose political and literary works constitute an important part of Spanish American culture. Bello is featured on the old 2,000 Venezuelan bolívar and the 20,000 Chilean peso notes. In Caracas, where he was born, Andres Bello was Simón Bolívar's teacher for a short period of time and participated in the process that led to Venezuelan independence. Being a diplomat for the new independent government that helped establish, he went with Luis López Méndez and Simón Bolívar on their first diplomatic mission to London, the city where he lived between 1810 and 1829.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE2DBD1DD-FA54-4767-9AA7-D8874300F6CB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBB7C1759-09D1-4B00-845C-A6EDF47B351A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode83073CD3-BF75-4F0C-B39C-13F1D1F859AF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">341</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBB7C1759-09D1-4B00-845C-A6EDF47B351A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode142789CB-030F-4B36-BF2A-0E49B49A7A38">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBB7C1759-09D1-4B00-845C-A6EDF47B351A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Venezuelan bolívar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode44241B8F-AE0D-4974-A6AA-5567B3A2175A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode71843D27-80B3-4133-800C-EEDB37612AFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3974213D-3939-4117-A52A-DB58B0D217D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode71843D27-80B3-4133-800C-EEDB37612AFC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6827A2D6-A5E1-4B8F-83D5-2FF4C881AFD3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode71843D27-80B3-4133-800C-EEDB37612AFC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Chilean peso</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

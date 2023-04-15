@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370276" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCB6A980B-823D-4C58-BEF8-EC7A0A185A72">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC86DD9A3-B404-4655-A0C7-523E366AEB58">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">31700000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9A5B1842-AF5C-4325-941D-2867A3ED4098">
+		<Aux:document_text xml:lang="en-US">Mr President, ladies and gentlemen, with regard to the question concerning the situation of children in Iraq, the Commission fully shares the European Parliament's concern at the worsening of the humanitarian situation in that country, and especially at the problems to which the most vulnerable section of the population - namely the children - is exposed. On 25 September this year, the Commission received an appeal for a humanitarian aid programme totalling ECU 31.7 million from the Department of Humanitarian Affairs, which is responsible for coordinating humanitarian aid to Iraq. In the near future, the Commission is due to adopt a general plan for humanitarian aid to Iraq worth ECU 20 m. Through this programme, the Commission will thus make available two thirds of the amount requested in the DHA's appeal.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCA372C5F-7662-4C51-9879-60BC0057A53E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">478</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC86DD9A3-B404-4655-A0C7-523E366AEB58"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode28DDAC34-2823-4309-8BF4-1FF85E4C5760">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC86DD9A3-B404-4655-A0C7-523E366AEB58"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7F5EE6D5-5D93-4203-A002-93888C259A3D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">466</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">478</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC86DD9A3-B404-4655-A0C7-523E366AEB58"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">31700000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode19ABB579-9559-49B2-AE93-A75F0EE243C0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">689</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">697</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCB6A980B-823D-4C58-BEF8-EC7A0A185A72"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC426E1FC-FDC6-4AF4-A4D1-E7398CF2B191">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">689</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">692</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCB6A980B-823D-4C58-BEF8-EC7A0A185A72"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1554B233-5E9B-475D-A862-B1A85D98BF9B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">693</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">697</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCB6A980B-823D-4C58-BEF8-EC7A0A185A72"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

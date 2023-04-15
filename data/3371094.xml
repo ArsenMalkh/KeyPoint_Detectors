@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371094" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB5B4BB45-D1D6-41F2-9A86-2E0BDA82DA62">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ringgit</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8110DC4C-C190-495D-9DD2-6C05BF17C171">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">476000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode440929B0-CEA5-4488-9FCB-8A2F4A870E53">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ringgit</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAB37FEEA-46F1-4E6B-A7B5-F1D368BF1F5B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">476000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE6135204-7019-4C66-A23B-09AB5101AFE3">
+		<Aux:document_text xml:lang="en-US">Malaysia’s Khazanah Sells $476 Million Ringgit Islamic Bonds Malaysia’s state-owned investment fund, which is offering to take the national airline private, sold 1.5 billion ringgit ($476 million) of Islamic bonds today, said two people with knowledge of the deal. Khazanah Nasional Bhd. priced the five-year debt to yield 4.14 percent, within its earlier guidance of 4.1 percent to 4.18 percent, said the people who asked not to be named because the information hasn’t been made public yet. The issuance is part of a 7 billion ringgit program to raise funds for corporate purposes, they said.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode33848593-52AD-4C96-AE9B-F3B8789BF6B2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB37FEEA-46F1-4E6B-A7B5-F1D368BF1F5B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9E9064CF-479A-4ED4-9BDE-5FA25722B153">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB37FEEA-46F1-4E6B-A7B5-F1D368BF1F5B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode230E1E29-81E5-46EC-8C46-7725FFF94393">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB37FEEA-46F1-4E6B-A7B5-F1D368BF1F5B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">476000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode36AD1232-47FC-413C-AA06-8D1A0D61359E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode440929B0-CEA5-4488-9FCB-8A2F4A870E53"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode02751EF7-77C6-4503-BF69-59641A0137FF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode440929B0-CEA5-4488-9FCB-8A2F4A870E53"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6E5AF39C-250F-431A-B9FD-A95B296E9CBE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode440929B0-CEA5-4488-9FCB-8A2F4A870E53"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ringgit</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1A8E67E2-C6D9-4D09-8FBE-12816F9F7CFE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8110DC4C-C190-495D-9DD2-6C05BF17C171"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4648C667-145E-46E3-89E0-C6A2D23AE1B2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8110DC4C-C190-495D-9DD2-6C05BF17C171"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode13FB3CAA-545A-4AA5-9702-A092E3FBBE94">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8110DC4C-C190-495D-9DD2-6C05BF17C171"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">476000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode336CA668-8966-45E4-931B-46542D386B3C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">518</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">535</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB5B4BB45-D1D6-41F2-9A86-2E0BDA82DA62"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9DB2B248-0FE6-4E82-9A44-A114C216283F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">518</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB5B4BB45-D1D6-41F2-9A86-2E0BDA82DA62"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFE271774-9CD3-48A4-B5F6-0FF7AEB56148">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">535</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB5B4BB45-D1D6-41F2-9A86-2E0BDA82DA62"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ringgit</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

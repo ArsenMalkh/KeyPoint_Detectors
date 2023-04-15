@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370243" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC468559C-D74C-411C-B4AF-B62D9B1B9B73">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">45000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7144D242-4F15-472F-8C07-3E0B5550A0B4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE2F1E046-9D84-4FF2-9341-4538033073D3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBC3AC5BD-61A2-4909-BEFF-D6924B1D0436">
+		<Aux:document_text xml:lang="en-US">If you keep in touch with the media, in the Swiss, the Austrian, the Spanish media, across the whole of Europe, you will learn about cases that were once more likely to be swept under the carpet. Cigarette-smuggling, the smuggling of vegetables, livestock and meat, are on the agenda, and if we assume that a container of cigarettes can yield a profit of one million ECU, a container of alcohol can fetch ECU 400 000, a container of butter or meat ECU 45 000, or a container of sugar 12 000, it becomes apparent that smuggling is certainly a lucrative business. Individual States and the European Community are defrauded of tax revenues and excise duties, but honest dealers also suffer - the ones who pay their taxes as a matter of course and who end up having to pay higher taxes because the fraudsters have spared themselves that expense.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4D56CD02-8D99-4B1C-8024-DA25659A9BA4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE2F1E046-9D84-4FF2-9341-4538033073D3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode754A05E0-D2FC-457A-A381-B33D19273F35">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE2F1E046-9D84-4FF2-9341-4538033073D3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode40EA6662-3FE2-49BE-9DC7-3990F9BB2313">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE2F1E046-9D84-4FF2-9341-4538033073D3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode208E494A-E1BE-4DE1-A6A9-55EB54E3020F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7144D242-4F15-472F-8C07-3E0B5550A0B4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode919F55E2-1828-4043-82E8-BE47D8988A4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7144D242-4F15-472F-8C07-3E0B5550A0B4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4CF7C40E-66B1-460F-81B4-13A1E0EB4758">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7144D242-4F15-472F-8C07-3E0B5550A0B4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode875DB287-2921-4508-A048-28A98680C5B0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC468559C-D74C-411C-B4AF-B62D9B1B9B73"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode205B9CA4-AD92-4B7E-8C26-7D750261BB33">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">451</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC468559C-D74C-411C-B4AF-B62D9B1B9B73"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1183F22E-2399-43D1-B13E-9C95FA5CB72E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC468559C-D74C-411C-B4AF-B62D9B1B9B73"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">45000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373512" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA7FC1C66-272C-4196-BC24-C824FDDA46BE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Thai Baht</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4E44CF06-88F5-4026-A0B7-DFDA4CA464D9">
+		<Aux:document_text xml:lang="en-US">It may be possible for tourists to take a bicycle across the bridge, but logistically it would be difficult. It is a porous border and is actually not difficult to wade across the river. Burmese merchants used to be able to cross over and do business in Mae Sai for days at a time. The border is also a popular destination for Westerners (referred to locally as farang) who either reside in or are visiting Thailand and who need to get their passport visas renewed. There is no charge for a 'visa run' going from Thailand to Burma on the Thai side, but there is a charge of US$10 or 500 Thai Baht on the Burmese side. Tourism The crowning tourist attraction is a large gold-colored stupa, which, among other things, showcases the seven days of the week. The idea is for a pilgrim to go to the spot which has the day he/she was born known as the planetary post, and do a simple spiritual ritual.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode12CAB83E-2322-4F86-9516-548AC73D5DC3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA7FC1C66-272C-4196-BC24-C824FDDA46BE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7AB85366-16D4-4A69-AEFF-7C60B11A6608">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA7FC1C66-272C-4196-BC24-C824FDDA46BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode35286A47-CF40-46DE-8E31-86D7EB0DE406">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA7FC1C66-272C-4196-BC24-C824FDDA46BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Thai Baht</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

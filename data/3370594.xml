@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370594" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2207019B-FAC8-4392-9B86-EDAF22E01C48">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Swiss Francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">30900000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB9C7AE50-7348-45EA-B1F7-58D7B3557039">
+		<Aux:document_text xml:lang="en-US">Currency risks exist due to our world-wide business activity, in particular with regard to the US dollar. The financing of the acquisition of HEKUMA GmbH was undertaken in Swiss Francs due to the more favourable interest rate level. For this purpose an interest and currency swap was concluded, which amounted to Swiss Francs 30.9 million as at 31 December 2001. Our competitive situation as well as our earnings could deteriorate as a result of these currency risks. Hedging transactions may be undertaken in order to minimise these risks. In connection with our strategic concentration on the markets for factory automation we shall continue to work on the composition of our portfolio.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF2AC556D-12BE-4A31-8FF1-3AD784347140">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2207019B-FAC8-4392-9B86-EDAF22E01C48"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6ECF0271-33AE-4709-93F9-70F840987997">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2207019B-FAC8-4392-9B86-EDAF22E01C48"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Swiss Francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode11DABD49-65F8-481B-A567-C30267A5D675">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2207019B-FAC8-4392-9B86-EDAF22E01C48"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">30900000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

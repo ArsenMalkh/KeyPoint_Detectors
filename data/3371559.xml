@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371559" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode66176173-0EF0-47E7-9948-043A486DEBA0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Belarusian rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">800000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode924DB522-38FB-4891-8150-9DEE3A6C9F11">
+		<Aux:document_text xml:lang="en-US">“The Chrysler Voyager driver, who carried a commercial lot of goods, deliberately chose the green channel, which is intended for carrying personal belonging not subject to customs declaring, when crossing the Belarusian-Polish border,” the State Customs Committee says. “Brest customs officers were carrying out a special inspection at the checkpoint. Customs officers tried to stop the car as it left the territory of the green channel, but the driver didn't slow down. He tried to leave the checkpoint. Measures to forcefully stop the vehicle were applied.” Customs officers searched the car and found illegally transported clothes, footwear and three 75-inch Samsung TVs. The Brest customs office launched an administrative process over the incident. The total cost of the goods is preliminary estimated at about 800 million Belarusian rubles.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD3647E21-8635-4775-8F0B-BA9E5116DB0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">816</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">845</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66176173-0EF0-47E7-9948-043A486DEBA0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode16AB508D-F510-4BDE-9BE0-E502CA6A2C9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">816</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">827</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66176173-0EF0-47E7-9948-043A486DEBA0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">800000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC1848098-A962-4A0C-AE19-57938F260380">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">828</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">845</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66176173-0EF0-47E7-9948-043A486DEBA0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Belarusian rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

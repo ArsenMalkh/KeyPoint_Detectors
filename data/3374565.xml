@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374565" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE28A36DB-A958-45D7-B561-AB88049C4D4C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">kwanza</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3244483000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode22CBA6E7-79E6-413B-AA65-702020450416">
+		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEA0FBD58-68ED-41BA-A49D-2C337329EC93">
+		<Aux:document_text xml:lang="en-US">The Angolan government made it a high priority in the Five-Year Health Development Plan (2000 – 2004), but their resources were very limited. It was supported by financial assistance by the Japan International Cooperation Agency and fundamentally renovated and refurbished. Their project which ran from 2002 to 2005 at a cost of nearly 4 million yen also included training for staff in Japan to support and maintain the improved facilities in the hospital. During those four years the number of patients in the hospital increased at an average annual rate of 12%. By 2010 it had 534 beds. 48,579 outpatients were treated, nearly four times more than in 2006 and there were 16,448 surgical operations, twice the number in 2006. The budget of the hospital in 2009 was 3,244,483 thousand kwanza.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode254AE8BD-CBEC-44EF-A881-91013358B8D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode22CBA6E7-79E6-413B-AA65-702020450416"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF8E173A0-E1F4-4428-BF84-C62A6F5FDA3B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode22CBA6E7-79E6-413B-AA65-702020450416"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7A46A9C4-95DF-4779-8E71-10B09D07FE4C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode22CBA6E7-79E6-413B-AA65-702020450416"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode76A1165A-9BE4-484F-AB8B-57E0121726B3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">766</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">791</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE28A36DB-A958-45D7-B561-AB88049C4D4C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAC784485-F56A-4385-B075-AB27B97FCE02">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">766</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">784</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE28A36DB-A958-45D7-B561-AB88049C4D4C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3244483000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA0EA1D09-1362-4660-AB75-00986183DD13">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">785</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">791</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE28A36DB-A958-45D7-B561-AB88049C4D4C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">kwanza</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

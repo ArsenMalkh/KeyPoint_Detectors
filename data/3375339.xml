@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375339" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1564AF4E-9A1C-42D4-8A3A-65DC32366EF7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Kazakhstani Tenge</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">212000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDD8CDAB9-4FB4-4CF9-A69A-830630CAD0EA">
+		<Aux:document_text xml:lang="en-US">S-K Fund is a sovereign wealth fund owned and operated by the Republic of Kazakhstan. (Am. Compl. ^ 14). S-K Fund controls more than 500 companies in a diverse range of areas, including banking, oil and gas, mining, chemicals, transport, communications, and electricity. (Id.). On February 3, 2009, S-K Fund invested 212 billion Kazakhstani Tenge, or approximately $1.5 billion, in BTA Bank. (Am. Compl. ^ 26). In exchange, S-K Fund took a 75.1% stake in BTA Bank and gained a seat on BTA Bank’s Management Board. (Am. Compl. ^ 26). Thereafter and at all times relevant to this case, S-K Fund controlled BTA Bank and directed its affairs. (Am. Compl. ^ 66-67; see also Decl. Francis Fitzherbert-Brockholes (Docket No. 18) (“F-B Decl.”), Ex. A (“Informational Mem.”), at 120).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3DF72F95-DF6E-434C-930A-4E6FCE41C7DC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1564AF4E-9A1C-42D4-8A3A-65DC32366EF7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA0F56B1B-084E-4F8A-BA37-7CBF3F5D9155">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1564AF4E-9A1C-42D4-8A3A-65DC32366EF7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">212000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode38E68A99-CD27-4E4F-A4B3-46DA09454B41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1564AF4E-9A1C-42D4-8A3A-65DC32366EF7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Kazakhstani Tenge</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

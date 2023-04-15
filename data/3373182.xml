@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373182" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB0AB6FC1-BD81-46B2-A73A-4A5077E8F1AD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Estonian marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">250000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9FCA12DD-DA7F-492B-A106-57E1D67E9013">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Finnish marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">110000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3E40B71A-C816-4F38-822C-C06A570BA28C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">227000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode89299708-AB8D-40D6-BB68-2B8F296A0BE7">
+		<Aux:document_text xml:lang="en-US">On 22 January 1920, general Yudenich signed an order of dissolution of his badly-beaten army. On 28 January general Bułak-Bałachowicz, together with several Russian officers and the Estonian police arrested him. A large amount of money was found with him (roughly 227.000 pounds, 250.000 Estonian marks and 110.000.000 Finnish marks) was given to the soldiers of the disbanded army as a last salary, which greatly added to Bałachowicz's popularity amongst them. Short service for the Belarusian Democratic Republic Since 1918, Bałachowicz was in contacts with the representatives of the Belarusian Democratic Republic (BDR) in the Baltic states. On 7 November 1919, the government of the BDR agreed to finance Bałachowicz's unit and on 14 November, Stanisław Bułak-Bałachowicz received his Belarusian citizenship and applied for official service for the Belarusian Democratic Republic. His unit was officially renamed to Special Unit of the Belarusian Democratic Republic in the Baltics (Belarusian: Асобны атрад БНР у Балтыі), received Belarusian uniforms and a seal. The unit issued its own field postal stamps and engaged in a few minor battles with the Bolsheviks.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode712E314A-2DAB-4D53-A251-524F258429C8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E40B71A-C816-4F38-822C-C06A570BA28C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeACE00D33-3F3A-461C-B101-AD7ED02C842A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E40B71A-C816-4F38-822C-C06A570BA28C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">227000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD1201C06-0BB5-4532-81F6-E5740185F216">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E40B71A-C816-4F38-822C-C06A570BA28C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC5181DDE-54D0-45A3-A6BC-C8078D4286E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0AB6FC1-BD81-46B2-A73A-4A5077E8F1AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">250000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9E8798AC-CF2E-43AF-9A83-999EAE72C244">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0AB6FC1-BD81-46B2-A73A-4A5077E8F1AD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode13150657-C0FD-41CD-9C69-494C6BBAC36D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0AB6FC1-BD81-46B2-A73A-4A5077E8F1AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Estonian marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode817C09AB-18EA-4DA3-887B-8C7BB93FE69E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9FCA12DD-DA7F-492B-A106-57E1D67E9013"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode22334AA8-14B4-4E2B-9970-51E5A35AC2D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9FCA12DD-DA7F-492B-A106-57E1D67E9013"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">110000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode558550CB-122A-41F0-B5A7-52BF884408E0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9FCA12DD-DA7F-492B-A106-57E1D67E9013"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Finnish marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

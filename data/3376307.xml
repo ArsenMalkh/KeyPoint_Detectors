@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376307" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD407FBF9-E2EF-4C4A-BA2D-913E77EB9700">
+		<BasicEntity:ms_major_currency xml:lang="en-US">TZS</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode167308D6-39CA-4259-9D64-24665577FB9E">
+		<Aux:document_text xml:lang="en-US">YETU Microfinance Bank PLC is a bank dedicated to provide financial services to the unbanked and under banked people of Tanzania. The bank offers credit products, such as solidarity group loans for clients who are organized into groups whose members serve as informal bank and cross guarantee each other's loans; Mavuno loan products to afford members of solidarity group loan who have reached a loan ceiling of TZS 3 million and would like to borrower on individual capacity; small and medium enterprises loan products, including export and import, car, business/shop improvement, business capital, and processing and manufacturing loans; SRI agricultural loans; mixed farming loans to smallholder farmers for financing various crops; and instant loans, as well as education loans. Its deposit products comprise compulsory (collateral) savings; and voluntary deposits.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1D37B519-515F-4D95-B553-CAFA29D72B06">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD407FBF9-E2EF-4C4A-BA2D-913E77EB9700"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3A02F6E4-B910-407A-9B83-6D17AC9AA89D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD407FBF9-E2EF-4C4A-BA2D-913E77EB9700"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">TZS</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBCF776EC-3384-4901-A4C7-F7A411866CD7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD407FBF9-E2EF-4C4A-BA2D-913E77EB9700"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

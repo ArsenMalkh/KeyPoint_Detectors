@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373616" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA92B9721-BC1D-48A5-A0AF-90E674120432">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Pakistani rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1407800000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode508D93DD-1A18-4BFC-B770-F7B18228F65C">
+		<Aux:document_text xml:lang="en-US">The zoo started in 1978 as a refuge for leopards, spotted deer, and Indian gazelle found in the region, and is administered by Capital Development Authority of Pakistan. Located in the feet of Margalla Hills. It soon gained popularity and became a part of the Japanese garden. An aviary was later constructed. The Capital Development Authority devised a plan in August 2008 to upgrade and extend the zoo as a recreational area and wildlife sanctuary. The estimated cost of the project is 1407.8 million Pakistani rupees. As of February 2019, Minister of State for Climate Change Zartaj Gul told a Senate committee that she has requested the government to hand over the control to the Islamabad Wildlife Management Board for better management of the zoo and care of the animals. Gul said, “The zoo needs to be returned from the MCI to the Islamabad Wildlife Management Board that has qualified individuals and trained caretakers.”</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA2930FDD-D5A3-4666-A52C-37ADF603AA24">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA92B9721-BC1D-48A5-A0AF-90E674120432"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEC8EA8FB-3B56-4D47-994E-496E47379994">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA92B9721-BC1D-48A5-A0AF-90E674120432"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1407800000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA34CACB1-CAE4-4CF1-B8D1-75CE1FF39E27">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA92B9721-BC1D-48A5-A0AF-90E674120432"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Pakistani rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

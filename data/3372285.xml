@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372285" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA6B2D927-37B7-49DE-B801-BB64FC4A5766">
+		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">90472386328</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4CBD9603-B83B-4A03-B3C4-C1880FC939DA">
+		<Aux:document_text xml:lang="en-US">This report concerns what Asahi Glass has done to help protect the environment. Focussing on factories in Japan, it covers our main efforts up to 1999. The data is from the non-consolidated statements usually used by Asahi Glass. Company Outline Company name: Founded: Established: Equity capital: Address: Employees: Consolidated subsidiaries: Employees in above: Asahi Glass Co. Ltd. September 8, 1907 June 1, 1950 JPY 90,472,386,328 (as of March 31, 2000) New Yuraku-cho Bldg., 12-1 Yuraku-cho 1-chome Tokyo, Japan 100-8405 7,453 (as of March 31, 2000) 194 companies (incl. 114 overseas) 43,217 (as of March 31, 2000) Message from the President Manufacturers have contributed to the enrichment of society by making useful products. However, it cannot be denied that their corporate activities have also created environmental problems.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDD9A353D-531C-491B-9467-D1A3DBE9C7F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6B2D927-37B7-49DE-B801-BB64FC4A5766"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1C0EDE96-7846-4ABF-8869-06A3F6B5430A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6B2D927-37B7-49DE-B801-BB64FC4A5766"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode04C34932-4A83-46ED-8A50-39790F8DDBAC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">421</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6B2D927-37B7-49DE-B801-BB64FC4A5766"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">90472386328</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

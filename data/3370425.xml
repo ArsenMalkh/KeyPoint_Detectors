@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370425" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA528D9E1-40C9-400A-A45A-59CF7B61D551">
+		<BasicEntity:ms_major_currency xml:lang="en-US">rub</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">57.9</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7786888B-BEAF-428A-BD5A-A3E53B8C47D1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20300000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode35172009-EEC6-4ADB-8F6F-EEBA092027EA">
+		<Aux:document_text xml:lang="en-US">Commercial market of RTU drugs volume in pharmacy purchase prices in September 2010 grew up to 16,6% compared to August 2010 and amounted to 20,3 billion rubles (with VAT included), that is higher to 13,7% than in September 2009. The market shows positive results compared to the same period in 2009 from second quarter. Commercial market of drugs grew up to 4,0% in rubles value at 9 month of 2010 compared to 2009. There are no decreasing at Real sales value too – the growth already amounted to 5,4%. The average price of drug unit at the Russian commercial market in September was increased by 4,0% compared to August and was amounted to 57,9 rub. According to price index in September 2010, the prices decreased by 1,5% in rubles value compared to December 2009. Price index decreased by 4,2% in dollar value. Intent control by the prices and the new rules in regulation of the list of vital drugs led to deflation on drugs market. In September, is observed prices increase of drugs outside the vital drugs list by 0,7%.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1F3B9F2B-2E9B-48E0-A226-BCF420685609">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7786888B-BEAF-428A-BD5A-A3E53B8C47D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode91E56354-7392-4FA7-8163-C2EBAA47F833">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7786888B-BEAF-428A-BD5A-A3E53B8C47D1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20300000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode67411EA5-DB44-4604-BC78-434B3FA81F30">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7786888B-BEAF-428A-BD5A-A3E53B8C47D1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFAD735E1-9F2E-4C31-8747-E818102583C4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">650</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA528D9E1-40C9-400A-A45A-59CF7B61D551"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9EC7659C-A04F-48E7-BCE2-4650FCB8362A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA528D9E1-40C9-400A-A45A-59CF7B61D551"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">57.9</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2B4BDFAE-481E-4E19-8FBA-4A25C9602B41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">647</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">650</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA528D9E1-40C9-400A-A45A-59CF7B61D551"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">rub</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375186" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode6E2A3D4A-E6B5-459A-981B-A302A3C09543">
+		<BasicEntity:ms_major_currency xml:lang="en-US">centavos</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">131.92</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCAF3D69E-F76A-4A56-82AF-AE7C0DB5A108">
+		<BasicEntity:ms_major_currency xml:lang="en-US">centavo</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">0.14</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCD1C3758-C83C-4026-95B8-CDFF1BA551D0">
+		<Aux:document_text xml:lang="en-US">The peso also rallied today after the nation’s Automobile Industry Association said Mexican production of cars and light trucks rose 9.4 percent in March from the year-earlier period, according to Rafael Camarena, an economist at Banco Santander SA. The yield on Mexico’s peso-denominated debt due in 2024 rose one basis point, or 0.01 percentage point, to 6.33 percent, according to data compiled by Bloomberg. The price fell 0.14 centavo to 131.92 centavos per peso. To contact the reporter on this story: Ben Bain in New York at   bbain2@bloomberg.net To contact the editor responsible for this story: David Papadopoulos at   papadopoulos@bloomberg.net</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode67E3D0EC-BBF0-4D80-A100-42393E669427">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCAF3D69E-F76A-4A56-82AF-AE7C0DB5A108"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB3A3BDB5-1786-4160-B2CF-C77E40208668">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCAF3D69E-F76A-4A56-82AF-AE7C0DB5A108"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">0.14</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode151CEA80-385B-47A1-A316-A3B7C43BEB9A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCAF3D69E-F76A-4A56-82AF-AE7C0DB5A108"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">centavo</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68A37A21-3C72-4D16-B86C-23DC14484D50">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6E2A3D4A-E6B5-459A-981B-A302A3C09543"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF6775CAF-B016-4272-A395-A2BA5EFA68C3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">449</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6E2A3D4A-E6B5-459A-981B-A302A3C09543"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">131.92</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8FF1E746-D96B-40A0-BAF8-4B6EDA100060">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6E2A3D4A-E6B5-459A-981B-A302A3C09543"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">centavos</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372187" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode275091E5-F576-4F80-A0AD-F3583BA162AE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">TWD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">550</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0450E813-2389-45A6-9A64-81F4AB276738">
+		<Aux:document_text xml:lang="en-US">“Mobile Talk Exhibition” is the extended mini exhibition following every Mobile Talk, it is the response to the “#independent #collective” experiences and stories shared by every guest in Mobile Talk. Each item contributed by the guest does not necessary pointing to a portfolio but signifies the spirit of “independent” and “collective”, as well as a reflection of cultural norms and social context since each guest comes from different cities and background. Mobile Talk Session #3 Taipei Date: November 5th, 2016, 15:00 – 18:30 Fee：TWD 550 (Included a cup of coffee/tea） Place: FabCafe Taipei Address: Huashan 1914 Creative Park, Zhongzheng District, Taipei Guest speaker: Yuma Harada + Tomomi Tada (Japan), Shin Shin (Haeok Shin + Donghyeok Shin) (Korea), MIRO (Michael Leung) (Hong Kong), The Book Society (Kyung Yong Lim + Helen Ku) (Korea)</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFC4C564E-EA21-429D-B4C0-4F12AA81D45F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">535</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275091E5-F576-4F80-A0AD-F3583BA162AE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode13B48BA0-C9E7-4202-914C-C6B2E4AC5D87">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">535</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275091E5-F576-4F80-A0AD-F3583BA162AE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">TWD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF9F4F737-D3DF-46E2-9EAB-111231F20BC2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">539</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275091E5-F576-4F80-A0AD-F3583BA162AE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">550</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

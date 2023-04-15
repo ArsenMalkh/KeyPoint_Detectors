@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372985" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAB55950D-9A47-41A4-BD78-A5149E21E20C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">NZ$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">885000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode25794580-3896-4C05-8CBD-01F26684FB81">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDFE7EC05-6A2D-4559-8050-D4938563D110">
+		<Aux:document_text xml:lang="en-US">A deal made in April 2001 for Ansett to purchase Virgin Blue was repudiated by Virgin chief Richard Branson in August, and Singapore Airlines, which was initially blocked from buying Ansett, was also prevented from investing further in Air New Zealand/Ansett by the New Zealand government. It then declined to take up an earlier proposed deal to inject over $500 million into Air New Zealand and Ansett after talks collapsed. In early September 2001, as the trouble worsened, the New Zealand government prepared to rescue Air New Zealand (eventually buying 83% of the company for NZ$885 million), but cut Ansett adrift. Despite public pleas, the Australian government refused to bail out Ansett. Quickly running out of both lines of credit and options, Air New Zealand on 12 September 2001 placed the Ansett group of companies into voluntary administration with PriceWaterhouseCoopers. On 14 September, the administrator determined that Ansett was not viable to continue operations (primarily due to the apparent lack of any funds to cover fuel, catering, or employee wages) and grounded the fleets of Ansett and its subsidiaries Hazelton Airlines, Kendell, Skywest, and Aeropelican. Flights already in the air at the time the decision was made continued on to their destinations. Customers and almost all employees had no warning of the stoppage in operations. An Ansett Boeing 767-200 operating on behalf of Ansett Airfreight due to depart Melbourne for Launceston, Tasmania, was the first aircraft to be stopped from flying. It was unable to be unloaded until midday the next day, as no paid staff were on duty</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode14C0109D-DBAF-4286-B8C8-6F622601DA1C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode25794580-3896-4C05-8CBD-01F26684FB81"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7A3D176E-CB4D-47B8-9A3E-5B5EA050D06B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode25794580-3896-4C05-8CBD-01F26684FB81"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEC1F64CB-1789-4B7C-9F89-47B238F3ABA5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode25794580-3896-4C05-8CBD-01F26684FB81"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4B8EC5B4-3612-44AF-B964-4EAEC4BCD6D2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">580</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">594</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB55950D-9A47-41A4-BD78-A5149E21E20C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9BC8CF2F-B10F-4522-8F45-3B03559B3D22">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">580</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB55950D-9A47-41A4-BD78-A5149E21E20C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">NZ$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC974347C-1C40-427E-8BAE-3075244FA3F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">594</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB55950D-9A47-41A4-BD78-A5149E21E20C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">885000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

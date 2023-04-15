@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371932" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE68CB9B0-78AF-42CD-9841-63DDAAAD46E8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">koruna</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2AE11150-BF53-48BC-AD87-DB4C7DCA621B">
+		<Aux:document_text xml:lang="en-US">In the Czech capital of Prague, Environment Minister Tomas Chalupa said the city’s sewage treatment plant — which had to be shut down because of high water — might be operational again in the next 24 hours. Since the shutdown, the city’s effluence has gone straight into the Vltava River, which runs through the city. “It’s not over yet,” Czech Prime Minister Petr Necas said. “There are tough moments still ahead of us.” He pledged more than 5 billion koruna ($250 million) for cleanup work. Authorities were also concerned about the safety of chemical plants next to the overflowing rivers. Czech public television said a barrier that protects one major fertilizer plant in Lovosice was leaking Wednesday but Necas visited the plant and downplayed the danger.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode94579323-8401-42DF-9E75-903F2069E6DD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE68CB9B0-78AF-42CD-9841-63DDAAAD46E8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC49565F9-8FD1-4E62-9B0F-49A2271EF59D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE68CB9B0-78AF-42CD-9841-63DDAAAD46E8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCD072565-667C-4D1C-8EAA-FC8B5BC62D56">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">453</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE68CB9B0-78AF-42CD-9841-63DDAAAD46E8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">koruna</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

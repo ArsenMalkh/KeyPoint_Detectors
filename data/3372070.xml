@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372070" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF9F95393-D0BD-48DA-802F-3DD99A06BC6B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US cents</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">14</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE35DB0D6-CCCF-465B-817B-25F7C49D8142">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">70000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5FE2591A-6C57-452B-B613-F0B0170B9BDA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">kuna</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8A5B6E5A-6463-48B3-8C5E-440B5323831D">
+		<Aux:document_text xml:lang="en-US">So who was responsible? Bayerische Landesbank had bought the bank from the government two years earlier, which should have given it plenty of time to do due diligence. The bank had been valued by experts. The Croatian supervisors had overall responsibility to ensure the bank was properly run. But where there is a foreign parent, hard-pressed bank supervisors in Central Europe tend to rely on its usually more rigorous controls. In Europe, at least, the parent's supervisor tends to look at the whole group, including foreign subsidiaries. Even so, the fraud at Rijecka remained undiscovered for a surprisingly long time. When it came to light, Bayerische Landesbank did a rapid internal audit and decided to sell the bank back to the Croatian government for one kuna (about 14 US cents). By disposing of its purchase for next to nothing, the German bank had lost its capital stake of around $70m. Even so, Cedo Maletic, a vice-governor of the Croatian National Bank, thinks it did not do enough: "Banks aren't shoes to be put in the garbage." Bayerische Landesbank does not owe Croatia anything, he says, "but if it wants to buy another bank here—no chance."</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE5A73E0B-372C-486E-93C8-E4A15B1A92BF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">761</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">769</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5FE2591A-6C57-452B-B613-F0B0170B9BDA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA979B50C-A1E4-4023-9D1B-82AFAA34A91B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">761</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">764</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5FE2591A-6C57-452B-B613-F0B0170B9BDA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8DE2B67F-C928-4F57-9CF2-898D91C7F267">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">765</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">769</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5FE2591A-6C57-452B-B613-F0B0170B9BDA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">kuna</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAC374D8B-4E93-4403-AA6B-F8CCC587B48D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">777</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">779</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9F95393-D0BD-48DA-802F-3DD99A06BC6B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">14</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4278C356-BD31-4730-867F-BD8CA9503F90">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">777</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9F95393-D0BD-48DA-802F-3DD99A06BC6B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6A3FAFCC-32CC-4D24-8B3A-64FEF29B636B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">780</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9F95393-D0BD-48DA-802F-3DD99A06BC6B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US cents</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6A16F8C3-8A93-4CE2-940D-AB7D9C24D558">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">894</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE35DB0D6-CCCF-465B-817B-25F7C49D8142"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAF64AC07-A360-4AA0-AAEE-31D9B72E97D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">894</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">895</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE35DB0D6-CCCF-465B-817B-25F7C49D8142"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCA65456F-D6CF-4AEE-B56A-A49356DC65D3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">895</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE35DB0D6-CCCF-465B-817B-25F7C49D8142"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">70000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

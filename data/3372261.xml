@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372261" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF9932ABD-C568-412C-B13D-2A61FA0BE66A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2503336F-F023-4455-8F49-09791346ACCE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode93AC1DA1-B6D2-4362-B1CF-C0D5BDB615DC">
+		<Aux:document_text xml:lang="en-US">Aioody’s Investors ServiceNEWSMoody’s assigns A2 rating to JPR’s series 7 bondsTokyo, December 4, 2006 -- Moody's Investors Service has assigned an A2 unsecured senior debt rating to the proposed issue of Series 7 (Yen 4.5 billion, due 2026) Japan domestic bonds by Japan Prime Realty Investment Corporation (JPR).This is the takedown from JPR's Yen 100 billion domestic shelf registration of November 2005, which is rated (P)A2.The rating outlook is stable.The rating reflects the diversity and stable cash flow of JPR's portfolio that has successfully expanded through its external growth phase since listing, the property acquisition and management ability of JPR's asset management company, and JPR's reasonably conservative financial policy.Japan Prime Realty Investment Corporation is a listed Japanese Real Estate Investment Trust (June 2002), which focuses on investing and managing office buildings and retail properties.Tokyo Realty Investment Management, Inc. (TRIM) is the asset management company, specially established for JPR, and sponsored by Tokyo Tatemono Co. Ltd., Meiji Yasuda Life Insurance Company, Taisei Corporation, Yasuda Real Estate Co., Ltd. and Sompo Japan Insurance Inc. Each sponsor holds 26%, 24%, 20%, 20% and 10% of TRIM respectively.end1/1Moody’s Japan K</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBB30452D-54EB-4F72-834B-048BDBA3B421">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2503336F-F023-4455-8F49-09791346ACCE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode993B7E21-8175-4295-8F94-F756B2EADA7D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2503336F-F023-4455-8F49-09791346ACCE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5A522FA6-1ECF-4E89-B06B-18B98EEF696A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2503336F-F023-4455-8F49-09791346ACCE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE1B9D63C-467A-4853-A6FF-A0787F0C9792">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9932ABD-C568-412C-B13D-2A61FA0BE66A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6F4DAAE0-6FFA-4104-B491-F7CE9154000C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">349</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9932ABD-C568-412C-B13D-2A61FA0BE66A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode43EAFA90-6712-40F6-8FC3-8BBCFD6206EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9932ABD-C568-412C-B13D-2A61FA0BE66A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

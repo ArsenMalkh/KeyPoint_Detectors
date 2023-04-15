@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373428" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1CC8F198-F967-46A5-84A2-39708A846131">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Algerian dinars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7BC693DA-B717-4922-9D5A-50B17F2B65CA">
+		<Aux:document_text xml:lang="en-US">Chaouchi is considered to be national hero by many Algerians, as he put in a heroic performance in the play-off that put the Algerian national team into their first World Cup finals since 1986 at the expense of their bitter rivals Egypt. He constantly denied the Egyptian national team all scoring opportunities. Chaouchi was only 23 years of age at the time of the play-off and played in place of suspended Lounès Gaouaoui. It was only Chaouchi's third cap during the unforgettable night in Al Merreikh Stadium, Omdurman (Sudan). In 2010, Chaouchi was known to have been Algeria's highest-paid footballer, earning roughly around 13 million Algerian dinars. Chaouchi was not employed by a club during the 2013–14 season, and has not been called up by the Algerian national team since 2010. Early life Born in Bordj Ménaïel, Boumerdès, Chaouchi was born to Houria and Rachid Chaouchi a former goalkeeper himself that played for JS Bordj Ménaïel. It was his father Rachid Chaouchi that noticed Faouzi's talent when he watched him play with other children in their neighbourhood.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2C7DADBA-3556-410A-BB3F-034F80831AB1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CC8F198-F967-46A5-84A2-39708A846131"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF9FBEF3E-B168-4535-BF27-D6CE0174FC7A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">640</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CC8F198-F967-46A5-84A2-39708A846131"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9FFF3105-8ECE-4C75-87CC-C56F60A07C47">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CC8F198-F967-46A5-84A2-39708A846131"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Algerian dinars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

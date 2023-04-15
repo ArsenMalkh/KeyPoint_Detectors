@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373684" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode09D45887-FACA-4F87-9E7A-48C998B5F693">
+		<BasicEntity:ms_major_currency xml:lang="en-US">RM</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">6300000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode51A85CBD-2B36-4A46-9AC4-82647D1AD43B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Reichsmark</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE1930A8F-5BFE-4462-B4B8-A826A5084D91">
+		<Aux:document_text xml:lang="en-US">The DZR took over the South American service of the LZ 127 Graf Zeppelin on 22 March 1935. On 19 March 1936 the airship LZ 129 Hindenburg was licensed to carry passengers and handed over to the DZR, allowing the airline to maintain regular South and North American routes. Construction began at the new Frankfurt Airport on a second airship hangar as well as special housing for employees. On 30 June 1936 the DZR ordered a sister ship to the Hindenburg, LZ 130 Graf Zeppelin II, for 5.5 million Reichsmark. Completion was scheduled for October 1937. Between 1935 and 1936 the company's share of revenues rose from 47 to 57 percent, allowing the Reich government to decrease financial support from 53 to 43 percent. At the start of the 1937 fiscal year, the Supervisory Board and shareholders' meeting of 16 December 1936 voted to order yet another airship (LZ 131) for the price of 6.3 million RM, demonstrating high confidence in the future.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5F16987D-2FE6-49E4-9346-CB4BA3E50137">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51A85CBD-2B36-4A46-9AC4-82647D1AD43B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF5A65579-70E1-439B-9231-4326C1F072A6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">495</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51A85CBD-2B36-4A46-9AC4-82647D1AD43B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8C5DED41-5F43-45B9-A746-21FDA9177B03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51A85CBD-2B36-4A46-9AC4-82647D1AD43B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Reichsmark</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD9984282-B8BB-436E-91C7-70A49D573CEF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">883</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">897</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09D45887-FACA-4F87-9E7A-48C998B5F693"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFA3CB961-4F4E-4A8C-A1DD-F4744906DEAF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">883</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">894</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09D45887-FACA-4F87-9E7A-48C998B5F693"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">6300000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEF58E082-6B37-4BE9-88EE-8304E7C32CD1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">895</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">897</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09D45887-FACA-4F87-9E7A-48C998B5F693"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">RM</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

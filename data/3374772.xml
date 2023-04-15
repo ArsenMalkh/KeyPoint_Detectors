@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374772" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode449C4201-BE96-4324-9CA2-5E9DB876C6A5">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Forints</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCD9CFA49-5D3B-4D7E-9A41-6B9E2B43A2DE">
+		<Aux:document_text xml:lang="en-US">Unfortunately, we have learned that the answers received from the Commission have been meaningless and that they could not promise any kind of solid guarantees behind the attractive facade of an integrated approach. But there is a need for guarantees. I have come from Hungary, where the government has been able to contravene the earlier agreement made with the European Union, and redirect 8 billion Forints from agricultural-environment protection into direct subsidies for farming. Because of this and similar reasons, farmers are demonstrating with their tractors in the capital of my country even as we speak. In Hungary there is a saying that if someone burns their mouth once with hot water, then later they will blow on cold water too.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode38119722-AF5C-4182-B743-DD18413066A5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode449C4201-BE96-4324-9CA2-5E9DB876C6A5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD8413A57-EBD3-433E-BDCF-2BC928F12005">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode449C4201-BE96-4324-9CA2-5E9DB876C6A5"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBD306285-B6B8-413B-A3DF-BD06E0C8F895">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode449C4201-BE96-4324-9CA2-5E9DB876C6A5"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Forints</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

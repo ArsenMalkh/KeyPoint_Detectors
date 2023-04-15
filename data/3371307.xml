@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371307" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9B4EC4C7-E928-4D2A-ACDA-7E05ED66D3B8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeABD2C714-AC5D-438A-9C19-BE7393EA257D">
+		<Aux:document_text xml:lang="en-US">In March, Putin stripped Magomedov of his position as a representative on the 21-nation Asia-Pacific Economic Cooperation group’s business advisory council. Medvedev had appointed him to the post in 2010 and the billionaire chaired the body during Russia’s rotating APEC presidency in 2012, when it hosted that year’s summit in Vladivostok. Two state monopolies, OAO Transneft and OAO Russian Railways, are now seeking to reverse the gains Magomedov’s Summa Group has made over the last decade. Summa said it has received at least 200 billion rubles ($6.3 billion) of contracts since 2010 alone, nearly all from state structures. “All businesses close to Medvedev and his team are now encountering difficulties and their competitors are exploiting the situation,” said Gleb Pavlovsky, a former Kremlin adviser who heads the Effective Policy Foundation in Moscow. “Summa will look for ways to rescue itself and escape the risks but it’s not clear if it can do that.”</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF6008FC2-B6D1-4857-9F00-DDC8A8353200">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9B4EC4C7-E928-4D2A-ACDA-7E05ED66D3B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode38148C21-343E-41E8-A458-0A1CA9BE9E94">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9B4EC4C7-E928-4D2A-ACDA-7E05ED66D3B8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode68F6F248-365C-4963-B52D-AE3BEE0AEF86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9B4EC4C7-E928-4D2A-ACDA-7E05ED66D3B8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

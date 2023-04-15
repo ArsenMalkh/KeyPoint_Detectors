@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376317" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode116707A6-F314-435C-A987-E32CC60151A4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">shekel</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE337B712-F4E8-4489-AF91-C9B54D947D3E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Israeli new shekels</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD3252A09-1957-4268-A87C-FA35A141CBD3">
+		<Aux:document_text xml:lang="en-US">In Central Park, teams had to toss a ball resembling a big apple to land on top of a metal structure. They then to walk balancing the ball on the structure to a can, then tilt it so the ball rolls into the can to receive their next clue. If they dropped the ball, they had to start over. In Washington Square Park, teams had to convince enough park-goers to stand together on a weighing scale to reach a total weight within five kilograms of 1,636 kilograms (3,607 lb), the equivalent to 1 million Israeli new shekels in only five-shekel coins, to receive their next clue. After the Double Battle, teams made their way to the nearby American Made Furniture outlet, where they voted for who they wished to Yield. Teams made their way back to Manhattan to collect a list of items at specific locations in the famous SoHo neighborhood: a flower bouquet and four gifts from Élan Flowers, ten suits from Ari SoHo, eight cups of coffee from Ground Support Café, and finally a set of golf clubs and a rolling suitcase from Art + Autonomy Salon. Once fully collected, they then had to deliver all of the items intact to a Mr. Donald's loft at 241 Centre Street to receive their next clue. If they dropped or broke any of the items, they had to go back.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2B50FAFF-0876-47F5-822B-84F6D70B03C9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE337B712-F4E8-4489-AF91-C9B54D947D3E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0BA0B8BE-46C4-488F-A6D9-2E2C62E4CA04">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE337B712-F4E8-4489-AF91-C9B54D947D3E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC28F20E3-DA26-466F-BA52-CA05F6AE6D36">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE337B712-F4E8-4489-AF91-C9B54D947D3E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Israeli new shekels</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0CACDC09-D6E8-4877-9615-A8E38C6F77D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">526</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">537</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode116707A6-F314-435C-A987-E32CC60151A4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE2AA4C41-4127-4B9C-8D71-7EA7264931C0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">526</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode116707A6-F314-435C-A987-E32CC60151A4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD99980CE-D896-4166-B37E-097CFF4D0587">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">537</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode116707A6-F314-435C-A987-E32CC60151A4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">shekel</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

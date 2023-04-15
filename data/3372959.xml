@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372959" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB4D80DD3-0DD1-49C8-B076-F4E05021A1CC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">old Israeli shekel</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDED00996-8B30-4131-AABA-6ED784DC29D9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">new Israeli shekel</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB1BEADDA-1012-4E41-91D5-387E2A8AAB0A">
+		<Aux:document_text xml:lang="en-US">Streets and neighborhoods have been named in his honor, among them the Ramat Eshkol neighborhood in Jerusalem. Several schools are also named after him, including HaKfar HaYarok. The Hebrew University of Jerusalem named the Agriculture Faculty in Levi Eshkol's name, as well as established a research institute in his name in the Faculty of Social Sciences. Israel issued in 1970 a postage stamp with a portrait of Eshkol. In 1984 his image was chosen for the five-thousand old Israeli shekel bill, replaced in 1985 by the five new Israeli shekel bill. Since 1990, his image is found on a limited, yet circulated, minting of the five new Israeli shekel coin that replaced the bill.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode004ED34F-0516-40E8-B7DF-73B176F16982">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4D80DD3-0DD1-49C8-B076-F4E05021A1CC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD8029381-4AEB-4205-9CE1-4B8F5AAAA40D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4D80DD3-0DD1-49C8-B076-F4E05021A1CC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4065499A-408C-4DBA-93FF-E756E5022C5F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4D80DD3-0DD1-49C8-B076-F4E05021A1CC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">old Israeli shekel</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAF9E1866-7731-4BF0-A810-E0019B889E2B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDED00996-8B30-4131-AABA-6ED784DC29D9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDE2A98A9-5196-4F67-BC7F-F621744CDD44">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">523</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDED00996-8B30-4131-AABA-6ED784DC29D9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF6B057FE-5599-421E-A608-84390241412B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDED00996-8B30-4131-AABA-6ED784DC29D9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">new Israeli shekel</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

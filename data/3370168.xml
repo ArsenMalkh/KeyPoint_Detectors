@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370168" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode67B8BC06-4DAD-4551-AA19-F494C22D06DF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Lebanese liras</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDB045A3E-D488-4F78-9BCD-7CFBAC507778">
+		<BasicEntity:ms_minor_amount xml:lang="en-US">33</BasicEntity:ms_minor_amount>
+		<BasicEntity:ms_major_currency xml:lang="en-US">dollar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_minor_currency xml:lang="en-US">cents</BasicEntity:ms_minor_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7B160AA9-3499-46FA-A607-51A5D8DAEE82">
+		<Aux:document_text xml:lang="en-US">Abu Adas had changed from being a carefree teenager and became a religious fundamentalist. Approximately one month prior to being reported missing, Mr. Abu Adas had informed his family that he had met a new friend at the Al-Huri mosque, where he sometimes led the prayers. Information from the mother of Mr. Abu Adas suggested that at approximately 2100 hours on 15 January 2005, the “new friend” made a telephone call to the Abu Adas home and told Mr. Abu Adas that he would be calling for him at 0700 hours on 16 January saying that he had a surprise for Mr. Abu Adas. The mother claimed that at approximately 0700 hours on 16 January someone called for Mr. Abu Adas, alerting him by blowing on a car horn outside the apartment; she further stated that Mr. Abu Adas, who had already been up for prayer, called to ask her for some money and that he took only 2,000 Lebanese liras (approximately one dollar and 33 cents) and said that he would be only a few hours. She also stated that Mr. Abu Adas had asked her to apologize to another friend that he had made an appointment with on that date.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6B6D1CA0-3DF6-4C69-924D-C188B0CA7318">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">860</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">865</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode67B8BC06-4DAD-4551-AA19-F494C22D06DF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8029859F-95C1-4826-960A-CF7AEE50FA0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">860</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode67B8BC06-4DAD-4551-AA19-F494C22D06DF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8DD49AEB-0513-4933-B61C-20AFA163D4BE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">866</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode67B8BC06-4DAD-4551-AA19-F494C22D06DF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Lebanese liras</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE67A7C01-CAE9-4D88-A8FC-3094ECB5EB45">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">896</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">919</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB045A3E-D488-4F78-9BCD-7CFBAC507778"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE263DA3B-B037-4213-8B51-5E88A221C2AB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">896</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">899</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB045A3E-D488-4F78-9BCD-7CFBAC507778"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF1812A19-A7A3-4200-A381-159C82AF1887">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">906</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB045A3E-D488-4F78-9BCD-7CFBAC507778"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">dollar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1E4C8895-BEE3-446B-B865-B0ACFF24EE70">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">911</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">913</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB045A3E-D488-4F78-9BCD-7CFBAC507778"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_minor_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">33</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode51359533-D0B9-444A-8DD2-0076633D946C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">914</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">919</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB045A3E-D488-4F78-9BCD-7CFBAC507778"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_minor_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">cents</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

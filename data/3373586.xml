@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373586" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB4598488-E37A-4A44-9772-C70F0B0A6126">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Hungarian pengős</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBF137EE8-F531-4240-A545-A999B68700A7">
+		<Aux:document_text xml:lang="en-US">The Hungarian government officially did not support Finland, but secretly started to search for ways to help. In addition, non-governmental organisations began to organize support for Finland. Hungary helped Finland by giving monetary donations, armaments and military volunteers. Nobel Prize winner Albert Szent-Györgyi offered all of his prize money to Finland. Count Pál Teleki's government sent armaments and war equipment valued at 1 million Hungarian pengős during the Winter War (with knowledge and accord of Regent Miklós Horthy de Nagybánya). The recruiting of volunteers started on 16 December. During the Winter War, around 25,000 Hungarian men applied to fight in Finland; finally, 350 applications were accepted. Their military training started at 10 January and it took almost a month. The volunteers formed a battalion what was commanded by Lieutenant Imre Kémeri Nagy. The Hungarian Volunteer Detached Battalion had 24 officers, 52 non-commissioned officers, 2 physicians and 2 military chaplains for a total of 346 officers and men.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCCBAB277-85BF-4893-9D7C-574A7E293A47">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4598488-E37A-4A44-9772-C70F0B0A6126"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode746345D8-0C21-4A02-9E3E-0B7CE32F4B4C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4598488-E37A-4A44-9772-C70F0B0A6126"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode657ABB4C-E28A-4957-8FC9-15B086A68BA8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">447</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4598488-E37A-4A44-9772-C70F0B0A6126"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Hungarian pengős</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

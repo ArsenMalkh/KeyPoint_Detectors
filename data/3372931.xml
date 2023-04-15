@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372931" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode135BC08C-1070-4C8A-934A-2ED2E92AE120">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1160000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAFA3DF5D-990D-4815-889B-2A667A1C5EC3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">৳</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">80000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC6154FB8-325C-4A22-8002-C64154EF82CF">
+		<Aux:document_text xml:lang="en-US">In April 2007, Ahmed's military backed administration attempted to reform the political parties by exiling Hasina and Zia, but this was never enforced. Hasina, who had been visiting her children in the US, was allowed to return but she had to face serious charges, including involvement in the assassination of four political rivals. In July, she was arrested after two businessmen testified that she had extorted ৳80 million (US$1.16 million) from them. This provoked angry protests from her supporters; even her bitter rival Khaleda Zia, as well as six British MPs and MEPs, called for her release. Khaleda herself faced charges of tax evasion and was later arrested. Tarique Rahman was taken to custody for the 2004 grenade attacks and various corruption charges including money laundering, and was later sent on forced exile on 11 September 2008 and since then has not been able to return to the country. After holding power for almost two years, the political situation had finally calmed and Ahmed decided to return parliamentary democracy, testing the political situation with some local elections held on 4 August 2008, which were peaceful. Both Hasina and Khaleda were finally released from prison and the General elections were held on 29 December 2008. The Awami League and its Grand Alliance won the elections with two-thirds of the seats in parliament</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3143DDE9-5B8E-4C3A-92A7-89814774EBF7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAFA3DF5D-990D-4815-889B-2A667A1C5EC3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA061BD7-9475-4274-87DD-BA7DFAA70270">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAFA3DF5D-990D-4815-889B-2A667A1C5EC3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">৳</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFB83FBF6-DEA2-47AC-921D-2BECC9FA3884">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAFA3DF5D-990D-4815-889B-2A667A1C5EC3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">80000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode31A2E31E-DA98-4C22-B207-65B8BD28E414">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode135BC08C-1070-4C8A-934A-2ED2E92AE120"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode214990A5-B3D1-4195-AA2B-324AA58C8A28">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode135BC08C-1070-4C8A-934A-2ED2E92AE120"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD635C8C5-8A60-4685-AA24-A89078F628AB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode135BC08C-1070-4C8A-934A-2ED2E92AE120"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1160000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

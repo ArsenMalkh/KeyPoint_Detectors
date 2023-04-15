@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376090" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode006DFBF2-C17D-42EC-A826-58133EED4E87">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₺</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode14EA7507-A10B-4CDD-B0D5-5C1925EE89FB">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₺</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode57AA0360-8AED-4861-833F-EC98573E28AA">
+		<Aux:document_text xml:lang="en-US">He became a recognized name in politics in the 2007 elections, thanks to his party's slogan. At a rally held in Ankara's Tandoğan square, the sentence "We want jobs, we want food, we want Haydar Baş in Ankara in this election (Turkish: İş istiyoruz, aş istiyoruz, bu seçimlerde Ankara'ya Haydar Baş'ı istiyoruz)", which was written on a farmer's banner, inspired them to use the slogan "Work, food, this time Haydar Baş (İş, aş, bu defa Haydar Baş)" which made the party known among the people. In the 2011 general elections, he was an MP nominee from the Democratic Party. In the 2015 elections, he promised to "come upon ₺500 trillion with the national economy model and provide a [monthly] salary of ₺500 for everyone". In the 2017 Turkish constitutional referendum his party voted "no", and they did not participate in the June 2018 election. Forgery of documents In 2018, upon the complaint of doctor Mustafa Eraslan and his wife Meral Eraslan, a lawsuit was filed against him on the charges of "forcibly passing over someone else's property, attempting to plunder, and forgery in official documents" and his assets were also confiscated. In its decision of 16 October 2019, the Bakırköy 15th High Criminal Court sentenced Baş to two years and six months of imprisonment for forging documents, but he was acquitted of other charges.Then in 19th of March 2020 he got cleared after the appeal for correction from all charges.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode79D53736-A326-4781-8F3C-8282703015A6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">636</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14EA7507-A10B-4CDD-B0D5-5C1925EE89FB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode18991CE8-420D-4B21-B8FA-05EA3BF36A8B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14EA7507-A10B-4CDD-B0D5-5C1925EE89FB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₺</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode354E08A7-4CE2-4CEA-977D-2277DCA5053C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">636</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14EA7507-A10B-4CDD-B0D5-5C1925EE89FB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD3E74341-1F80-4B14-A27E-979321676B95">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">703</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">707</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode006DFBF2-C17D-42EC-A826-58133EED4E87"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB397F1AF-A2EB-46BA-AB53-D21E15BAAE76">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">703</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">704</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode006DFBF2-C17D-42EC-A826-58133EED4E87"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₺</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7224B249-FC78-4D1A-9390-AE45742AC379">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">704</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">707</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode006DFBF2-C17D-42EC-A826-58133EED4E87"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

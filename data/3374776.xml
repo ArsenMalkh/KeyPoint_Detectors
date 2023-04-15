@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374776" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode85400C3D-F1CD-4C26-A58C-D060797A8CD0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pesetas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9E155824-6A8F-4777-81C0-09CF0AC4840A">
+		<Aux:document_text xml:lang="en-US">Where are training and human resources more needed than in areas that are undergoing industrial change? It is only through this concept and through this modification that the Basque Country, as well as other industrial areas of Europe, will be able to continue to receive around 8 billion pesetas every year. I hope that Parliament will tomorrow be in favour of using that Fund for training in Objective 2 areas that are undergoing industrial change, because if training is needed for employment anywhere in Europe, it is undoubtedly needed in areas like these that have a high level of unemployment and where a considerable amount of effort is being made in industrial and technological change.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode53150A0F-C842-4C97-ACBB-6B814F509838">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85400C3D-F1CD-4C26-A58C-D060797A8CD0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6A9C8170-5CE4-4189-AD7D-6FBD289459DA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85400C3D-F1CD-4C26-A58C-D060797A8CD0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF6ACBB4E-F073-4946-96FB-15EC69549A7E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85400C3D-F1CD-4C26-A58C-D060797A8CD0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pesetas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

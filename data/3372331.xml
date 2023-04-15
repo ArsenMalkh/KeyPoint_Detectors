@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372331" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode58EE8F01-41EB-48C2-89AA-2B689C419CA6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Jamaican dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">15000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBE5B9340-0E09-437C-9E06-D04BC747689F">
+		<Aux:document_text xml:lang="en-US">We note in particular the timely launch of the flash appeal by the Secretary-General at the international conference held in Jakarta on 6 January, and the positive response in terms of pledges and actual contributions by many Member States, including developing countries, to assist the affected countries with emergency relief, rehabilitation and reconstruction. Recognizing the scale of the tragedy, the Government of Jamaica, notwithstanding the economic difficulties facing the country, has also played its part by making a contribution of 15 million Jamaican dollars and has put in place arrangements for contributions by the public at large. The flash appeal that has been launched covers a six-month period. Our focus at this meeting should go beyond that time frame. Simultaneous action on a longer-term strategy should be considered and should cover the broad picture of disaster prevention management and recovery.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode317850BB-B3EA-48E0-BC1F-A50DF2E707F7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">544</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode58EE8F01-41EB-48C2-89AA-2B689C419CA6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode931C1227-E540-4263-B19C-CF0D6A260F07">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">544</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode58EE8F01-41EB-48C2-89AA-2B689C419CA6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">15000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode79837B6B-C829-4911-828E-BA786522F4D3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">555</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode58EE8F01-41EB-48C2-89AA-2B689C419CA6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Jamaican dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

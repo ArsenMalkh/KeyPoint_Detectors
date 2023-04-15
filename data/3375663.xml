@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375663" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7C852C73-A2EC-4436-9ABF-8D48CB809E9C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Japanese yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3144C4E2-E27C-4CDC-9D2A-7BD301697874">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Japanese yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8B142991-3A76-4F1C-AF98-6F774D75052F">
+		<Aux:document_text xml:lang="en-US">Tokyo, October 18, 2002—Mitsubishi Tokyo Financial Group, Inc. (MTFG; President: Shigemitsu Miki) announced today that the credit provided by its subsidiary, The Mitsubishi Trust and Banking Corporation (MTBC), to Shinwa Real Estate Co., Ltd. and its subsidiary Shinwa Tochi Tatemono Kabushiki Kaisha may eventually not be repaid due to the event described hereunder. 1. Outline of Shinwa Real Estate Co., Ltd. and Shinwa Tochi Tatemono Kabushiki Kaisha Shinwa Real Estate Co., Ltd. (1) Head office: 4-3, Minami Senba 4-chome, Chuo-ku, Osaka, Japan (2) Chief liquidator: Hidenori Isono (3) Capital: Japanese yen 300 million (4) Business: Real estate Shinwa Tochi Tatemono Kabushiki Kaisha (1) Head office: 4-3, Minami Senba 4-chome, Chuo-ku, Osaka, Japan (2) Chief liquidator: Hidenori Isono (3) Capital: Japanese yen 10 million (4) Business: Real estate leasing 2. Event and date of occurrence</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2560C8DA-31E2-4E2D-8E4D-A2C6F3E888BC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3144C4E2-E27C-4CDC-9D2A-7BD301697874"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6A0E57CD-B89A-4A5C-877F-796C1002A794">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3144C4E2-E27C-4CDC-9D2A-7BD301697874"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Japanese yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0282033B-2DA6-429E-A646-30E9DCEE18B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3144C4E2-E27C-4CDC-9D2A-7BD301697874"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode401D8BBD-A5B6-4376-8905-62FDC81F55B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">805</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">828</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C852C73-A2EC-4436-9ABF-8D48CB809E9C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode73D616AB-4417-42AD-A48A-4D2C0817C5A6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">805</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">817</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C852C73-A2EC-4436-9ABF-8D48CB809E9C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Japanese yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC0EF0FD7-2DA8-4D73-A5B2-CADE866B25DF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">818</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">828</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C852C73-A2EC-4436-9ABF-8D48CB809E9C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

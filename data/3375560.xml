@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375560" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode441D70F2-1675-45CE-A7B7-6D6139314FFF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">euros</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">211</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2B7AC4F8-6097-4E48-9D0B-DD622FF274A9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">United States dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">262</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode45796BB1-B784-43B2-91E7-189546F92AB4">
+		<Aux:document_text xml:lang="en-US">Note: Figures in United States dollars and euros are based on the standard salary costs, Version 12, applicable to The Hague. General Service staff of the Registry in 2005/2006 Comparison of post requirements Judges in 2005/2006 — judicial work not related to cases Note: DSA is determined by ICSC and is subject to change. DSA rate in United States dollars 262 (plus 40% for judges) DSA rate in euros 211 (plus 40% for judges) United Nations exchange rate for March 2004 = 0.804 Judges' common costs in 2005/2006 a Based on the judge acting paid at the dependency rate. b Based on two moves between Hamburg and non-European destinations.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA2ED1D6B-5CB1-4B65-9C9C-A5FB2CC46E0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B7AC4F8-6097-4E48-9D0B-DD622FF274A9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9A44DC21-C50A-40CC-8839-E26F095EDD9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B7AC4F8-6097-4E48-9D0B-DD622FF274A9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">United States dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4E779C9F-20CE-4926-A69E-F3306447F0A2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B7AC4F8-6097-4E48-9D0B-DD622FF274A9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">262</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode51D2E775-F329-4680-BD6D-8E3325696D44">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode441D70F2-1675-45CE-A7B7-6D6139314FFF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode092C2ACF-2FCF-4729-94D9-0C6421020F09">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode441D70F2-1675-45CE-A7B7-6D6139314FFF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">euros</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF80567C7-F21D-421B-ADFA-16FAF21EC11A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode441D70F2-1675-45CE-A7B7-6D6139314FFF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">211</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

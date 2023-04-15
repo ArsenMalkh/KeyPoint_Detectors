@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376010" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFEF2DFCC-6DD2-4594-972E-1B0C1ADB2732">
+		<BasicEntity:ms_major_currency xml:lang="en-US">￥</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10300000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode12384D5D-6A44-494E-B910-8BA4706C4D1F">
+		<Aux:document_text xml:lang="en-US">In March 2019, it was reported that the ASM-3 would have its range extended to 400 km (220 nmi; 250 mi) or more. Despite its development being completed in 2017 the missile was not deployed because its range (200 km) was deemed too short. The extended range is believed to be developed in response to countering the Chinese Navy's long range air-defense. The missile may be used by the F-2's successor once the aircraft retires in the 2030s. In December 2019, the Japanese Defense Ministry secured ￥10.3 billion to upgrade the missile in the 2020 budget. It is planned to extend the range without resizing.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode72E7E6BC-4073-4EAC-9192-D6FD6354E2CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFEF2DFCC-6DD2-4594-972E-1B0C1ADB2732"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF41BE333-3C2F-4163-A31D-C0AE7B1C45B7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">499</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFEF2DFCC-6DD2-4594-972E-1B0C1ADB2732"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">￥</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD1D043D8-7725-4054-9F28-623B6F1E6E4D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">499</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFEF2DFCC-6DD2-4594-972E-1B0C1ADB2732"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10300000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370136" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode08E8B22B-F1D8-4B19-BFDB-2BEDCF1631AC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Malayan dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4272</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode92CA8455-809E-4149-AA63-61784FF08572">
+		<Aux:document_text xml:lang="en-US">1. "European" or "Western" here means non-Malay and non-Chinese. Most of the Europeans were British, but there were also Australian, French and American-owned companies. 2.  In 1880, the capital cost of opening a Chinese mine worked by 600 laborers with no Western machinery was estimated at 4,272 Malayan dollars, or about the price of a centrifugal steam pump. Forty-three percent of that cost was for collecting and importing the labor force. This was an unusually large mine by contemporary standards (Wong, 1965, p. 63). 3.   Under the farm system, the tax authorities sold to tax-farmers the exclusive privilege of collecting certain taxes for a given period. The difference between the taxes collected and the cost of buying and running the farm was the farmer's profit (Wong, 1965, pp. 76-77).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3A840E02-EC81-4AD2-A683-0E8996132802">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08E8B22B-F1D8-4B19-BFDB-2BEDCF1631AC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0B48BFD0-883E-4F66-9BFC-5DF313EE3C55">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08E8B22B-F1D8-4B19-BFDB-2BEDCF1631AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4272</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode76547B97-63FE-462F-AB01-A60CEFF41517">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08E8B22B-F1D8-4B19-BFDB-2BEDCF1631AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Malayan dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

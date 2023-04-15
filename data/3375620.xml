@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375620" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode24F34EB7-1754-4019-A972-6DFF76925786">
+		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">150</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEDB1AA22-50EE-4AC8-BBB9-B5410F950E2A">
+		<Aux:document_text xml:lang="en-US">For the variable price elasticity, the current short-term elasticity was around 0.06 and long-term elasticity was approximately 0.14. Having started to rise in 2004 again, price elasticity of gasoline is now rather inelastic.The rise in price is not considered to have caused consumers to save on gasoline, which might suggest that saving is limited, and consumers are tired of cutting back on the use of gasoline.The carbon tax is being considered as a means for achieving the goals of the Kyoto Protocol; we concluded that it would not produce the significant effect of curbing gasoline consumption, meaning that the effect of reducing carbon dioxide emissions would only be 0.1% or so at most in the long term.IntroductionThe prices of crude oil and many other energy resources are rising.Remaining at high levels, energy prices along with the subprime lending crisis may slow the global economy.The prices of energy in Japan have also significantly risen: gasoline prices have exceeded 150 yen per litre, the highest-ever price.With the fact that the domestic demand for gasoline, which had been on the rise, started to decline, some people believe that the rise in gasoline prices is causing people to curb gasoline consumption.This study examines how the rise in price affects demand of gasoline, which attracts attention of the public, based on price elasticity.We estimated two types of price elasticity: traditional constant price elasticity and variable price elasticity by localregression.Using the constant price elasticity, we examined the extent to which the rise in gasoline prices suppresses demand.In addition, using variable elasticity obtained through non-parametric regression that assumes no particular function form as the demand function, we examined how the rise in gasoline prices caused consumers to save on gasoline.Furthermore, based on the most recent price elasticity, we examined what effect the carbon tax would have on reducing carbon dioxide emissions.1.Recent Relationship between Demand and the Price of GasolineThe demand for gasoline has grown as automobiles have become more popular</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0014547A-2D3F-46B8-9933-F8793DAE39FD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">990</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">997</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode24F34EB7-1754-4019-A972-6DFF76925786"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode216950C7-3ABA-45A8-8E03-87BDBA4F769F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">990</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">993</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode24F34EB7-1754-4019-A972-6DFF76925786"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">150</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF826B69A-15D7-4BD6-955E-8CE458855F91">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">994</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">997</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode24F34EB7-1754-4019-A972-6DFF76925786"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

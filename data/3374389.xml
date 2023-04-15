@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374389" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode43FAA72E-F58F-4B10-B9D1-D008505AE424">
+		<BasicEntity:ms_major_currency xml:lang="en-US">riksdaler</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode077EDFEC-B1F7-4F2B-A8BF-EB269E0C0B66">
+		<Aux:document_text xml:lang="en-US">Marstrand remained a Swedish town, governed by Swedish law, but had almost complete local autonomy, and was ruled by a Council of Burghers (Swedish: Borgarråd) influenced by the republican standing of the Italian porto francos and chaired by a mayor. The Council was soon appointed by the inhabitants through elections, and it – in the role as the "town elders" – had the right to decide all ongoing affairs. It had twenty-four members, of which six were up for yearly re-elections. Eighteen of the Councillors had to be native Sweden, the rest could be foreigners on the condition that they possessed property worth at least 1,000 riksdaler and had resided in Marstrand for two years or more. Judicial matters in the Marstrand Free Port were overseen by a set of Magistrates, while order was maintained by the Commandant of Carlsten Fortress, who held the title of Governor-General in the colonial fashion. The Magistrates, tasked with ensuring Swedish law was followed, had no power to decide any measures without the cooperation of the Council of Burghers, and in more important matters the decisions had to be reviewed by Marstrand's inhabitants.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode343163AC-E3D9-4036-AFCF-2FB0FFC07137">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">626</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode43FAA72E-F58F-4B10-B9D1-D008505AE424"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA09A49FC-AD4D-434C-BC8D-B38E7CFE483B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">626</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode43FAA72E-F58F-4B10-B9D1-D008505AE424"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1EC0573E-4294-4645-8202-577A486AF4F5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode43FAA72E-F58F-4B10-B9D1-D008505AE424"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">riksdaler</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373446" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode17C59CE5-E2B0-44F8-9E2E-B62721CC92BE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Lebanese Pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8AA284D5-8E48-445A-9AAE-A0A9ABC6EA43">
+		<Aux:document_text xml:lang="en-US">The Beirut Stock Exchange (BSE) is the principal stock exchange of Lebanon. Located in Beirut, it is a public institution run by a committee including a Chairman, a Vice-Chairman and eight members appointed via a decree issued by the Council of Ministers, in accordance with a proposal by the Minister of Finance. All BSE members are Lebanese Joint stock companies (SAL) with a capital above 500,000 Lebanese Pounds and registered at the secretariat of the Commercial Register in. Members include holding companies and offshore companies. The BSE authorizes Brokerage firms the operation and trade in securities listed on the BSE according to the Bourse trading system and also lists the issuing companies (called "Listed companies") that have any of their stocks or other financial instruments listed.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode59E7B190-0092-41F5-83A0-F7DDD70A96AD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17C59CE5-E2B0-44F8-9E2E-B62721CC92BE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAB0EA99F-7E96-4337-9B8C-5A8BB67EB89C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17C59CE5-E2B0-44F8-9E2E-B62721CC92BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode448C4A1F-54E4-4E80-AC95-491C71EF27EE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17C59CE5-E2B0-44F8-9E2E-B62721CC92BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Lebanese Pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

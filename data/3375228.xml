@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375228" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA1231122-7500-42E6-AE61-2FF944E3D5D6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">S$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode0B5E7098-FA39-4CCF-AC63-12E6A0BE6139">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Singapore dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1400000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC23F0D6F-D459-4517-B8E8-B8750A624046">
+		<Aux:document_text xml:lang="en-US">The Hong Kong Jockey Club, the world's second biggest betting operator, reported that betting turnover during the 2010 World Cup fell 1.6 per cent compared with the 2006 event, which it blamed on growing use of illegal bookies. Police forces in Asia are cracking down, swooping on a number of gambling rings in recent weeks. In May, Singapore police arrested 18 people suspected to be involved in an illegal football betting ring. They seized 1.4 million Singapore dollars ($1.1 million) in cash and uncovered records that showed the suspects received S$8 million ($6.3 million) in illegal bets in the prior two weeks. Hong Kong police raided several gambling operations at the start of the tournament, including a cross-border operation with counterparts in mainland China to break up what they said was the city's biggest ever gambling syndicate, arresting 29 people and seizing slips for about $100 million in bets on football and horse racing. Even Hong Kong's prisons are tightening up prevention measures during the tournament by stepping up surprise inspections and cutting out any information on odds from newspapers and magazines given to prisoners.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode340EC361-E6BE-4A28-8419-75A595CE50F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B5E7098-FA39-4CCF-AC63-12E6A0BE6139"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6C2F0AC8-0809-45BD-92F8-DE23C7B67AFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">454</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B5E7098-FA39-4CCF-AC63-12E6A0BE6139"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1400000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode607E78B7-95BA-4E48-8702-606AD5AF0CFA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B5E7098-FA39-4CCF-AC63-12E6A0BE6139"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Singapore dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA1338761-9FF4-4D92-8418-FB0B25A5BB35">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA1231122-7500-42E6-AE61-2FF944E3D5D6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">S$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF27D1320-90EB-4F75-9469-1D66AF4267AF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">563</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA1231122-7500-42E6-AE61-2FF944E3D5D6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode530B319A-F070-4DC6-8507-F97FC0127A12">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">563</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA1231122-7500-42E6-AE61-2FF944E3D5D6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

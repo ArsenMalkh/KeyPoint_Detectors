@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376294" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBDA18DCF-DE72-486A-84EF-527F009D1563">
+		<BasicEntity:ms_major_currency xml:lang="en-US">VND</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">23000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode49AADE18-4994-4775-BB17-A6F64F52075A">
+		<Aux:document_text xml:lang="en-US">At 22:15 local time (15:15 UTC), a Hanoi to Ho Chi Minh City passenger train collided with a lorry on a level crossing near Dien Sanh station in Quảng Trị Province. The crossing carried National Route 1A across the North–South Railway. The train consisted of D19E locomotive №968 and fourteen carriages. The locomotive and three carriages derailed, killing the train driver and seriously injuring four other people, including the lorry driver. Several more were reported to have been injured; they were taken to Quảng Trị General Hospital. The train was carrying roughly 600 passengers. Following the accident, the eleven carriages that remained on the rails were taken to Đông Hà. Clearance of the line began at 02:10 on 11 March. (19:10 on 10 March UTC). Damage was estimated at VND 23 billion (US$1.1 million). The locomotive was destroyed, two carriages and a dining car were damaged. Over 120 metres (130 yd) of track was destroyed. After the recovery operation, a railway crane derailed. The railway was reopened at 20:55 (13:55 UTC) on 11 March.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2752E742-2138-4575-A408-663E33BDD78E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">795</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBDA18DCF-DE72-486A-84EF-527F009D1563"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3F7CE24E-B2EB-4BE1-973B-862E418E8F04">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">784</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBDA18DCF-DE72-486A-84EF-527F009D1563"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">VND</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode39558D0F-3643-4D1E-A0AF-17BDEBFB9B4E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">785</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">795</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBDA18DCF-DE72-486A-84EF-527F009D1563"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">23000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

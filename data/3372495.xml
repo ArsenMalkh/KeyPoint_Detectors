@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372495" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB608F6E6-D8D8-480E-B1AF-064474EAA85F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Uruguayan pesos</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">22.52</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode45E7B229-0B0C-4D5B-B162-52EF71DEB6E2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">United States dollar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode77231FC7-7CAB-4908-9FBF-F529D8F5358B">
+		<Aux:document_text xml:lang="en-US">This method enables the judge to determine the amount deemed fair in the circumstances, by bringing the time of the decision closer to the date that serves as the basis for determining the monetary value of the compensation due, and does not, in the view of the Court, involve the breach of the law invoked”. The State party points out that, on the date of its reply to the Committee, 1 United States dollar was worth 22.52 Uruguayan pesos. 8.6; 917/2000, Arutyunyan v. Uzbekistan, Views of 29 March 2004, para.  5.7; 1528/2006, Fernández Murcia v. Spain, decision of 1 April 2008. General comment No. 25 (1996) on participation in public affairs and the right to vote, para. Australia (communication No. 802/1998), Views of 3 April 2002; and Sastre Rodríguez et al.  v.  Spain (communication No.  1213/2003), decision of 28 March 2007, para.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode402111C8-CD77-49A2-B520-0E6EE9E47D8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">407</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode45E7B229-0B0C-4D5B-B162-52EF71DEB6E2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode009C9326-4FBD-465C-9E02-C0D65D7BBFBD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode45E7B229-0B0C-4D5B-B162-52EF71DEB6E2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode80A7856C-871E-4B1D-8262-898D508FDB62">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">407</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode45E7B229-0B0C-4D5B-B162-52EF71DEB6E2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">United States dollar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD6A9612F-BAF4-4B95-9B4F-6860B7AB6A89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB608F6E6-D8D8-480E-B1AF-064474EAA85F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9A2DC5FA-5327-4C65-AD37-B1FF22421496">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB608F6E6-D8D8-480E-B1AF-064474EAA85F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">22.52</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD8B98233-CF5C-438E-9F02-0D7302DFCBB7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB608F6E6-D8D8-480E-B1AF-064474EAA85F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Uruguayan pesos</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

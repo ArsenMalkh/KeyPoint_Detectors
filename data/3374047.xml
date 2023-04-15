@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374047" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFDCBDE4A-94DB-4E28-9AEC-95CC49118290">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Hungarian Forints</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">360000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA00CFB40-65EE-46C5-AF82-1236F834993C">
+		<Aux:document_text xml:lang="en-US">This technology was used to create residential and public buildings in Hungary since the early 1970s. The idea behind IMS was constructing premade floor slabs and columns, connecting them afterwards. The gaps between elements were filled with a sealant called PU paste. This filling material however, was known to cause chloride corrosion over time, damaging the beams and in Yugoslavia, they used an inhibitor material and also separated the paste from the tensioned posts with a 1mm thin plastic sheet but in Hungary, they skipped these despite only a very small amount of inhibitor would've been necessary. Because of this, the building became unstable, and the inhabitants had to move out by the year 1989. In 2003 the local government paid 360 million Hungarian Forints for structural repairs. The building was sold for an Austrian company, the Porr Hungária Kft, to make it a dormitory for the University of Pécs in the PPP program. The company stepped back from the agreement in 2007. In the fall of 2007, the city made an unsuccessful tender to convert the building into an office for the local government. Magasház was sold again in 2008 to the La Torre 2008 Kft, that accumulated significant debt over the years since.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode972C8054-D678-479B-B312-399CE109C1EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFDCBDE4A-94DB-4E28-9AEC-95CC49118290"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode45DDC5E7-6383-4EB1-8E7F-F53710D4017D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFDCBDE4A-94DB-4E28-9AEC-95CC49118290"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">360000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode92D40BC6-EE26-473E-9669-B0B2DD4BA5E2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">757</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFDCBDE4A-94DB-4E28-9AEC-95CC49118290"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Hungarian Forints</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

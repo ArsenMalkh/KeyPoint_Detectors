@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373587" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3609A702-A7CA-4C5F-A3B5-89EE44285608">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Portuguese escudos</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">350000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF3E909E2-0515-4E22-B11A-781C5BE08805">
+		<BasicEntity:ms_major_currency xml:lang="en-US">€</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">136000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5379E743-04A1-41D1-B33C-07EA3A0BAD63">
+		<Aux:document_text xml:lang="en-US">Eusébio played for two seasons with their youth team, while he made sporadic appearances in the senior team. There he won the Campeonato Provincial de Moçambique and the Campeonato Distrital de Lourenço Marques in his last season, in 1960. Benfica Eusébio moved to Lisbon in his late teens, after joining Benfica as an 18-year-old from his local club, Sporting de Lourenço Marques, for 350,000 Portuguese escudos (equivalent to €136,000 in 2009). Benfica discovered Eusébio due to the efforts of Brazilian former player José Carlos Bauer, who saw him in Lourenço Marques in 1960. Eusébio could run 100 metres in under 11 seconds. Although he preferred playing with the right side foot, Eusébio could use the left side just as well. At times, Eusébio would surprise opponents with his dribbling ability, seemingly, a talent he preferred to keep secret. Bauer recommended Eusébio first to his former club, São Paulo, but the Tricolor turned him down. Bauer had been asked by his former coach at São Paulo, Béla Guttmann, to keep an eye out for talented players during a ten-week tour to Africa and when São Paulo could not afford the asking price for Eusébio, Bauer then recommended him to Guttmann, who was coaching Benfica at the time.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7A19069C-32A1-4E0A-A472-398245A54ABD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3609A702-A7CA-4C5F-A3B5-89EE44285608"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFAC3F405-6562-4255-854F-B8BB8348F98C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">393</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3609A702-A7CA-4C5F-A3B5-89EE44285608"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">350000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA299D3E0-025C-480B-B482-913DAA3D380F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">394</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3609A702-A7CA-4C5F-A3B5-89EE44285608"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Portuguese escudos</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAF07F44C-3799-495D-A730-06601CA61914">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF3E909E2-0515-4E22-B11A-781C5BE08805"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode58E29A3D-EEC6-4C74-A92F-6B365B3A8992">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF3E909E2-0515-4E22-B11A-781C5BE08805"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">€</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEE3C58AB-9948-439C-9914-500E3D441F44">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF3E909E2-0515-4E22-B11A-781C5BE08805"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">136000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

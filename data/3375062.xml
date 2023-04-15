@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375062" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5274C715-FAE8-4BA9-BD03-9AEEB25227AC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Emirati Dirhams</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF9FBA836-EEE2-4AE8-B333-50D333496612">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">33000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD351EE7B-B5EF-4CC1-B12F-EF7AB0BA1D17">
+		<Aux:document_text xml:lang="en-US">Paul Struthers, chief executive of the Professional Jockeys Association, said he had been in contact with Cosgrave and that an appeal was likely. Asked how Cosgrave, who remains in Dubai, had taken the news, Struthers said drily: "As you would expect." An appeal is not without risk, as the ERA's rules allow it to make an order of costs up to 200,000 Emirati Dirhams, about £33,000, against an unsuccessful appellant. Cosgrave's best hope may be to ask the British Horseracing Authority to refuse to reciprocate the ban on the grounds that it is disproportionate. But the BHA would entertain such a request only if the ERA's appeals procedure has been exhausted.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB212C9B8-6821-499E-9B03-7913572EF665">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">344</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5274C715-FAE8-4BA9-BD03-9AEEB25227AC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6AC16780-2EA4-4946-BBBA-14928BB94AA4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">344</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5274C715-FAE8-4BA9-BD03-9AEEB25227AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0F389C62-9AC2-4754-8CCE-AECAD64BB602">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">352</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5274C715-FAE8-4BA9-BD03-9AEEB25227AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Emirati Dirhams</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9325BFB2-5267-46FE-92DA-CA3C652E3B54">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9FBA836-EEE2-4AE8-B333-50D333496612"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode155EC3E0-E9C2-4F5B-BDC9-F297E328E7EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9FBA836-EEE2-4AE8-B333-50D333496612"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8D33E7AA-8F2F-4398-BACB-0078DA4F453F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9FBA836-EEE2-4AE8-B333-50D333496612"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">33000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

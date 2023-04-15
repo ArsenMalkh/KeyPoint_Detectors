@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372980" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4F71401C-F483-48CA-B684-A522C94AE755">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Danish dalers</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">75000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA56BF93E-39A1-43F0-B784-D20878C46B31">
+		<BasicEntity:ms_major_currency xml:lang="en-US">dalers</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE309530D-AC5D-4AE1-998A-0069072CC70A">
+		<Aux:document_text xml:lang="en-US">Throughout his youth, James was praised for his chastity, since he showed little interest in women. After the loss of Lennox, he continued to prefer male company. A suitable marriage, however, was necessary to reinforce his monarchy, and the choice fell on fourteen-year-old Anne of Denmark, younger daughter of Protestant Frederick II. Shortly after a proxy marriage in Copenhagen in August 1589, Anne sailed for Scotland but was forced by storms to the coast of Norway. On hearing that the crossing had been abandoned, James sailed from Leith with a 300-strong retinue to fetch Anne personally in what historian David Harris Willson called "the one romantic episode of his life". The couple were married formally at the Bishop's Palace in Oslo on 23 November. James received a dowry of 75,000 Danish dalers and a gift of 10,000 dalers from his mother-in-law Sophie of Mecklenburg-Güstrow. After stays at Elsinore and Copenhagen and a meeting with Tycho Brahe, they returned to Scotland on 1 May 1590. By all accounts, James was at first infatuated with Anne and, in the early years of their marriage, seems always to have shown her patience and affection. The royal couple produced three children who survived to adulthood: Henry Frederick, Prince of Wales, who died of typhoid fever in 1612, aged 18; Elizabeth, later queen of Bohemia; and Charles, his successor. Anne died before her husband, in March 1619.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode685C97DA-79B0-4127-B973-EBF474029B85">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">808</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4F71401C-F483-48CA-B684-A522C94AE755"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBC3D8039-06D6-42F1-B08E-68F9F049FB51">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">794</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4F71401C-F483-48CA-B684-A522C94AE755"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">75000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode77F180E0-E9F3-4A71-B6EB-97494A6A3CA7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">795</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">808</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4F71401C-F483-48CA-B684-A522C94AE755"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Danish dalers</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode533B4810-E9DA-47F8-878C-7E3B737BF8A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">823</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">836</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA56BF93E-39A1-43F0-B784-D20878C46B31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF39896D5-BFFF-45DF-BDE9-DBEBAC5249DE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">823</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">829</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA56BF93E-39A1-43F0-B784-D20878C46B31"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode99F2EF7E-2D6F-447E-9B85-78CFD5A123EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">830</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">836</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA56BF93E-39A1-43F0-B784-D20878C46B31"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">dalers</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

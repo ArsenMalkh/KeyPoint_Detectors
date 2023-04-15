@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375820" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAB00A0AB-6B82-4019-9378-3E3182E9492D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">złoty</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2DEAB759-3CFB-4417-8C87-77B3C96D5914">
+		<Aux:document_text xml:lang="en-US">She also became the theme of paintings by several artists of the epoch, among them Hippolyte Bellangé, Achille Deveria, Philipp Veit, and Wojciech Kossak. A lithograph by François Le Villain based on Deveria's work became one of the most recognizable portraits of her, popularizing her image as a delicate and noble female warrior. She was depicted on the Second Polish Republic's 20 złoty note. During World War II, a Polish female support unit, Emilia Plater 1st Independent Women's Battalion, a part of the Soviet Polish 1st Tadeusz Kościuszko Infantry Division was named in her honor; its former members founded a village of Platerówka in Lower Silesia. Several streets, including one in Warsaw, and schools in Poland and Lithuania are named after her. In Kapčiamiestis, a small memorial museum in her honor was opened in 1984 and a monument to Plater by sculptor Antanas Ambrulevičius was erected in 1999.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE33102B-41B0-4E6B-AE10-CD7CEF95C630">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">381</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB00A0AB-6B82-4019-9378-3E3182E9492D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBFE6C9B9-E3E6-4F55-AC69-E96EF3A98341">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">381</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB00A0AB-6B82-4019-9378-3E3182E9492D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode612790CB-4D31-4396-8792-5E2EB28B88C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB00A0AB-6B82-4019-9378-3E3182E9492D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">złoty</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

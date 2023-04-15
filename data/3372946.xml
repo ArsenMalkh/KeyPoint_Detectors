@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372946" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCF7643F5-A2A2-4A1A-8CD3-5EA3A8695D12">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Reichsmark</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1400000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCD9401F3-B4B8-11EB-B761-4CEDFBC04C7C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">euros</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6AE836F6-4B93-4036-BD2C-AC70F0DC1178">
+		<Aux:document_text xml:lang="en-US">IG Farben was founded in December 1925 as a merger of six companies: BASF (27.4 percent of equity capital); Bayer (27.4 percent); Hoechst, including Cassella and Chemische Fabrik Kalle (27.4 percent); Agfa (9 percent); Chemische Fabrik Griesheim-Elektron (6.9 percent); and Chemische Fabrik vorm. Weiler Ter Meer (1.9 percent). The supervisory board members became widely known as, and were said to call themselves jokingly, the "Council of Gods" (Rat der Götter). The designation was used as the title of an East German film, The Council of the Gods (1950). In 1926 IG Farben had a market capitalization of 1.4 billion Reichsmark (equivalent to 5 billion 2009 euros) and a workforce of 100,000, of which 2.6 percent were university educated, 18.2 percent were salaried professionals and 79.2 percent were workers. BASF was the nominal survivor; all shares were exchanged for BASF shares. Similar mergers took place in other countries. In the United Kingdom Brunner Mond, Nobel Industries, United Alkali Company and British Dyestuffs merged to form Imperial Chemical Industries in September 1926. In France Établissements Poulenc Frères and Société Chimique des Usines du Rhône merged to form Rhône-Poulenc in 1928. The IG Farben Building, headquarters for the conglomerate in Frankfurt am Main, Germany, was completed in 1931. In 1938 the company had 218,090 employees.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1420F7F-9C59-4B8F-B01E-6E2AEC827015">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">608</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCF7643F5-A2A2-4A1A-8CD3-5EA3A8695D12"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3D31034E-D12F-4FC6-83D8-ED75B4710CC0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">608</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCF7643F5-A2A2-4A1A-8CD3-5EA3A8695D12"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1400000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B737CBC-D94B-49B5-8C39-008573C64807">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">620</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCF7643F5-A2A2-4A1A-8CD3-5EA3A8695D12"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Reichsmark</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE38F14AD-D9FA-4FAE-B267-D1EA72741F13">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">655</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCD9401F3-B4B8-11EB-B761-4CEDFBC04C7C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD9BD911E-DEED-4A49-A14D-A778739B9428">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">655</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCD9401F3-B4B8-11EB-B761-4CEDFBC04C7C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode18668D12-C933-42B4-89F4-52428E1C29AA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">666</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCD9401F3-B4B8-11EB-B761-4CEDFBC04C7C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">euros</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE7E57ADD-CC10-4135-BCF8-C8016A068750">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">666</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCD9401F3-B4B8-11EB-B761-4CEDFBC04C7C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

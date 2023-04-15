@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374166" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEEA2BF74-C4EB-4406-AF2A-51FD86DC8C2D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">51300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode6EB2998C-E095-4DA4-96A9-D97DA67A876F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">shillings</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode60A1DC23-4D7C-4EF1-B82B-14C2C416C7A6">
+		<Aux:document_text xml:lang="en-US">In 1586 Queen Elizabeth I of England ordered the Bishop of Coutances surrender the rights to Alderney to the Bishop of Winchester, which was done shortly after the leadership of Alderney had passed to Robert Devereux, 2nd Earl of Essex despite the Earl of Essex never visiting Alderney. During the English Civil War and the Commonwealth of England, leadership of Alderney changed hands several times between the Royalists and Parliamentarians with Nicholas Ling being appointed as the Lieutenant-Governor of Alderney by Oliver Cromwell. In 1660, during the Restoration of the Monarchy, Edward de Carteret was granted the title of Governor of Alderney by King Charles II of England as a reward for loyalty to the Crown and became the leader of Alderney as a result, with Ling remaining as Lieutenant-Governor. Alderney was also separated from Guernsey as a result of the creation of the governorship. The governorship went into abeyance after the death of his son, Edward de Carteret before being sold to Sir Edmund Andros by de Carteret's widow. Andros then was granted the governorship on a 99-year lease from the Crown in exchange for an annual 13 shillings payment of rent to the Crown. The Governor of Alderney became a hereditary position and later passed to the Le Mesurier family through marriage with the Andros family. The lease was later extended by King George III of Great Britain. In 1825 the governor, John Le Mesurier III resigned the grant of the island and returned it to the Crown in exchange for an annual pension of £700 (approximately £51,300). This agreement eventually expired in 1862.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5DF8D71A-2298-4C64-BD3C-022634946DD5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1147</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1159</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6EB2998C-E095-4DA4-96A9-D97DA67A876F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1EBBB2D4-24D9-4836-9701-A2B0DF34882D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1147</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1149</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6EB2998C-E095-4DA4-96A9-D97DA67A876F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode09977A97-76A9-4DB8-88CA-A93954A50115">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1150</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1159</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6EB2998C-E095-4DA4-96A9-D97DA67A876F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">shillings</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8D50D875-49DC-48BE-99F2-BFDD089A4F9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1556</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1563</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEEA2BF74-C4EB-4406-AF2A-51FD86DC8C2D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode39D3D5EC-8AD8-4CD0-98F1-979CD54F7A9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1556</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1557</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEEA2BF74-C4EB-4406-AF2A-51FD86DC8C2D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5FBDDF4D-E57B-4D66-8055-A98F35419376">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1557</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1563</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEEA2BF74-C4EB-4406-AF2A-51FD86DC8C2D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">51300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

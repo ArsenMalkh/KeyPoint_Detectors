@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373764" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9C650BF7-A637-4F26-A7DA-9595E80B0AFD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CHF</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode56E8A58F-8908-4574-BFEE-B3F6BBE80A60">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Swiss francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">232100000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4111F807-A509-4A1F-A889-B19ED10D95EA">
+		<Aux:document_text xml:lang="en-US">The TRISA Group (TRI from Triengen and SA from Société Anonyme plc) is a Swiss consumer products company, focused on producing personal hygiene products like oral care, hair care and body care. It was founded in 1887 by six citizens of the municipality of Triengen, in the district of Sursee in the canton of Lucerne in Switzerland. Trisa employs approximately 1,150 people and generated sales of 232.1 million Swiss francs in 2015. It operates in 80 markets around the world and the company is owned by the fourth generation of Pfenniger family, Andrian Pfenniger and Phillip Pfenniger. History On 25 August 1887, six citizens of Triengen found Bürstenfabrik AG Triengen with a share capital of CHF 40,000. A local businessman, Xavier Pfenniger-Vonnarburg becomes the commercial manager. By the start of the 20th Century, the company finishes building a brush woods production plant and starts production of toothbrushes, subsequently followed by hair brushes, cloth brushes, hat brushes, moustache brushes and other equipment for gardening and farming activities.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode73A8F92C-90C2-4E66-87AA-1A07227E3332">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56E8A58F-8908-4574-BFEE-B3F6BBE80A60"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF4058FA1-B269-4402-958C-6E09B272A194">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">410</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56E8A58F-8908-4574-BFEE-B3F6BBE80A60"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">232100000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode448DB558-2710-4C18-B303-044C8FD03BC5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">411</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56E8A58F-8908-4574-BFEE-B3F6BBE80A60"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Swiss francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode83A72F5F-381D-4044-A4E3-84D5E8738AEE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C650BF7-A637-4F26-A7DA-9595E80B0AFD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode588D5558-B03B-499B-93DC-58BBD316BC23">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">699</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C650BF7-A637-4F26-A7DA-9595E80B0AFD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CHF</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD43FF556-61E5-4FBE-B0A1-33A420E72262">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C650BF7-A637-4F26-A7DA-9595E80B0AFD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

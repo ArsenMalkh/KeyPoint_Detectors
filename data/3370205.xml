@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370205" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode501E1600-602E-4024-9D2F-63001D937CF8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CFA francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3200000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode127568F1-2CB8-44FE-877D-6249F395E145">
+		<BasicEntity:ms_major_currency xml:lang="en-US">SDR</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">14400000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7EFB18E6-226A-4DAD-BD49-609B19943B62">
+		<Aux:document_text xml:lang="en-US">The team was not satisfied with the overall performance of the Central African economy, particularly in the critical area of revenue generation. However, the team promised to return in February 2000, to make a reappraisal of the situation in the light of new commitments made by the Government in the area of fiscal reforms. It should be noted that during the reporting period the Government increased domestic petroleum prices to reflect higher international prices. Furthermore, it contracted the SociStS gSnSrale de surveillance (SGS) and mandated it to issue customs certificates specifying payments to the Treasury prior to actual payment of the customs dues. Based in part on the progress in privatization (see para. 29 below) and on the strong commitment in the area of revenue generation, the World Bank approved a fiscal consolidation of SDR 14.4 million on 16 December 1999. On 5 January 2000, the Governments of France and the Central African Republic signed a development assistance agreement in the amount of CFA francs 3.2 billion for the Bangui water canal project and the improvement of the Society d'energie centrafricaine (ENERCA). Also at the beginning of the year, the Government of Nigeria sent five specialists to Bangui to assist in educational planning. In the area of privatization, the Banque internationale pour la Centrafrique (BICA) is now fully privatized. In the case of the Union bancaire en Afrique centrale (UBAC), a Cameroon-based consortium is slated to purchase 51 per cent of the shares in the privatized venture, 39 per cent has been reserved for purchase by the citizens of the Central African Republic, while the Government is expected to get the remaining 10 per cent of shares.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBF7472D5-7944-4A66-AC5F-6754976AA0F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">847</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">863</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode127568F1-2CB8-44FE-877D-6249F395E145"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA8268F84-B155-4CB7-9FF3-3D4A598D9C56">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">847</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">850</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode127568F1-2CB8-44FE-877D-6249F395E145"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">SDR</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCD6190F1-84BA-437F-95B1-EF586732810D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">851</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">863</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode127568F1-2CB8-44FE-877D-6249F395E145"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">14400000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6504FC9D-F5EB-4AFC-85B3-2B6B5C50C81E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1022</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1044</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode501E1600-602E-4024-9D2F-63001D937CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1AC0C7FA-884E-4886-A4C2-558A2170FB69">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1022</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1032</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode501E1600-602E-4024-9D2F-63001D937CF8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CFA francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode60143AC6-D672-4E85-83DC-0C3807CB6669">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1033</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1044</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode501E1600-602E-4024-9D2F-63001D937CF8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3200000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

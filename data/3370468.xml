@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370468" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5384B863-EEFF-4376-B87F-99236F4F0137">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Euro</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">15000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode359BF1C3-E6E2-4D97-9733-94FC74538FDD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Japanese Yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">11500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE5568534-33A9-42B7-A0F7-16EF14EFEE44">
+		<Aux:document_text xml:lang="en-US">Dated 6 February 2009 The Final Terms WL BANK AG Westfalische Landschaft Bodenkreditbank Issue of Japanese Yen 11,500,000,000 Floating Rate Public Sector Pfandbriefe issued as Series 564/40Tranche 1 under the Euro 15,000,000,000 Debt Issuance Programme Unless defined, or stated otherwise, herein, capitalised terms used herein shall be deemed to be defined as such for the purposes of the Conditions set forth in the Base Prospectus dated 9 May 2008 (which constitutes a base prospectus for the purposes of the Prospectus Directive (Directive 2003/71/EC) (the "Prospectus Directive"))(the "Base Prospectus").This document constitutes the Final Terms of the Public Sector Pfandbriefe described herein for the purposes of Article 5.4 of the Prospectus Directive and must be read in conjunction with such Base Prospectus.Full information on the Issuer and the offer of the Public Sector Pfandbriefe is only available on the basis of the combination of this document (this "Document or these "Final Terms") and the Prospectus.The Base Prospectus is available for viewing at WL BANK, Sentmaringer Weg 1, D-48151 and www</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode29AF3ED9-F192-4C8D-8D6A-59612119ECD0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode359BF1C3-E6E2-4D97-9733-94FC74538FDD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode86D99C71-94FA-4717-AABB-2CDEF5F0D3F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode359BF1C3-E6E2-4D97-9733-94FC74538FDD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Japanese Yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8BF68EE1-7D6D-4BB3-AD12-B12D462587EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode359BF1C3-E6E2-4D97-9733-94FC74538FDD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">11500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1F2CF32F-21B5-437F-B5BF-C16949229387">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5384B863-EEFF-4376-B87F-99236F4F0137"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9FC34337-86CC-472B-8286-1EE083AB6499">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5384B863-EEFF-4376-B87F-99236F4F0137"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Euro</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB4065175-F16A-446B-928D-5C227E85095E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5384B863-EEFF-4376-B87F-99236F4F0137"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">15000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

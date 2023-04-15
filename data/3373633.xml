@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373633" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode70E8ED93-07FF-4C61-8CA7-B094B7926424">
+		<BasicEntity:ms_major_currency xml:lang="en-US">new Taiwan dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7C35789C-E613-4CD7-BEBE-B457ADAD9A5E">
+		<Aux:document_text xml:lang="en-US">Article 62 of the Act Governing the Punishment of Violation of Road traffic Regulations proclaimed on 28 December 2005 and effective on 1 July 2006 provides the following administrative penalties: Section 1: Without personal injury and death, hit-and-run drivers of motor vehicles are subject to administrative fines of 1000 to 3000 new Taiwan dollars and suspension of their driver licenses for 1 to 3 months. Section: 4: With minor personal injury, hit-and-run drivers of motor vehicles are subject to revocation of their driver licenses, for 1 year pursuant to Section 3 of Article 67. With serious personal injury or death, hit-and-run drivers of motor vehicles are subject to revocation of their driver licenses, for lifetime pursuant to Section 1 of Article 67, but Article 67-1 allows a possible waiver after serving the revocation for 12 years if the revocation involved personal death, or 10 years if involving serious personal injury.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE1428347-16F0-43CF-99A8-834518BA38CE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode70E8ED93-07FF-4C61-8CA7-B094B7926424"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8F0544CB-C7D5-44BB-9CEB-D160C7C44CD3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode70E8ED93-07FF-4C61-8CA7-B094B7926424"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC9232C73-95FE-4489-8739-75115D1CFBF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode70E8ED93-07FF-4C61-8CA7-B094B7926424"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">new Taiwan dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

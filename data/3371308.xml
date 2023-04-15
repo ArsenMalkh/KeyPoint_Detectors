@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371308" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDB8AABD9-F6AA-4182-A3D3-D6EDC73C4EE7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE734B2A6-0206-44B6-B2D0-D1B9ED500E4D">
+		<Aux:document_text xml:lang="en-US">“Apart from the order intake the result was in line with expectations,” said Richard Frei, an analyst at Zuercher Kantonalbank. ABB’s greater project selectivity, especially in Power Systems, explains the lower order intake, he added. About 50 to 60 percent of the order slowdown was because of ABB’s project selectivity while the remainder reflected the economic cycle, Hogan said on a conference call today. Spiesshofer takes over a company worth 50 billion francs eight years after joining ABB and following 14 years as a consultant. ABB’s new CEO should focus on building the Swiss company’s service business and integrating acquisitions, Hogan said on the call. ‘It’s important particularly with the acquisitions we have made that we maintain positive momentum,’’ Hogan said.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode79322CD9-21A6-4498-9855-545CA866D769">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">449</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">466</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB8AABD9-F6AA-4182-A3D3-D6EDC73C4EE7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2517AF20-7B9C-49F2-B23B-48FDA0A70D76">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">449</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB8AABD9-F6AA-4182-A3D3-D6EDC73C4EE7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3AAB16CB-A045-43EA-B204-1A1B12072AAB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">466</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB8AABD9-F6AA-4182-A3D3-D6EDC73C4EE7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371614" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDB8A8576-81EC-49C9-94B7-47051FB7CD0B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Egyptian pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">130000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5DB93AE6-0AC4-4331-80C6-24D7BCA10EEF">
+		<Aux:document_text xml:lang="en-US">The interim government's finance minister, in comments to reporters on Thursday, underlined some of the more pressing economic problems facing Egypt and explained that raising taxes was essential to fund state services like education and health care. Ahmed Galal, the minister, said the government spends a staggering 130 billion Egyptian pounds, or nearly $1.9 billion, every year on fuel subsidies so that oil products are sold at well below world prices. He said a comprehensive plan to gradually reduce fuel subsides has been put together but gave no details. El-Sissi himself has offered a glimpse on his possible economic plans, saying in leaked videos that mobile phone users should pay for incoming calls as well as the ones they make and that no state service should be offered to the public at below cost, suggesting that he disapproves of a decades-old system under which successive governments were burdened by a heavy subsidies bill to provide Egyptians with cheap basic items like bread, fuel and sugar.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7818718A-A612-49A1-BD0E-9CE2B09D2D35">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB8A8576-81EC-49C9-94B7-47051FB7CD0B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4F0363B9-C946-4407-9731-5825CBCC8699">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB8A8576-81EC-49C9-94B7-47051FB7CD0B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">130000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1D684CB4-D597-4D48-BCBF-CD6156992E0D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB8A8576-81EC-49C9-94B7-47051FB7CD0B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Egyptian pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

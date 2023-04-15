@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374323" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBF9E451E-9FD4-4C7D-8AF8-159EB550DAC3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Korean won</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1100</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode31595C43-2509-4C20-A137-0215C117E1F6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">won</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">91000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCB06ECF7-8DA8-4997-BEFC-FC110E7C1BFC">
+		<Aux:document_text xml:lang="en-US">Lee Seok-ki was said to appear at 6:58 am, August 28, at his studio apartment at Mapo-gu, the western part of Seoul, disguised and wearing a cap, and ran away in a cab as soon as he found his place was being searched by investigators. He showed up at the National Assembly hall on the next day with the suspicion that he had already destroyed important evidence. Investigators allegedly seized 57 letters of vowing loyalty to Lee Seok-ki, tap detection equipment, and 91 million won worth of bank notes (US$1 = 1,100 Korean won). The National Assembly's approval for arrest On September 2, 2013, South Korea's National Assembly received the government's arrest motion for lawmaker Lee Seok-ki, signed by President Park Geun-hye. According to the Korean National Assembly Act, the arrest motion should be decided by vote in the plenary session 24 hours after and within 72 hours from the report of the motion. Kang Chang-hee, the speaker of the National Assembly, submitted the proposal of opening plenary session from September 2 to December 10 and put it to a vote, which was the preliminary procedure to pass the arrest motion. The proposal was passed with 255 in favor, 2 against, and 7 abstentions. Kim Mi-hee and Kim Jae-yeon from the UPP opposed the proposal. Seven abstainers, all of whom were from the opposition Democratic Party, were Moon Jae-in, Lee In-young, Kim Yong-ik, Do Jong-hwan, Yu Sung-yeop, Eun Soo-mi, and Lim Soo-kyung. Lee Seok-ki didn't participate in the vote at all</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF6F7CBDF-90E8-4F48-B67F-096C0D24657A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">482</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31595C43-2509-4C20-A137-0215C117E1F6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6B6A6B1B-1867-40B1-B841-02FFE4371A1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">478</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31595C43-2509-4C20-A137-0215C117E1F6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">91000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2FA7C4B3-EEF7-467C-AFDF-D2EB85006798">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">479</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">482</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31595C43-2509-4C20-A137-0215C117E1F6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">won</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode44E81E52-4816-4765-94FA-7AA283D34D55">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF9E451E-9FD4-4C7D-8AF8-159EB550DAC3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCC4BE390-7601-49EC-8D08-8DE3BC26937F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF9E451E-9FD4-4C7D-8AF8-159EB550DAC3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1100</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6C094B1A-44CD-4955-A88C-49C0BA53CC19">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF9E451E-9FD4-4C7D-8AF8-159EB550DAC3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Korean won</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

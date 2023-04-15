@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372297" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode77CCEA40-3AF1-40FC-989E-8CEDE7636392">
+		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF49E8B85-04B2-4DE4-9C7E-32582F080285">
+		<Aux:document_text xml:lang="en-US">Malebranche’s Porta branch opened at Chika-gai Porta, the underground shopping complex of Kyoto Station, on March 20th (Tuesday). While Malebranche is famous for Cha no Ka – its koicha (exceptionally dark and strong green tea) langue de chat – a couple of new products that are only available at the Porta branch have debuted, and they are likely to attract a lot of attention. These two items are original roll cakes that use koicha – Okoicha Hosomaki (thin roll) and Okoicha Futomaki (thick roll). You can easily drop by this shop on your way home from sightseeing, since it is located right next to JR Kyoto Station. ＜※This information is from KansaiWalker (issued on March 20th)＞ Koicha Stuffed Into the Fine Chiffon Cake and Cream! Walkerplus The Okoicha Futomaki (1,200 JPY) is a large roll cake filled with plenty of cream and custard cream that can be eaten by 3 - 4 people. It generously uses high-class koicha. They also offer sliced Okoicha Hosomaki (500 JPY). Walkerplus “The Okoicha Hosomaki has milky white chocolate cream inside. When you eat it, the aroma and sweetness of the tea leaves will spread in your mouth,” said Hitomi Kabayama, who is in charge of public relations for the shop. Customers are also drawn by the interior of this shop, which is inspired by modern design and traditions that epitomize Kyoto.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4917CB74-6ADC-44BF-AC92-1ED822AF6883">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">962</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">969</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77CCEA40-3AF1-40FC-989E-8CEDE7636392"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode82626642-60EA-4106-9E40-0A811EE82EDA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">962</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">965</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77CCEA40-3AF1-40FC-989E-8CEDE7636392"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7647F62B-CA97-4285-B819-D9A148712CD8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">966</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">969</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77CCEA40-3AF1-40FC-989E-8CEDE7636392"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

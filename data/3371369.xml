@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371369" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBE5C2C6F-FA89-499A-AB40-51433621D8AD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Nigerian naira</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">6000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode10038101-231F-4954-A334-B1DC22477996">
+		<Aux:document_text xml:lang="en-US">The agreement specifies that the two agencies will work together on anti-piracy operations, according to the Tribune. Model for the accord is an agreement between the copyright commission and the Nigeria Customs Service that has yielded the confiscation of 16 containers of allegedly pirated material with a value exceeding 6 billion Nigerian naira ($38 million), the newspaper reported. For more copyright news, click here. To contact the reporter on this story: Victoria Slind-Flor in Oakland, California, at vslindflor@bloomberg.net. To contact the editor responsible for this story: Michael Hytha at mhytha@bloomberg.net.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0CFFF7A7-BE95-4EE2-AFF1-517E1CAF87F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBE5C2C6F-FA89-499A-AB40-51433621D8AD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode41999AF2-C0B1-4F3E-B214-B0BA270B27ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBE5C2C6F-FA89-499A-AB40-51433621D8AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">6000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5A27B61F-9CB6-4A36-8F0E-D452394D44AD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBE5C2C6F-FA89-499A-AB40-51433621D8AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Nigerian naira</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

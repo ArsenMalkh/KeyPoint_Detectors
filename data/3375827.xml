@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375827" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8FE447B8-DF5F-494C-B0E4-1A471C3B8C39">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₴</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEC5BC512-2F41-4EBD-98E8-A61FDE871C91">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₴</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB3A6B786-93FE-4903-9357-88FC0EF8E6C5">
+		<Aux:document_text xml:lang="en-US">The party supports at least 75-percent placement in higher-educational institutions, a minimum-wage student stipend, a minimum 20-percent annual raise in educator salaries and universal Internet access. In labor, the party supports fully subsidizing employers of the disabled, orphans, single mothers and workers over age 50; training the unemployed for occupations with labor shortages; providing internships to students; giving young professionals their first job, and a median salary of ₴8,000 by 2017. The party supports a median salary of ₴8,000 for physicians and ₴5,500 for other medical personnel, reducing basic-medicine prices by 30 percent, providing access to medicines to patients with cancer, heart disease, tuberculosis and HIV/AIDS, mobile medical facilities in all rural areas, treatment and rehabilitation for people with limited physical abilities and new pools, stadiums, ice arenas and sports fields in all regions.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3198D15-779E-4B0B-980A-C25A91F4BD74">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">490</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEC5BC512-2F41-4EBD-98E8-A61FDE871C91"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5A8BD291-CFAF-4729-A822-03EF62813F54">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">490</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">491</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEC5BC512-2F41-4EBD-98E8-A61FDE871C91"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₴</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEF3B903C-85E7-4DA4-B39F-6358EC4DCF42">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">491</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEC5BC512-2F41-4EBD-98E8-A61FDE871C91"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode608F18F5-C67E-41B0-BF13-CC9F60487715">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">576</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FE447B8-DF5F-494C-B0E4-1A471C3B8C39"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAD3E2217-7A32-4233-AD77-CB9B71644469">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FE447B8-DF5F-494C-B0E4-1A471C3B8C39"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₴</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode84FB3998-D9C9-44CE-B46F-7DCDB89A17F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">576</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FE447B8-DF5F-494C-B0E4-1A471C3B8C39"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

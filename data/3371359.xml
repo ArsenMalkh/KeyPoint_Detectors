@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371359" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode73799620-6A72-4B36-BE26-C26DB6CFE6E6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">drachmas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6D4385B6-B571-46BE-A9AB-F4E7CDF729FB">
+		<Aux:document_text xml:lang="en-US">In 1978, with her then-husband, Karagaitanaki opened her cafe in downtown Thessaloniki. Based on a Viennese coffee house, the small business attracted the city’s intellectuals and artists. Her younger brother, Maximus, began working there when he was 18, and eventually her two sons joined in. She divorced in 2000. “We did everything ourselves,” Karagaitanaki said. “We built the cafe ourselves and that’s why people loved it.” When it opened, the cafe’s rent was 400 drachmas a month. By 2010, after Greece’s economy surged and real estate boomed, the rent had climbed to 3,000 euros a month and other expenses rose, Karagaitanaki said. Bills for taxes and utilities climbed fourfold since 2000, she said. To cover her costs, she charged more.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode59408AB6-38A0-4B93-A8AB-D9AA267D84D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73799620-6A72-4B36-BE26-C26DB6CFE6E6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode27DF2907-1E22-4C8E-80FA-F44707E64D1B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73799620-6A72-4B36-BE26-C26DB6CFE6E6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3D3A97D3-6F75-40AA-B6E3-8F17B69EBD11">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73799620-6A72-4B36-BE26-C26DB6CFE6E6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">drachmas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373905" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA152B690-4F85-4E7E-BD17-F7A5BFA65FE2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Austro-Hungarian krone</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6782FED2-FC6C-4187-86A0-4D4F455723D8">
+		<Aux:document_text xml:lang="en-US">The A. Vlaicu Nr. II first flew in April 1911 on Cotroceni airfield in Bucharest. Operational history Between 23 and 30 June 1912 Vlaicu flew the A. Vlaicu Nr. II at the Die Internationale Flugwoche at Aspern near Vienna, competing against 42 other aviators including Roland Garros. Vlaicu won prizes totaling 7,500 Austro-Hungarian krone for precision landing, projectile throwing and tight flying around a pole. The competition number of the A. Vlaicu Nr. II was 38, painted on the left wing and stabilizer. On return from Aspern he performed demonstration flights throughout Transylvania at Arad, Lugoj, Hațeg, Orăștie, Vršac, Alba Iulia, Săliște, Târgu Mureș and Dumbrăveni. The year before he flew at Blaj, Sibiu, Brașov, Iași and Cernăuți.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode77EAF0B9-C018-4451-B2E8-A703BBD9F853">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA152B690-4F85-4E7E-BD17-F7A5BFA65FE2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode181D74A3-2F7F-4F0F-839F-6F8296664676">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA152B690-4F85-4E7E-BD17-F7A5BFA65FE2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode57CF3CB9-7437-42CA-BF26-E7A3A77DAFCE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA152B690-4F85-4E7E-BD17-F7A5BFA65FE2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Austro-Hungarian krone</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

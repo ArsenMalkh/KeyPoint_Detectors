@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375582" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC70AB5BC-A7BD-41CE-892C-BD5495B15A6D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">gold marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">800000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6B2E7CB8-0315-4F35-9457-092C6C5D098E">
+		<Aux:document_text xml:lang="en-US">General Dawes did not appear accidentally from across the ocean, nor is it accidental that we are all obliged to know that his name is Dawes and that he has a general’s rank. He is accompanied by several American bankers. Because the entire reparations structure will collapse unless America provides the first installment, all told some miserly 800 million gold marks to stabilize German currency. Because it depends on America whether the franc stands or falls; and it depends a little on America whether the pound sterling stands or falls – or does not fall, but just keeps fluctuating. And you know that the mark, the franc and the pound sterling do play some role in the lives of the peoples.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode94B6F6CC-EC8A-4B44-833E-FBB5680EF8B4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC70AB5BC-A7BD-41CE-892C-BD5495B15A6D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD610F41E-45FE-47EA-A470-F438C055D8F2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC70AB5BC-A7BD-41CE-892C-BD5495B15A6D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">800000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode612BE8B5-5ACE-4828-AC56-7B6DBC9663AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC70AB5BC-A7BD-41CE-892C-BD5495B15A6D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">gold marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

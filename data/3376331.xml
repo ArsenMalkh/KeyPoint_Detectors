@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376331" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7072028C-E4A6-4DF1-A70E-89BC56B87159">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Straits dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode321B9BB1-AA7C-4D00-A151-449307783250">
+		<Aux:document_text xml:lang="en-US">The theatre had a large projection room located below the balcony and ran the length of the building instead of being traditionally sited in the rear. It housed the latest Simplex projector installed with fireproof protection shutters. The theatre's acoustics and soundproofing were said to be exceptional at that time. Special expensive sound installations costing at least 40,000 Straits dollars were imported from Western Electric Company. The theatre's stage was also designed for stage productions, with changing rooms and organ chambers built into the theatre. It was also the first to equip multihued lighting system using concealed lamps with a dimmer function, which was never used in other existing theatres in Singapore at that time. Besides having the floodlit main entrance at the junction of Stamford Road and North Bridge Road, there are also two side entrances from Stamford Road and North Bridge Road, with a parking lot to accommodate at least 200 cars.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC450AAF6-9E36-4AF1-9E85-03265E193530">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7072028C-E4A6-4DF1-A70E-89BC56B87159"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCBF9CE60-88E8-43E7-BE1B-DA2ED46A27DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">381</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7072028C-E4A6-4DF1-A70E-89BC56B87159"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode61167204-41A1-438B-8595-6371E6C2E21E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">397</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7072028C-E4A6-4DF1-A70E-89BC56B87159"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Straits dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

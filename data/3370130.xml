@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370130" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB0FA9242-731F-4339-B5D7-F57E10CA610C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECUs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">350</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFC676F0B-E3A2-4DFF-A267-F9384A3138BD">
+		<Aux:document_text xml:lang="en-US">Videotex users access information on the system over the telephone network, using either a Minitel terminal or a personal computer, and a videotex emulator with the appropriate software, which complies with CEPT-2 profile, and the CCITT T100, T101 (ELOT-926)/CEPT T.CD 06-01, Greek character set. A V23 modem compatible with Hayes protocol must be connected either internally or externally to a PC. Minitels are considered to be more reliable and to have sufficient memory capacity to support auto-logon. Thus, although the Ippolis videotex software supports the three CEPTs and the ASCII terminal standards, AGROTEL operates on CEPT-2. A favourable development includes the manufacturing in Greece of Minitel terminals to comply with the CCITT Greek character set. The initial start-up cost for buyers of either a Minitel terminal or a videotex card using their own PC is about 350 ECUs. The running cost can be high, mostly depending on telecommunications charges. By the end of the pilot period (December 1991), 157 Minitel terminals were installed throughout Greece, mainly to serve agricooperatives, unions, agribusiness, farmers, municipalities, information providers (IPs), institutions and individuals. They were chosen according to their level of activity, financial status and interest in the project. The geographical distribution of the terminals is shown in Table 4, and it is based on various factors such as the area to be served, the network support provided in that area by the MAG, the agribusiness facilities and the marketing activities provided in these places. In 1992, about 50 Minitels were scheduled to be installed in all the agricultural extension offices over the country, so as to facilitate the local agronomists in their day-to-day work with farmers and cooperatives.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9916B1F9-4ABE-4EDF-AEC7-0CF797A2C7B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">879</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">887</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0FA9242-731F-4339-B5D7-F57E10CA610C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9C649B00-8421-4A09-BD04-1B22EEEBE253">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">879</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">882</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0FA9242-731F-4339-B5D7-F57E10CA610C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">350</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD822F209-46FC-4FC3-B984-3BFFAB10A1F7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">883</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">887</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0FA9242-731F-4339-B5D7-F57E10CA610C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECUs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

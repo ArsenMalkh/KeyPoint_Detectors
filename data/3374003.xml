@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374003" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB642E33C-746A-4102-88D1-EB473264B5EC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">EGP</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">700</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB9A367B4-B736-4F90-AB7B-0851CE4930B3">
+		<Aux:document_text xml:lang="en-US">Many refugees unable to afford the rent prices in Cairo live in the dismal conditions of Cairo's destitute neighborhoods or in impoverished areas on the outskirts of the city. Refugee families also tend to share apartments to defray the cost of rent but the overcrowding and frequent visits of family members, which is common in Sudanese culture, has sometimes led to tension between Sudanese tenants and their Egyptian landlords. Moreover, single women and mothers tend to face discrimination when seeking housing since many Egyptian landlords prefer renting to two-parent households due to social stigma. Support agencies The main agency is Caritas Egypt, which is responsible for assessing the needs of refugees and providing cash assistance, which is approximately 700 EGP every two months for a maximum of six months. Africa and Middle East Refugee Assistance provides legal aid and psychosocial services. Education Sudanese refugees endure a number of social, economic and political challenges in accessing education. The most acutely affected are those not recognized as refugees. Yet even for those registered with United Nations High Commissioner for Refugees (UNHCR), exercising their right to education is often impossible. A 2001 UNHCR case study highlighted concerns that UNHCR funding allocated for education was too low. Rather than being 'geared towards subsidising the status quo', the author advised that it should be 'geared towards fostering refugees' capacity to run their own lives'.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB56D2C67-363F-4C89-B53D-F4A65927ECBC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">769</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">776</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB642E33C-746A-4102-88D1-EB473264B5EC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD74FE400-C548-491B-BD8E-1A116BD56A91">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">769</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">772</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB642E33C-746A-4102-88D1-EB473264B5EC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">700</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3D010B0C-24FB-49AE-B63D-797FAC70E4C5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">773</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">776</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB642E33C-746A-4102-88D1-EB473264B5EC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">EGP</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

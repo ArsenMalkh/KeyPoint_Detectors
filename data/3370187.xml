@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370187" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3468BC76-538A-4037-B78D-FEA5A5EAB269">
+		<BasicEntity:ms_minor_amount xml:lang="en-US">50</BasicEntity:ms_minor_amount>
+		<BasicEntity:ms_major_currency xml:lang="en-US">franc</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEAA7AA17-0106-4278-A0EB-18D096AB95BB">
+		<BasicEntity:ms_major_currency xml:lang="en-US">franc</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2997FC5B-5D58-412D-8F56-E6E38647733C">
+		<Aux:document_text xml:lang="en-US">We were not embarrassed to say we had no money, and no food either, and he was pleased to invite us out to dinner. He took us into town to a very good restaurant on the main square where the rows of plantain trees stood. A television crew were also dining there, twelve at the table, including a hunchback. By the large, bright fire on one wall, three old women sat knitting: one with liver spots covering her face and hands, the second pinched and bony, the third younger and merrier but slow-witted. The photographer fed us well on his expense account. He stayed with us that night and a few nights after, leaving us with several fifty-franc notes, so we were all right for a while, since a bottle of local wine, for instance, cost no more than one franc fifty. When winter set in, we closed one by one the other rooms in the house and confined ourselves to the kitchen with its fat oil-burning stove, the vaulted dining room with its massive oak table where we played cards in the thick heat from the kitchen, the music room with its expensive electric heater burning our legs, and at the top of the stone stairway the unheated bedroom with its floor of red tiles so vast there was ample time for it to dip down in the center and rise again on its way to the single small casement window that looked out onto the almond tree and the olive tree below. The house had a different feeling to it when the wind was blowing and parts of it were darkened because we had closed the shutters.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode396E00DF-79EE-4F28-973D-5066C0DB6E1A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">643</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAA7AA17-0106-4278-A0EB-18D096AB95BB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA1DA2FF-C016-4179-9753-97FC9A399F5F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">637</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAA7AA17-0106-4278-A0EB-18D096AB95BB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4AA5515B-C522-494A-AC7E-DF7FFB634ABE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">638</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">643</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAA7AA17-0106-4278-A0EB-18D096AB95BB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">franc</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode24E7EEE6-8BF0-4D28-B106-27AE518445B8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">747</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">762</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3468BC76-538A-4037-B78D-FEA5A5EAB269"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2271D8DE-1ACB-44D0-8C15-36781138B890">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">747</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3468BC76-538A-4037-B78D-FEA5A5EAB269"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA544553D-B8E1-49C8-81F5-9F3AA7084285">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">751</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3468BC76-538A-4037-B78D-FEA5A5EAB269"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">franc</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEEBE941D-388F-45F6-8EC4-0CF6B96C40CF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">757</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">762</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3468BC76-538A-4037-B78D-FEA5A5EAB269"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_minor_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

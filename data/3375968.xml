@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375968" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9ABE1BFD-17F8-47C1-936E-933E10A25C9E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">120100000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBEA51114-5386-4B8B-8CD9-EC2AFC5978E7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">656500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5175EB58-637C-4B2B-9AF0-CA4B2AAC6A1C">
+		<Aux:document_text xml:lang="en-US">Nottingham's main campus (University Park) with Jubilee Campus and teaching hospital (Queen's Medical Centre) are located within the City of Nottingham, with a number of smaller campuses and sites elsewhere in Nottinghamshire and Derbyshire. Outside the UK, the university has campuses in Semenyih, Malaysia and Ningbo, China. Nottingham is organised into five constituent faculties, within which there are more than 50 schools, departments, institutes and research centres. Nottingham has about 45,500 students and 7,000 staff, and had an income of £656.5 million in 2017/18, of which £120.1 million was from research grants and contracts. The institution's alumni have been awarded a variety of prestigious accolades, including 3 Nobel Prizes, a Fields Medal, a Turner Prize, and a Gabor Medal and Prize. The university is a member of the Association of Commonwealth Universities, the European University Association, the Russell Group, Universitas 21, Universities UK, the Virgo Consortium, and participates in the Sutton Trust Summer School programme as a member of the Sutton 30.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6A6A4CAD-FE6D-4BB0-B191-1A6EF95C7650">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">550</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBEA51114-5386-4B8B-8CD9-EC2AFC5978E7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB5BD8F12-1440-42F6-A85D-62A672E9BD15">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">550</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBEA51114-5386-4B8B-8CD9-EC2AFC5978E7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCF92C01E-B912-4153-9389-11AB939898B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBEA51114-5386-4B8B-8CD9-EC2AFC5978E7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">656500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE393D36A-9A65-48F1-AB64-4088EA0FCEDF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9ABE1BFD-17F8-47C1-936E-933E10A25C9E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA0C2952B-7AA9-4C10-BBFD-AE0C97E684B6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9ABE1BFD-17F8-47C1-936E-933E10A25C9E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode31D86BF5-AF43-4315-A571-5B701E220D4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9ABE1BFD-17F8-47C1-936E-933E10A25C9E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">120100000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

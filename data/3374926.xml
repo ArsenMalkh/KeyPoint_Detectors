@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374926" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode52613A39-753F-40C6-94E4-210CAF3BC449">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CHF</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2940000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5BC43BB4-BD08-4AD0-8173-9AF3806DBD51">
+		<Aux:document_text xml:lang="en-US">Lonza is one of the world's leading suppliers to the pharmaceutical, healthcare and life science industries. Its products and services span its customers' needs from research to final product manufacture. Lonza is the global leader in the production and support of active pharmaceutical ingredients both chemically as well as biotechnologically. Biopharmaceuticals are one of the key growth drivers of the pharmaceutical and biotechnology industries. Lonza has strong capabilities in large and small molecules, peptides, amino acids and niche bioproducts which play an important role in the development of novel medicines and healthcare products. Lonza is a leader in cell-based research, endotoxin detection and cell therapy manufacturing. Lonza is also a leading provider of value chemical and biotech ingredients to the nutrition, hygiene, preservation, agro and personal care markets. Lonza is headquartered in Basel, Switzerland and is listed on the SIX Swiss Exchange. In 2008, Lonza had sales of CHF 2.94 billion. Further information can be found at www.lonza.com. For further Information: Head Corporate Communications Michael Frizberg Tel +41 61 316 8566 Fax+41 61 316 9566 michael.frizberg@lonza.com Media Relations Dominik Werner Tel+41 61 316 8798 Fax+41 61 316 9798 dominik.werner@lonza.com Investor Relations Alexandre Pasini Tel +41 61 316 8835 Fax+41 61 316 9835 alexandre.pasini@lonza.com</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5CFFCACE-0653-49B6-8BD0-DDE7EF121750">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1003</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1019</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52613A39-753F-40C6-94E4-210CAF3BC449"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA529F371-BECA-4C3F-9478-10EE8641ABD4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1003</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1006</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52613A39-753F-40C6-94E4-210CAF3BC449"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CHF</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode00A07910-F2F9-41DE-A7EA-CE132A4758F4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1007</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1019</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52613A39-753F-40C6-94E4-210CAF3BC449"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2940000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

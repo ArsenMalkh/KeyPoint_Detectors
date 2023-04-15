@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374557" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode77FAB418-DC28-4FDD-A023-624F4CECF504">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₤</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">25</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode42E8D7F3-E751-4638-9F80-23F48ADB71A0">
+		<Aux:document_text xml:lang="en-US">It was established in 1943 in memory of Philip Foster Neill, a medical student at the University of Otago who died during the polio outbreak of 1943. In the first year of the prize, 1944, the topic was for a prelude (or fantasia) and fugue for either piano or organ. Douglas Lilburn was publicly awarded the first prize of ₤25 on 25 June 1944, with Harry Luscombe of Auckland the runner-up. It is the longest continuously running award of its kind in New Zealand. The prize is determined each year with a set task with different parameters each year, usually relating to duration and instrumentation, which are announced early in the year, with a deadline for submission at the beginning of July.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF30A2CD5-5812-44BD-BD89-DBE947C500A2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77FAB418-DC28-4FDD-A023-624F4CECF504"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA4E80258-5F17-4C6A-906C-BE7993F33C0A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77FAB418-DC28-4FDD-A023-624F4CECF504"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₤</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode880B10A5-4F99-4E43-8757-33D8509FC128">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77FAB418-DC28-4FDD-A023-624F4CECF504"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">25</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

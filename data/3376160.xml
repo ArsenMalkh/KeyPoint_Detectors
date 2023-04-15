@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376160" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode16713F4C-5B90-4C0F-AA1E-F659BE565029">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Markka</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8FDC5945-864C-4317-AF3D-F05B56E22AB6">
+		<Aux:document_text xml:lang="en-US">Summer Olympic Coins (2000–present) In 1951, the government of Finland authorized the striking of the first modern Olympic coin, a 500 Markka. At first, the coins circulated as currency in the issuing country and the mintages were high. In borrowing from the traditions of ancient Greece, the coins were a memento of the 1951 Games, and a coin that numismatists could now add to their collection. With the exception of Canada's Lucky Loonie program and its 2007 25-cent pieces to commemorate the 2010 Vancouver Olympic Games, it is rare that Olympic coins are minted for circulation. Traditionally, Olympic coins are numismatic coins. . However several host countries minted so many coins particularly silver that their value has become just slightly above the value of their metal content. Coins for the 1976 Montreal, 1984 Los Angeles, and 1988 Seoul are generally considered to fall into that category.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE4D61F0-DC30-4529-B5DB-54655703F07C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode16713F4C-5B90-4C0F-AA1E-F659BE565029"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDBC2FC81-4E49-4A2A-9C26-EDE62DB572CC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode16713F4C-5B90-4C0F-AA1E-F659BE565029"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCD9A3637-55BF-4391-A205-EEFDDD524A65">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode16713F4C-5B90-4C0F-AA1E-F659BE565029"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Markka</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

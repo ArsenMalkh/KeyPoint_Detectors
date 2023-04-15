@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370212" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB575B10B-6E72-4087-BDE7-886FF9ED555A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">79400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5B6C0CA0-CEEF-4745-8FE7-71AD8130F5E7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pesetas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13858864</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3F1B7091-1FAC-4027-848B-7C83D252EAF3">
+		<Aux:document_text xml:lang="en-US">In a letter dated 24 November 2000, the Spanish Government sent the Special Rapporteur information on the situation of migrants in El Ejido. The Government made the reports of the government delegation in Andalusia and of the Ministries of the Interior, Labour and Social Affairs and Foreign Affairs available to the Special Rapporteur. With regard to the February 2000 incidents, the government reports that it has installed 42 housing units, each suitable for eight people. Ten others equipped with kitchens have also been installed for use in the areas where the housing units are located. The units can accommodate 336 persons. With the cooperation of the Spanish Red Cross, the government subdelegation in Almeria has drawn up a list of about 200 complaints filed by immigrants and Spaniards who suffered loss or injury. The Spanish Red Cross conducted a loss assessment survey and evaluated the damage. The Government reports that 13,858,864 pesetas ($79,400) had been spent as at 10 March 2000. As for the regularization of the status of immigrants, the Government reports that information and research centres were opened on 21 March 2000. Regarding security, it says that it has maintained a police and Guardia Civil presence. In order to make progress on action to find solutions to the problems involved in work by immigrants, the Government states that offers have been made to hire 100 people in Huelva, in two groups of 50 each. The Government informed the Special Rapporteur that it would transmit information on the progress made in the investigations as soon as possible.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8DC5869A-64A4-4E14-A24E-7862140E9E75">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">955</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B6C0CA0-CEEF-4745-8FE7-71AD8130F5E7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6CE4EDE5-9062-4B81-925C-7DDD2E17FC86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">947</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B6C0CA0-CEEF-4745-8FE7-71AD8130F5E7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13858864</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1193A6C3-F24F-4A03-88C3-60E6074D5180">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">948</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">955</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B6C0CA0-CEEF-4745-8FE7-71AD8130F5E7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pesetas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFE713544-8050-493D-99AC-DB96C1103CB5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">964</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB575B10B-6E72-4087-BDE7-886FF9ED555A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8D3C6C8-7811-48CF-B1E2-B788D81054BC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">958</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB575B10B-6E72-4087-BDE7-886FF9ED555A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8654CF43-51C5-4D2C-BABC-B5A955C13C4E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">958</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">964</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB575B10B-6E72-4087-BDE7-886FF9ED555A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">79400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

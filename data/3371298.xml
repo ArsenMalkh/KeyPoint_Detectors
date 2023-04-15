@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371298" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA44A6654-DD7A-42BF-83DA-70E21379DBB4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">kroner</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">42.09</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1E919E31-A940-4FB6-9F0B-E000712F31DB">
+		<Aux:document_text xml:lang="en-US">Vestas Wind Systems A/S (VWS) rose today the most among Copenhagen benchmark stocks after China ’s plans to boost wind energy looked set to raise prices and creditors approved the world’s largest turbine maker’s lending facilities. Vestas gained as much as 9.4 percent, making it the biggest winner on the Nasdaq OMX Copenhagen 20 index. (KFX) The stock rose 6.2 percent to 42.09 kroner at 11:32 a.m. in the Danish capital with trading volume at 162 percent of the three-month daily average. China will boost wind production capacity this year, adding 18 gigawatts, the National Energy Administration said this week. China had production capacity of 63.5 gigawatts at the start of last year, according to the most recent data available to Bloomberg New Energy Finance. The increase probably will tie up Chinese producers, leaving more of the global market to Vestas,  Jacob Pedersen, an analyst with Sydbank A/S, said.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode03B1CF21-A0B6-4F12-82EF-95D8E37A4336">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">374</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA44A6654-DD7A-42BF-83DA-70E21379DBB4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0323929E-B6AB-4078-ADC8-C7C4C9FF6D60">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">374</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA44A6654-DD7A-42BF-83DA-70E21379DBB4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">42.09</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFDCA3798-1FE5-4A4D-BE28-C00511574C2F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">380</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA44A6654-DD7A-42BF-83DA-70E21379DBB4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">kroner</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

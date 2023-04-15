@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370140" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode095ABE3D-D46E-43C3-B4E1-64EC05901C43">
+		<BasicEntity:ms_major_amount_bracketed xml:lang="en-US">1000000000</BasicEntity:ms_major_amount_bracketed>
+		<BasicEntity:ms_major_currency xml:lang="en-US">gold marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode58E389C9-9DC3-40EE-BC51-C852718E9C20">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Gold Marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">132000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode371DABB7-E785-4F9C-AD24-35F343247B53">
+		<Aux:document_text xml:lang="en-US">A few days before Hitler joined the DAP, in September 1919, a lengthy article in the VB had drawn attention to a published lecture by a Dr J.R. Rossbach, a Munich nerve specialist, on 'The Soul of the Masses. Psychological Reflections on the Emergence of Popular Mass Movements' (Die Massenseele). Rossbach made frequent use of quotations from Le Bon, and summarized his findings in pithy language. There are striking similarities between Rossbach's phraseology and that of Hitler in his comments on the psychology of the masses. Perhaps Hitler was drawn from Rossbach to read Le Bon's own work. But what does seem likely is that he read Rofs'bach and was influenced by him. In April, the Reparations Commission reassessed the payments at 132,000 million Gold Marks (Kolb, Weimarer Republik, 44), which Hitler must have had in mind when he spoke in Mein Kampf of 'the insane sum of a hundred milliard [thousand million] gold marks' (MK, 558). The Circus Krone's manager was said to have been a party member who charged a much reduced rent for the hire of the hall (Toland, 109, but without any supportive evidence).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCE9861DE-B5B1-4829-A618-805054F5D638">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">765</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode58E389C9-9DC3-40EE-BC51-C852718E9C20"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7CEBB049-5738-4833-B50A-F04AC4EA6DAA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">754</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode58E389C9-9DC3-40EE-BC51-C852718E9C20"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">132000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0612168B-234D-446A-BCF8-7DB5BCBBE3F5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">755</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">765</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode58E389C9-9DC3-40EE-BC51-C852718E9C20"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Gold Marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode49523368-BEC9-419B-9BD5-F26BD3B2D865">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">882</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">930</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode095ABE3D-D46E-43C3-B4E1-64EC05901C43"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode75486949-25AC-4C31-B71E-EB34334AFBC0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">882</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode095ABE3D-D46E-43C3-B4E1-64EC05901C43"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode88878F3C-058B-414F-8D42-ED9A57855AF8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">902</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">918</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode095ABE3D-D46E-43C3-B4E1-64EC05901C43"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount_bracketed</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB71FB191-D395-42E5-B3A0-ED0A73A38F9F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">920</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">930</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode095ABE3D-D46E-43C3-B4E1-64EC05901C43"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">gold marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3369784" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode53CF801E-B709-4D84-BC38-C5641E72C735">
+		<BasicEntity:ms_major_currency xml:lang="en-US">new shekels</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">140000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE46E1B36-4140-4AA1-9196-D27D699314AE">
+		<Aux:document_text xml:lang="en-US">It was reported that the Council hoped to complete the dismantling of the other designated settlement encampments within two weeks, but Council members stressed that that depended on how quickly alternative housing arrangements could be made for the residents. (Ha’aretz, Jerusalem Post, 22 October) 30. On 24 October, it was reported that an IDF proposal for the reinforcement of West Bank settlements estimated the cost at 140 million new shekels. The plan was a result of evaluations made following the Sharm el-Sheikh Memorandum, but the required funding was yet to be approved. It included improvement to the security capabilities of the 40 settlements as well as other safeguards. In addition, fortification of 19 settlements in the West Bank and the Jordan Valley was continuing.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode43D5854B-985B-493B-B00B-6B7A96DAA24E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53CF801E-B709-4D84-BC38-C5641E72C735"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0E367306-BA7B-43E5-83B6-51F866E5FC13">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53CF801E-B709-4D84-BC38-C5641E72C735"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">140000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD2B52C35-8A0A-4A88-8E57-F71040750390">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53CF801E-B709-4D84-BC38-C5641E72C735"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">new shekels</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375896" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFF1D1B90-34A2-49DF-BA0A-77EB15B812E2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">NZ$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">700</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode02711A53-2187-47B6-9ACA-13F3422E6792">
+		<Aux:document_text xml:lang="en-US">In August 2017 the Australian Competition and Consumer Commission launched legal action against Viagogo with "allegations it made false or misleading representations, and engaged in misleading or deceptive conduct by failing to disclose substantial fees included in the price of tickets." In August 2018, New Zealand's Commerce Commission sued Viagogo after it sold non-existent tickets for a Bruno Mars concert for NZ$700. On 27 November 2018, the UK Competition and Markets Authority stated that Viagogo had, effective 17 January 2019, agreed to perform a "comprehensive overhaul" of its services in order to improve their transparency, and strengthen the guarantees it provides to consumers. Among other changes Viagogo agreed to list the identity of the seller and whether they are a professional trader (defined as performing more than 100 sales in a year), as well as seat numbers and the original face value of the ticket, and any risk that the ticketholder may be turned away due to resale restrictions. In addition, the company was required to cease using misleading indications of how many seats remain for an event, and not to advertise ticket sales for events whose ticketing policies restrict resale.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4C9FA413-6859-4156-A5A1-247C86DB8C18">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFF1D1B90-34A2-49DF-BA0A-77EB15B812E2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode99338BA3-BEFF-4286-B3D5-FB0597A027F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFF1D1B90-34A2-49DF-BA0A-77EB15B812E2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">NZ$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode03D05F81-051F-4908-A265-BC42FC569EAA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFF1D1B90-34A2-49DF-BA0A-77EB15B812E2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">700</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

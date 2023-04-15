@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372312" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode527A35FB-55F6-4959-B971-2CBF48C6ACF1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Eurocents</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">9</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB2E725D7-A341-4936-81CE-759E5724E6A4">
+		<Aux:document_text xml:lang="en-US">Following this endorsement, the Parliament and the Council have agreed, in December 2008, on a Directive for the promotion of the use of energy from renewable sources containing a 10 % target for the use of renewable energy in transport in 2020, which is expected to be met mainly by bio-fuels. The ‘Energiesteuergesetz’ entered into force on 1 August 2006 imposing a tax of 9 Eurocents per litre B 100. ‘Biokraftstoffquotengesetz’ BGBl. 2006, part I Nr. 62 of 21.12.2006, p. 3180, implementing Directive 2003/30/EC of the European Parliament and the Council and Council Directive 2003/96/EC. US co-operating exporting producers not sampled Of this total, 29 companies reported exports of biodiesel to the Community during the IP and expressed a wish to participate in the sample, whereas 25 companies, two of which requested to be removed from the proceeding, reported no exports to the Community during the IP.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3CDC33A6-E27D-43A5-A240-95E548604FE9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode527A35FB-55F6-4959-B971-2CBF48C6ACF1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode787EA6CD-4D43-4A07-9343-20CCB9A05767">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode527A35FB-55F6-4959-B971-2CBF48C6ACF1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">9</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5AE961C6-ACE2-4B7D-B61C-F19731348656">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode527A35FB-55F6-4959-B971-2CBF48C6ACF1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Eurocents</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

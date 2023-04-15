@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372054" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode313AB514-7200-4800-9F02-4F162D12A3AA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC8594F7B-83EC-4448-A20E-0B097C46271A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Korean Won</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">650000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD8B332FA-5F33-4883-A728-357D4455B372">
+		<Aux:document_text xml:lang="en-US">Closer in spirit to the classic 'Dick Tracy' wrist communicator, the Gear S is essentially a phone for your wrist, one with its own SIM and therefore support for calls and data. While this is kind of what people originally thought smartphones should be, the Gear S now seems a little out of place. It's a pretty big affair, closer to a cuff than a watch, but it has a beautiful, large 2" OLED screen on which you can perform most functions of a basic smartphone. What's odd, though, is that, despite it being capable of self sufficient performance, Samsung decrees that you still need a Samsung phone to perform functions such as installing apps or syncing media. This is due to the watch running Tizen, not Android, but it does narrow the market for the Gear S considerably Expect its market appearance to be fleeting. LG G Watch R Urbane LTE - 650,000 Korean Won (around £400) LG's G Watch R was arguably 2014's best Android Wear device, showing the platform for what it can do with decent hardware. The Watch R Urbane is 2015's iteration, essentially 2014's model with a high-quality metal shell, but the LTE version is something different again. Yes, confusingly the Urbane LTE isn't an Android Wear device but is instead based on the long-missed webOS, purchased by LG from HP and also powering its TVs. Something of an experiment, it appears aimed at Korean executives, with a Korean to Chinese and English translator and golf swing app. Whether it ever appears over here isn't clear, but certainly LG's use of a proprietary OS like Samsung is now using is no doubt something Mountain View will be taking note of.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode153896FF-AEAF-443B-9841-0168F5E7C23A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">846</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">864</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8594F7B-83EC-4448-A20E-0B097C46271A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode44EBC68F-B406-493B-BC73-1F637F4E82FC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">846</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8594F7B-83EC-4448-A20E-0B097C46271A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">650000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8986E903-C3A8-4D75-896F-9C7E9DF4E666">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">864</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8594F7B-83EC-4448-A20E-0B097C46271A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Korean Won</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2B39D610-742F-42BD-BFD0-95F952DC3438">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">873</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">877</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode313AB514-7200-4800-9F02-4F162D12A3AA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3A1EBE1A-1686-4942-A374-08392DB7148C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">873</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode313AB514-7200-4800-9F02-4F162D12A3AA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF5872403-56CC-412B-AC30-8B21480ACC96">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">877</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode313AB514-7200-4800-9F02-4F162D12A3AA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

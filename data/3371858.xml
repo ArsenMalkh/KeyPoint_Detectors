@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371858" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode50EFC466-8788-4DC1-BF8E-26A67B0E1AF9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">14</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode45EE794A-348E-4098-B9A4-C69676470B61">
+		<Aux:document_text xml:lang="en-US">The State, in its case in chief, presented evidence and testimony of several witnesses to prove that the defendant was indeed guilty as a principal to the charged offense.3 The evidence presented at trial revealed that on October 21, 1998, defendant and Tezeno drove to Dupre’s grocery store, which is located on a rural highway outside Opelousas, in St. Landry Parish. Tezeno entered the store and killed the 90-year-old proprietor, Elta Dupre, as he slept in a chair in the living quarters adjacent to the store, using defendant’s .22-caliber rifle. According to the defendant, he went into the store, saw Mr. Dupre sleeping and left. Tezeno then took defendant’s gun and entered the store. Shortly thereafter, defendant heard a gunshot, and Tezeno exited the store, giving him fourteen dollars. Jeaneene Marie Riley, the sister of the defendant’s girlfriend, testified on 'La. R.S. 14:30.1(A)(2) provides: Second degree murder is the killing of a human being when the offender is engaged in the perpetration or attempted perpetration of aggravated rape, forcible rape, aggravated arson, aggravated burglary, aggravated kidnapping, aggravated escape, drive-by shooting, armed robbery, first degree robbery, or simple robbery, even though he has no intent to kill or to inflict great bodily harm. (Emphasis added).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5806A03B-9424-43EA-8CB7-BFB6F6C579DC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">780</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">796</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode50EFC466-8788-4DC1-BF8E-26A67B0E1AF9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2DA205C8-460F-4FA9-A73F-6658A0E156D3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">780</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode50EFC466-8788-4DC1-BF8E-26A67B0E1AF9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">14</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode169F822F-9AB2-41E5-A969-DD1B176ADA8B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">796</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode50EFC466-8788-4DC1-BF8E-26A67B0E1AF9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

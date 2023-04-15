@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375825" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode390CF0C3-98BF-4C99-9463-008B2406E4FE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">RMB</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">25100000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC8000796-D7BA-4019-8047-20B287506BFA">
+		<Aux:document_text xml:lang="en-US">After 1949 the city experienced further rapid growth. The mines were extended and modernized, and their annual output increased dramatically. Most of the coal is high-quality coking coal that is also used to make coal gas; apart from a small quantity consumed in Jiamusi, the bulk of it is shipped by rail to Anyang, Henan and to other industrial cities such as Anshan and Benxi in Liaoning. By the late 1950s the coal industry employed more than 80 percent of the working population. Although the mines continued to be developed and output increased, Hegang's industrial activity was beginning to diversify, especially after a large thermal-power-generating installation was constructed by the early 1970s. Economy In 2010, Hegang's GDP grew 16.1% to RMB 25.1 billion, ranking tenth among 13 prefectures and prefecture-level cities in the province. Agriculture and animal husbandry are considered two pillars of the city's primary industry. Heavy industry dominates the city's industrial sector. Other major industries in the city include agricultural products processing, food and beverage, pharmaceuticals, dairy and related products,forestry industries, and the production and supply of electricity.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode57C81DCA-EA56-44FA-BE25-5DF20FA84464">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">752</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">768</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode390CF0C3-98BF-4C99-9463-008B2406E4FE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9AA799F1-3181-4FDD-9E65-907B7B56670B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">752</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">755</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode390CF0C3-98BF-4C99-9463-008B2406E4FE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">RMB</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAE13A490-E5F4-490D-AE39-338C008AAFD6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">768</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode390CF0C3-98BF-4C99-9463-008B2406E4FE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">25100000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

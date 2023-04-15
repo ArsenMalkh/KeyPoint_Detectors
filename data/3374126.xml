@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374126" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8BBD3FB5-4BF8-4FCF-BD3E-6A454B750085">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Norwegian krone</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">83600000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode96FF5310-5FB3-4E69-8E0C-0382C706CC51">
+		<Aux:document_text xml:lang="en-US">Birkebeineren Ski Stadium (Norwegian: Birkebeineren skistadion) is a cross-country skiing and biathlon venue located in Lillehammer, Norway. Situated 3 kilometers (2 mi) from the town center and at 485 meters (1,591 ft) above mean sea level, it has two stadium areas, one for cross-country and one for biathlon. The former has a capacity for 31,000 spectators, and the latter for 13,500. The venue was built for the 1994 Winter Olympics, costing 83.6 million Norwegian krone (NOK). It was subsequently used by the 1994 Winter Paralympics for Paralympic Nordic skiing and Paralympic biathlon. After the games, ownership was transferred to the municipal Lillehammer Olympiapark. The venue has since been used for one Biathlon World Cup, three FIS Cross-Country World Cup and nine FIS Nordic Combined World Cup tournaments, the latter with the ski jumping competition taking place at the nearby Lysgårdsbakkene Ski Jumping Arena. Birkebeineren hosted the 2016 Winter Youth Olympics.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5AFEC81B-9E5F-4AA3-B944-F0D922B674A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8BBD3FB5-4BF8-4FCF-BD3E-6A454B750085"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD1AE7B5E-4776-495A-B005-855EC874C651">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8BBD3FB5-4BF8-4FCF-BD3E-6A454B750085"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">83600000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA69D0044-5A93-4CED-A090-826EA7E41AC5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8BBD3FB5-4BF8-4FCF-BD3E-6A454B750085"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Norwegian krone</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

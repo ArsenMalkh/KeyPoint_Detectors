@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376020" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode6C8C1A21-6D6A-4F97-BB8C-077E8F60FD84">
+		<BasicEntity:ms_major_currency xml:lang="en-US">euro</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA576ED3F-D91D-46F0-9AE4-49A15C882FC5">
+		<BasicEntity:ms_major_currency xml:lang="en-US">RUB</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7549241400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6006E379-C14D-4779-9233-E26EB84E4436">
+		<Aux:document_text xml:lang="en-US">In April 2019, Rosmorport contracted Vympel Design Bureau to develop a new 18-megawatt icebreaker concept based on the previous Project 21900M design. The new icebreaker, named Project 21900M2, would feature selective catalytic reduction (SCR) units and scrubbers to reduce nitrogen oxide (NOx) and sulfur oxide (SOx) emissions, respectively, as well as meet the requirements of the International Code for Ships Operating in Polar Waters (Polar Code). In August 2019, Rosmorport opened a RUB 7,549,241,400 (about 100 million euro) tender for the construction of a 18-megawatt icebreaker to ensure year-round operation of the Russian Far East. According to the tender, the new icebreaker would be delivered by 30 September 2024. On 5 September 2019, it was announced that the contract was awarded to the Otradnoye-based Pella Shipyard which was the only bidder. However, construction of the vessel has been subcontracted to Pella Sietas in Hamburg, Germany, for which the 100 million euro order is the biggest single contract in the company history.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode19DCBB22-D33E-45E6-B428-B90381FDB768">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">505</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA576ED3F-D91D-46F0-9AE4-49A15C882FC5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6C6478C8-A749-4316-AAB9-18449E61908E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">491</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA576ED3F-D91D-46F0-9AE4-49A15C882FC5"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">RUB</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA8B8E200-C9F9-43E1-9D10-298F77AB4643">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">505</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA576ED3F-D91D-46F0-9AE4-49A15C882FC5"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7549241400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode06E5E962-C4BD-4D38-A61F-8E3FBD960151">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">529</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6C8C1A21-6D6A-4F97-BB8C-077E8F60FD84"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE13C57DA-814F-415A-82E5-0D74484BEAB0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">524</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6C8C1A21-6D6A-4F97-BB8C-077E8F60FD84"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5F1181DC-B5DE-463B-B353-31D8A13ACF0B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">525</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">529</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6C8C1A21-6D6A-4F97-BB8C-077E8F60FD84"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">euro</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

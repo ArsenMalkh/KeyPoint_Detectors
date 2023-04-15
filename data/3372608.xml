@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372608" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode813A3F08-C28F-44CD-B798-DEF0C793F13B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">22400000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode56D409CF-98AE-41EE-BF68-6C2AF7E1D82E">
+		<Aux:document_text xml:lang="en-US">ISS’s assessment of the share exchange ratio as mentioned above is based on ISS’s own methods of analysis and assessment of the value of the Companies’ shares, and the Company believes that such methods lacks multifaceted nature and objectiveness as, among other reasons, it is based only on limited historical data such as share price and business results. As the Company has disclosed in the past, based on the analysis of its third-party financial advisor, SMBC Nikko Securities Inc. (“SMBC Nikko”), the Company believes that the current share exchange ratio is fair. The Company believes that such analysis by SMBC Nikko ensures multifaceted analysis and objectiveness since it uses not only analysis methods that are based on past business results, but also multifaceted analytical methods that are based on such things as financial forecasts of the Companies for the next three years and forecasts of the business environment, as well as since it was reviewed by the third-party committee consisting of members who are independent from the Companies. In addition, the ISS Report points out, based only on the figures included in the consolidated financial statements of the Company, that payment of dividends (approximately JPY 22.4 billion in total) as proposed in Proposal 4 (proposal for additional dividend) will not impede the business operation of the Company. However, the Company’s business operation is conducted globally and, accordingly, the cash and deposits of the Company are being managed in a complicated manner out of multiple locations. Furthermore, investment securities held by the Company are necessary strategic investments for the purpose of maintaining smooth commercial relationships in the medium- to long-term in the industry in which the Company belongs. ISS’s view does not take into account such cash needs, which are based on circumstances specific to the Company. The Company thus believes that the payment of such additional dividend will significantly hinder the business operation of the Company.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode394C6565-3529-4442-A91B-391B7857AB3A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1230</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1246</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode813A3F08-C28F-44CD-B798-DEF0C793F13B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD87DC961-3E55-4E2C-9721-52F9EA62FE64">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1230</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1233</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode813A3F08-C28F-44CD-B798-DEF0C793F13B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB0DAD4F4-0306-415B-93C6-8A55AC5697F2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1234</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1246</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode813A3F08-C28F-44CD-B798-DEF0C793F13B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">22400000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

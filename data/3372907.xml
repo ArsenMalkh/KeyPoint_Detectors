@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372907" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB408486C-1C97-41EB-852A-16320F5534F9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">gold dinars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">12000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode99EEB29C-3151-4514-8F4D-E6667751DE31">
+		<Aux:document_text xml:lang="en-US">In 1074, Alfonso VI campaigned against the taifa of Granada with the assistance of al-Mamun of Toledo. Alfonso received troops from al-Mamun in addition to the parias payment, facilitating his military campaigns. The campaign was successful, and Granada was forced to begin parias payments to Alfonso VI. After this, al-Mamun proceeded to attack Cordoba, which was then under the control of his enemy al-Mutamid, taifa king of Sevilla. He conquered Cordoba in January 1075. The parias of Toledo to Alfonso VI in the 1070s amounted to approximately 12 thousand gold dinars. This money contributed strongly to Alfonso VI's ability to project military strength throughout the Iberian peninsula. In 1076, al-Mamun of Toledo was killed in the city of Cordoba, which he had conquered only the year before. The taifa king of Sevilla took the opportunity to reconquer Cordoba and seize other territory on the borderlands between the taifas of Sevilla and Toledo. Al-Mamun was succeeded by his son, al-Qadir, the last taifa king of Toledo. Possibly keeping an earlier promise to al-Mamun, Alfonso VI at first supported the succession of al-Qadir. The taifa of Valencia, which had been conquered by al-Mamun, revolted against al-Qadir and ceased parias payments to Toledo.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3D7794D7-5677-44F4-8D3B-599B62A916D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB408486C-1C97-41EB-852A-16320F5534F9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA17378AB-4AF3-4969-9ACE-0DED7F2B4B8F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB408486C-1C97-41EB-852A-16320F5534F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">12000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode48D59344-2F30-4113-A1CE-A25411B42681">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">560</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB408486C-1C97-41EB-852A-16320F5534F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">gold dinars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

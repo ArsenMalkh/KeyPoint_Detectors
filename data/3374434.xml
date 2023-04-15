@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374434" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4D7EB81E-DB4A-401A-888E-5138437B1FE2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">markkas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAD00BB64-37F0-4D27-A53A-55DFBDAC71FB">
+		<Aux:document_text xml:lang="en-US">Much of the game's originality comes from its irreverent tone: The game's world is largely populated by low-class residents, many of whom are slovenly or drunkards, and the game includes drunk driving. There are three distinct buttons for cursing and flipping people off – none of which has any consequences other than the occasional response. The game's dialogue is entirely in Finnish, with English subtitles. The player may also save the game's progress at his toilet at home or at any of the outhouses dotting the countryside, which also serves to advance the in-game time to the next even hour. The game also features a minor backstory involving the drunkard neighbor who hid a suitcase full of two million markkas in lottery winnings from his wife; if the player finds it and keeps it for himself, the same neighbor will eventually intrude into the player's house and attempt to murder the player with an axe. If the attack fails, a note can be found attached to his front door, stating that he's had a miserable life. He can then be found hanged from a bridge to the north of the world.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode65B967AA-6949-45AC-A839-4950A94B6273">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4D7EB81E-DB4A-401A-888E-5138437B1FE2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode37775446-EED5-45EF-811C-27D8F63BB3A2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">711</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4D7EB81E-DB4A-401A-888E-5138437B1FE2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA1E3DCB5-12AE-4083-866A-D4196D4968E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">712</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4D7EB81E-DB4A-401A-888E-5138437B1FE2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">markkas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

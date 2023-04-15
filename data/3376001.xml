@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376001" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode78E7DEF9-8846-499B-8A86-A2AC572B9BD8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7373000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode0D388E20-1FD0-4078-B227-BD3D7D75FA88">
+		<BasicEntity:ms_major_currency xml:lang="en-US">German gold marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8B0D4E68-807F-4F3D-87A7-1888DC7A39F4">
+		<Aux:document_text xml:lang="en-US">He strongly advised against a harsh, punitive treaty against Germany that would eventually provoke German revenge. He also considered that the dethronement of the princes of Central Europe and, in particular, the dissolution of the Habsburg Empire would constitute a serious menace to peace and stability on the continent. The Allies considered Belgium to be the chief victim of the war, and it aroused enormous popular sympathy, but the King's advice played a small role in Paris. Belgium was given much less than it wanted, with a total payment of three billion German gold marks ($500 million in 1919; $7,373,000,000 in 2020); the money did not stimulate the lethargic Belgian economy of the 1920s. Belgium also received a small slice of territory in the east of the country (known as Eupen-Malmedy) from Germany, which remains part of the country to this day. Its demands for a slice of Zeeland in the Netherlands (which had remained neutral during the conflict), were rejected and led to ill-will. Britain was willing to guarantee Belgian borders only if it committed to neutrality, which Albert rejected. Instead, Belgium became a junior partner with France in an occupation of part of Germany under a 1920 Treaty. As outlined in the Treaty of Versailles, Belgium was also given a League of Nations mandate over the former German colonies in Africa of Rwanda and Burundi. On the whole, Belgian diplomacy was poorly handled and ineffective.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4F30A97A-0442-4DC8-979D-EDC21A3E16EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">550</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">581</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0D388E20-1FD0-4078-B227-BD3D7D75FA88"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC2D12CB0-EF6A-4D8E-A854-46E670561426">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">550</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">563</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0D388E20-1FD0-4078-B227-BD3D7D75FA88"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE4382608-9D6C-49C6-931C-1919D4770710">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">581</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0D388E20-1FD0-4078-B227-BD3D7D75FA88"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">German gold marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFDCECBFC-614F-4F25-B019-A413530C30E9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">605</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode78E7DEF9-8846-499B-8A86-A2AC572B9BD8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3559F067-4561-41F3-9412-F6D291EEF3CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">605</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode78E7DEF9-8846-499B-8A86-A2AC572B9BD8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode968BD5DB-29EF-4277-99B5-1ACE047BBF16">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode78E7DEF9-8846-499B-8A86-A2AC572B9BD8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7373000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

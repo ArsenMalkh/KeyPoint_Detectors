@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374547" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9D61C669-C822-4FAE-B6D6-9CE7C9A804D9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Luxembourg francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBFA99474-BA5C-41FD-B486-EFAD6B28B87C">
+		<Aux:document_text xml:lang="en-US">Those parts of the building corresponding to the shopping mall were acquired by French retail group Auchan. An Auchan hypermarket, occupying the two storeys in the northeast of the shopping gallery, was installed as an anchor store. The retailer estimated a catchment area of 25 kilometres. The store, and the wider shopping mall, opened to the public on 26 November 1996. Martin Draber, then director of Auchan Kirchberg, said the primary commercial rationale for its opening was to "recover part of the 8 billion Luxembourg francs" spent annually by Luxembourg consumers outside of its borders, rather than to directly compete with local businesses. The shopping mall currently contains 66 shops and 16 restaurants. The complex's office space, known as the Joseph Bech building, was, between 2004 and 2018, part of a closed-end real estate fund owned by Commerz Real before being sold to an anonymous buyer. Since the building opened in 1998, the principal tenant of the Joseph Bech building has been the European Commission, which uses the building to house its statistics body, Eurostat. This arrangement was made due to the lack of office space provided for by the institution's then main Luxembourg complex, the Jean Monnet building. The European Commission plans to vacate the building and the end of its current lease in 2023, with it relocating staff to the Jean Monnet 2 building, currently under construction in Kirchberg's European district.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1545AB0-C4D0-4890-BC06-234F7C6480DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">505</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">532</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9D61C669-C822-4FAE-B6D6-9CE7C9A804D9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode18254457-DAC8-49FD-84F5-0C3D43373B88">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">505</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9D61C669-C822-4FAE-B6D6-9CE7C9A804D9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode423A26FE-8486-4CA6-B238-E485680B4487">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">532</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9D61C669-C822-4FAE-B6D6-9CE7C9A804D9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Luxembourg francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

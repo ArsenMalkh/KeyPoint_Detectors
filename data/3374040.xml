@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374040" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode14A8B9CD-600D-4A50-90A6-3935A673B6DA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE3B2F925-D1C3-4418-B9DD-DF58434FD4F5">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">12</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD00FCD1E-C642-4425-8089-E50FC5F6232C">
+		<Aux:document_text xml:lang="en-US">With a railway near the border of Wotton House estate, the 3rd Duke decided to build a small-scale agricultural railway to connect the estate to the railway. His intended route ran on his own land other than a small stretch west of the Aylesbury and Buckingham line. This land was owned by the Winwood Charity Trust, an operator of almshouses in Quainton of which the Duke was a trustee. The Duke agreed to pay an annual rent of £12 (about £1,200 in 2020), in return for permission to run trains. With the consent of the Winwood Charity the route did not require Parliamentary approval, and construction could begin immediately. The Duke envisaged a tramway west from Quainton Road railway station across his Wotton estate. The line was intended for transport of construction materials and agricultural produce and not for passengers. It would not have a junction with the Aylesbury and Buckingham railway but would have its own station at Quainton Road at a right angle to the A&amp;B's line. A turntable at the end of the tramway would link to a spur from the A&amp;B's line. The line was to run roughly southwest from Quainton Road to Wotton near Wotton Underwood. Just west of the station at Wotton the line split. One section would run west to Wood Siding near Brill. A short stub called Church Siding would run northwest into Wotton Underwood itself, terminating near the parish church, and a 1 mile 57 chains (2</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode33B8A0B4-FC2C-4A53-885A-BC5201042CA7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE3B2F925-D1C3-4418-B9DD-DF58434FD4F5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9C26AF27-DD90-4FCC-A9A3-FC1CE326E962">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE3B2F925-D1C3-4418-B9DD-DF58434FD4F5"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDBA03E75-504E-4B05-8FC8-B20B4D6E3120">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE3B2F925-D1C3-4418-B9DD-DF58434FD4F5"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">12</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode771F5439-0360-4EAD-B9B6-A93DC0A8680D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14A8B9CD-600D-4A50-90A6-3935A673B6DA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD7654CC1-D7E8-474D-82F5-DB1E70B72C67">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14A8B9CD-600D-4A50-90A6-3935A673B6DA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB87BB527-ECD7-4347-BDD3-5656889650CF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14A8B9CD-600D-4A50-90A6-3935A673B6DA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

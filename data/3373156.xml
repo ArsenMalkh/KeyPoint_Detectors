@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373156" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA6680B08-053F-411F-82F1-6C1607750C62">
+		<BasicEntity:ms_major_currency xml:lang="en-US">tugriks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode933BBDFD-9513-480A-AE37-19DD2ABE8C05">
+		<Aux:document_text xml:lang="en-US">From the beginning of 2010, Aero Mongolia started taking actions to strengthen its operation and management. Through 2010, Aero Mongolia signed some advantageous charter flight contracts with the leading companies in Mongolia's mining sector. It received its third Fokker 50 aircraft in August 2010 and its fourth in September 2012. Frequent flyer program SKYMILES is the frequent-flyer program of Aero Mongolia. "SKYMILES" also refers to the bonus card which Aero Mongolia's frequent flyers are given. The program enables passengers to collect 10 tugriks (MNT) from each km they fly. Savings will be automatically calculated (based on flight distance) and collected to passenger’s bonus card. Passengers can make use of their savings whenever they want. Incidents and accidents On 31 October 2007, Mongolian aviation authorities suspended Aero Mongolia flights temporarily after the airline failed safety checks. But in the first quarter of 2008 Aero Mongolia has received the license to fly in domestic routes.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF8DA8C6F-8DB2-4A91-9EEC-887CD93CE8A2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6680B08-053F-411F-82F1-6C1607750C62"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5CDDE0FD-81C8-4DA1-AC2F-3CD3F7136DF8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6680B08-053F-411F-82F1-6C1607750C62"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode944A9451-4274-43AC-A82F-4AAB18481361">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6680B08-053F-411F-82F1-6C1607750C62"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">tugriks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

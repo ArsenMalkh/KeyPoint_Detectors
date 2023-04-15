@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374944" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode797A7DFE-3577-44CC-89BC-ABCE16CDF846">
+		<BasicEntity:ms_major_currency xml:lang="en-US">SKK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">30.13</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1B7E3534-CD16-47D4-987D-BD1E0B01095B">
+		<Aux:document_text xml:lang="en-US">The following table shows the development of selected exchange rates in relation to the euro during the reporting year. These rates are used to translate data from the financial statements of the foreign Group companies: Malta introduced the euro as of 1 January 2008, and foreign exchange translation is no longer required. The exchange rate in Slovakia was fixed at 30.13 SKK/EUR as of 1 January 2009 in connection with the planned conversion to the Euro. Intangible assets  Intangible assets with a finite useful life are recognised at cost and amortised on a straight-line basis over a useful life of four to ten years. If there are signs of impairment and the recoverable amount - which is the higher of fair value less costs to sell and the value in use of the asset - is less than the carrying amount, an impairment loss is recognised.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode69F7BFC9-E689-4B5F-A080-7FE2C7EFF5B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode797A7DFE-3577-44CC-89BC-ABCE16CDF846"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCD76B422-182B-4BB1-9067-A71A5579F082">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode797A7DFE-3577-44CC-89BC-ABCE16CDF846"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">30.13</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode77A10B7E-5650-4B57-9518-53222D00822C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">374</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode797A7DFE-3577-44CC-89BC-ABCE16CDF846"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">SKK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

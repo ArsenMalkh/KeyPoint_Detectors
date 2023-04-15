@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372989" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode6288255E-4DD6-4859-B0BC-2293D85EF3BC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">West African CFA francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">250000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9BD3F8B1-D356-49D9-8FA8-0AB48CB4392B">
+		<Aux:document_text xml:lang="en-US">Ouédraogo was granted clemency on 4 August 1985 and returned to medical work, taking a job at the Hôpital Yalgado-Ouédraogo. Nevertheless, the Sankara regime monitored his activities and restricted him from reentry into the army. In 1992 he successfully secured a loan of 250 million West African CFA francs from a French bank and founded a clinic, the Notre-Dame de la Paix, in the Somgandé district, south of Ouagadougou. In 2007 he served between 400 and 500 patients a month. In 2005 Ouédraogo was awarded a gold medal by the Geneva-based Foundation for Excellence in Business Practice. He also won the first prize in the Ministry of the Environment's competition for the best living environment health facilities in the Centre Region. That December a street in the Nongr-Massom district of Ouagadougou was named after him. In 2016 he was the president of the Fédération des Associations Professionnelles de la Santé Privée. As of 2019 Ouédraogo still worked at his medical clinic.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode90E0473F-62A6-4144-BB4B-018C4888B7FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6288255E-4DD6-4859-B0BC-2293D85EF3BC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode41447B85-2EA4-4AE0-8805-90FFAECF2815">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">272</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">283</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6288255E-4DD6-4859-B0BC-2293D85EF3BC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">250000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9C0CBCA8-7BE0-4E3C-9B34-ECDBC12C7931">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6288255E-4DD6-4859-B0BC-2293D85EF3BC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">West African CFA francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

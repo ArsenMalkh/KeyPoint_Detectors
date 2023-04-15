@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374599" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9C0296EB-812F-4079-927F-5AD7B4276094">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3FC2A0FE-68C9-4E46-9612-FA6392925A1C">
+		<Aux:document_text xml:lang="en-US">In developing countries the situation Is rather different. Most low-income countries commit less than 5% of GDP In total to public social services and benefits, and someofthem less than 1% or 2% of GDP. In Kenya and Zambia the total allocation Is barely 0.3%. Thus, while France’s per capita Income Is 30 times greater than Zambia’s, per capita public expenditure In Zambia Is below USD 5 a year, a thousand times less than In France.  Typically, social security In developing countries Is limited to the ‘modern’ sector of the economy and to urban formal sector workers, thus excluding the rural population and the Informal sector, I.e. the majority of the population. Traditional and Informal arrangements of social protection consequently play a vital role. However, on the one hand, families and communities are affected by the same risks as Individuals-for Instance, In cases of prolonged drought, conflict or pandemics like HIV/AIDS — and thus they cannot supply Insurance and socioeconomic protection when It Is most needed. On the other hand, traditional forms of family and communal arrangements are disappearing as a consequence of socioeconomic changes and Increasing urbanization. With no other form of social organization replacing the old one, women are additionally burdened with expanded responsibilities.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6F1DF949-F37D-42B2-90A0-E064854399DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C0296EB-812F-4079-927F-5AD7B4276094"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA6F52F2F-48B3-449A-A42E-2E50E3A6EBDD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C0296EB-812F-4079-927F-5AD7B4276094"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF6EC61FF-1649-4879-A397-72595B91143A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C0296EB-812F-4079-927F-5AD7B4276094"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

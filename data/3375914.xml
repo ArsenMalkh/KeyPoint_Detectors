@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375914" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8E3E70DD-CEDF-460D-B69C-07F990292A36">
+		<BasicEntity:ms_major_currency xml:lang="en-US">TWD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7400000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBDD37D1E-00CD-4F13-BA56-73446E3F2A2E">
+		<Aux:document_text xml:lang="en-US">Taiwan's National Theater and National Concert Hall are two of the first major modern performing arts facilities to be established in Asia. Upon the death of Chiang Kai-shek in 1975, the Kuomintang government authorized the construction of a monument and cultural arts facilities on the grounds of a memorial plaza. The project cost TWD 7.4 billion. Yang Cho-cheng and Architects and Engineers Associates were responsible for the overall design. The buildings, though modern in function and purpose, recall traditional elements of Chinese palace architecture. The G+H Company of Germany and Philips, based in The Netherlands, played leading roles in the design of the interior facilities, stage lighting and acoustics. Civil engineering issues were handled by Ret-Ser Engineering Agency, Veterans Affairs Council. Six directors oversaw the project from initial planning sessions to final completion: Jou Tsuo-Min, Chang Chih-liang, Liu Feng-shueh, Hu Yao-heng, Li Yen and Chu Tzung-ching. The structures were completed on 20 September 1987, and officially opened their doors the following month as venues of the “National Chiang Kai-shek Cultural Center”. Vice President Lee Teng-hui and Premier Yu Kuo-hua presided over the opening ceremonies for the two buildings on 31 October 1987.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCE72E0D1-AB41-4448-A2A4-9E6716BB19C3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8E3E70DD-CEDF-460D-B69C-07F990292A36"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7A5F452F-49CA-4E76-B314-16AC3F58890E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8E3E70DD-CEDF-460D-B69C-07F990292A36"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">TWD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB32F6A39-DE2B-45F5-A011-79E9B621AD0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8E3E70DD-CEDF-460D-B69C-07F990292A36"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7400000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

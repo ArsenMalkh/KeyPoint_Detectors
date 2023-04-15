@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372919" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAB21F36B-B5A1-4C1F-B7C0-07AB4AA1EF7C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Austro-Hungarian gulden</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB090E2E7-1B08-456B-B3AD-0AC27FF0A3B4">
+		<Aux:document_text xml:lang="en-US">The tower's namesake was the priest, mountaineer and patriot Jakob Aljaž. In early 1895, he drew up, with a piece of chalk on the floor of his room in the parish of Dovje, plans for a cylindrical tower with a flag on its top. In April that year he purchased the summit of Triglav for the sum of one Austro-Hungarian gulden. Having done so, he secured himself the right to erect a building on the mountain top. The tower was constructed from iron and zinc coated sheet steel by Anton Belec from Šent Vid nad Ljubljano. He and four workers brought the parts of the tower to the summit of Triglav and put the tower together in only five hours on 7 August 1895. The opening took place that same day. Aljaž donated the shelter to the Slovene Alpine Society.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84D7E72A-208B-4D4F-B37F-AFA84C020FEA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB21F36B-B5A1-4C1F-B7C0-07AB4AA1EF7C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE042ABDE-0553-4704-8E34-3A2B8A0CEBD2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB21F36B-B5A1-4C1F-B7C0-07AB4AA1EF7C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB22149B1-7B24-4167-A2F2-241F60E0E028">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB21F36B-B5A1-4C1F-B7C0-07AB4AA1EF7C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Austro-Hungarian gulden</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

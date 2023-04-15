@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371791" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3FE50872-AB04-4BEA-B078-87C3D5B569A4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10.25</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2D0F1EB6-78EC-4C3F-9AB9-7BE1F94DF599">
+		<Aux:document_text xml:lang="en-US">Addressed in this Opinion are the merits of consolidated statutory appraisal and class actions for breach of fiduciary duty. These actions all arise out of the two-step “going private” acquisition of the publicly owned shares of Emerging Communications, Inc. (“ECM”), by Innovative Communications Corporation, L.L.C. (“Innovative”), ECM’s majority stockholder. The first step tender offer was commenced on August 18, 1998 by Innovative for 29% of ECM’s outstanding shares at a price of $10.25 per share. The balance of ECM’s publicly held shares were acquired in a second-step cash-out merger of ECM into an Innovative subsidiary, at the same price, on October 19, 1998. At the time of this two-step transaction (the “Privatization”), 52% of the outstanding shares of ECM, and 100% of the outstanding shares of Innovative, were owned by Innovative Communication Company, LLC (“ICC”). ICC, in turn, was wholly owned by ECM’s Chairman and Chief Executive Officer, Jeffrey J. Prosser (“Prosser”). Thus, Prosser had voting control of both of the parties to the Privatization transaction.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBA64E381-872B-4B3A-BD52-54CCF7338A96">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3FE50872-AB04-4BEA-B078-87C3D5B569A4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode727D9080-C711-46E6-87DD-DD20CCF64A8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">487</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3FE50872-AB04-4BEA-B078-87C3D5B569A4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode29CB5A18-CD42-40FA-9D21-DCBA3E0289CC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">487</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3FE50872-AB04-4BEA-B078-87C3D5B569A4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10.25</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

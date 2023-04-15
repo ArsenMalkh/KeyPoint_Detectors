@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374867" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9A1957CF-027A-4179-B6D2-892EB06BF8CD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2.734</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode875B67BB-C72C-426F-9AFE-AE066D332F13">
+		<Aux:document_text xml:lang="en-US">Aluminum metal and, to a lesser extent, aluminum alloys are suitable materials for manufacturing industrial cathodes. Actually, pure aluminum metal exhibits a low density (2690 kg.m-3) and high thermal conductivity (237 Wm-1K-1), is a good electrical conductor (2.6548 u£2.cm), does not form hydride with nascent hydrogen, and passivates when polarized anodically. All these characteristics, along with a reasonable average cost of 2.734 US$/kg (for 99.7 wt.% Al), are major assets for its wide utilization especially in zinc electrowinning. Industrial applications. In zinc electrowinning, zinc is directly plated onto aluminum Mi'el_ cathodes while oxygen is evolved at the Pb-Ag anode. Once the zinc electrodeposit reaches laneous a desired thickness, the aluminum cathodes are removed from the cells, followed by either manually or automatically stripping the zinc deposit. On the other hand, molten aluminum is used as liquid cathode during the electrowinning of aluminum in the Hall-Heroult process.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC6D8205C-F385-406F-A994-7CC8E20A38EF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A1957CF-027A-4179-B6D2-892EB06BF8CD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6B83505A-FC8A-4FE5-8F64-BA74A80F2C9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A1957CF-027A-4179-B6D2-892EB06BF8CD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2.734</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAD48749F-0893-4B3E-996C-2AF15CCA38ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">438</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A1957CF-027A-4179-B6D2-892EB06BF8CD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

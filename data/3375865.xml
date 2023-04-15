@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375865" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode06233EBD-33A4-4D23-A33E-C784DA8CF3F4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5780</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode131B0C63-31D5-4C9E-B1AF-159402BFA8BE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">dalasi</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">250000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEC413DD0-8DB6-48D7-BDB7-AE567D39C29F">
+		<Aux:document_text xml:lang="en-US">Numerous human rights NGOs protested the arrests and called the charges against the journalists to be dropped. Amnesty International designated the six as prisoners of conscience and demanded their immediate release. The Committee to Protect Journalists also campaigned for Saine's release, as did the World Organization Against Torture, the International Federation for Human Rights, International PEN, the PEN American Center, and Front Line Defenders. Jammeh continued to denounce the journalists, however, making a state television appearance to say "So they think they can hide behind so-called press freedom and violate the law and get away with it? They got it wrong this time ... We are going to prosecute them to the letter." On August 7, 2009, the six were convicted and sentenced to two years' imprisonment in Mile 2 Prison, as well as a fine of 250,000 dalasi (£5,780) apiece. However, Jammeh pardoned them in September, following a campaign of "domestic and international pressure". The pardons were issued to coincide with Ramadan. In June 2014, a decade after his assassination, the ECOWAS Community Court of Justice found the Gambian government liable for failing to diligently investigate Deyda Hydara’s murder. The Nigerian law firm, Aluko &amp; Oyebode, represented the family of Deyda Hydara and the Africa Regional Office of the International Federation of Journalists (IFJ-Africa) in the law suit against the Gambian government.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE501BD2-CCAE-473E-8357-7A0CA8EF72DD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">857</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">871</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode131B0C63-31D5-4C9E-B1AF-159402BFA8BE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFFC54134-8B48-4AF2-9A75-CC7265EBEC30">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">857</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">864</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode131B0C63-31D5-4C9E-B1AF-159402BFA8BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">250000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEA09B011-4AEC-48DD-87C0-E4C0F69657E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">865</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">871</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode131B0C63-31D5-4C9E-B1AF-159402BFA8BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">dalasi</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB9B1C843-1751-4137-AD9B-7F7BEF435A1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">873</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">879</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06233EBD-33A4-4D23-A33E-C784DA8CF3F4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode59DEC643-1254-4384-A450-A29C8BEDC521">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">873</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06233EBD-33A4-4D23-A33E-C784DA8CF3F4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode65172E85-4426-4B78-AA2C-0B17B8D43E1C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">879</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06233EBD-33A4-4D23-A33E-C784DA8CF3F4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5780</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

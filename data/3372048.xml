@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372048" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4C6169D9-2B61-44D0-BC9C-96F0346E0196">
+		<BasicEntity:ms_major_currency xml:lang="en-US">GBP</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">65000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAF661B97-188D-44FA-96F3-CF18D819CF5A">
+		<Aux:document_text xml:lang="en-US">SOUTH POINT VILLA. 4 Exclusive luxury beach villas in Galle. 2,3,4,7 bedroom villas with private pools. Fully staffed including personal chef. Ideal for families and romantic getaways. www.southpointvilla.com Email: info@southpointvilla.com Tel: 00 94 766 766 766 SOUTH AFRICA GAME LODGE OPPORTUNITY. Set in 90,000 acre exclusive Big Five Welgevonden Reserve, South Africa. 3 hours from Johannesburg. Join private syndicate for 12th share for GBP 65,000. More at: www.tsheshepe.co.za Email: davemarsh@mweb.co.za UK: DEVON DEVON ROMANTIC THATCHED cottage available for short breaks. www.lowerbrook.com TUSCAN/UMBRIAN BORDER. Hill top house in 11 acres. Looks amazing on the website. Even better in real life. Check it out: www.myhomeinumbria.com VENICE CENTRAL. Tranquil, sunny apartment. Wonderful canalside location. Two bedrooms, two bathrooms. Tel: 020 7701 7540 or www.venicecanalsideapartment.co.uk</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD5C01581-F53C-44D3-94F3-DE7D95F70910">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">453</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C6169D9-2B61-44D0-BC9C-96F0346E0196"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1DF04337-DFDE-470E-893C-DD765707F90A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C6169D9-2B61-44D0-BC9C-96F0346E0196"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">GBP</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode552149D1-3162-4F4A-BF62-6D6B30250178">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">447</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">453</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C6169D9-2B61-44D0-BC9C-96F0346E0196"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">65000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

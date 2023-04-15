@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375278" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4F99AAF9-8DC7-41A1-88D2-97830A0A5F52">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Egyptian pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4ECFCD45-BA4C-4D02-A682-AC0C6EEC90CB">
+		<Aux:document_text xml:lang="en-US">The second court in Cairo sentenced 37 people to 15 years in prison each for their part in an attempt to blow up a subway station in Cairo last year, in addition to charges of vandalism, illegal possession of explosives, arms and ammunition along with disrupting public and private transport, said the statement from the chief prosecutor's office. A 16 year old received a three-year prison sentence in the same case. The court also fined all the defendants 20,000 Egyptian pounds ($2,800) each.1 To date, authorities have detained some 16,000 Brotherhood supporters, including Morsi and most of the group's top leaders, following the July 3 military overthrow of his government. Many of them are on trial on charges that vary between espionage, inciting murder to corruption.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8E9A2A85-728B-4802-82C3-FF171F8FDA81">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4F99AAF9-8DC7-41A1-88D2-97830A0A5F52"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode252E217A-8DD4-43CF-95F1-DAB4B18544AA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4F99AAF9-8DC7-41A1-88D2-97830A0A5F52"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode17110929-8F1E-47F3-95D9-2200069D4FE3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4F99AAF9-8DC7-41A1-88D2-97830A0A5F52"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Egyptian pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

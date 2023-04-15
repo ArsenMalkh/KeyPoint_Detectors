@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372100" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEBE5C6B0-B8B8-427C-B723-7D63E245CCE6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">R</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">33</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1E88DECD-4DC2-4AFE-8E5C-83C192F30675">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Kenyan shillings</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4814CD95-B6BE-4A43-8A91-A19DDC73C192">
+		<Aux:document_text xml:lang="en-US">Zipping through the busy, bumpy streets on a tiny motorised rickshaw' is quite exhilarating, if a bit nerve-racking! Just make sure you strap your bag down firmly. Coffee is a huge industry in Kenya, and I couldn’t leave the market without a pack of vanilla-flavoured beans. Expect to pay about 400 Kenyan shillings (about R33) for lOOg. You can also stock up on spices here -masala, cinnamon, cumin, chilli pow'der - and potatoes and mielies so fresh they're still covered in soil. Be sure to practise your bargaining skills beforehand. AFTER DARK In typical pole-pole style (meaning ‘relaxed’ in Swahili), dinner at the hotel restaurant on my final night was a languid affair, accompanied by a mixture of bossa tunes, Brenda Fassie and Miriam Makeba classics. Knowing that I sing in a band, my group had been waiting for just this opportunity, and at their insistence I joined the flautist and guitarist for an impromptu performance of Miriam Makeba's Pala Pata. It w'as the perfect build-up to my night on the town....</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode37120061-2781-403E-B988-D411CBD72B68">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1E88DECD-4DC2-4AFE-8E5C-83C192F30675"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9B783907-EF3C-4B87-B43C-99B4D1AC249A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1E88DECD-4DC2-4AFE-8E5C-83C192F30675"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode239DE911-14D7-41BE-9211-34568D498918">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1E88DECD-4DC2-4AFE-8E5C-83C192F30675"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Kenyan shillings</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFB1FBC6F-8D9D-4F13-BD1F-9EF5FAAB6B43">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEBE5C6B0-B8B8-427C-B723-7D63E245CCE6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode11C8BF1B-BCB6-498A-ADF5-7D2E61C3FD4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">323</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEBE5C6B0-B8B8-427C-B723-7D63E245CCE6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">R</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB9893407-89A1-4231-A1D4-5B476BB29D9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEBE5C6B0-B8B8-427C-B723-7D63E245CCE6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">33</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

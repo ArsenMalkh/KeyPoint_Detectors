@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371518" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2B63F811-6937-43CA-AFCF-6B3002982FC2">
+		<BasicEntity:ms_minor_amount xml:lang="en-US">18</BasicEntity:ms_minor_amount>
+		<BasicEntity:ms_major_currency xml:lang="en-US">rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_minor_currency xml:lang="en-US">kopecks</BasicEntity:ms_minor_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13936289</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF08EE58F-B93C-4815-838D-5BF2A3DC77DB">
+		<Aux:document_text xml:lang="en-US">The reason for failure (partial default) of the Issuer to fulfill the relevant commitment to the Issuer's equity securities holders, and for financial or any other commitment, which can be expressed in monetary terms, also the amount of the commitment in cash, which has not been fulfilled: As of September 25, 2013 the shareholders of JSC TATNEFT have not received dividends totaling 13,936,289 rubles 18 kopecks resulting from the shareholders' failure to submit reliable and complete information required to receive the dividends. Signature Deputy General Director- Head of Property Department  JSC TATNEFT /Signature/ V.I. Gorodny   Date: September 25, 2013 Seal  </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode10B289D0-2DFD-4BAD-978D-88711536E92C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B63F811-6937-43CA-AFCF-6B3002982FC2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3C04B84B-4F62-436E-B6CE-5AD3C0C44F6B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B63F811-6937-43CA-AFCF-6B3002982FC2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13936289</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8AFFD0CC-56E6-429F-865B-B9B21E178717">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B63F811-6937-43CA-AFCF-6B3002982FC2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD1DB2EED-F8AA-4EE4-AD38-F587CABDBAEC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B63F811-6937-43CA-AFCF-6B3002982FC2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_minor_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">18</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9718A190-8178-41AD-8CD3-1BC485B33C1B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B63F811-6937-43CA-AFCF-6B3002982FC2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_minor_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">kopecks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

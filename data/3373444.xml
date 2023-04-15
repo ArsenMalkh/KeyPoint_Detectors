@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373444" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF9ABEDE4-4178-401D-B92A-2761F87B0DF3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₺</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD0B59C61-7D75-4293-B64B-454BCBB9F34C">
+		<Aux:document_text xml:lang="en-US">In 2003, the government launched Turkey's first high-speed rail project, the Hızlandırılmış tren ("Fast train"). On 4 January 2004, Yıldırım oversaw the launch of construction works on the first branch between Ankara and Eskişehir, that was eventually inaugurated in 2009 with total costs of ₺7.5 million to upgrade the tracks, rolling stock and increase the speed of trains on the route to 150 km/h (93 mph). At the same time, work was completed to increase the average train speeds to 100 km/h (62 mph) throughout Turkey. In 2014, the line, operated by a subsidiary of the Turkish State Railways (TCDD), was extended to İstanbul, completing the Ankara–İstanbul high-speed railway. Construction on the Ankara–Konya high-speed railway began in 2006 and was completed in 2011.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEA7E6811-C3F5-48EF-817A-0C58A4597639">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9ABEDE4-4178-401D-B92A-2761F87B0DF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode41AF7524-C6B1-45A7-96E5-655C2E8CCC7E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">292</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9ABEDE4-4178-401D-B92A-2761F87B0DF3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₺</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA8441459-281C-4BE7-BF69-1F7D7F76D8BE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9ABEDE4-4178-401D-B92A-2761F87B0DF3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370134" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeECDB57C6-CEBA-4255-91D1-4CD54A5D5071">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1080000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode378E089B-A933-45F6-9303-F4F133FD5D28">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Indian rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE67BF4FA-B4D1-42B2-8468-CED5928B154E">
+		<Aux:document_text xml:lang="en-US">The data analysis was conducted on manufacturing companies listed in the PROWESS database compiled by the Center for the Monitoring of the Indian Economy (CMIE). This database covers the majority of public Indian companies, and is compiled using audited annual reports provided by the companies. This database has been used by several previous studies on Indian firms (e.g., Khanna and Palepu, 2000; Khanna and Rivkin, 2001; Chacar and Vissa, 2005), and the relative quality and accuracy of this source are rated positively, encouraging us to use it for our sample. We supplemented information from the database when necessary by referring to annual company reports. We also randomly cross-checked the data with other sources of information and found them to be consistent with one another. Within the database, we restricted our focus primarily to manufacturing firms with sales of at least 50 million Indian rupees (roughly 1.08 million US dollars). We chose this cut-off, as firms below this threshold represent small firms, are unlikely to be involved in foreign markets directly, and are likely to be served by international markets through intermediary firms. We chose to focus on manufacturing firms, as manufacturing represents the core of the value-added in the Indian economy, despite the recent rise of the Indian software industry. This phenomenon of manufacturing representing the significant portion of economic value-added is common to most emerging markets, unlike developed markets, where services represent the majority of the economy. After elimination of firms with missing values, the final sample was made up of 794 firms from the time period 2000-2003.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8DA09808-C69C-40B3-AFB6-201812B4EAD7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">892</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">916</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode378E089B-A933-45F6-9303-F4F133FD5D28"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD8B3E0D6-030E-4E3D-B260-058B49A4F189">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">892</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">902</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode378E089B-A933-45F6-9303-F4F133FD5D28"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode42082139-4A66-4319-8D0B-BCBB8A25A909">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">903</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">916</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode378E089B-A933-45F6-9303-F4F133FD5D28"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Indian rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5F462493-B05C-4DF3-A27D-DB5773219695">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">926</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeECDB57C6-CEBA-4255-91D1-4CD54A5D5071"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode92B3209D-FBAD-49F6-8076-9E8E87497611">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">926</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">938</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeECDB57C6-CEBA-4255-91D1-4CD54A5D5071"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1080000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDE12811C-DD74-4464-A413-243A8E2F8C5E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">939</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeECDB57C6-CEBA-4255-91D1-4CD54A5D5071"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

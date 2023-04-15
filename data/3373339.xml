@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373339" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode631EE1EC-E0F8-4387-BB8F-B574FCA672FA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">HRK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode08C06AE1-B120-489A-B969-7324C6AD3CBA">
+		<Aux:document_text xml:lang="en-US">At the beginning of 2012, A1 was the first on the market to offer combi packages for fixed and mobile services. In March 2012, A1 and Ericsson Nikola Tesla launched the first commercial LTE network in Croatia. Following the April 2012 and the introduction of a high quality digital television VipTV, in October 2012 A1 became the first and only operator that has made available, in all areas of Croatia, the complete 5-play service, which includes Vip TV, mobile and fixed telephony, as well as mobile and fixed Internet – and all on one bill. Also, in May 2012 A1 was first to set a world record in data transmission on the fixed network with speeds of up to 4.3 Gbit/s which is 1000 times greater than the average in Croatian households. A1 finished the year 2012 presenting its new technological and business complex in Žitnjak. The complex was worth 50 million HRK, it is energy self-sufficient and also contains one of the largest data center in the region. Today A1 is still best known for its mobile network. It is a 900 MHz GSM, 2100 MHz 3G (WCDMA), 1800 and 2600 MHz 4G (LTE) network which supports GPRS, MMS, EDGE, UMTS, HSDPA and LTE technologies. A1 introduced a number of these technologies to the Croatian market first and remain a technological leader in the field.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode517DFDFD-50BE-4008-BF0B-DC0ADFC0EBF8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">868</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode631EE1EC-E0F8-4387-BB8F-B574FCA672FA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF270DB16-D32A-49E5-9AC0-383F785381D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">864</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode631EE1EC-E0F8-4387-BB8F-B574FCA672FA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCAEC2421-F62F-46A6-9CE2-8B32BD9E87D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">865</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">868</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode631EE1EC-E0F8-4387-BB8F-B574FCA672FA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">HRK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

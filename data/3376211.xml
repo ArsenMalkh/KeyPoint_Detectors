@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376211" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC78DB673-3012-4945-B4C8-4931A07F058B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">21700000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode764F426C-2E6B-4581-8C61-14DC87EE3D10">
+		<Aux:document_text xml:lang="en-US">The story revolves around Maxi dela Cerna, a young, aspiring New York-based fashion designer who returns to the Philippines shortly after her mother's death to find her father. She had been swindled by her ex-boyfriend and hopes to pay off her debts by selling the piece of provincial land that her parents co-owned. But this means spending time with her father whom she hates for walking out on her and her mother 15 years ago. As the uptight and guarded Maxi struggles to immerse herself in farm life and deal with a father she despises, she crosses paths again with Tommy, her childhood friend, now an architect who is trying to heal from his own mistakes in the past with his 7-year-old son. Reception The film only garnered a total of ₱21.7 million on its first five days in theaters. The film ranked third on its opening weekend in the Philippine box office, behind Toy Story 3 and The Karate Kid.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBF1830EA-8D71-477C-A15F-05AFBE80B6E2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC78DB673-3012-4945-B4C8-4931A07F058B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4DB6D36D-869B-492E-87D9-1A2A5F56C72D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC78DB673-3012-4945-B4C8-4931A07F058B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3E990636-02B7-4D94-B6BF-4545F7B01452">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC78DB673-3012-4945-B4C8-4931A07F058B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">21700000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

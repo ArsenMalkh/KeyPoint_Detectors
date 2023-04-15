@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373621" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5A626414-0311-4AF5-AF2B-75A9A264E0AD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1400000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2EAABCC8-0024-4397-84BA-876FB228A6BA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">New Turkish Lira</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode365324E2-5C96-4A4B-915D-5AE273311E68">
+		<Aux:document_text xml:lang="en-US">After the 1920s, following the Armenian genocide, the church was exposed to extensive vandalism. The ornate stone balustrade of the royal gallery disappeared, and comparisons with pre-1914 photographs show cases of damage to the relief carvings. The khatchkar of Catholicos Stephanos, dated 1340, was, by 1956, badly mutilated with large sections of its carvings hacked off. In 1956 only the bottom third of another ornate khachkar, dated 1444, was left - it was intact when photographed by Bachmann in 1911. The 19th-century tombstone of Khatchatur Mokatsi, still intact in 1956, was later smashed into fragments. In the 1950s the island was used as a military training ground." Restoration Between 20 May 2005 and 21 July 2006, the church underwent a controversial restoration program. The restoration had a stated budget of 2 million New Turkish Lira (approximately 1.4 million USD) and was financed by the Turkish Ministry of Culture. It officially re-opened as a museum on 29 March 2007 in a ceremony attended by the Turkish Minister of Culture, government officials, ambassadors of several countries, Patriarch Mesrob II (spiritual leader of the Armenian community of Turkey), a delegation from Armenia headed by the Deputy to the Armenian Minister of Culture, and a large group of invited journalists from many news organizations around the world.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBBDA5619-4B16-4CE3-A481-23AE509B21B6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">827</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2EAABCC8-0024-4397-84BA-876FB228A6BA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0A2A00C1-9768-40CF-ADD8-A7203D1ADDE7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">827</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">836</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2EAABCC8-0024-4397-84BA-876FB228A6BA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0E9DBFEF-F1CB-4EDE-B3AB-8A313A790935">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">837</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2EAABCC8-0024-4397-84BA-876FB228A6BA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">New Turkish Lira</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7107E591-9AF2-4E5C-A641-E1A2363B36DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">869</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">884</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5A626414-0311-4AF5-AF2B-75A9A264E0AD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA276BA3F-7C24-4BEE-9EB0-D380D031C5E7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">869</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5A626414-0311-4AF5-AF2B-75A9A264E0AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1400000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF1A9E546-B49B-4C79-AB10-BD1B2FB6AFB8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">881</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">884</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5A626414-0311-4AF5-AF2B-75A9A264E0AD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

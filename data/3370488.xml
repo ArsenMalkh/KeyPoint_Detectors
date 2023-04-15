@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370488" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5AC16750-D42C-47BC-AA81-2590925C2447">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Russian Rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">0.09</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode082EC7EE-7D93-4DBA-96C5-4AC62236E7A3">
+		<Aux:document_text xml:lang="en-US">Deferred tax liabilities, net of current portion Asset retirement obligation Postretirement benefits obligation Property, plant and equipment contributions Total long-term liabilities TOTAL LIABILITIES Commitments and contingenciesRedeemable non-controlling interests SHAREHOLDERS' EQUITY: Share capital (9,650,000,000 shares issued; and 9,278,981,940 shares outstanding with par value of 0.09 Russian Rubles) Treasury stock (371,018,060 shares with par value of 0.09 Russian Rubles) Additional paid-in capital Retained earnings Accumulated other comprehensive loss Total JSFC Sistema shareholders' equity Non-controlling interests in equity of subsidiaries TOTAL EQUITY TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY CASH FLOWS FROM OPERATING ACTIVITIES:</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBC75628C-B3F0-45D2-896B-4C87752DAD5D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5AC16750-D42C-47BC-AA81-2590925C2447"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAD471950-7367-49E7-BBB3-93951C822A87">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">393</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5AC16750-D42C-47BC-AA81-2590925C2447"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">0.09</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode98DE82BB-7B8C-4235-9DC2-7A7FF1B5386A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">394</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5AC16750-D42C-47BC-AA81-2590925C2447"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Russian Rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

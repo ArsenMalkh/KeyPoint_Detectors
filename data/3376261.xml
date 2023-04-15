@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376261" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode92A7CCF1-BCCA-4A22-A0BE-2109AAF10179">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₪</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode91908BCC-3735-43F0-BB35-58D760A8A1B5">
+		<Aux:document_text xml:lang="en-US">Archeological evidence has indicated that beer was produced in the Golan Heights in ancient times. The Golan Brewery, founded in late 2006 by Naftali Pinchevsky and Haim Ohayon, was established with a mind to reviving the region's ancient tradition. Years earlier Pinchevsky was importing homebrewing kits to Israel, but he was ahead of his time and the idea did not catch on. He later established Murphy's bars in Herzliya and Modi'in. Ohayon, a land developer who co-founded nearby Kanaf and who has also invested in the Hapoel Gilboa Galil basketball club and in a local genetics startup, says he is driven by a determination to demonstrate that "even though we are far from the center of the country, we will do it best." In 2009 the Golan Brewery entered into a strategic collaboration agreement with the Golan Heights Winery, the latter investing ₪3 million ($750,000) in the venture. Ohayon envisioned the joining of forces between the two entities as a vehicle for growing his brewery into the third largest in Israel. In 2012 the Golan Brewery was ranked seventh on a list of Israel's top ten microbreweries.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode79716A24-8B32-4519-A2AE-59C37EB007A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">863</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode92A7CCF1-BCCA-4A22-A0BE-2109AAF10179"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode38EEB364-11C3-4154-9DAB-DDD39E792106">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode92A7CCF1-BCCA-4A22-A0BE-2109AAF10179"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₪</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8629AEAC-BAEA-4E10-94D8-CE646BFFB4C7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">863</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode92A7CCF1-BCCA-4A22-A0BE-2109AAF10179"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

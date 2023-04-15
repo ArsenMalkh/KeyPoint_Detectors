@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376301" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode01D8B74E-D57B-4BAF-99F2-3DFDF9CCB04B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Rs.</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">160</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7A50B519-DC82-4524-A5AE-B764770025BD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Pakistan Rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC339AD25-D6EF-4401-89E2-7C9EFBCCB0C3">
+		<Aux:document_text xml:lang="en-US">K-Electric is a successor to KESC which was its original name for more than 70 years and was operating as a vertically integrated power utility in Pakistan. It is thoroughly integrated in generation, transmission and distribution to the whole Karachi city and its surroundings. Earlier to 1990 KESC was enjoying a good reputation. Suddenly it was placed under WAPDA control at that time company’s share with its face value in Pakistan Rupees 10/- was selling at Rs.160/- in stock market. WAPDA was ill-reputed for corruption and mismanagement. Under WAPDA control its share was trading below face value. However KESC was privatized later. Urbanization without town planning BBC Delhi correspondent, besides citing different issues, one of the disclosed reasons of electricity theft was that in India poor people buy stolen power because they cannot afford to buy it. In Karachi this reason can also be observed in least developed areas. According to estimates published in 2012-13, there were approximately 483 Katchi Abadies (unauthorized residential colonies) in Karachi prior to 1990, the residents of such localities do not have legal right to have civic facilities and basic living provisions such as electricity/water from government departments. According to Chairman of Standing Committee on Urban Development of the Federation of Pakistan Chamber of Commerce and Industry, now it has grown to over 4,700. This is a main reason, where poor and deprived people are compelled to deal with Kunda Mafia</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode883C5413-8683-4666-B849-23E6090FE500">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7A50B519-DC82-4524-A5AE-B764770025BD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB4DB538E-E80D-48E3-8157-C8E1B14E1F0D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7A50B519-DC82-4524-A5AE-B764770025BD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Pakistan Rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7EF3E108-1B98-418A-843B-BD30CFAE23C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7A50B519-DC82-4524-A5AE-B764770025BD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1D07CF1-A71A-47E6-8CC5-FDB7D281A859">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">470</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01D8B74E-D57B-4BAF-99F2-3DFDF9CCB04B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE0716301-DE28-4235-8171-29D321AB85A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01D8B74E-D57B-4BAF-99F2-3DFDF9CCB04B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Rs.</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8A869BAB-0548-4668-906E-F3AF468AB8DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">470</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01D8B74E-D57B-4BAF-99F2-3DFDF9CCB04B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">160</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370218" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode641FB576-519B-429C-BDA8-D3530F82E276">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode91F9B778-A3D0-47C2-8402-8A0F9F052200">
+		<Aux:document_text xml:lang="en-US">Whereas European Union producers are in ultra- peripheral areas such as the Canaries, Madeira, Crete, Guadeloupe and Martinique, which have special production characteristics and suffer from particular disadvantages; whereas banana producers in these areas of the Community should therefore be eligible for supplementary aid; (Amendment 11) Recital 4Whereas the increase in consumption resulting from enlargement of the Community warrants opening of an autonomous tariff quota of 353 000 tonnes; whereas this autonomous tariff quota should involve reduction to ECU 300 per tonne of the customs duty applicable beyond the above bound tariff quota; Whereas this reduction is warranted by the need to guarantee adequate supply of the Community market while preserving competitive balance with banana imports originating in ACP countries;</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode57A01619-DD5B-441D-B4DF-701EDE04287D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">568</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode641FB576-519B-429C-BDA8-D3530F82E276"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD5124AD4-ABAB-4A2A-867F-A0CA6D8E3D50">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode641FB576-519B-429C-BDA8-D3530F82E276"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFC451102-F044-41C8-85D6-D20FC0389CDC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">565</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">568</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode641FB576-519B-429C-BDA8-D3530F82E276"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

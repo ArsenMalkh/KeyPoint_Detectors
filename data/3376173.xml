@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376173" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeABE5A911-501F-4EDA-81E9-2F408D86D949">
+		<BasicEntity:ms_major_currency xml:lang="en-US">yuan</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">15000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA80925CE-8E3E-43A7-9D86-527FDD5AAF18">
+		<Aux:document_text xml:lang="en-US">In 1999, Wang Fengyou, a Liaoning businessman, set up the Yilishen Tianxi Group to make health products whose main ingredients were ants, including a version of Viagra. In addition to advertising the products under the name Yilishen on television (endorsed by Bao Xishun, China's tallest man, and Zhao Benshan, China's most prominent comedian celebrity), investors were offered a significant return if they bought boxes of black mountain ants from the company and raised them to maturity. Buyers, most of whom were unemployed factory workers or peasants, were instructed to feed the ants sugar water, egg yolk and cake, with the promise that after three months, they could sell them back to the company. Returns on investment were reported to be anywhere between 30 and 60 percent, and many investors used the profits to buy more ants. Yilishen Tianxi built a factory to produce pills and wine made from the dead ants; Yilishen products were sold in more than 50,000 Chinese pharmacies, and the company's annual revenue was 15 billion yuan. The company was endorsed by Chinese government officials, and Wang, now the chief executive, was photographed with the former Minister of Commerce of the People's Republic of China, Bo Xilai. In 2007, the company received a direct marketing license, seen by many as a government endorsement; Wang was also listed as one of "China's Top 10 Entrepreneurial Leaders".</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE7372FCA-CD14-4921-9E93-53A6C124500B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1039</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABE5A911-501F-4EDA-81E9-2F408D86D949"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1FC1AFA4-9CB8-4D1C-B47E-E4F023B78028">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1034</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABE5A911-501F-4EDA-81E9-2F408D86D949"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">15000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode032EE2F5-67D6-411B-AAD6-A4141E4C30F9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1035</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1039</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABE5A911-501F-4EDA-81E9-2F408D86D949"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">yuan</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

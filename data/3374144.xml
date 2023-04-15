@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374144" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB65F9A4A-A74A-4547-AD52-3E22E52FF492">
+		<BasicEntity:ms_major_currency xml:lang="en-US">daler</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7DA0EC8E-F5B9-4F06-97DB-68BFADE75E0D">
+		<Aux:document_text xml:lang="en-US">Enno tried to give the king the impression that Norwegians were so displeased with the Danish rule that they would rather be willing to succumb to Sweden. To add to his credibility he had also made his cousin Johannes Lauritsson, of the noble Galte family, join him. After some time he sent his cousin back to Norway with a letter for the nobility, describing great hostilities and even saying they should kill as many Danes as possible. Many noblemen who had received Enno's letter went to the lord of Bergenhus, Erik Rosenkrantz, trying to claim their innocence. Johannes Lauritsson who had brought the letter to Norway was captured and set to be executed. However he was set free after paying 100 daler. This was probably thanks to Enno's sister Anna Tronds and Enno's cousin Erik Rosenkrantz. Eventually the Swedish king Eric XIV understood that what Enno had claimed were merely lies and wild fantasies, and his friendship with the Swedish king was now over. After one year in prison he joined the king's brothers John and Charles, however, in the autumn of 1569, he robbed a fortune of money, gold and gemstones from Charles treasury at Gripsholm Castle. After this, Charles had a search after Enno throughout all of Europe, were Enno lived a high life under a false title as Count.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1CDCCA09-7C0B-46E0-BEE7-3959301FC440">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">705</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB65F9A4A-A74A-4547-AD52-3E22E52FF492"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode12B25E36-FA06-4434-8023-71B5F04ED749">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">699</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB65F9A4A-A74A-4547-AD52-3E22E52FF492"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B86D4BB-51FA-4939-8B54-9AAE4674A42E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">705</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB65F9A4A-A74A-4547-AD52-3E22E52FF492"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">daler</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

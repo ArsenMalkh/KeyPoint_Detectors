@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374498" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBF070017-2DC2-4B5D-9C6A-45828AE86175">
+		<BasicEntity:ms_major_currency xml:lang="en-US">NGN</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBB10B418-9A9B-496E-8734-74D602A614EE">
+		<Aux:document_text xml:lang="en-US">The African Democratic Congress outlines the details of the party and its workings. The constitution contains a preamble, 27 articles, and 3 schedules. According to the constitution, the goal of the ADC is to be a "grass root" party, composed primarily of working-class and disadvantaged Nigerians. The constitution also outlines that membership of the ADC party is open to "every citizen of Nigeria irrespective religion, ethnic group, place of birth, sex, social or economic status", once they are over 18 years old, not an active public officer, and do not belong to any other political party in Nigeria (membership is extended to those who renounce other party affiliations). Monthly dues for membership in the ADC is 200.00 NGN.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode54C86E5C-0573-4A0E-BE18-D87B7777AE92">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">722</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF070017-2DC2-4B5D-9C6A-45828AE86175"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode66354963-5CAE-40E8-BB12-52AA95205B2B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">722</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">728</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF070017-2DC2-4B5D-9C6A-45828AE86175"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7DC70134-AF17-4010-96CD-7AF5DACDAAFB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBF070017-2DC2-4B5D-9C6A-45828AE86175"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">NGN</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

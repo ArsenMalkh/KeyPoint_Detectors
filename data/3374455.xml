@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374455" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode209896DF-C1A6-4D0C-AA04-8514FFD4811F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pesetas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1242A87D-BAB3-4F9C-AD71-10968C39AE39">
+		<Aux:document_text xml:lang="en-US">Ferrándiz initially admitted to the rape of two women, but he denied involvement in any murders. He was charged with Rubio's abduction, sexual assault and murder. By October 21, however, he had admitted to killing Rubio, García and three prostitutes whose skeletonized bodies had been found in a riverbank near Vila-real in early 1996: Natalia Archelos Olaria (24), Mercedes Vélez Ayala (18), and Francisca Salas León (24). These three murders had been investigated as related to each other, but had not been linked to the murders of Rubio or García, and a truck driver had been arrested as a suspect. Several psychiatric evaluations of Ferrándiz diagnosed him as a psychopath. Trial and sentence Prosecutors requested 163 years in prison with the recommendation that Ferrándiz be never paroled again, and a fine of 200 million pesetas to compensate the families of all five victims. In addition, they also petitioned that the State be named secondarily responsible for not keeping Ferrándiz under the necessary surveillance after he was excarcerated. On January 14, 2000 Ferrándiz was found guilty of five counts of murder, one of attempted murder, and another of imprudence resulting in injuries. Ferrándiz was sentenced to 69 years in prison and to compensate the families with 130 million. The State was acquitted.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC32D70C3-EADB-4E93-93AD-E57DFD88B071">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">816</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">835</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode209896DF-C1A6-4D0C-AA04-8514FFD4811F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode182FCFE9-4B86-45F5-A0D9-F1B29D4E0149">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">816</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">827</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode209896DF-C1A6-4D0C-AA04-8514FFD4811F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCFB59282-1AD5-49DC-86C8-6F6387209245">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">828</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">835</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode209896DF-C1A6-4D0C-AA04-8514FFD4811F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pesetas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

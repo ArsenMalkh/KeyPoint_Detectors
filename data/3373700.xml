@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373700" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4B039954-797E-45B6-AA57-C6E1189BFA6B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4169000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode797C7E00-BE82-4902-BFF9-E9945B45C3C9">
+		<Aux:document_text xml:lang="en-US">The ShanghaiTech campus is located in the Zhangjiang Hi-Tech Park, amongst many national and international R&amp;D-based companies. The university is in very close proximity to the Shanghai Synchrotron Radiation Facility, the Shanghai Advanced Research Institute and the National Center for Protein Science Shanghai. The campus was designed by Moore Ruble Yudell Architects and won the Merit Award for Urban Design Award 2012 of the American Institute of Architects, California Council. With 0.6 square kilometer and a construction area of 701,500 square meters the campus represents investments of the Shanghai Municipal Government of 4.169 billion CNY. Academics The low student-to-faculty ratio of at most 12 to 1 is hoped to ensure teaching quality. When the school opened, it had plans to enroll 2,000 undergraduate students and 4,000 graduate students immediately. In the future ShanghaiTech aims to host 1000 faculty, including 500 adjunct professors from institutes of the Chinese Academy of Sciences and other universities. The university will then educate 2000 undergraduate and 4000 graduate students (including 3,000 Ph.D. candidates).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode44F70A35-331C-48DC-8825-C7F9BE3AED66">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">649</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B039954-797E-45B6-AA57-C6E1189BFA6B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode52CB589D-5CC3-4D67-8F4B-9C774A658967">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">645</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B039954-797E-45B6-AA57-C6E1189BFA6B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4169000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5478889F-EA24-41C6-8B13-D98842A5BAF3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">649</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B039954-797E-45B6-AA57-C6E1189BFA6B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

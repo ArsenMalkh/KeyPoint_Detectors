@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375308" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1CD0C126-DCAE-404B-A812-7CCC903FEE85">
+		<BasicEntity:ms_major_currency xml:lang="en-US">North Korean won</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">78</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2D7DBFC9-4612-4652-8F2C-36BEB56CA1CE">
+		<Aux:document_text xml:lang="en-US">During a demonstration for an AP Television News crew, a bureau official clicked on the site for the Kumsong Food Factory in Pyongyang and scrolled down to a pack of cream buns, which brought up a new page with that item and its price - 78 North Korean won (less than 1 U.S. dollar, depending on which exchange rate is applied), which is in line with prices at stores in Pyongyang. The next step is to type in how many packs the user wants and tap the buy button. After hitting confirm, the purchase is finished.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode604445D1-DD12-4449-B5E8-2E39DA844F15">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CD0C126-DCAE-404B-A812-7CCC903FEE85"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD90E4D40-B51B-40ED-9214-48D40B413614">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CD0C126-DCAE-404B-A812-7CCC903FEE85"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">78</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode543AFC62-189F-44A2-B50E-585C5DB4742D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1CD0C126-DCAE-404B-A812-7CCC903FEE85"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">North Korean won</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

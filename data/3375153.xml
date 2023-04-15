@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375153" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode01CB5996-BB7E-4B33-B7A7-1C17178BAF51">
+		<BasicEntity:ms_major_currency xml:lang="en-US">HKD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">215440</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9F1FBEF7-C9A1-49AD-ADAD-05868D18EFE9">
+		<Aux:document_text xml:lang="en-US">of shares selling Total of short Tkr sold short turnover turnover to total Sym Company Name (thousand) (HK$ mln) (HK$ mln) turnover 8207 CREDIT CHINA 316 0.22 2.55 8.4 Total No. of Securities recording Short Selling: 1 Total No. of Designated Securities recording Short Selling: 1 Short Selling Turnover Total Shares (SH): 316,000 Short Selling Turnover Total Value ($): HKD 215,440 *Total No. of non-Designated Securities recording Short Selling: 0 Short Selling Turnover Total Shares (SH): 0 Short Selling Turnover Total Value ($): HKD 0 Note: Figures are preliminary and subject to revision. -- Alex Kim in Hong Kong 852-2977-6507 </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5FEC9DD6-8338-4128-B5DB-4AFEA9A60ABC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">371</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01CB5996-BB7E-4B33-B7A7-1C17178BAF51"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC031C4A3-640A-4606-9608-576CF0CABF0C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">371</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">374</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01CB5996-BB7E-4B33-B7A7-1C17178BAF51"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">HKD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBC9F097A-2C1E-4C85-A6BB-545AB0B34C96">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01CB5996-BB7E-4B33-B7A7-1C17178BAF51"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">215440</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

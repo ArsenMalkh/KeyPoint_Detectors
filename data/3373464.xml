@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373464" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3212DD9A-A56F-4E82-B76E-E6EB3BF08DFE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Burmese kyat</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">700000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9F043B4B-113B-438F-BDB5-74D903CC9D51">
+		<Aux:document_text xml:lang="en-US">On 26 June 1954, Douglas DC-3 was hijacked by members of the Karen National Defense Organization (KNDO, later the Karen National Liberation Army). After the killing of Saw Ba U Gyi in 1950, the first president of the Karen National Union (KNU), the group sought to regain both a political initiative and financial leverage. Three KNDO members - Major Saw Kyaw Aye, Captain Thein Kyaw and Captain A Nyein - planned to hijack a plane, and use it to smuggle illegal weapons. They successfully hijacked the plane, and forced its British pilot Captain A.E. Hare to land on a deserted beach, after other group members had failed to build a suitable temporary runway in Karen. Finding 700,000 Burmese kyat in metal chests in the cargo, cash being transported between bank branches, they confiscated this and then let the plane take off. Censorship banned reporting of the story for over 50 years, but in April 2014 it was the subject of the book The World's First Hijacking, and is being developed into a Hollywood-produced film under the same title.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1ADB6215-B94F-4D4A-96D4-3FB24CEE46D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">698</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3212DD9A-A56F-4E82-B76E-E6EB3BF08DFE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2714C8D7-0790-4F95-AA16-C83E9E7FAC30">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">685</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3212DD9A-A56F-4E82-B76E-E6EB3BF08DFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">700000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB93795D4-AF24-498B-ADDD-F3000955DF20">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">686</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">698</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3212DD9A-A56F-4E82-B76E-E6EB3BF08DFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Burmese kyat</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

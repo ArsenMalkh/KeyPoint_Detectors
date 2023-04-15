@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373043" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5EF2D782-161C-4EDF-B402-6AEAD1A58BA7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Australian dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2700000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD268E037-0F98-4904-A251-095C6A039C49">
+		<Aux:document_text xml:lang="en-US">The Adventures of Priscilla, Queen of the Desert had originally been conceived by filmmakers Stephan Elliott and Stuart Quin, who were at the time in production of a film called Frauds. They and producer Andrena Finlay initially tried to pitch Priscilla to various financiers at the 1991 Cannes Film Festival, but were unsuccessful, and so instead took the film's concept to PolyGram and, with the backing of the Australian Film Finance Corporation, were able to begin production of the film on a relatively low budget of 2.7 million Australian dollars. Elliott and the film's producers, Michael Hamlyn and Al Clark, agreed to work for $50,000 each, a relatively low fee for filmmakers at the time, while the lack of funding meant that the crew agreed to receive takings of the film's eventual profits in compensation for their low salaries. Due to the involvement of the Australian FFC, only one non-Australian actor was allowed to appear in the film, and Clark initially considered David Bowie, whom he had known back in the 1980s, and later briefly thought of John Hurt, although neither was available.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB0ADA610-42B2-421F-B4F5-268B83E2BE7B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5EF2D782-161C-4EDF-B402-6AEAD1A58BA7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode43660ABC-2BEA-4427-8E38-4D34517CFB0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">533</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5EF2D782-161C-4EDF-B402-6AEAD1A58BA7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2700000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFE794EF1-FBAE-4E2E-9502-A6D02C6D72EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">534</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5EF2D782-161C-4EDF-B402-6AEAD1A58BA7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Australian dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

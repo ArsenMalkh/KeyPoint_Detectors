@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374238" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAE8F49E7-9E19-40D3-818C-CFF872139D65">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode83903A66-FF75-491D-9A46-D0195D34B525">
+		<Aux:document_text xml:lang="en-US">Following the concept of "shop, dine, live, work and play", Centrio Mall occupies 3.7 hectares in the city's central business district. It is also across the road from Gaisano City Mall and one block away from SM CDO Downtown Premier, as well as Limketkai Mall. Centrio Mall is owned by the Ayala Corporation and has an estimated cost of ₱5 billion. Centrio Mall The three-level mall (excluding the basement level that serves as a parking space) has a gross floor area of 4,000 m2 (43,000 sq ft) and 44,000 m2 (470,000 sq ft) for a gross leasable area. During the construction period, Ayala executives decided to preserve two old acacia trees, which are believed to be 60 years old. The mall's alfresco area was built around the two large trees, which became the foundation of its mini-park called Centrio Mall Garden. The indoor park has become the premier attraction and at the same time a children's playground, making the mall the first eco-friendly and child-friendly shopping destination in the city.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9E6EDB69-E93F-439F-91EA-22586BFF905F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAE8F49E7-9E19-40D3-818C-CFF872139D65"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD805F8A3-5AD8-4AD7-BCF4-5F0134E7B4D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAE8F49E7-9E19-40D3-818C-CFF872139D65"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode89530A45-F3EE-457B-A0C8-CF7F11FCFF0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAE8F49E7-9E19-40D3-818C-CFF872139D65"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

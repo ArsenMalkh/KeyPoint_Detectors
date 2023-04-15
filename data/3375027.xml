@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375027" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode373CEE1C-8D97-4B71-98D3-D9387C28480C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Dalasi</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">804000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5E701168-F005-45F1-8BA4-D0CB5C82D96C">
+		<Aux:document_text xml:lang="en-US">Inflation was brought down from 70% in 1985 to 10.9% in 1987 through the removal of subsidies in such areas as health and transport and through the judicious issue of treasury bills and strict limits to bank credits by the Central Bank. Between 1988 and 1989 alone, banks sold some 804 million Dalasi worth of foreign exchange to the public, a 55 % rise on the period 1987-88. Although the value of the Dalasi has fallen signifi­cantly, the gap between the official and parallel markets has almost dis­appeared. The civil service was pruned and brought down to a man­ageable size and a number of parasta­tale have been slated for sale.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF4784EEE-2071-4360-9666-9446B67C0CF3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode373CEE1C-8D97-4B71-98D3-D9387C28480C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5D4A00D7-D3AF-413E-82DA-3296413731FC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode373CEE1C-8D97-4B71-98D3-D9387C28480C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">804000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB498CD53-763B-4737-B1F4-FB8C9FD8041B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode373CEE1C-8D97-4B71-98D3-D9387C28480C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Dalasi</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

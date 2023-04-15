@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375714" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2E99E846-3E54-4CAF-AD25-AA6AB6644096">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode66614485-D3CC-4242-A7BD-90BDD08BD089">
+		<Aux:document_text xml:lang="en-US">Obesity due to both unhealthy foods and physical inactivity is also increasing in the developing world, especially in the Middle East, the Pacific Islands, and Latin America and the Caribbean where many countries are experiencing obesity rates above 20 percent for males and more than 40 percent for females. Obtaining licenses and lack of coordination among regulatory agencies in the US lead to delays in up to 30% of chemical shipments for one company – each late shipment costs US$ 60,000 per day. Obtaining the highest credit rating possible is a testament to IDA’s exceptionally strong financial position, underpinned by the strength of support from its members, its governance structure, and critical role in achieving the ambitious global development agenda.” Obviously, Jamaicans are not the only ones working to exploit this "sea" of possibilities.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode43813415-6333-492C-8F6B-63D625A4EA02">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">482</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E99E846-3E54-4CAF-AD25-AA6AB6644096"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAD036F55-1A5A-40E8-B0B0-12F89FDBC783">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">482</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E99E846-3E54-4CAF-AD25-AA6AB6644096"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC64DE924-3835-4BAE-A1B7-8097373FD00B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E99E846-3E54-4CAF-AD25-AA6AB6644096"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

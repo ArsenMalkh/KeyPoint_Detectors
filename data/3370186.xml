@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370186" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode015BAAEC-F116-4D81-A6C5-2AB7762B1D69">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">90</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode04C84B6C-4C89-4487-B748-8BD0ECBEA277">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Nepalese rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">6360</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7FAB7C28-C25C-4148-B0CB-5EB4979DCAE7">
+		<Aux:document_text xml:lang="en-US">The median age of the infants was four months (interquartile range, 4 months). One hundred and twenty two (50.8%) infants were males and 118 (49.2%) were females. The median age of the mothers was 24 years (interquartile range, 7 years). The majority of the mothers were Hindus (196, 81.7%) followed by Buddhists (33, 13.8%). Ninety three (38.8%) respondents were illiterate and only 53 mothers (13.7%) had education of high school and above. The mean monthly family income was 6360 Nepalese rupees (Approximately 90 USD). Antenatal care and past obstetric performance of the respondents Out of the 240 mothers interviewed, 73 (30.4%) had not gone for any antenatal visit and only 25 (10.4%) mothers had at least four antenatal visits as recommended by the National Safe Motherhood Program of Nepal. The majority of women received antenatal care from the publicly funded Western Regional Hospital, Pokhara. Seventy (29.2%) mothers did not receive tetanus toxoid vaccine during their previous pregnancy and 86 (35.8%) received two doses of tetanus toxoid as recommended by the National Safe Motherhood Program. Of the 173 multiparous women, 148 (85.5%) had delivered at home at least once before. Only 55 mothers (24.6%) had at least one institutional delivery in the past. Seven mothers reported of having had a still birth (2.9%), 16 a neonatal death (6.7%) and four a post-neonatal death (1.7%) after their previous home deliveries.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8EDCA57D-8D13-4508-81E8-0CFEEE00CC7F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">478</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04C84B6C-4C89-4487-B748-8BD0ECBEA277"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC943271A-1533-41EE-A6F6-D36FB8F74CBF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">478</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">482</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04C84B6C-4C89-4487-B748-8BD0ECBEA277"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">6360</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD6E940DF-D368-432D-9CB6-BC49D288F256">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">483</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04C84B6C-4C89-4487-B748-8BD0ECBEA277"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Nepalese rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode96E5C970-73C0-408C-9A60-68A6614AF1AB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">520</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode015BAAEC-F116-4D81-A6C5-2AB7762B1D69"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode05E57FB2-F0FB-4A19-8B6F-7648DCD5DA93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode015BAAEC-F116-4D81-A6C5-2AB7762B1D69"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">90</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBDC491E5-4881-4598-A092-17C6DCAB87C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">520</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode015BAAEC-F116-4D81-A6C5-2AB7762B1D69"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

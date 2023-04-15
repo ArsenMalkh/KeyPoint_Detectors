@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3369797" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode016E1AB5-940A-4955-BCCA-E1D5A84B5247">
+		<BasicEntity:ms_major_currency xml:lang="en-US">AZN</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">0.7</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2A42D51B-5F7E-472C-817A-BB6BF1B65E7A">
+		<Aux:document_text xml:lang="en-US">Aiming its subscribers to keep up with the modern technologies, Azercell is to offer different discount tariff packages to ensure everybody’s using the new service.  The service user will be able to choose their preferred package.  For example, the postpaid subscribers using MobilMail service will pay AZN 0,70 per each 1Mb without any permanent monthly payment for GPRS/EDGE. The prepaid subscribers are to pay 1 contour per each 5 KB.  The information on ways of joining to the service and tariffs are available on the web site of the Azercell Telecom JV on www.azercell.com</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode31643A89-0F5C-43DD-ABE0-D34EBF5AF2CD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode016E1AB5-940A-4955-BCCA-E1D5A84B5247"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCB780D4E-1443-406A-8512-19BD380D2902">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode016E1AB5-940A-4955-BCCA-E1D5A84B5247"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">AZN</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD17A33FB-6C55-4FF2-82DC-8C982BBE3F31">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode016E1AB5-940A-4955-BCCA-E1D5A84B5247"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">0.7</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

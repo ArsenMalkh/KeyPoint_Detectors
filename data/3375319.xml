@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375319" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3AFD9DB0-9DCF-4BA7-86A6-FC295886C4E3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">manats</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">176500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD901869F-4530-4D9C-B437-6E6A102FDA32">
+		<Aux:document_text xml:lang="en-US">Economy Finance Market of non-life insurance increased by 13.2%  Market of non-life insurance increased by 13.2% 23 July, 2015  17:19  Baku. 23 July. REPORT.AZ/ During the first half of the year 176 500 000 manats, or 72.8% of premiums in Azerbaijan accounted for non-life insurance. According to the Report, chairman of Azerbaijan Insurers Association (ASA) Orkhan Bayramov said. According to ASA, the market non-life insurance increased by 13.2% in comparison with the same period in 2014.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60BF5E1B-B376-449E-A40F-F5AB3C352654">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3AFD9DB0-9DCF-4BA7-86A6-FC295886C4E3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode79F97E26-3AC1-4B7B-8785-0E4CD3AEDC7B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3AFD9DB0-9DCF-4BA7-86A6-FC295886C4E3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">176500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3F790677-1082-4A9B-AB3B-86A5019FB2D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3AFD9DB0-9DCF-4BA7-86A6-FC295886C4E3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">manats</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

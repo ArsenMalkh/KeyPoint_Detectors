@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370171" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7B48DFA9-366E-4BAE-B0C4-851C11D7BF54">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CFA francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">250000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode48074B40-3AAE-4C53-BA5A-BC0243D87397">
+		<Aux:document_text xml:lang="en-US">That is one of the main concerns of the Government, whose development programme is designed to curb the illicit circulation of more than 42,000 arms and to reintegrate more than 25,000 excombatants in order to consolidate the restored peace. In that context, a Government-financed emergency programme for demobilization and reintegration of excombatants was carried out in the Department of Pool from June to August 2005, costing a total of 250 million CFA francs.  That has made it possible to collect and destroy 910 small arms and 3,682 items of ammunition, and to reintegrate 450 excombatants.  My Government intends to continue its efforts by shortly launching disarmament, demobilization and reintegration programmes for excombatants with the support of the European Union, the International Monetary Fund and the World Bank, and with help from other bilateral and multilateral partners.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCC7CA6A9-FE01-44AE-B096-CD83025F9E41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7B48DFA9-366E-4BAE-B0C4-851C11D7BF54"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0D4AD14C-AC60-4D1E-80FF-B1828D632163">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7B48DFA9-366E-4BAE-B0C4-851C11D7BF54"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">250000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAA7DECB7-694D-46CF-BB25-DAF9D7EFE2BE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">453</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7B48DFA9-366E-4BAE-B0C4-851C11D7BF54"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CFA francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

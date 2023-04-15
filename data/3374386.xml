@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374386" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8C9289B8-8A75-49FB-8BB6-468222BB1F4B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">18300000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB8A09138-CC99-4DED-8241-1397F1F9BDFE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Jordanian dinars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEB9BABD0-E5D1-4EDE-9F87-399079F085B6">
+		<Aux:document_text xml:lang="en-US">Jordan's Scientific Research Support Fund was revived in 2010 after being instituted in 2006. Administered by the Ministry of Higher Education and Scientific Research, it finances investment in human resources and infrastructure through competitive research grants related to ecological water management and technological applications. The fund backs entrepreneurial ventures and helps Jordanian companies to solve technical problems; it also encourages private bodies to allocate resources for R&amp;D and provides university students with scholarships based on merit. So far, the fund has provided 13 million Jordanian dinars (circa US$18.3 million) to finance R&amp;D projects in Jordan, 70% of which has been used to fund projects in energy, water and health care. Fund for Scientific Research and Vocational Training The revamped Scientific Research Support Fund is also intended to streamline the activities supported by the Fund for Scientific Research and Vocational Training (est. 1997). This fund was launched partly to ensure that all public shareholding Jordanian companies either spent 1% of their net profits on research or vocational training within their own structure or paid an equivalent amount into the fund for redistribution for the same purpose. The problem was that the definition of what constituted research and vocational training was too broad. As a result, new regulations were adopted in 2010 to clarify the terms and provide for the collection of the 1% to be spent on research and development.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4790FD86-81B6-4E02-9A6E-A393605BCA9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8A09138-CC99-4DED-8241-1397F1F9BDFE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB7D43322-E6F3-4CE5-BED4-4E16FCF63C67">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8A09138-CC99-4DED-8241-1397F1F9BDFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode753DBD23-DA8C-4F14-B33E-3F03D7E84D40">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">607</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8A09138-CC99-4DED-8241-1397F1F9BDFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Jordanian dinars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3871A1DB-67C8-4D19-ACB8-1EDDC7A0EC4E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8C9289B8-8A75-49FB-8BB6-468222BB1F4B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B51AC8D-A39D-4C91-9A43-9D4ED56E1E3C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8C9289B8-8A75-49FB-8BB6-468222BB1F4B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8A9964A3-D7DA-48F9-B099-AB47815F3A83">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8C9289B8-8A75-49FB-8BB6-468222BB1F4B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">18300000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

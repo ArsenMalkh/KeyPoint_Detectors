@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370174" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7CEC4FDD-9D93-4C94-9681-CD64CCD9AF99">
+		<BasicEntity:ms_major_currency xml:lang="en-US">NT $</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">33.8</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode73D23C0A-05DD-4146-B790-073F4BEF76F1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US $</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode907B5D59-0A5C-459F-B025-54C2675616FC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US $</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode41D8DA87-F09C-4C29-8042-EBC116EA0D0E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US $</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1.5</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAFB694C2-2AE8-4558-B7F2-E57BCE2F145E">
+		<Aux:document_text xml:lang="en-US">Medical care expenses are reimbursed by the BNHI in Taiwan. The co-payment data (10% co-payments for hospitalized patients and US $1.5–3.0 for outpatients) are listed in the BNHI database along with reimbursement data and were included in our medical cost estimation. Nationwide total medical costs attributable to rotavirus infections in 2001 were estimated by multiplying the average BNHI reimbursements per AGE patient with the estimated annual case numbers of rotavirus infections. The monetary values in New Taiwan dollars (NT $) were converted into United States dollars (US $) based on the average exchange rate in 2001 (1 US $ = 33.8 NT $). The study was approved by the Clinical Research Ethics Committee of the National Taiwan University Hospital. Results National Health Insurance System Data The nationwide case numbers of acute gastroenteritis (AGE) derived from the BNHI database is shown in Table 1. There were a total of 2,829,740 pediatric patient visits due to AGE, including 2,750,500 (97.2%) in the ambulatory and 79,240 (2.8%) in the inpatient sector in Taiwan in 2001. The majority of AGE occurred in children &lt;5 years old, with this age group accounting for 62.0% (1,704,000/2,750,500) and 83.6% (66,260/79,240) of pediatric outpatients and inpatients with AGE, respectively. However, most of the AGE cases were not coded for a specific etiologic agent. Instead, the most common codes reported were "Other and unspecified noninfectious gastroenteritis and colitis" (ICD-9-CM 558.9) and "Ill-defined intestinal infections" (ICD-9-CM 009). These two codes together accounted for 95.3% [(836,500+1,783,500)/2,750,500] of outpatients and 82.0% [(9,500+55,460)/79,240] of inpatients with AGE related diagnoses</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF26DD412-02F8-432A-AC22-ECBB8454DA6F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode41D8DA87-F09C-4C29-8042-EBC116EA0D0E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode75E34ADB-5E4F-44DE-A07A-9431E2CB6C54">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode907B5D59-0A5C-459F-B025-54C2675616FC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US $</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60334F18-19CC-4FFE-BAA6-354FEEC347C4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode907B5D59-0A5C-459F-B025-54C2675616FC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8AF1042A-839A-427A-9F2E-77EF101E9AA2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode41D8DA87-F09C-4C29-8042-EBC116EA0D0E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US $</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD9A8A0AA-3B3F-4095-9FCC-F956F446A67C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode41D8DA87-F09C-4C29-8042-EBC116EA0D0E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1.5</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4F14EC2B-15AE-459D-B0DB-67D8C34CFF67">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode907B5D59-0A5C-459F-B025-54C2675616FC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1B7EC676-9817-4AB1-8881-440F12F4262A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode907B5D59-0A5C-459F-B025-54C2675616FC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B5A3443-9ED3-40C4-9BAF-0E0E9FE083F5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">628</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73D23C0A-05DD-4146-B790-073F4BEF76F1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5918130B-32A8-4CF5-9E20-A9031562F6C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">628</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73D23C0A-05DD-4146-B790-073F4BEF76F1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode818953A2-B03D-4F55-AEA1-001452DEE5CF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73D23C0A-05DD-4146-B790-073F4BEF76F1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US $</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode85425F51-BBB5-478F-B866-26990A40339A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">637</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7CEC4FDD-9D93-4C94-9681-CD64CCD9AF99"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">33.8</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode34E3D3A8-2D74-4C34-AAAE-FB8CFED47A5D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">637</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7CEC4FDD-9D93-4C94-9681-CD64CCD9AF99"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD53B29F7-E31E-434C-A51F-11B22B4E3996">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7CEC4FDD-9D93-4C94-9681-CD64CCD9AF99"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">NT $</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376299" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode0E5671CE-3384-46B1-9173-99B4064CFC62">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CA$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8600</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA74C22D3-DAEF-4B7A-9280-C8444EE4ACC9">
+		<Aux:document_text xml:lang="en-US">Just eight days after the song's release online in 2015, Lamar's record label Top Dawg Entertainment demanded the track be taken down on grounds of copyright infringement. Emile disputed this with YouTube and SoundCloud who had both withdrawn the song, clarifying to Billboard that his camp "paid Kendrick Lamar for a feature, and once we paid them, they basically stopped communicating with us altogether." The song was restored on the two platforms two months after its removal. As a result of the song's removal, Emile sued Top Dawg Entertainment, Interscope and Universal Music Group. In November 2016, he was awarded CA$8,600 plus five percent yearly interest after a Quebec court ruled that Top Dawg Entertainment had wrongfully pulled "Heaven Help Dem" off the internet. The court determined that Emile had suffered financially, while his reputation also suffered due to the insinuation that his use of Lamar's verse was a copyright violation. Emile declared that the verdict was a matter of vindication of what is right and not a monetary issue. Following further legal threats by Lamar's management, Emile penned an open letter to Lamar on the matter in March 2017.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8DC96074-0726-44F1-9A0C-72E8C9F35016">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">622</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0E5671CE-3384-46B1-9173-99B4064CFC62"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6DCF3458-8213-4356-A7A3-204CDDF7B02D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">622</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">625</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0E5671CE-3384-46B1-9173-99B4064CFC62"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CA$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0EC3747C-5F0B-47C7-B38B-AB1441C6475F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">625</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0E5671CE-3384-46B1-9173-99B4064CFC62"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8600</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374447" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1EA6C417-43D8-476F-B4DD-626B91A68581">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Vietnamese dong</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode62183F89-1646-4ED1-977B-CE0217FE0B0D">
+		<Aux:document_text xml:lang="en-US">Monkey meat has been historically seen as a delicacy in select areas of Japan including Hongū and Nagano, though current consumption is extremely rare at best. A Nagano proverb reads, "Don't feed your wife autumn monkey – to do so would be to waste a fine-tasting delicacy". A myriad of health benefits are said to be derived from the consumption of monkey meat, and, for instance, Japanese women allegedly consume monkey meat after childbirth to regain their vigour. Vietnam In September 2015, a red-shanked douc was killed live at a Vietnamese eatery in Vu Quang. The carcass was reportedly sold for two million Vietnamese dong. Risks The consumption of monkey meat may be detrimental to one's health. An August 1992 study published in the Journal of Tropical Medicine Hygiene reported nine cases of salmonellosis attributed to monkey meat consumption. In popular culture In World War I, a French combat ration consisting of Argentine beef and carrots was dubbed "monkey meat" and is written to have been very salty in taste and poorly-received. Virtually all variants of the American children's playground song "Great Green Gobs of Greasy, Grimy Gopher Guts" contain the lyrics "mutilated monkey meat".</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode018DD470-7D52-4250-ACA0-97FAFA35F7C8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1EA6C417-43D8-476F-B4DD-626B91A68581"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF13DDF9C-B23D-4FD3-8893-58EA05006DBF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1EA6C417-43D8-476F-B4DD-626B91A68581"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD4DCA316-4536-431D-A7C5-282C5BEB07C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1EA6C417-43D8-476F-B4DD-626B91A68581"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Vietnamese dong</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

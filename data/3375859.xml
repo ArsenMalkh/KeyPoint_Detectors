@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375859" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF787947C-88DF-4E06-AABC-F219775A1521">
+		<BasicEntity:ms_major_currency xml:lang="en-US">drachmas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode6DD7C360-F629-4259-8170-B2CAFF4EFF16">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Greek Drachmas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">42000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode91C0C8F3-E4B4-4054-985B-806CC2C42EE2">
+		<Aux:document_text xml:lang="en-US">On January 24, 1981, Ionikos Nikaias, led by a 22-year-old Giannakis, played against Aris Thessaloniki, which was led by Nikos Galis. Aris won in a tight game, by a score of 113–114. The game is memorable in the history of Greek pro club basketball, because in the game, Giannakis scored 73 points, and Galis scored 62 points, achieving the 2nd and 4th most points scored in a single game of the Greek League basketball championship. In 1982, Giannakis was selected by the Boston Celtics, with the 205th pick of the 1982 NBA draft. Aris Thessaloniki On August 3, 1984, Giannakis transferred to the Greek club Aris Thessaloniki, after the club paid a transfer fee contract buyout to Ionikos Nikaias for his player rights, in the amount of 42 million Greek Drachmas, which was considered a huge amount of money for a transfer buyout at that time. Giannakis also personally received a BMW car, a sporting goods store, and 8 million drachmas from Aris. With Aris, Giannakis teamed up with Nikos Galis, to form one half of an historic "tag-team" that took Greek and European basketball by storm for the years to come.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode37597266-65C5-475A-9A03-6911A55ADBD3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">763</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6DD7C360-F629-4259-8170-B2CAFF4EFF16"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCE5A3059-7946-455D-9DE5-732BC0816628">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">748</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6DD7C360-F629-4259-8170-B2CAFF4EFF16"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">42000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE7A72BCA-F6B4-4A4A-9B58-12F97BDE8B22">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">763</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6DD7C360-F629-4259-8170-B2CAFF4EFF16"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Greek Drachmas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBA54D4CA-0DE8-4506-9707-0E439F8B727F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">919</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF787947C-88DF-4E06-AABC-F219775A1521"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA4CF078A-4F7D-4DE8-BC6E-EC090C70E124">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">919</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">928</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF787947C-88DF-4E06-AABC-F219775A1521"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8E3FFECD-4AFD-4BFD-860B-EE53D7C77CB6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">929</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF787947C-88DF-4E06-AABC-F219775A1521"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">drachmas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

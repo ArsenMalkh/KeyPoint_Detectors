@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374049" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2B49A942-F5F5-4C7E-8291-677A57C39F16">
+		<BasicEntity:ms_major_amount_bracketed xml:lang="en-US">3000000</BasicEntity:ms_major_amount_bracketed>
+		<BasicEntity:ms_major_currency xml:lang="en-US">Indian rupee</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5769A053-C3EE-4593-9774-C622275106DA">
+		<Aux:document_text xml:lang="en-US">Shwas (Marathi: श्वास, The Breath) is a Marathi film, released in 2004. It was India's official entry to the 2004 Oscars and was ranked 6th in the Academy Award for Best Foreign Language Film category. Its storyline is based on a real-life incident in Pune. A low-budget of Indian rupee 30 lakhs (3 million), Shwaas won the National Award for best film in 2004, nearly 50 years since a Marathi film (Shyamchi Aai) last earned this title. Directed by debutant Sandeep Sawant, it was shot in 30 days at Sindhudurg, Konkan, Pune and at KEM Hospital in Mumbai. The post-production took one and half years to complete. Shwaas was acknowledged as a "significant turn for Marathi cinema" which had been going through a low patch. After its success, it was released in Hindi, Bengali and Tamil languages.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6644CB11-8480-4C45-9D90-DFB768F2EC6B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B49A942-F5F5-4C7E-8291-677A57C39F16"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE11197E5-21A9-4DF1-BAD0-364B1DCF006F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B49A942-F5F5-4C7E-8291-677A57C39F16"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Indian rupee</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode66B248C1-DDB0-448A-B7F0-259EABAC5727">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B49A942-F5F5-4C7E-8291-677A57C39F16"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA77ABDA4-7B18-462B-96DE-511D0E040371">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B49A942-F5F5-4C7E-8291-677A57C39F16"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount_bracketed</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

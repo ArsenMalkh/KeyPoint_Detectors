@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371884" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA052C853-3C02-4229-8C72-5D03E7D6BD79">
+		<BasicEntity:ms_major_currency xml:lang="en-US">manats</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9F0E571B-4C75-45DE-91A2-2869ABB4F68D">
+		<Aux:document_text xml:lang="en-US">In the department of public relations SSC they told Turan that training for their employees conducted by specialists of the financial supervision authority of Germany - Bundesanstalt fur Finanzdienstleistungsaufsicht-da (BaFin). The training was organized by the twinning project, which is being implemented in cooperation with the Polish Financial Supervision Agency and the BaFin. The aim of this project is to bring the institutional, legal and regulatory framework for the securities market in Azerbaijan in line with EU standards, as well as raising awareness of participants of the securities market. AR Law "On Investment projects" was adopted in December 2010. The minimum capital requirement for investment funds is 500 000 manats. - 08D-        </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8FDEC6D8-2D48-4796-9261-04F004002ED9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA052C853-3C02-4229-8C72-5D03E7D6BD79"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2C252F9C-A859-4831-BD10-93DEF8CF8D7D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA052C853-3C02-4229-8C72-5D03E7D6BD79"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB17E6B1C-3F27-40F1-B0EB-85A1B93DE751">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA052C853-3C02-4229-8C72-5D03E7D6BD79"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">manats</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

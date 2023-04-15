@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370529" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE12C4528-83CB-4871-A90D-4AC7C98B2CF4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CZK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE628D59B-549D-4624-8CF2-A3B9204E0018">
+		<Aux:document_text xml:lang="en-US">In the Czech Republic, the newspapers, and magazines of Ringier Axel Springer Media - the leading publishing house in that country - successfully defended their strong market positions. In the first quarter of 2011, the magazines REFLEX and ABC each published a 3-D issue, thereby boosting their paid circulation numbers considerably. The mass-circulation dailies BLESK and AHA! were the only daily newspapers in that country's market to raise their copy prices; by raising their copy price by 11.1 % to CZK 10.00, they were able to offset the effects of circulation declines. Axel Springer's titles in Slovakia were not entirely immune to the adverse trends of the market environment, but they maintained their very good positions despite weakening demand in the advertising market. With an average paid circulation of 137.5 thousand copies, NOVY CAS defended its leading position in the newspaper market.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC7202D1E-17EE-4C69-A358-6D4A5299FD4B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE12C4528-83CB-4871-A90D-4AC7C98B2CF4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode34D00D88-39D2-4559-97CB-F36C79D64DD0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE12C4528-83CB-4871-A90D-4AC7C98B2CF4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CZK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode097ADC89-31E1-4C7A-8B62-A7D5FB9CE39D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">508</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE12C4528-83CB-4871-A90D-4AC7C98B2CF4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

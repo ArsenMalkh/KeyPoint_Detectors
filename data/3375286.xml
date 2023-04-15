@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375286" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode12D62C40-5C29-4620-875B-88029200B73F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ruble</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5970B58D-947B-4500-8ADC-43D126C5318F">
+		<Aux:document_text xml:lang="en-US">Slusar recently told Russian press that "from the point of view of the company's business, 2015 will see dramatic changes." The new company head also remains firmly grounded in his expectations however, noting that in addition to the new hires, it would be necessary "to reduce costs in each of the company's holdings," noting that under present economic conditions "there can be no other way." Some of the new cadre will doubtlessly be hired for civil and military aviation manufacturer Tupolev's new 500 million ruble 3D Design Center. When finished later this year, the new design center will be one of the largest and most advanced in Russia. In the civil aviation sphere, UAC is working on three prospective, completely new designs, including a wide-body 250-300 passenger project in cooperation with the Chinese company COMAC, set to be ready for production by 2025. The second project is the MC-21, an ambitious 212 passenger plane. Late last month, Russian Deputy Prime Minister Dmitri Rogozin voiced hopes that Russia could sell up to 1,000 of the aircraft by 2020. Finally, there is the Sukhoi Superjet 100, already in production. The company produced 37 of the airliners last year, and Sukhoi plans to sell 44 of the 108 passenger regional jet. Russia's Aeroflot has recently signed a contract to purchase another 20 of the aircraft, which would bring their order so far to a total 50 planes. Sukhoi continues to tinker new modifications and upgrades for the commercially successful plane, including a project to extend the plane's range to up to 8,000 kilometers via increased fuel capacity</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF623E182-48D6-4E1C-AE6C-6C0607DA601B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12D62C40-5C29-4620-875B-88029200B73F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA6D70958-21F2-48CF-AEA7-F5B0ED4F63A0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12D62C40-5C29-4620-875B-88029200B73F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCEE58D8F-F82E-4939-9FB2-1B6263AEFE84">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12D62C40-5C29-4620-875B-88029200B73F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ruble</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

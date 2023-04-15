@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370316" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5E792C72-6969-456B-9301-AFFD8E85F53C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">KZT</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3900000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5AEB2BF9-71BE-4891-8659-DA808478C52F">
+		<Aux:document_text xml:lang="en-US">Governor of the West Kazakhstan Oblast, Mr. B. Izmukhambetov, sent a letter to the Chairman of the Board of the JSC NC KazMunayGas expressing the gratitude for financial aid delivered to those hit by the spring flood. "Financial aid of the National Company KazMunayGas in the amount of KZT 3.9 billion is a great support to the West Kazakhstan Oblast in this hard period. The aid of the National Company KazMunayGas and its affiliates - JSC Exploration Production KazMunayGas, JSC KazTransOil, JSC KazTransGas - is a commendable input in fixing the consequences of such disastrous flooding. Your financial aid, first of all, demonstrates your moral support to the residents of our Oblast who suffered from the disaster. People believe that the government will make every effort to resolve the situation as soon as possible." - tells the letter.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0FFFD9BC-09F5-4472-807C-B5FA6C6F518A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5E792C72-6969-456B-9301-AFFD8E85F53C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode55850D06-24A2-4F55-9104-0E56336ECAA7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5E792C72-6969-456B-9301-AFFD8E85F53C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">KZT</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3F68AE05-40E3-4344-949A-48BB897182BF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5E792C72-6969-456B-9301-AFFD8E85F53C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3900000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

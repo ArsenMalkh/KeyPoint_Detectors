@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374370" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC250FE17-1C27-466E-8520-E1EC7539A306">
+		<BasicEntity:ms_major_currency xml:lang="en-US">baht</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">18000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode556FC5CC-F873-47DA-B1F0-496B34F27135">
+		<Aux:document_text xml:lang="en-US">70% of tourism to Northern Thailand is to see the hill tribes and the conversion of hill tribes to Christianity has discouraged tourists as they lose parts of their traditional culture. Tourists are stunned by the villages that center around a church as this does not fit in their perception of the hill tribe people. However, even with the influx of Christianity they maintain certain traditions such as Akha wear, dancing, herbal medicinal beliefs and language. Ahka Churches in Thailand Association The Ahka Churches in the Thailand Association is an association consisting of 49 villages, 565 families and 5850 people. It aims to fund for pastors for each village, at 18,000 baht a year they are unaffordable for the villagers themselves. The ACT was formed in 1956 by a Christian Burmese Priest named Sala Yaju. With donations from Europe, the Americas, and Christian Ahkas, a tribal center was established in Chiang Rai in 1989 where educational trainings are held in the local Ahka language to educate village church leaders and children. Children are fed and housed and village leaders are expected to share knowledge about biblical matters back in their village.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode830DFF2E-0E9F-46F2-8D57-16EEE6174E18">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">672</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC250FE17-1C27-466E-8520-E1EC7539A306"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5EA56F0A-282D-4FDA-BBB6-6DBC2CA364DA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">672</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC250FE17-1C27-466E-8520-E1EC7539A306"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">18000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0B4A39FD-5F55-4C10-B217-F766B1DAD59B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">679</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC250FE17-1C27-466E-8520-E1EC7539A306"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">baht</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

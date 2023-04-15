@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374540" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8DF8E6E9-79FD-47DD-A677-00AFA5066A70">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">30000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode81222600-80E9-4F1F-9222-84B897CB9664">
+		<Aux:document_text xml:lang="en-US">Bridgetowne is a redevelopment of several former industrial properties along the Marikina River in Rosario and Ugong Norte. The eight-hectare Quezon City property was acquired by Robinsons Land in 2011, two hectares of which was purchased from Republic Glass Holdings Corp. which operated a glass manufacturing facility at the location. In April 2013, Robinsons Land announced a ₱30 billion business park development for the property, its second after the Robinsons Cybergate development. The company topped off its first office building in the eight-hectare Bridgetowne Business Park in Quezon City, the 20-storey Tera Tower, in November 2014. On September 5, 2019, the business park was rebranded as simply Bridgetowne, Robinsons Land's first township in the country, now covering 30.61 hectares. The 200-meter long Bridgetowne Bridge also opened to the public linking its Quezon City IT park component to the new 22.56-hectare Pasig redevelopment site added to the township. The Pasig property covers the former Rosario Plant, a food processing plant of JG Summit subsidiary Universal Robina, and Litton Knitting Mills, a 7-hectare (17-acre) textile manufacturing complex which stood at the site since 1954 and which JG Summit purchased in the 1970s.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56522241-8BF5-4883-9EC4-368AFED3C6E6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8DF8E6E9-79FD-47DD-A677-00AFA5066A70"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA48A66AC-A10A-4A41-B55A-4EA49E333F4F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">380</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8DF8E6E9-79FD-47DD-A677-00AFA5066A70"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode88D0CF45-1B81-48AB-A182-578BD691056B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">380</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8DF8E6E9-79FD-47DD-A677-00AFA5066A70"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">30000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

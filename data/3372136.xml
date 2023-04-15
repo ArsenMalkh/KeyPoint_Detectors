@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372136" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode45AF35A7-2BF7-4156-8E0D-83E88811A994">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">7600000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1066ECA3-827F-4B8F-A8DC-6C7BAEC72AFE">
+		<Aux:document_text xml:lang="en-US">Very humbly, Julien says “I am basically the webmaster.” But he is more than that! Of Julien, Mark Ferris remarked, “He has done extraordinary work for the Foundation, especially as relates to our website. Julien has had a major hand in developing an online registration system (so we can track people who register for our events), our newsletter distribution (which reaches just short of 10,000 people) and the pledging system for the Tokyo Shine On! Marathon Challenge which enabled us to raise around Yen 7.6 million. He has also supported our events in the critical ‘back office’ ensuring our guests are well taken care of. Amazingly he gets all of this done in addition to his ‘main job’ which is also pretty demanding!” We are sad to bid au revoir to Julien as he prepares to return to his homeland in France. “I was born in Brittany, France, and grew up between in a small city and the cozy country-side around the Mont Saint-Michel and Saint-Malo. I did part of my studies in Avignon, then worked in various places in Europe and Canada. I came to Japan 3 years ago to be with my fiance who was finishing her studies here.” His roots in smaller communities where neighborhoods are tight-knit and people know your face and even your name at the grocery store drew him to live in Saitama despite a bit of a long commute</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD3089E9A-A3E0-4B0A-A8F1-905430F10D7E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode45AF35A7-2BF7-4156-8E0D-83E88811A994"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCB75149D-693D-4507-809D-E318E0FE9AED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode45AF35A7-2BF7-4156-8E0D-83E88811A994"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode574BE00E-4326-4BC2-818F-14FCF05EB616">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">508</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">519</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode45AF35A7-2BF7-4156-8E0D-83E88811A994"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">7600000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371640" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB6981F37-BF65-48B4-B31B-8723D725A6B6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Russian rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">43</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD7FBFEBE-89BA-4EF8-8272-6AC3B8E9D768">
+		<Aux:document_text xml:lang="en-US">Belarus demands from Russia to pay in dollars for supplied milk  The price of Belarus-produced dairy products will be set based on the exchanged rate of 43 Russian rubles per US dollar.  26.12.2014 - 16:48 Euroradio    Belarus has communicated to the Russian Ministry of Agriculture a projected target of milk and dairy products supplies in 2015, reports the Russian newspaper Izvestia. Belarusian producers have put US dollars on the price tags of their dairy products calculated at the exchange rate of 43 Russian rubles per US dollar. Russian dairy traders report that Belarus' Ministry of Agriculture and Food priced its dairy products in dollars already on December 3. However, payments are still being made ion Russian rubles.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode10D4832D-1C49-4D6C-8C77-EF7BC620C5C8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6981F37-BF65-48B4-B31B-8723D725A6B6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0992778D-4BFA-4D9A-971B-F1FA2ED95201">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6981F37-BF65-48B4-B31B-8723D725A6B6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">43</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5DD2CF6F-2031-4FD7-BAE8-484CE58DD8B7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB6981F37-BF65-48B4-B31B-8723D725A6B6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Russian rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

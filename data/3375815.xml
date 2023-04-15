@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375815" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDB65F5FA-671C-4020-A418-2D69719818D0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">DKK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">250</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFAD59E60-4037-4AC8-B29B-C89035D4D89B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">DKK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5764D0FF-8793-488A-A9D7-2FDC725E3816">
+		<Aux:document_text xml:lang="en-US">At one prominent California sperm bank for example, TSBC, donors receive roughly $50 for each donation (ejaculation) which has acceptable motility/survival rates both at donation and at a test-thaw a couple of days later. Because of the requirement for the two-day celibacy period before donation, and geographical factors which usually require the donor to travel, it is not a viable way to earn a significant income—and is far less lucrative than selling human eggs. Some private donors may seek remuneration although others donate for altruistic reasons. According to the EU Tissue Directive donors in EU may only receive compensation, which is strictly limited to making good the expenses and inconveniences related to the donation. A survey among sperm donors in Cryos International Sperm bank showed that altruistic as well as financial motives were the main factors for becoming a donor. However, when the compensation was increased 100% in 2004 (to DKK 500) it had no significant impact on either the numbers of new donor candidates coming in or the frequency of donations from the existing donors. When the compensation was reduced to the previous level (DKK 250) again one year later in 2005 there was no effect either. This led to the assumption that altruism is the main motive and that financial compensation is secondary.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode915D55A4-DDB4-4D2E-B9E3-AD2FE9CE2261">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">964</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFAD59E60-4037-4AC8-B29B-C89035D4D89B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode01CDDEB3-6DEE-4C04-87EF-B382848F12C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">960</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFAD59E60-4037-4AC8-B29B-C89035D4D89B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">DKK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB3253CF0-656B-4D05-B6F5-14A88CE7BAA1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">961</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">964</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFAD59E60-4037-4AC8-B29B-C89035D4D89B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4F73C3C1-1F2A-40D3-8B72-3D604A6954B9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1164</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1171</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB65F5FA-671C-4020-A418-2D69719818D0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9CECBA61-1D75-4CD4-A155-E56652E4B133">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1164</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1167</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB65F5FA-671C-4020-A418-2D69719818D0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">DKK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode552CD81C-6B78-4CB8-852E-155F88AE3F93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1168</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1171</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB65F5FA-671C-4020-A418-2D69719818D0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">250</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

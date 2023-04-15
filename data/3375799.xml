@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375799" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode973FCF1D-7E6A-464D-9E42-A5C91F12A021">
+		<BasicEntity:ms_major_currency xml:lang="en-US">IDR</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">190512000000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1D609AD4-4714-42D7-A386-6578828A1742">
+		<Aux:document_text xml:lang="en-US">On 14 November 1995, Telkom became a privatised company when shares went on sale through an initial public offering on the Jakarta Stock Exchange and the Surabaya Stock Exchange (which merged in December 2007 to become the Indonesia Stock Exchange). Telkom's shares are also listed on the NYSE and the LSE in the form of American Depositary Shares (ADSs), and were publicly offered without listing on the Tokyo Stock Exchange. Telkom is now the largest company by market capitalisation in Indonesia, with a market capitalisation of approximately IDR 190,512 trillion as of 31 December 2009. The Government retains an aggregate interest of 51.19% of the issued and outstanding shares of Telkom. The Government also holds one Dwiwarna, or golden share. In mid-1997, Indonesia was badly affected by the Asian economic crisis. Among those impacted were certain KSO partners, who experienced difficulties in fulfilling their obligations to Telkom. Telkom eventually acquired control of its KSO partners in Regions I, III and VI, and amended the terms of the KSO agreements with its KSO partners in Regions IV and VII to obtain legal rights to control the financial and operating decisions of those regions.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode98A9E02E-046C-4749-B2BE-3B80C159F4F2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode973FCF1D-7E6A-464D-9E42-A5C91F12A021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8463AEBA-B412-4978-A985-AD022EB50D8A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode973FCF1D-7E6A-464D-9E42-A5C91F12A021"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">IDR</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode355EF1D8-EFE9-4224-AC2C-9F2BB5F87BAD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">550</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode973FCF1D-7E6A-464D-9E42-A5C91F12A021"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">190512000000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

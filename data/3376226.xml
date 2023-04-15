@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376226" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode187C2426-6810-4E94-97E8-E830732D0859">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4C182B77-4F11-4386-B8DE-9F7CF033FC7D">
+		<Aux:document_text xml:lang="en-US">Whyte first entered business in a plant hire company, after which he moved into security, manufacturing and property. He bought the controlling interest in Rangers Football Club Plc from its then majority shareholder David Murray in May 2011, and subsequently put the club into administration in February 2012 and then liquidation in July 2012. Early life Born in Motherwell, Whyte was educated at Kelvinside Academy in Glasgow. When he was 15, Whyte took an interest in financial markets, and made more than £20,000 buying and selling shares before he left school. Business career Whyte's first job was with his father's plant hire firm, and in 1990 he set up his own plant-hire company. The company, Whyte Hire, was not a success and went bankrupt in the early 1990s with debts of around £300,000. Whyte recovered from this loss and branched out into security, manufacturing and property. In 1997, aged 26, he was Scotland's youngest self-made millionaire. After selling off most of his businesses, he moved to Monaco. When he moved back to the UK (to London), he became a venture capitalist. The London-based group he heads, Liberty Capital, specialises in buying distressed businesses, turning them around, and selling them on.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode964DD297-9851-46EF-B482-910A400DBA3D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">798</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode187C2426-6810-4E94-97E8-E830732D0859"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5CF9E51C-B8EE-44EB-907C-663964A62C7A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">791</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode187C2426-6810-4E94-97E8-E830732D0859"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD15E9A1B-EACC-4A3E-9BC1-0E3B60DC868E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">791</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">798</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode187C2426-6810-4E94-97E8-E830732D0859"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376238" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB66B0F4F-6D93-4E94-85E2-356761E283D1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Bahraini Dinars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE4EE5F81-3336-4DC0-8615-8AA03F35058D">
+		<Aux:document_text xml:lang="en-US">Alqudaishi's first trial was in a juvenile criminal court on 4 June 2012 and the second on 11 June. He was charged with "joining an illegal gathering" with nearly a dozen of people as well as other protest-related charges. On 11 June, three lawyers defended Alqudaishi in the trial which lasted for ten minutes and resulted in releasing him without bail. According to chief prosecutor, Alqudaishi pleaded guilty of the charges saying it was on his third attempt to block the street when he was arrested. She further claimed that Alqudaishi said he along with his friends were given three Bahraini Dinars (about $8) by "a man accused of stirring trouble". Khamees suggested that the accusations made against her client were not true because it is impossible for Alqudaishi to block a road with a garbage container because it is "so heavy that you would need two grown men to lift it". She confirmed Alqudaishi pleaded guilty, but according to her, he then added "a man told me in the investigation that I would be released immediately if I said I dropped trash in the street." Amnesty International stated that the boy "confessed because police promised to release him if he did".</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode47647C73-84D8-40AA-8F97-AABBCE155834">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">582</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB66B0F4F-6D93-4E94-85E2-356761E283D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode847BF74F-6B67-47D1-937C-AD9ED2A0C7A5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">582</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB66B0F4F-6D93-4E94-85E2-356761E283D1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB1A7D28B-958E-46E5-8F28-8BFE335452D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB66B0F4F-6D93-4E94-85E2-356761E283D1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Bahraini Dinars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

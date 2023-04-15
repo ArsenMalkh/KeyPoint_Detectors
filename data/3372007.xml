@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372007" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF56062BA-343E-4C93-86AE-3226E0753AEA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">AU$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">25.7</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD9056AE6-9EF3-4FDA-8245-632681D6C8D7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">350000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBFB07573-C445-487A-9D94-5488F58F9647">
+		<Aux:document_text xml:lang="en-US">Uluru, aka Ayers Rock, rises up in Australia’s red centre, a sandstone monolith of deep spiritual significance to the Anangu Aboriginal peoples. It’s hard to explain everything it stands for, but think of it as the past, present and future wrapped into one, or as a blueprint for the world. Like Sedona, Uluru is considered one of the earth’s power points, where many visitors experience a feeling of peace. The Anangu say the mighty stone has always existed – it just is – so there’s no reason to think the end of days will impact it any differently. Uluru-Kata Tjuta National Park (www.environment.gov.au/parks/uluru) is open year-round; admission is AU$25. 7. Capitol Visitor Center, Washington DC, USA An urban legend has developed around the subterranean visitor centre, which opened in 2008 beneath the US Capitol. Architects say they built it three stories underground to preserve the white-domed landmark’s historic views. They maintain the restricted third level was always earmarked for Congress’ private use, and the $350 million-plus cost overruns were just politics as usual. Conspiracy theorists claim the off-limits area has been decked out as a bunker to protect Congress should catastrophe come knocking. Visitors can try to ascertain the truth during tours of the House and Senate, which start at the venue.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB31BA0C9-4D51-4EB6-B69A-8C50CE8FF14F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF56062BA-343E-4C93-86AE-3226E0753AEA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">AU$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode12A15A85-8DF4-4A19-ABFB-9EEA998F73CC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF56062BA-343E-4C93-86AE-3226E0753AEA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA633D0C8-7C6B-466A-8D72-613D515A8F7D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF56062BA-343E-4C93-86AE-3226E0753AEA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">25.7</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC0E65DD1-5782-47C3-AC60-CBFAD19E0A1F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1028</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1040</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD9056AE6-9EF3-4FDA-8245-632681D6C8D7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode50F370D7-CEBE-482A-A45D-C189EFD57A8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1028</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1029</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD9056AE6-9EF3-4FDA-8245-632681D6C8D7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode80E3034C-D888-4D20-ACFD-F8C56511A186">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1029</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1040</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD9056AE6-9EF3-4FDA-8245-632681D6C8D7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">350000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

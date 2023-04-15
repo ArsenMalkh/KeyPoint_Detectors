@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374320" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB419D12F-6F43-4408-936C-AC4E537A00E0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">900000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode84B63679-FF7C-4A14-9141-F28B7BF90C0F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4BD51E3B-7470-44B4-91CC-AD3F240C8B87">
+		<Aux:document_text xml:lang="en-US">The scam was first exposed in the Philippine Daily Inquirer by Nancy C. Carvajal on July 12, 2013, with the six-part exposé of Carvajal pointing to businesswoman Janet Lim-Napoles as the scam's mastermind after Benhur K. Luy, her second cousin and former personal assistant, was rescued by agents of the National Bureau of Investigation (NBI) on March 22, 2013, four months after he was detained by Napoles at her unit at the Pacific Plaza Towers in Bonifacio Global City. Initially centering on Napoles' involvement in the 2004 Fertilizer Fund scam, the government investigation on Luy's testimony has since expanded to cover Napoles' involvement in a wider scam involving the misuse of PDAF funds from the 2000s to 2013. It is estimated that the Philippine government was defrauded of some ₱10 billion in the course of the scam, having been diverted to Napoles, participating members of Congress and other government officials. Aside from the PDAF and the fertilizer fund maintained by the Department of Agriculture, around ₱900 million in royalties earned from the Malampaya gas field were also lost to the scam. The scam has provoked public outrage, with calls being made on the Internet for popular protests to demand the abolition of the PDAF, and the order for Napoles' arrest sparking serious discussion online.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD766226A-2D33-4004-A55F-4BF1C424E0F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">803</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode84B63679-FF7C-4A14-9141-F28B7BF90C0F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF2428410-B4DE-4D66-BE3A-D283B3F9E566">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">793</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode84B63679-FF7C-4A14-9141-F28B7BF90C0F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFDB36F10-27DF-4D54-AB6F-E5DB7C8F30D0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">793</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">803</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode84B63679-FF7C-4A14-9141-F28B7BF90C0F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode72CACD27-8FED-4A7D-8318-9C65E5163D4E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1026</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1038</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB419D12F-6F43-4408-936C-AC4E537A00E0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode166E80D8-B682-44DD-8A5C-DE3B5B1FC1BE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1026</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1027</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB419D12F-6F43-4408-936C-AC4E537A00E0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2AB58A83-D814-4324-8A9A-6C0109C5B4A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1027</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1038</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB419D12F-6F43-4408-936C-AC4E537A00E0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">900000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

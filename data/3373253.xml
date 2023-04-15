@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373253" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA3740433-FADD-4579-8D1A-6B31381C9908">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds sterling</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA34E1815-A15A-4904-B3D7-37C90137FF61">
+		<Aux:document_text xml:lang="en-US">According to the 19th century source, the fort complex covered the area of 800 x 1000 sq. yards. There are four gates in the town, one in each cardinal direction, having indirect entry, located in the middle of each side of the fort wall. These gates are: Hira gate or Hira Bhagol, Baroda or Vadodara gate, Chandod or Nandod gate and Champaner, Mori, Mahudi or Mahmudi gate. Baroda or Vadodara, Chandod and Champaner gates lead to the cities by those names whereas the Hira gate was entrance to the Kalika Temple. Hira Bhagol is named after the architect, Hiradhar. The most exquisitely carved gate, is in the east, a.k.a. Hira Darwaza, or " Gate of Diamonds," This Hira Gate according to tradition cost more than ten thousand pounds sterling in 1865 values. It is an immense edifice, upwards of a hundred yards long and sixty high, entirely covered with most admirable bas-reliefs of warriors on horseback and in chariots, lions, and elephants. The Vadodara Gate in the west, Champaner Gate in the north and Nandod Gate in the south.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8FD11DBC-74BD-4337-A04E-F795B57D5852">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">714</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA3740433-FADD-4579-8D1A-6B31381C9908"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD01CD4B7-284E-4FDC-B96D-13C71B49D03C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">714</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">726</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA3740433-FADD-4579-8D1A-6B31381C9908"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8E8CE555-0963-42F8-8062-681FC4B22C25">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">727</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA3740433-FADD-4579-8D1A-6B31381C9908"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds sterling</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

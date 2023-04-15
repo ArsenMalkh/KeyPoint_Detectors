@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370386" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode468AF545-F52D-400A-A215-D77632B8FE01">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Australian dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBBBCB97D-2979-4D26-A97C-A8A5077C2A15">
+		<Aux:document_text xml:lang="en-US">The normal hazards associated with thunderstorms are common in Australia. In some instances, the effects of severe thunderstorm winds and of lightning-initiated bushfires are so extreme that they are classified as natural disasters [Natural Disasters in Australia, 1985]. Insurance-related claims arising from thunderstorms (wind, hail and flash flood damage) from 1967 to 1999 amount to about 5 billion Australian dollars [Insurance Council of Australia, 2000]. Direct and nearby cloud-to-ground lightning strikes can be hazardous to persons, structures and industrial and utility installations. Three aspects of thunderstorm hazards with characteristics that seem special to Australia include lightning-initiated wildfires (bushfires and grass fires), lightning mediated injuries to telephone users, and wind gust damage to power lines.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4264B37C-38DD-46B7-9CAB-A6C4E9C4E528">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">394</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode468AF545-F52D-400A-A215-D77632B8FE01"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9F120218-5324-4102-A4CB-44C206AC85A3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">394</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode468AF545-F52D-400A-A215-D77632B8FE01"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD788C704-BBEC-4034-A16D-6DBDAAE92C7A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode468AF545-F52D-400A-A215-D77632B8FE01"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Australian dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

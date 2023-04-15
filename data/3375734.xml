@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375734" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5BF844D3-5C7D-4858-AF2A-38F4CE180FA4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3346456</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6D7667B2-95FC-4740-9E08-0BEE300A0150">
+		<Aux:document_text xml:lang="en-US">There must be some one quality without which a work of art cannot exist; possessing which, in the least degree, no work is altogether worthless. What is this quality? What quality is shared by all objects that provoke our aesthetic emotions? What quality is common to Sta. Sophia and the windows at Chartres, Mexican sculpture, a Persian bowl, Chinese carpets, Giotto's frescoes at Padua, and the masterpieces of Poussin, Piero della Francesca, and Cezanne? Only one answer seems possible – significant form. In each, lines and colors combined in a particular way, certain forms and relations of forms, stir our aesthetic emotions. On 7 February 2007, Sotheby's London sold the 2001 photograph 99 Cent II Diptychon for an unprecedented $3,346,456 to an anonymous bidder, making it the most expensive at the time. Conceptual photography turns a concept or idea into a photograph. Even though what is depicted in the photographs are real objects, the subject is strictly abstract.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA841FBF0-8EF6-46F9-A710-D63415E37399">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">746</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5BF844D3-5C7D-4858-AF2A-38F4CE180FA4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA6E99AF2-0C7B-4F1B-8903-241F3447A292">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5BF844D3-5C7D-4858-AF2A-38F4CE180FA4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9625D13C-8A8A-40C2-9B0E-1D766FE53BA5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">746</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5BF844D3-5C7D-4858-AF2A-38F4CE180FA4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3346456</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

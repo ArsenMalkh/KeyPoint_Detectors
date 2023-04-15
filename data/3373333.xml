@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373333" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode517B7F28-8D26-4917-AE3A-7F28B77B48F9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₩</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">245200000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBC8FB97E-0432-4C03-8797-8ACB7E21B323">
+		<Aux:document_text xml:lang="en-US">On August 24, 2016 the Norwegian Defence Materiel Agency published their intention to continue negotiations with Hanwha Techwin and Swiss RUAG, which has offered their M109 "KAWEST" upgrade. At the same time, the NDMA said that negotiations concerning the KMW-made Panzerhaubitze 2000 and the Nexter Caesar had been put "on hold". Unnamed sources in the Norwegian Army had previously stated that the K9 was a leading candidate in the competition. On December 20, 2017, a contract was signed between Hanwha Land Systems and Norwegian Defence Materiel Agency for ₩245.2 billion to supply 24 K9 Thunder and 6 K10 ARV by 2020. K9 outperformed competitors in various weather and terrain conditions according to Norwegian military officials during trials. Norwegian variant was named as K9 VIDAR (Versatile InDirect ARtillery system), and is based on K9 PIP configuration. It uses Norwegian ODIN fire support system and radio communication systems.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3E730C3A-0AD1-4AE3-9F96-395F55FEBC2F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">575</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode517B7F28-8D26-4917-AE3A-7F28B77B48F9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B8A31DC-BC34-40A2-B833-A6F36EA25A59">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">562</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode517B7F28-8D26-4917-AE3A-7F28B77B48F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₩</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAAE79020-73BC-4388-B296-9D182041192A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">562</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">575</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode517B7F28-8D26-4917-AE3A-7F28B77B48F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">245200000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

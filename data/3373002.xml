@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373002" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode07C3E8A6-7EAA-4F62-8704-E79DCA98752A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">German gold marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">837500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD22FDC41-9A94-40DF-838E-078BBBAF59D1">
+		<Aux:document_text xml:lang="en-US">Weakened from its defeat in the Spanish–American War, Spain could no longer effectively control and protect the nearly 6,000 islands it retained throughout Micronesia, including the Northern Marianas, Carolines and Pelew Islands. Therefore, Spain entered into the German-Spanish Treaty of February 12, 1899 to sell the Northern Marianas and its other remaining islands to Germany for 837,500 German gold marks (about $4,100,000 at the time). The Northern Marianas and other island groups were incorporated by Germany as a small part of the larger German Protectorate of New Guinea. The total population in the Northern Marianas portion of these islands was only 2,646 inhabitants around this time, with the ten most northerly islands being actively volcanic and thus mostly uninhabited.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode97ACC21E-E23E-43A3-811E-BE7D295EDD1A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode07C3E8A6-7EAA-4F62-8704-E79DCA98752A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9336D00C-290F-4D53-90A3-DACA93DDCF89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">391</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode07C3E8A6-7EAA-4F62-8704-E79DCA98752A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">837500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB88636B4-21E1-4A6E-8C18-2AC314248803">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode07C3E8A6-7EAA-4F62-8704-E79DCA98752A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">German gold marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

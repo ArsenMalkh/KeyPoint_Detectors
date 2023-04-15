@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373839" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2FB626A1-3E06-4FCF-8B3D-398DAE657E40">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3991BB7F-A503-4B85-8D37-D02BF12AB167">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Korean won</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">110000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAF5BF26E-D48A-4EDF-B005-FC29A597DE16">
+		<Aux:document_text xml:lang="en-US">The project has a poor safety record. In April 2010, a test vehicle collided with a rail inspection vehicle, causing it to crash into a station, parts of which collapsed onto the street below. In August 2010, a wheel falling from the vehicle on a test run injured a pedestrian. In May 2012, a current collector fell off the train, although there were no injuries. In 2011, Joongang Daily reported that construction had been indefinitely suspended due to "colossal corruption", and that what had been built was set to be demolished due to "safety issues". It was reported the system was not built to the specifications of the Urbanaut. A technical inspection in May 2013 revealed numerous unresolved safety issues. In August 2014, it was announced that the monorail was unsafe and the project would be abandoned. The cost of the entire system, originally estimated at US$60 million, had risen to 110 billion Korean won (approx. US$100 million) before construction was suspended. A revised plan in 2015 cut the size of the trains to carrying 24 passengers. Construction based on the revised plan began in February 2015 aimed to complete in Fall 2016. It was eventually opened on October 8, 2019.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode92022ABD-869D-4143-A1EF-86B5358598EE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">867</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FB626A1-3E06-4FCF-8B3D-398DAE657E40"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD805B310-BEC8-4CA0-B9C9-D00FF1CF718F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">867</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">870</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FB626A1-3E06-4FCF-8B3D-398DAE657E40"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1166D298-F78C-470C-9353-E8C0A34CBCCC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">870</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2FB626A1-3E06-4FCF-8B3D-398DAE657E40"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCA624FB3-6065-4273-9C10-AC4AE3195688">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">895</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">917</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3991BB7F-A503-4B85-8D37-D02BF12AB167"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode33D3BD7A-09EB-4491-9115-9B6EC60D4996">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">895</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">906</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3991BB7F-A503-4B85-8D37-D02BF12AB167"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">110000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8909E866-99E8-4712-B480-8829A7FAB019">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">907</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">917</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3991BB7F-A503-4B85-8D37-D02BF12AB167"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Korean won</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

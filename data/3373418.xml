@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373418" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB445E44B-13C8-4128-B67D-B4D8E2ADC785">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$ US dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode214FCD21-75DA-4F58-9E86-9A02EF783ABA">
+		<Aux:document_text xml:lang="en-US">There is no record of what the painting sold for. Pflum, a former vaudeville performer who dabbled in painting on the side, as Lew Bloom, claimed the painting of Mary Lincoln had not yet been presented and done in secret at the bequest of Mrs. Lincoln by the painter Francis Carpenter. After the assassination of President Lincoln, Bloom claimed Mrs. Lincoln refused it and the painting was sold to a Philadelphia shipbuilder, Jacob G. Neafi. Bloom also claimed that after the death of Mrs. Neafie, Mr. Neafie gave the painting to Susan Bloom for her kindness and caring for Mrs. Neafie through her long illness. Bloom went on to claim that he inherited the painting from his sister after her death in 1910. As it turns out, Susan Bloom was five years old when Mrs. Neafie died in 1860. This painting remained in the Lincoln family until 1976, later estimated at a value of about $400,000 US dollars, when it was given to the Illinois State Historical Library, now named the Abraham Lincoln Presidential Library and Museum. During a 2011 restoration by art conservator Barry Bauman, it was found to be a forgery. The forgery overpainted an original oil portrait of an unknown woman, painted circa the 1860s, that was modified by painting out a crucifix, adding an Abraham Lincoln brooch with other adjustments such as forging Francis Bicknell Carpenter's signature. Bauman is quoted to say, "Not only is it not Mary Lincoln, it's not Francis Carpenter."</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDB2D3A30-1C76-428E-AF59-C33CF6E40061">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">899</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB445E44B-13C8-4128-B67D-B4D8E2ADC785"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode336053D2-3FD8-48A3-AE2E-D6E8455440DF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">880</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">881</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB445E44B-13C8-4128-B67D-B4D8E2ADC785"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$ US dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAA641888-A403-4F78-9CC0-A9D0179FBC0A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">881</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">888</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB445E44B-13C8-4128-B67D-B4D8E2ADC785"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode46D4C4E9-7293-4BAF-B7C9-145CD63BBF7E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">889</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">899</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB445E44B-13C8-4128-B67D-B4D8E2ADC785"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$ US dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

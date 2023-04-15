@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376011" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE5EFBD36-B452-45E5-A355-F640513A23D3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Swiss francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7A81E12E-0F96-4126-9019-D52AB28124A0">
+		<Aux:document_text xml:lang="en-US">In 1979, Pierre Zimmermann joined IBM in Zurich where he worked for five years. He then worked for Hill+Knowlton Strategies as an assistant corporate controller for Europe until 1985. From 1986 to 1988, he worked for Finagrain as a financial analyst, and then joined BBHQ (a venture capital firm) in 1988 again as a financial analyst. In 1990, Pierre Zimmermann left BBHQ to create the Régie Zimmermann (today known as Zimmermann Immobilier), a real estate company in Geneva. In 2006, he opened a subsidiary in Lausanne. In 2013 Zimmermann Immobilier reached 100 million Swiss francs in gross rental income. Bridge career Pierre Zimmermann started playing bridge occasionally in 1975 during his studies, but only started to play seriously in 1998. He obtained his first World Champion's title in 2007 in Shanghai his second in 2009 in São Paulo. and his third one in Chennai.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3BD19113-581B-4C83-AFE7-8621BA2AB078">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE5EFBD36-B452-45E5-A355-F640513A23D3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8511E1E-5064-4C03-9AA2-F4FD8E76034A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE5EFBD36-B452-45E5-A355-F640513A23D3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBF70870C-F0AA-4D6B-8269-BDF993ECD206">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE5EFBD36-B452-45E5-A355-F640513A23D3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Swiss francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

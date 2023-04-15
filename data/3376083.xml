@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376083" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1872A20E-6218-4844-B08B-9A3A005E87DD">
+		<BasicEntity:ms_major_currency xml:lang="en-US">United States dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2D03EA21-F85B-42FD-8097-8F825B0E9F68">
+		<BasicEntity:ms_major_currency xml:lang="en-US">New Taiwan dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBBF63446-4B64-47AE-9A5B-5CB7ECE62877">
+		<Aux:document_text xml:lang="en-US">On November 19, 1987, Liu Zhiyuan, a squadron commander of PLAAF 49th division flew his Shenyang J-6 numbered 40208 from Longxi airport, Zhangzhou to Ching Chuan Kang Air Base in Taichung, Taiwan and was awarded 5,000 taels (approximately 250 kg) of gold. Liu invested heavily in the Taiwanese stock market and his assets (not including the gold rewarded to him) were once more than 10 million New Taiwan dollars (approximately 400,000 United States dollars). On September 6, 1989, Jiang Wenhao, a 23-year-old PLAAF lieutenant of the 2nd wing of the 145th regiment of the 49th division flew a Shenyang J-6 numbered 40307 from Longxi airport, Zhangzhou, Fujian to Kinmen Shang Yi Airport. Jiang was interviewed by the then chief-of-general-staff of Taiwanese armed forces, Hau Pei-tsun and awarded a rank of lieutenant in the Republic of China Air Force. Jiang's financial reward, however, was reduced to 2,000 taels (approximately 100 kg) of gold from the original 5,000 taels (approximately 250 kg), because due to the reduction of tensions with China during the 1980s, Taiwan had greatly reduced the amount on September 15, 1988 in response to similar Chinese action four days earlier. (China had completely abolished any financial rewards to any Taiwanese defectors). Jiang was soon honorably discharged from the Republic of China Air Force after being promoted to captain. Jiang became a famed underwater photographer and won several awards, and he also worked as a diving instructor</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2CBFE9AF-B5B2-4D78-BF06-5F96AEE60717">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2D03EA21-F85B-42FD-8097-8F825B0E9F68"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCDC1E372-B00D-4960-AE2F-4EEC51592580">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">393</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2D03EA21-F85B-42FD-8097-8F825B0E9F68"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAA41E03B-4D2C-4942-8DC2-B04C90D7F8C1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">394</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2D03EA21-F85B-42FD-8097-8F825B0E9F68"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">New Taiwan dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode27D6D122-F382-4248-9C47-3C7A96B6D5B3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1872A20E-6218-4844-B08B-9A3A005E87DD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode628CD458-DE88-4F0A-A441-468F3BB1CC03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1872A20E-6218-4844-B08B-9A3A005E87DD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4E0A33E7-EAA8-47FE-ACF7-91A305654FCC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1872A20E-6218-4844-B08B-9A3A005E87DD"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">United States dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

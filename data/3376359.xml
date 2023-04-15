@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376359" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2BA1F8C2-25BE-42DF-AA50-01F8CEED91E0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CNY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">178960000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2388C844-79C6-4008-AFE6-309170158D73">
+		<Aux:document_text xml:lang="en-US">According to the Ministry of Emergency Management, by the end of June flooding had displaced 744,000 people across 26 provinces with 81 people missing or dead. As of 13 August, the floods have affected 63.46 million people and caused a direct economic loss of 178.96 billion CNY, which are 12.7% and 15.5% higher than the 2015-2019 average, respectively. 219 people were found dead or are missing, and 54,000 houses collapsed, which is 54.8% and 65.3% lower than the 2015-2019 average, respectively. The Ministry of Water Resources said that a total of 443 rivers nationwide have been flooded, with 33 of them swelling to the highest levels ever recorded. According to statistics from the National Cultural Heritage Administration (NCHA), 76 key national cultural relics and 187 provincial cultural heritage sites have suffered damage of varying degrees.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode59017BFD-7475-4FB8-A82D-F6DAD25DF82D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2BA1F8C2-25BE-42DF-AA50-01F8CEED91E0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9B9193E1-A991-4AAA-8465-CC4932EB5D3B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2BA1F8C2-25BE-42DF-AA50-01F8CEED91E0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">178960000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB5FEADAB-6C9A-4173-95F5-8DE2BA493DFB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2BA1F8C2-25BE-42DF-AA50-01F8CEED91E0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CNY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373392" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode81608F74-C655-4455-9252-D71ACDA215DC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">colón</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBD72A735-64D2-4A86-8B8F-080A740E8085">
+		<Aux:document_text xml:lang="en-US">The lava historically erupted from Izalco consists of vesicular vitrophyric olivine basalts. Izalco's formation was preceded by fumorolic activity in 1658, before Izalco was born in 1770. Today, Izalco experiences only fumarolic activity in the form of rainwater seeping into the volcano and contacting hot rocks, rather than steam emissions from underground gases. The fumarole deposits of the volcano are noted as sources for several rare minerals. It is the type locality for the copper vanadium minerals: bannermanite, blossite, fingerite, howardevansite, lyonsite, mcbirneyite, stoiberite and ziesite. Tourism The volcano is visited and climbed regularly by tourists to El Salvador via the Cerro Verde National Park and is a national icon of the country, even featured on the 10 colón bank note (US dollars replaced the colon in 2001, so the bank note is no longer in circulation). The volcano is currently quiescent but may erupt again. A hotel was built on the nearby Cerro Verde to provide accommodation with a view of the erupting volcano, but the volcano ceased to erupt shortly before the hotel was completed.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE31107EC-FA0A-4C41-BBF7-53A42693D717">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81608F74-C655-4455-9252-D71ACDA215DC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA55046CF-CE46-44E9-9150-DB435073BCF7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">783</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81608F74-C655-4455-9252-D71ACDA215DC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB1AF2FBA-C22A-43EC-B1DA-D7DF8E6217BD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">784</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81608F74-C655-4455-9252-D71ACDA215DC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">colón</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

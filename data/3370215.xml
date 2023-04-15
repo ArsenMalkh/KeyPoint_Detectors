@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370215" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCC4A0E3A-DBD4-446A-B7AE-F53939C6FAFE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ouguiyas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">70000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8794146F-427A-42F2-8D6A-E02E881E504A">
+		<Aux:document_text xml:lang="en-US">Congressional approval of a Budget bill for 2004 consistent with the fiscal targets in the program (Dominican Republic 2003 SBA) (EBS/03/116 P. 12). Audit of civil servants (Cote d'I voire 2002 PRGF) (EBS/02/44 p. 64). (iii) Raise the maximum wage subject to contributions—used by the CNSS—to ouguiyas 70,000 (Mauritania 2003 PRGF) (EBS/03/94 P. 76). (i) Issue a tender for the privatization of SONACOS (Senegal 2003 PRGF) (EBS/03/49 p. 91). Conduct and publish an economic and environmental analysis, and prepare an action plan with timetable for the cost-effective production, distribution, and sale of fuels and other petroleum products in Ecuador (Ecuador 2003 SBA) (EBS/03/21 p. 11).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3CCED50A-AA67-439F-8429-B9FD1AFBD5D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCC4A0E3A-DBD4-446A-B7AE-F53939C6FAFE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode83C73F2B-B81E-4C16-AB14-95CECC602D30">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCC4A0E3A-DBD4-446A-B7AE-F53939C6FAFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ouguiyas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3E3777BA-AE5B-42CC-B6EA-983CE1C0AC92">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCC4A0E3A-DBD4-446A-B7AE-F53939C6FAFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">70000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

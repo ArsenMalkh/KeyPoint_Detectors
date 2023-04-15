@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370939" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD26C2081-8F40-4926-858E-6E9AF1F3E242">
+		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF2CE0471-9FA8-430A-B9DB-A5898BA22F58">
+		<Aux:document_text xml:lang="en-US">Restaurant, Bar, 24-Hour Front Desk, Non-Smoking Rooms, Rooms/Facilities for Disabled Guests, Elevator, Express Check-In/Check-Out, Safety Deposit Box, Luggage Storage, All Public and Private spaces non-smoking. Sauna, Fitness Centre, Golf Course (within 3 km), Massage, Outdoor Swimming Pool. Room Service, Meeting/Banquet Facilities, Business Centre, Babysitting/Child Services, Laundry, Dry Cleaning, Ironing Service, Currency Exchange, Tour Desk. Wireless internet is available in the entire hotel and costs THB 300.00 per hour. With an extensive cocktail and wine list on offer, the Lobby Lounge on the ground floor is ideal for winding down after a day's sightseeing. With indoor and outdoor seating on the ground floor, overlooking Chiang Mai's Mae Ping River, River Terrace offers international cuisine, including Northern Thai dishes, as well as traditional Thai favourites.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode17419ADF-7394-4E19-BB86-F2923F000C21">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD26C2081-8F40-4926-858E-6E9AF1F3E242"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAA3A436D-84B3-4305-855F-496C099F8DA5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD26C2081-8F40-4926-858E-6E9AF1F3E242"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B47BBE0-3746-47B4-83A0-0D6458ADD812">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD26C2081-8F40-4926-858E-6E9AF1F3E242"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

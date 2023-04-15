@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375862" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode580866FC-DB21-4946-973C-DEBCE90A6D0B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">German Marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3A47BD24-6B99-45D0-BA1A-C12D97FC83DD">
+		<Aux:document_text xml:lang="en-US">The leading director of the settlement was Anton Uthemann, who came up with the basic project. This work was completed by George and Emil Zillmann, architects from Charlottenburg, who designed the settlement inspired by Ebenezer Howard's idea of the "Garden city". In just three years the project was completed: high living standard houses for 600 families were built, with four main streets leading to the central marketplace (today called Plac pod Lipami - Square under the Linden Trees). The settlement had its own institutions, a hotel, department stores, a swimming pool and a water tower. Some dwellings were offered to those miners who lived without family. Most inhabitants worked for the Giesche coal mine (today: Wieczorek coal mine), and the total cost of the colony was estimated at 5 million German Marks. In 1914, a narrow-gauge railway to Janów was opened. Throughout its early history the colony was an independent municipality. Silesian Uprisings Inhabitants of the settlement took active part in the Silesian Uprisings, and during the Plebiscite in Upper Silesia, over 70% locals voted for Poland.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4EFFBF28-FE58-4245-8268-4032625784D9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">795</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">817</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode580866FC-DB21-4946-973C-DEBCE90A6D0B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode83D5F91A-93DA-400D-8BA3-A05758BF646B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">795</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">804</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode580866FC-DB21-4946-973C-DEBCE90A6D0B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode256FD12C-F5AD-4991-BDF8-6670D36BA9C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">805</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">817</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode580866FC-DB21-4946-973C-DEBCE90A6D0B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">German Marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

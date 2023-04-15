@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375665" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode62C6D452-2246-48E6-B440-6ADB0FF21981">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Australian dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2050000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode26F23E7C-C156-4C96-9D2B-B092ED02A40A">
+		<Aux:document_text xml:lang="en-US">Tokyo, March 25, 2008---Mitsubishi UFJ Financial Group, Inc. (MUFG) announced today that The Bank of Tokyo-Mitsubishi UFJ, Ltd. (BTMU), a subsidiary of MUFG, has decided to liquidate NS Australia Pty Ltd. (NS Australia). NS Australia is a wholly-owned subsidiary of Mitsubishi UFJ NICOS Co., Ltd. (Mitsubishi UFJ NICOS), which is a subsidiary of BTMU. 1. Outline of NS Australia (1) Head office address: Brisbane, Queensland, Australia (2) Liquidator: Bentley MRI Pty Ltd. (Australian accounting firm) (3) Capital: Australian dollars 2,050,000 (4) Main business: Resort real estate investment Reason for liquidation NS Australia transferred all of its business assets in May 2005. As the procedural preparations have now been made, it has been decided to liquidate NS Australia. Timing of liquidation</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode247551C4-6CBA-4F4D-9A08-E02EBC763C6F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62C6D452-2246-48E6-B440-6ADB0FF21981"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0840C357-24E4-4924-B884-8C99F584177E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">533</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62C6D452-2246-48E6-B440-6ADB0FF21981"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Australian dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7A975981-119D-4F96-9AF2-B5A7480DBC0C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">534</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62C6D452-2246-48E6-B440-6ADB0FF21981"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2050000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

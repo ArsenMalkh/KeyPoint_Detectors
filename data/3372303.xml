@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372303" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8D8832E9-4D04-492D-A211-F87C694344AA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5ECF7A5C-3772-4AB7-B506-770D9577A1B8">
+		<Aux:document_text xml:lang="en-US">Human resource development is a prerequisite for achieving self-sustained development. That’s why Japan is promoting development of human resources that truly match labor market demand, under the ABE Initiative, "African Business Education Initiative for Youth”. The underlying concept of the ABE Initiative, since its inception in TICAD V in 2013, is “education with an exit”. We have been offering opportunities for young Africans to study in Master’s courses at Japanese universities and to intern in Japanese companies during their stay in Japan. The trainees can effectively develop practical skills and knowledge needed for the industrial development in Africa. Some former trainees are already playing important roles in businesses that connect Japan and Africa. With respect to our efforts to enhance region-wide connectivity, Japan announced at TICADVI to implement quality infrastructure investment of approximately 10 billion USD. Let me emphasize the importance of promoting infrastructure development in accordance with international standards and in such a way that ensures economic viability and fiscal soundness. Infrastructure development fosters a long lasting relationship between the partners involved. I hope that our partnership will be further strengthened through quality infrastructure development, bringing Japan and Africa closer at all levels including Government to Government, business to business and people to people.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode092D4687-B032-486D-A813-0ED3F4B47AFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">926</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8D8832E9-4D04-492D-A211-F87C694344AA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4CB1FFE3-A9CD-4CFB-9C10-75DD3427283B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">926</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">936</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8D8832E9-4D04-492D-A211-F87C694344AA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDD7F53E9-9592-42FC-94BA-A7A8967B61DF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8D8832E9-4D04-492D-A211-F87C694344AA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

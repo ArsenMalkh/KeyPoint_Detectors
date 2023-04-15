@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376380" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode0CD55B29-CA76-43C5-8EFE-3D769A49AEBB">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Bolivianos</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA6D286EF-E43B-4D6D-86C5-DB891F31D7B6">
+		<Aux:document_text xml:lang="en-US">Given the economic structure of the country up to the 1950s, there were practically no middle classes, but instead a small elite, a massive peasant sector and a worker sector. Nevertheless, since 1825, Bolivia has had a representative democratic political system which has not functioned. (Bolivia is known as the country with most political coups in the world.) In 1952, all citizens got the vote; before, only those who could read, write and had an income of 200 Bolivianos could vote.  In 1952 there was a revolution which nationalised the mines and set up the Agrarian Reform, due to pressure from the miners and the dispossessed peasant masses. It led to universal suffrage and the statutes of Education Reform (1954) which attempted to improve rural education. Nevertheless, the political power remained in the hands of the bourgeoisie and the economy under the control of the United States, which pushed a stabilisation plan through the International Monetary Fund (IMF) to save Bolivia from total collapse. With regard to the East of the country, the government followed the suggestions of the US government’s “Bohan Mission” and put a plan of colonisation and population into action. This was consolidated by the Mennonite colonisation of 1954 and the Japanese colonisation of 1955. Both these groups received land and were equipped with both an agricultural infrastructure and roads leading to good lands. During the same period, the “Bohan Mission” encouraged the setting up of settlements by peasant colonists from the western regions (1952)</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68E31AFD-54BE-4C9F-8DF0-E2C35C74BB5C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">461</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">475</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0CD55B29-CA76-43C5-8EFE-3D769A49AEBB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCA935ED9-A20C-49A9-9EEF-F5435A8F58DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">461</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0CD55B29-CA76-43C5-8EFE-3D769A49AEBB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode596BE7E5-E875-4BD8-B19C-155A6E77D552">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">465</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">475</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0CD55B29-CA76-43C5-8EFE-3D769A49AEBB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Bolivianos</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

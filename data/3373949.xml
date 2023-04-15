@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373949" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8FB0724C-0EC7-46DE-A60E-9CD9E6730F0C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$ US dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode856742FB-F15F-441E-8F0B-27791835896E">
+		<Aux:document_text xml:lang="en-US">The Washington Post wrote in 2003 that "U.S. Customs estimated 10 million U.S. citizens brought in medications at land borders each year. An additional 2 million packages of pharmaceuticals arrive annually by international mail from Thailand, India, South Africa and other points". Prescription drugs also entered the country in large quantities through Canada because of the price differential of prescription drugs in the two countries. In 2004, it was estimated that Americans purchased more than $1 billion in US dollars in brand-name drugs per year from Canadian pharmacies to save money. The United States has some of the highest prices for specialty drugs compared to other developed countries. Within the year of 2014, the cost of prescriptions had increased by at least 11.4% and 58% within the last 8 years. The average cost for a month supply of brand-name drugs can run up to a couple of hundred US dollars, whereas in Canada and Great Britain the same medication could cost up to $40 US dollars. In most cases, patients pay less for more. Reasons for high prices Variability and non-transparency As of 2015, the price of a pharmaceutical drug depends on who is paying and numerous other variabilities, per the acting administrator of the federal Medicare and Medicaid programmes: list price, wholesale price, average wholesale price (pharmaceuticals), rebates, supplemental rebates, markups from hospitals, markups for physicians, drug price for inpatients versus outpatients, formulary (pharmacy) tiers, mail order price, biosimilar prices, "patent expirations, compounds, samples, and many other ways that end up obscuring the reality of the price paid, who pays it, and how all of it influences treatment decisions."</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2E8517C8-AE8C-4BB7-A8BE-7283645EE038">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">993</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1007</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FB0724C-0EC7-46DE-A60E-9CD9E6730F0C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBCE301A2-B6D5-42CE-990F-B6532028AEC5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">993</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">994</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FB0724C-0EC7-46DE-A60E-9CD9E6730F0C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$ US dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD7CEA4BF-919A-4C6E-861A-47990EB7E6DC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">994</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">996</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FB0724C-0EC7-46DE-A60E-9CD9E6730F0C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE7D5693B-CC20-4600-B213-C0B2C1AEC593">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">997</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1007</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8FB0724C-0EC7-46DE-A60E-9CD9E6730F0C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$ US dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

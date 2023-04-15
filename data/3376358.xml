@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376358" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode80AAAD5C-FE74-4F63-A62A-A9D04F2C237C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">23000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD8E7AEA0-087B-46DD-92BB-7D4F1ACB22E1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">UYU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7B8CBCD2-73D3-4F83-8F8E-7BBFAC22EB46">
+		<Aux:document_text xml:lang="en-US">Got Talent Uruguay is a Uruguayan reality television series, and part of the global Got Talent franchise created by Simon Cowell. Presented by Natalia Oreiro, it is produced by Fremantle along Syco Entertainment, and broadcast on Channel 10. The show debuted on June 22, 2020, being, its first episode, the most watched program of the day, reaching 17.7 rating points. It airs every Monday at 9 p.m. The program is a talent show that features singers, dancers, sketch artists, comedians and other performers of all ages competing for the top prize of UYU 1,000,000 (approximately USD 23,000). On June 15, 2020, the derivative program, Amamos el Talento debuted. Presented by Annasofia Faccelo and Noelia Etcheverry, Got Talent's release date was announced, a promo and a sneak peek of the first episode were shown. The show unveils all the details of the show, as well as interviews and behind the scenes. From the third episode of this derivative program, Annasofia Faccelo leaves the hosting, being replaced by Kairo Herrera.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3CAC7DA1-450F-47E3-A815-6612C6A48B2A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD8E7AEA0-087B-46DD-92BB-7D4F1ACB22E1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCD6196B1-09E7-4D90-94FA-FD402CDE96FF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD8E7AEA0-087B-46DD-92BB-7D4F1ACB22E1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">UYU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode38EB7B7D-8918-4AE6-8087-B40E25C12531">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">555</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD8E7AEA0-087B-46DD-92BB-7D4F1ACB22E1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode85F7A962-2D7A-4B8F-8901-DB7A59F9A8FD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">580</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">590</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode80AAAD5C-FE74-4F63-A62A-A9D04F2C237C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFFD0531D-D94F-4C44-AAA9-CFCEF2F8BC82">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">580</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode80AAAD5C-FE74-4F63-A62A-A9D04F2C237C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode28DFB295-757F-42AD-A4DF-805769B264D9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">590</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode80AAAD5C-FE74-4F63-A62A-A9D04F2C237C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">23000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

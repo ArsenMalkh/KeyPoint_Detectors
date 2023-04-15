@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372125" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode117C2B79-31F3-402F-BF1E-5959AEEBBA53">
+		<BasicEntity:ms_major_currency xml:lang="en-US">yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode76306635-A4AA-4769-9F63-1D4C03218D61">
+		<BasicEntity:ms_major_currency xml:lang="en-US">New Taiwan dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">6000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEBE71D4A-2F25-4F20-A925-33E98529C3BA">
+		<Aux:document_text xml:lang="en-US">In 1947, the Kuomintang administration in Taiwan massacred civilians in what is known as the February 28 Incident. One of the victims of this incident was the father of 72-year-old Keishou Aoyama of Urasoe City, who was a Japanese fisherman in Taiwan at the time. Aoyama brought a claim demanding compensation from the Taiwanese government for the death of his father. On February 17, the Taipei High Administrative Court issued a verdict in favor of Aoyama. The Court acknowledged the high likelihood that Aoyama’s father, Esaki, then 38, was a victim of the February 28 Incident. It ordered the Taiwanese government to pay Aoyama 6 million New Taiwan dollars (around 20 million yen) in compensation. The Taiwanese government is currently considering whether or not to appeal. If it ends up paying the compensation, it will be the first time a foreigner receives compensation for the February 28 Incident.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode198100D6-325F-4973-8033-AD3A40D5497A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76306635-A4AA-4769-9F63-1D4C03218D61"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF71CCECE-3DC1-4EA5-B7AE-E7E2BC91347A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">641</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76306635-A4AA-4769-9F63-1D4C03218D61"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">6000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4F0F3351-8649-495B-985F-E3268103FC7E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76306635-A4AA-4769-9F63-1D4C03218D61"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">New Taiwan dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode76BFF659-4B09-49D2-AAA7-7457A3307C77">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">669</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode117C2B79-31F3-402F-BF1E-5959AEEBBA53"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCCC5A19E-A4ED-4D29-84A4-B6AD9D908242">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">669</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">679</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode117C2B79-31F3-402F-BF1E-5959AEEBBA53"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6B295A39-A480-4F60-8F19-D2692DBB52C9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">680</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode117C2B79-31F3-402F-BF1E-5959AEEBBA53"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

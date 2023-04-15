@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376179" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2013A9C0-9381-47F8-A267-9E13BABC8684">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">110000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB241727B-D561-4013-8F11-F613D7014677">
+		<Aux:document_text xml:lang="en-US">Evofosfamide was developed by Threshold Pharmaceuticals Inc. In 2012, Threshold signed a global license and co-development agreement for evofosfamide with Merck KGaA, Darmstadt, Germany (EMD Serono Inc. in the US and Canada), which includes an option for Threshold to co-commercialize evofosfamide in the United States. Threshold is responsible for the development of evofosfamide in the soft tissue sarcoma indication in the United States. In all other cancer indications, Threshold and Merck KGaA are developing evofosfamide together. From 2012 to 2013, Merck KGaA paid 110 million US$ for upfront payment and milestone payments to Threshold. Additionally, Merck KGaA covers 70% of all evofosfamide development expenses. Mechanism of prodrug activation and Mechanism of action (MOA) of the released drug Evofosfamide is a 2-nitroimidazole prodrug of the cytotoxin bromo-isophosphoramide mustard (Br-IPM). Evofosfamide is activated by a process that involves a 1-electron (1 e−) reduction mediated by ubiquitous cellular reductases, such as the NADPH cytochrome P450, to generate a radical anion prodrug:</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8FED872C-3596-439D-9917-1BC4FF7ABAFA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">572</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2013A9C0-9381-47F8-A267-9E13BABC8684"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC39F78A8-F229-4785-AE89-A0B7648DFABC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">572</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2013A9C0-9381-47F8-A267-9E13BABC8684"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">110000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8190C355-4D9A-4315-8378-1564F513850E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2013A9C0-9381-47F8-A267-9E13BABC8684"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

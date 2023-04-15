@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376403" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode40B89322-B0E1-432E-8D5C-E0750A3BB5C7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$CAN</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">246</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode73001AFF-0572-4ADD-B62C-D46B138249FC">
+		<Aux:document_text xml:lang="en-US">We bought this camera about six months ago, attracted by the 10x zoom and the impressive range of features. Sadly, we have been rather disappointed by it. Although the zoom is impressive, the focus problems mentioned by other reviewers are apparent in ours as well- the camera just seems to focus on whatever it wants -usually the background rather than the middle of the picture. Also, despite following the manufacturer's information about setting it up to work with Mac computers, we have so far been unable to make the camera and the computer talk to each other. We were fobbed off with a series of poor customer service responses and were on the verge of returning it to the store when something terrrible happened to it. The verdict from the Toshiba, after they had had it in their possession for over a month, was that it had sustained a severe trauma. We are not disputing that: since we have three children, we think it possible that one of them may have accidentally knocked it to the ground and not told us. What we are annoyed about is the poor response from Toshiba to our earlier problems, which might have had us take the camera back to the store long before it was so badly damaged. As it is, we are faced with a 246$CAN bill to make usable a camera that has so far proved itself incompatible with our computer- ie not much use. I would not advise anyone to buy this camera unless they have a direct line to Toshiba. There is a far better Canon out, for very little more money.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE69C987B-F4B8-4000-BD46-538F7B229331">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1229</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1236</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode40B89322-B0E1-432E-8D5C-E0750A3BB5C7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3A8EAA65-C23F-451D-BB51-CD0092083AC8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1229</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1232</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode40B89322-B0E1-432E-8D5C-E0750A3BB5C7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">246</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAF9BD7BA-EF61-46C7-8BC9-9253B1A880AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1232</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1236</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode40B89322-B0E1-432E-8D5C-E0750A3BB5C7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$CAN</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

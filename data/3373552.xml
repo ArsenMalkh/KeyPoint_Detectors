@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373552" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAA45E5AE-064E-489D-833A-84F2D6905F65">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Swedish riksdaler</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFFE7B65E-F72F-4540-B77F-4C459889EBC5">
+		<Aux:document_text xml:lang="en-US">She convinced the salon hostess Frances Lewin-von Koch (1804–1888), the British born spouse of the minister of justice, Nils von Koch, who housed her and provided her with a lawyer, and through her also her husband; the parliamentary Anders Uhr and the royal court chaplain Carl Norrby, but was seen as a fraud by Prime minister Louis De Geer and foreign minister Ludvig Manderström. The queen mother Josefina took an interest in her, and provided her with an allowance. She was granted a meeting with Charles XV who, afterward, remarked to the parliamentarians: "Why, she is just as sane as you or me". The king did not take much interest, but wanted to get the whole affair over and done with. In March 1861, the king allowed her an annual pension from the foreign department of 2,400 Swedish riksdaler a year, (the amount, from the beginning 1.200, was made larger in December 1869). He also promised to provide her with the furniture of a princess. She managed to continue this for years. In 1870, however, an article in a newspaper by C. Norrby, one of her benefactors, appeared, resulting in an investigation.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB621C14D-FCDE-4739-952A-518682139897">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">804</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAA45E5AE-064E-489D-833A-84F2D6905F65"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB3AE2998-E54F-4DA0-8380-BF49129ADFAE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAA45E5AE-064E-489D-833A-84F2D6905F65"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode20A79EC7-D4E8-4E12-8EF5-F61A929217B2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">787</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">804</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAA45E5AE-064E-489D-833A-84F2D6905F65"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Swedish riksdaler</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371918" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE9A0A483-7A63-4363-A205-91B3D5ECC65E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Pakistani Rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5A80D8D8-17FA-4DC8-A2FF-B2917E3CCDF6">
+		<Aux:document_text xml:lang="en-US">Witnesses say they saw Muhammad Khalid Chishti plant torn pages of the Koran in a plastic bag of ash Rimsha was carrying, in an attempt, it is believed, to run Christians out of the area. After three weeks in jail, Rimsha was bailed on two separate sureties of 500,000 Pakistani Rupees ($5000). She was released from Adiala prison in Rawalpindi at the weekend. Wearing a hood over her face, she was taken under armed guard to a helicopter and flown to a secret location, where her family was waiting. Jailing a young, confused girl has again brought unwanted international attention on Pakistan's blasphemy law, and has highlighted the way it is used to target the country's minorities. Despite her release, Rimsha's safety will remain a serious concern for Pakistani authorities for months, if not years.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0BDFC6DC-6F40-4912-8CC8-829F53BF2DB9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9A0A483-7A63-4363-A205-91B3D5ECC65E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode698A8973-CD56-436B-8F06-46B05C65CE93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">268</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9A0A483-7A63-4363-A205-91B3D5ECC65E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode39265E58-CCFC-4454-AE73-B86C2CDB3AFB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE9A0A483-7A63-4363-A205-91B3D5ECC65E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Pakistani Rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

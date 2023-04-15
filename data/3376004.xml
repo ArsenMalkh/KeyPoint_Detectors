@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376004" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode86287338-E34E-487D-B301-C1AFC2DAB253">
+		<BasicEntity:ms_major_currency xml:lang="en-US">PH₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">543000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE3734150-70E3-4220-9D57-177C44EBA93E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">P</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">383640000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode359AF9A7-0ECB-427C-B42A-62BA5F50FF5C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3900000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCF27DD79-9038-43B7-AA25-4F4D25E79FA3">
+		<Aux:document_text xml:lang="en-US">After many years of negotiation under President Noynoy Aquino, the P383.64 million in aid deal to the Philippines from the EU was formally approved in 2018, however, was rejected and blocked by President Rodrigo Duterte, the new incumbent at the time, citing personal hatred towards the EU. The EU has criticized Duterte for his deadly drug war which has killed more than 14,000 Filipino drug suspects in less than 18 months and the imprisonment of opposition senator Leila de Lima due to testimonies from rapists, murderers, and drug traffickers which de Lima sent to jail when she was Justice Secretary. The senator was denied bail from a case that was deemed bailable by Filipino laws. Humanitarian aid In December 2011, Northern Mindanao was devastated by Tropical Storm Washi. The European Commission allocated €3 million ($3.9 million) to provide emergency relief to people affected by Tropical Storm Washi. In December 2012, the European Commission provided €10 million (PH₱ 543 million) for the victims of Typhoon Bopha, notably in the provinces of Compostela Valley and Davao Oriental in Mindanao. After Typhoon Haiyan in November 2013, the European Commission announced a donation of €3 million to be made for the victims affected by the tropical storm.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC617A105-A3CA-4759-8BFD-810897B86A56">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE3734150-70E3-4220-9D57-177C44EBA93E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">P</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD6A41F69-F468-4DE2-AAAC-CE712C5B8EBD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE3734150-70E3-4220-9D57-177C44EBA93E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1D47DA91-9DF3-4930-9DB0-8DE8CC4CB427">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE3734150-70E3-4220-9D57-177C44EBA93E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">383640000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6027D0AF-7625-454D-A113-CA736E15A2D0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">828</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode359AF9A7-0ECB-427C-B42A-62BA5F50FF5C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3EBDA8BB-83FB-4708-AC35-D35EC096AE62">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">828</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">829</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode359AF9A7-0ECB-427C-B42A-62BA5F50FF5C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7EDCF8D0-119E-48D0-8536-746392E1470E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">829</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode359AF9A7-0ECB-427C-B42A-62BA5F50FF5C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3900000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAFA2A38E-75C4-488B-91BB-CA1BCC72DD6B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">981</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86287338-E34E-487D-B301-C1AFC2DAB253"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">PH₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDE900558-A63D-42E0-9622-5C19331BB91F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">993</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86287338-E34E-487D-B301-C1AFC2DAB253"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode00E2A412-7ED5-4818-B494-033428600F20">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">982</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">993</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86287338-E34E-487D-B301-C1AFC2DAB253"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">543000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

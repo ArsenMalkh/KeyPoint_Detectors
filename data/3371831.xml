@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371831" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFE0915CC-FEE8-4400-8B68-A143CF3E6E8A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds sterling</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode66CD0F55-9BC1-4B54-8048-E6AAEF731B70">
+		<Aux:document_text xml:lang="en-US">30 .1       Company shall furnish to Contractor within ninety (90) days of the 30 June and 31 December in each year (or such other semi-annual accounting period as designated by Company from time to time) a statement prepared in accordance with Company’s standard accounting procedure showing in reasonable detail the calculation of and the total royalties that have been credited to Contractor’s balance hereunder in the period of six (6) months prior to such date and shall pay Contractor any balance shown to be due when furnishing such statement, PROVIDED THAT following the expiry of the Term Company shall not be liable to furnish any statements for any period in which royalties accrued have not exceeded one hundred pounds sterling (£100) although one statement in respect of each period shall be provided to Contractor on request from time to time.     30 .2       Company may maintain reasonable reserves on account of Records and Audio Visual Devices which may be returned or exchanged and will subsequently make adjustments based on the number of Records and/or Audio Visual Devices actually returned or exchanged, PROVIDED THAT each such reserve shall be released equally over two accounting periods following that in which it was first maintained.  In the event that reserves are insufficient to cover Records returned or exchanged in any accounting period Company may deduct from any royalties</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2B08DA66-E8E9-4B2E-9394-4E324A4FC77B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">712</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE0915CC-FEE8-4400-8B68-A143CF3E6E8A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDF12C1B7-6BA9-4418-B148-E1348F6F0BFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">712</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE0915CC-FEE8-4400-8B68-A143CF3E6E8A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode11DE842B-5CF4-4316-8F26-B9CD100DC557">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE0915CC-FEE8-4400-8B68-A143CF3E6E8A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds sterling</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

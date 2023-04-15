@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373607" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode06CA8F27-7A68-4726-8013-A4A146ACAECE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Danish krone</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">120000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC1092659-CF4B-4267-8A44-752DCE38DE20">
+		<Aux:document_text xml:lang="en-US">The Bank of Greenland was founded on 26 May 1967 by a number of Danish banks, during the era when Greenland was still a province of Denmark. The founding banks were Privatbanken, Danske Bank, Kjøbenhavns Handelsbank, and an organization of local banks, provincial and Copenhagen-based. Operations started in Nuuk on 1 July 1967, while local branches in Ilulissat, Sisimiut, and Qaqortoq followed in 1985, and in Maniitsoq in 1989. On 8 June 1985 the bank merged with Nuna Bank (formerly Bikuben), with the capital of 120 million Danish krone (DKK), retaining the name of Grønlandsbanken, and becoming the only commercial bank in the country. Later, the Bank Nordic, which has its headquarters on the Faroe Islands, established itself as a competitor with an office in Nuuk, Greenland (Bank Nordic also has offices in the Faroe Islands and Denmark).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2B2441B9-A345-4291-85B0-A6E8FE80F23C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06CA8F27-7A68-4726-8013-A4A146ACAECE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF713DC90-37DC-4F35-B035-F8A197AF180E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06CA8F27-7A68-4726-8013-A4A146ACAECE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">120000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDE7A57A5-6798-4696-8CC7-7B1A724CE822">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">529</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode06CA8F27-7A68-4726-8013-A4A146ACAECE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Danish krone</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

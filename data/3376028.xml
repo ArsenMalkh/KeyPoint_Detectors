@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376028" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8A72AD9E-2592-4FDD-AB36-07D400A109BE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Kina</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">160000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD5339DF1-0821-4D72-BDB1-FD812A6A5927">
+		<Aux:document_text xml:lang="en-US">There has reportedly been less activity in the 2017 election compared to previous elections, with PNG National Party Leader Kerenga Kua saying "There is less colour, less movement, and that's not good, because you need to have some level of activity for educational purposes". Four people died in clashes regarding the election, with several candidates attacked during campaigning or nominations, to which Electoral Comisisoner Patilias Gamato said "We have not gone into polls yet but already people are engaging in violent activities, threats and intimidation — that's unnecessary." Ezekiel Anisi, MP for Ambunti-Dreikikir Open died suddenly on 24 May 2017 at a Port Moresby guesthouse in the midst of his re-election campaign. Concerns The Bank of Papua New Guinea is concerned that 160 Million Kina of old currency which was stolen has the potential to influence the election. There are concerns in the Menyama District of Morobe Province that poor weather conditions affecting road transport could cause issues with the transportation of polling materials closer towards the election.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAB8187BF-BAC2-4D31-A6B1-9DD6611EF3A3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">802</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A72AD9E-2592-4FDD-AB36-07D400A109BE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode54EA6F98-52E6-4309-9C7A-7EF319035BD3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">797</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A72AD9E-2592-4FDD-AB36-07D400A109BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">160000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode28F3DB6A-D59A-4D93-9B94-0D801D9C0F35">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">798</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">802</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A72AD9E-2592-4FDD-AB36-07D400A109BE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Kina</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

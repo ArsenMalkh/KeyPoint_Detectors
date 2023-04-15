@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370289" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDE7F60B7-84D6-46B7-8A69-C436D821E43B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Cyprus pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode48B48473-7EF4-4A8D-AF57-44649276D370">
+		<Aux:document_text xml:lang="en-US">The Greek Cypriot daily Alithia of November 10, 1989 reported that "millions of Cyprus pounds" will be spent on purchase of new modern weapons for the Greek Cypriot National Guard. According to the same source, this new move was debated, at some length, during a Defense Committee meeting of the Greek Cypriot House of Representatives where the Greek Cypriot "Minister of Defense", as well as officers belonging to the "National Guard", briefed the Committee members on future arms purchases. Another Greek Cypriot daily, Eleftheria Tis Gnomis of November 23, 1989 reported that, in accordance with a 3-year rearmament program prepared by the "Ministry of Defense", the total amount of spending on new arms was estimated at 300 million Cyprus pounds. The Greek Cypriot "Minister of Defense", Mr. Andreas Aloneftis, was quoted in the same daily as saying that the program had been submitted to the House Defense Committee, and that the question now was to secure the necessary funds. Reportedly, Mr. Aloneftis said that the funds which had accumulated in the "Defense Fund" fell short of covering the new additional spending envisaged by the program and that several ways and means for increasing these funds were now under consideration.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78AEE83A-C175-4FA2-A0F2-92126520480F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE7F60B7-84D6-46B7-8A69-C436D821E43B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCE20FD16-24DE-4B12-9B96-E7EDF9C35674">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE7F60B7-84D6-46B7-8A69-C436D821E43B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF8F765A9-FC9A-4DD0-A1CC-3D255173C5CC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE7F60B7-84D6-46B7-8A69-C436D821E43B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Cyprus pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

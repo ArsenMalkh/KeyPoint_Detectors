@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371700" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBFD32272-D42E-42FD-B8DF-C5B9F8F5A0FF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">lari</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2F003EF3-7983-4929-8545-B9A915BDB917">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Georgian lari</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB9C9039F-6745-48FF-BE78-BE7191DF83AA">
+		<Aux:document_text xml:lang="en-US">Despite its upgraded neoclassical and art nouveau buildings, increasing signs of wealth in Tbilisi, and recent deal with the EU, poverty remains on the city’s fringes and in agricultural areas, with 15% of the country’s population living below the poverty line, according to World Bank figures. Unemployment is 14.6%, and rises to 25% in urban areas. Trade unions have been gutted while the process of rampant privatisation and economic reform following the Soviet collapse has polarised Georgians into rich or poor. “Of course tango is an expensive dance – at times it has been a dance for the elite – but here we try to make it affordable for everyone,” says Gomelaari. “We have both businessmen and labourers. We charge 5 Georgian lari (£1.75) for the milonga and 40 lari for a lesson. Some people can’t afford that, but others can.”</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode76A0F6C6-EFF0-49EE-9682-7118915BDF86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F003EF3-7983-4929-8545-B9A915BDB917"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA2FD5B50-F9C0-420D-8D24-DFC976706D63">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F003EF3-7983-4929-8545-B9A915BDB917"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode91FF7F03-BC78-447B-830B-A196E5865AFA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2F003EF3-7983-4929-8545-B9A915BDB917"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Georgian lari</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2DFCAFF1-4D8D-4F81-885B-0420FC88D635">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">767</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBFD32272-D42E-42FD-B8DF-C5B9F8F5A0FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9B74C0EC-28E6-42F5-BC4D-5ACF408AC878">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">767</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">769</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBFD32272-D42E-42FD-B8DF-C5B9F8F5A0FF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD87CC3C7-8440-40DB-A4F4-87EFD63B5519">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">770</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBFD32272-D42E-42FD-B8DF-C5B9F8F5A0FF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">lari</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

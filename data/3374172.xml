@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374172" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB8523A7E-1AEB-4619-B2A2-552455981E8F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">199000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5B1C0D9A-C710-4774-9534-4FDF3DDE206E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₱</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFE80B16E-DA04-48B9-BD58-6E67B9EA9806">
+		<Aux:document_text xml:lang="en-US">In early 2014, Valenzuela City Mayor Rexlon Gatchalian announced the construction of a new state-of-the-art campus under the name Valenzuela City School of Mathematics and Science. This is a part of the Education 360° Investment Program of the local government that included feeder programs, the provision of school supplies, and training for students, parents, and teachers. Gatchalian explained, "This is a large-scale investment to shore up the local education system." Out of the ₱300 million budget allotted to the plan, ₱199 million was spent on the construction and outfit of the new school campus. He said that the soon-to-rise school is the "best education investment [the] city has ever made." The groundbreaking of the new school site in Barangay Malinta was held on January 27, 2014. Gatchalian, local government officials, the Valenzuela City Science High School faculty and students, and the Department of Education (DepEd) secretary Armin Luistro attended the ceremony. The mayor said in his speech, "If you look at their NAT scores, their scores are one of the highest in Metro Manila. If you look at their UPCAT results, they have a very high passing rate every year. That's why we have to show the brightest and the most intelligent students of Valenzuela City that they will be entering the most modernized high school here in Valenzuela and we'll make sure that this will be the most pleasant science high school building in the Philippines</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC16163C2-35B8-46D1-B2B4-FE6E4B8BA987">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B1C0D9A-C710-4774-9534-4FDF3DDE206E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode419FE2C6-3572-418C-BC05-AD41B5CFD024">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B1C0D9A-C710-4774-9534-4FDF3DDE206E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE43D53D5-B9C3-432C-89E3-83ECB3F0F58F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5B1C0D9A-C710-4774-9534-4FDF3DDE206E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC6118BFF-CEC0-4B5F-AEB2-73F1F3519C01">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">526</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8523A7E-1AEB-4619-B2A2-552455981E8F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5DB8B755-A353-4D57-89E6-ED6178A62658">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">526</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8523A7E-1AEB-4619-B2A2-552455981E8F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₱</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode103618CD-C55B-4DAD-A89D-12DDA70B4273">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8523A7E-1AEB-4619-B2A2-552455981E8F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">199000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

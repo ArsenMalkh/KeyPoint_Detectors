@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370348" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7BD77DB7-582D-48D2-BB18-88159649551E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Rouble</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">0.2</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1050B150-F01B-4974-9064-BDB00A5D8307">
+		<Aux:document_text xml:lang="en-US">In 2006, after restructuring of JSC Nafta Moskva, Nafta Moskva (Cyprus) Limited, a subsidiary of JSC Nafta Moskva, became the sole shareholder of the Company until the Company's public offering. In February 2007, the Company placed 40,000,000 ordinary shares with par value of Rouble 0.2 per share in the form of Global Depositary Receipts ("GDRs") on the London Stock Exchange, as well as shares on "Stock Exchange Russian Trading System" ("RTS") and "Moscow Interbank Currency Exchange" ("MICEX"). In June 2008 Nafta Moskva (Cyprus) Limited sold all of its interest in the Company (68.0%) to three parties: Quotan International Limited, ultimate beneficiary owner of which is Alexander Nesis (24.05%), PPF Group NV, ultimate beneficiary owner of which is Petr Kellner (24.9%), and Inure Enterprises Limited, ultimate beneficiary owner of which is Alexander Mamut (19.05%). Another 17.1% of the Company's shares are held by Deutsche Bank Trust Company Americas and as at December 31, 2008 there are no other shareholders who hold more than 10% of the total share capital of the Company.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD5AAAE28-85E8-41DD-ACBC-5C2F02E60152">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BD77DB7-582D-48D2-BB18-88159649551E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0E8FF5B6-44C8-4524-97BC-DCA8B9B03540">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">283</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BD77DB7-582D-48D2-BB18-88159649551E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Rouble</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode31C48964-500B-4941-8A49-561F8B6F2340">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BD77DB7-582D-48D2-BB18-88159649551E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">0.2</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

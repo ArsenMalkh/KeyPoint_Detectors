@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374033" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode474B43E8-A3B6-4FBE-BE31-FC428429B633">
+		<BasicEntity:ms_major_currency xml:lang="en-US">s.</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFF812398-5914-4A9F-AD23-B846FFE6CC96">
+		<Aux:document_text xml:lang="en-US">(2) Persons possessed of a freehold estate for life or lives in land or tenements of the annual value of 40s. who actually or bona fide occupy the premises or were seised of such estate on 7 June 1832, or have acquired such estate after that day by marriage, marriage settlement, devise, or promotion to a benefice or office. Persons possessed of a freehold estate for life or lives in lands or tenements of the clear yearly value of £5. Note.-Residence on the property is not required from freeholders. A freehold situate in a Parliamentary borough qualifies the owner for the county vote, unless it is in his own occupation. See also N.B. below. (b) COPYHOLDERS:- Persons possessed of an estate for life or lives in land or tenements of copyhold or any other tenure of the clear yearly value of £5.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3DDBA4D4-0060-49A0-946F-DEB542D0EBC4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode474B43E8-A3B6-4FBE-BE31-FC428429B633"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAD65E55E-EEAA-4DBB-BF16-8BB2F61204B8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode474B43E8-A3B6-4FBE-BE31-FC428429B633"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode396E1C64-C1FC-4391-9C2A-8809BA773994">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode474B43E8-A3B6-4FBE-BE31-FC428429B633"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">s.</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

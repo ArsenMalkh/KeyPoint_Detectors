@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375856" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode77E693B4-73E4-4824-99E6-69EFAA830ED8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">DKK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">15000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode075D78D3-D506-426A-B23B-FE56BD4D3E2E">
+		<Aux:document_text xml:lang="en-US">Madsen started his career at BK Avarta in the secondary Danish 1st Division league, where he won the 1994 Danish 1st Division Revelation of the Year award. He was introduced to the top-flight Danish Superliga championship, when he was brought to newly promoted club Akademisk Boldklub (AB) in June 1996. Under manager Christian Andersen, AB finished fifth in the 1997–98 Superliga season, with Madsen on the left flank, combining well with teammate Peter Knudsen in central midfield. In June 1998, Madsen and Peter Knudsen were both brought to Italian club AS Bari in a combined transfer deal worth DKK 15 million. When they were forced to compete for the same spot in the Bari starting line-up, Peter Knudsen quickly returned to AB, while Madsen stayed three years at Bari. He started out well for the club, but was eventually benched by manager Eugenio Fascetti. Bari was relegated after the 2001 season, and as his Bari contract ran out in June 2001, Madsen left the club.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode011ABFA0-FAB7-44AB-9324-86B5813F35EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77E693B4-73E4-4824-99E6-69EFAA830ED8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF4CB57A0-C7CE-46B4-99B1-FEF162384990">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77E693B4-73E4-4824-99E6-69EFAA830ED8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">DKK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode74E78687-F9DD-44A9-BA2B-FC80DFA24C18">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode77E693B4-73E4-4824-99E6-69EFAA830ED8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">15000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

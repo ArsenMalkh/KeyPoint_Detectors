@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376308" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBC13DFEB-3788-40FB-A5F0-6AF006DF2576">
+		<BasicEntity:ms_major_currency xml:lang="en-US">TZS</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1542A875-7DB1-4C83-8C67-0A4E1BE31BFC">
+		<Aux:document_text xml:lang="en-US">The exchange was the idea of President Jakaya Kikwete, who wanted to emulate a similar model in Tanzania after visiting the Ethiopia Commodity Exchange. The exchange was licensed by the Capital Market and Securities authority of Tanzania and incorporated on 25 August 2014. The Exchange was inaugurated in November 2015 by Jakaya Kikwete and commenced operations in Sesame seeds in 2019. Corporate affairs Ownership The exchange is established under a private-public partnership with the Government of Tanzania regulated by the Capital Markets and Securities Authority. The company has an authorized share capital of TZS 50 billion and is divided between four investors. The public sector owns 49% of the share capital and the private sector owns 51%. The first four shareholders are the Treasury Registrar, TIB Development Bank, Public Service Pension Fund (PSPF) and the Tanzanian Federation of Cooperatives (TFC).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7E2E63D4-8851-48B1-8B6C-AF78D0983B33">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">617</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC13DFEB-3788-40FB-A5F0-6AF006DF2576"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode37E1392A-3725-46A7-A693-5B17726728D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">617</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">620</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC13DFEB-3788-40FB-A5F0-6AF006DF2576"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">TZS</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA013CE76-D817-4A7C-AA51-F53786F26240">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC13DFEB-3788-40FB-A5F0-6AF006DF2576"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

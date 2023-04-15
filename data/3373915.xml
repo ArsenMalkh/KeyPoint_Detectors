@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373915" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode42A1712D-7052-46C2-8FE7-E3511BB12D08">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">48000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode305CCD17-1D4D-4738-9E9F-463236DE7F08">
+		<BasicEntity:ms_major_currency xml:lang="en-US">MXN</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8777000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5DFF07F6-12B1-4130-95A7-E6542C2BADA5">
+		<Aux:document_text xml:lang="en-US">Relevant Event - On January 14, 2015, OHL México S.A.B. de C.V. ("the Company") informed that in accordance with its strategy to optimize the value of its assets and maximize value for its shareholders, OHL Mexico agreed to sell to IFM Global Infrastructure Fund ("IFM") a 24.99% stake in the capital stock of Organización de Proyectos de Infraestructura, S. de R.L. de C.V. , ("OPI") and 24.99% of the equity interests of OPCEM, S.A. de C.V. ("OPCEM"), a newly created subsidiary which will be responsible for the operation and maintenance of Concesionaria Mexiquense, S.A. de C.V. for MXN 8,777 million. OPI, 100% subsidiary of OHL MEXICO, owns Conmex which operates a 110km private toll road system in the Northeastern region of Mexico City. The transaction is subject to standard closing conditions used for this type of transactions, including obtaining the regulatory approval from the Mexican Antitrust Commission (Comisión Federal de Competencia Económica). The Company considers that the proceeds obtained will strengthen the Company's capital position to invest in new projects, materializing as a consequence growth opportunities. BBVA Bancomer and Santander have acted as Financial Advisor to OHL MEXICO. IFM Investors is a uniquely-structured global fund manager with US$48 billion under management as of September 2014. Established over 20 years ago and owned by 30 major Australian pension funds.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0B77F791-D57F-4C14-8EBE-CA1105DB505F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode305CCD17-1D4D-4738-9E9F-463236DE7F08"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3F80D28A-4B13-46BD-894A-8ED503DCC4D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">590</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode305CCD17-1D4D-4738-9E9F-463236DE7F08"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">MXN</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7332C053-F72D-42F3-BBED-0EA7FC35A5FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">591</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode305CCD17-1D4D-4738-9E9F-463236DE7F08"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8777000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA370F84B-5D1F-4D5D-9BB0-49DC05F1640D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1281</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode42A1712D-7052-46C2-8FE7-E3511BB12D08"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5DAD8058-A6CA-4060-9C05-34AB820C32CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1281</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1284</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode42A1712D-7052-46C2-8FE7-E3511BB12D08"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6108AE0A-C7B9-48FB-BDF3-5B4CA6C2427E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1284</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1294</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode42A1712D-7052-46C2-8FE7-E3511BB12D08"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">48000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

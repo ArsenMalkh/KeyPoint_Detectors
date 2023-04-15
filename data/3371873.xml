@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371873" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4A34EC60-F43E-427D-8ADD-655F7F522C68">
+		<BasicEntity:ms_major_currency xml:lang="en-US">manat</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5BDA4F67-5B79-47DC-94D6-F8D65DB93F77">
+		<Aux:document_text xml:lang="en-US">Huseynov is  suing with the MES on this issue, what was noticed at the meeting by  the Minister Heydarov. In an interview with http://obyektiv.tv Huseynov said that the minister was trying to blackmail him by threatening to file as lawsuit  for false reporting. However, Huseynov did not retire,  as the Minister expected, and in response, said that it is the MES which should be brought to justice, and which announced that  the houses were built  at 60 million manat; but in  reality, the construction of one house cost 10,000 manat. Huseynov, who was a member of the local government commission  for eliminating the effects of floods, told Heydarov that  he could prove the corruption. For example, the houses were built for people who have Russian citizenship.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7F5F93EC-D5B1-4A96-A920-CE5567DF6AB5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A34EC60-F43E-427D-8ADD-655F7F522C68"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode43A46BB9-D10B-4CDF-9351-F687E0760644">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A34EC60-F43E-427D-8ADD-655F7F522C68"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3265F415-D65D-4BFB-B409-327B6B4FDFFB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A34EC60-F43E-427D-8ADD-655F7F522C68"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">manat</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

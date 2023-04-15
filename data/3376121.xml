@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376121" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1A465CD1-FBAB-44EE-A14F-CA49DE258860">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CA$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">6000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode36187D81-294C-4A33-98A2-BA47D15A8E65">
+		<Aux:document_text xml:lang="en-US">In 1895, Toronto resurfaced in the original Eastern League (which in 1902 was designated Class A, at that time one level below Major League Baseball), where it played through 1911. The club relocated to Albany, New York for part of the 1896 season, but started and finished the year in Toronto. In 1897, the team began playing its home games on the Toronto Islands at Hanlan's Point Stadium. The stadium and the team were owned by the Toronto Ferry Company. In 1900, a group of 52 Toronto businessmen, spearheaded by Ed Barrow and Ed Mack, a tailor and former ballplayer, bought the team for CA$6,000. The club constructed a new stadium at Liberty Street and Fraser Avenue, called Diamond Park. Led by Barrow, the Leafs won the International League pennant in 1902 with a record of 85–42. The team faltered after its championship season, falling to eighth place by 1905. Debt holders called in their loans and the team was purchased by James J. McCaffery, who served as team president from 1908 until his death in 1922, and Lawrence "Lol" Solman, president from 1922 to 1931. Former major league star Joe Kelley took the reins as manager in 1907 and the team's fortunes immediately turned around. Kelley was drafted by the Boston Doves the next season, when the Leafs returned to Hanlan's Point Stadium, but Kelley rejoined the club in 1909 and guided the team to the championship in 1912.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBFF23A04-CD38-47C0-BD69-A01FB9BC64B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">592</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A465CD1-FBAB-44EE-A14F-CA49DE258860"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE2EF3158-7A9A-4CF1-9F5C-1DFDE050CB38">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">592</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A465CD1-FBAB-44EE-A14F-CA49DE258860"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CA$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF04232E5-E901-4D3B-923D-109704A2C88D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A465CD1-FBAB-44EE-A14F-CA49DE258860"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">6000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

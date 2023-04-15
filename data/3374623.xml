@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374623" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode6CBCB486-CA96-46B8-ABBA-F4A908805D42">
+		<BasicEntity:ms_major_currency xml:lang="en-US">DKK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3400000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDEED5A98-05EE-442A-A0BB-B2E4D0EB63EA">
+		<Aux:document_text xml:lang="en-US">These joined efforts by Denmark and Greenland resulted in the introduction of a new law, No. 473 of June 12, 2009 of the Danish Parliament, the Folketing, The Act on Greenland Self-Government. It recognizes the Greenlandic people’s right to self-determination under international law, with the Greenlandic language as the official language of the country. It gives Greenland permission to assume tasks that remained under Danish responsibility, including to claim a declaration of independence when a majority of the population in Greenland so desires. Economically, it provides Greenland with an annual subsidy of 3,4 billion DKK (in 2009 price levels), until she can sustain herself from her own sources of income. The new Government, called Naalakkersuisut of Greenland, has expressed the desire to take the responsibility for Greenland’s mineral resources and, also, jurisdiction over citizenship and employment of foreigners.3</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF297347B-A52F-4CDF-AE8B-5A83F43C019B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CBCB486-CA96-46B8-ABBA-F4A908805D42"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA3759966-A3F4-44E2-9CD1-30177D035A53">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">626</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CBCB486-CA96-46B8-ABBA-F4A908805D42"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3400000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAD62EB40-076C-473A-A1B3-D45AE4EC8132">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">627</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CBCB486-CA96-46B8-ABBA-F4A908805D42"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">DKK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

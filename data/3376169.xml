@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376169" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode750D25F3-BFA6-4448-A5BC-139C6E801E0E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Indian Rupee</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3CE1B7F4-A1FF-4C3F-815D-8CB74CEEAE84">
+		<Aux:document_text xml:lang="en-US">On 17 November 2011, a consortium of Mercator and Gulf Piping Company, Abu Dhabi was awarded an EPC contract by ONGC for conversion of their Mobile Offshore Drilling Unit ("MODU") ‘Sagar Samrat’ into Mobile Offshore Production Unit ("MOPU"). The detailed engineering design is by GL Noble Denton, UAE, for Marine Part and Samsung Heavy Industries India Pvt. Ltd (SHI-I) for Production Facility. It is purely Indian and the infrastructure of the mill is on the Indian Rupee 1 note. Dredging Mercator forayed into dredging in the year 2007. Currently, it holds the following fleet: 1) Six trailing suction hopper dredgers; 2) One grab cum trailing suction hopper dredger; 3) One cutter suction dredger; 4) One bucket ladder dredger.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDB0B1064-1F3B-4797-A757-C0A799BC6888">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode750D25F3-BFA6-4448-A5BC-139C6E801E0E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFD7E246A-CE09-494F-81C9-D3920836CF92">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode750D25F3-BFA6-4448-A5BC-139C6E801E0E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Indian Rupee</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode99A74715-5927-42C3-8018-2A48A1063302">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode750D25F3-BFA6-4448-A5BC-139C6E801E0E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

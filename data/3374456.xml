@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374456" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4C06501C-5676-4DE9-B0F5-6FBA63E5BC7F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">£</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode13B6B0C8-408F-4560-BCF1-D023D7FE4FBA">
+		<Aux:document_text xml:lang="en-US">The seal of the Abbey in 1371 depicted the Virgin Mary standing holding the Christ Child, which is not a particularly common motif in medieval English nunneries. At other periods the favoured image on the Abbey's seals seems to have been the Coronation of the Virgin. Dissolution According to the Valor Ecclesiasticus of 1535, the abbey’s income amounted to £342, 5 shillings 10½ pence gross, and £318, 8 shillings 5 pence net, while its possessions included several rents in and around London, manors and lands on the Isle of Wight, Berkshire and Hertfordshire. The abbey was surrendered in March 1539, and the terms granted to the nuns were similar to those given in other nunneries. The abbess, Dame Elizabeth Salvage, received a life pension of £40 a year, four nuns received life pensions of £3, 3 shillings 8 pence each, ten nuns received £2 13 shillings 4 pence, nine nuns £2, and a novice £1, 6 shillings 8 pence. No provision appears to have been made for the six lay sisters.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode485D657F-9A21-43B1-AC6F-964D6C8D3A27">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">752</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C06501C-5676-4DE9-B0F5-6FBA63E5BC7F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB8FBC061-3F32-48E1-91CB-7B4A57B738AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C06501C-5676-4DE9-B0F5-6FBA63E5BC7F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">£</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode36B1F37B-BD94-4BED-B9C0-D63C32F6372A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">752</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C06501C-5676-4DE9-B0F5-6FBA63E5BC7F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374395" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode02FED374-62CD-4776-B5B7-52FCCAFD947F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Straits dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">96</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC0A8EC03-9142-462D-BFF2-2854505F6AAE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Straits dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC5487869-AD7D-4F6B-B663-7CBB1A8DB59C">
+		<Aux:document_text xml:lang="en-US">Compared to its predecessors, Al-Iqbal was a "modern" and "revolutionary" madrasah. In terms of pedagogy, it advocated discourse and reasoning, and emphasized on debates and rhetoric in lieu of traditional rote learning and memorization. Its curriculum integrated a broad range of subjects from religious topics such as the usual recitation of the Qur'an, Arabic language and grammar, and Islamic ethics, to other secular subjects such as geography, history, mathematics, English and town planning. Its founder, Al-Hadi, had also refined the madrasah academic year, introduced a new system of examination, and established proper rules and regulations. Al-Iqbal was not well-received by the local Muslim community then. This can be attributed to two reasons. The first being its expensive school fees: boarders had to pay an annual fee of 300 Straits dollars for accommodation, uniforms, stationery, laundry and medical expenses, while non-boarders had to pay between 24 and 96 Straits dollars. Such fees were beyond the reach of the Muslim community at that time. Another reason for its poor reception was the resistance and disapproval of Al-Iqbal's modernist and reformist agenda by religious traditionalists. These traditionalists, who mainly comprised the official religious hierarchy and traditional Malay elite, deemed Al-Iqbal's practices as "Westernized" and "profane", and therefore contradictory to Islam. In the face of negative feedback by the local community, Al-Iqbal was forced to close and relocate to Riau within 18 months of its opening.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCE79DC6E-D6C4-47A3-88AC-D26023D6FBF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">838</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">857</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC0A8EC03-9142-462D-BFF2-2854505F6AAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode27F9B8C8-4A8B-4D9A-8AD7-30A57DEADFDA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">838</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">841</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC0A8EC03-9142-462D-BFF2-2854505F6AAE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE5711DE0-94B9-40EF-962D-3B2CC29A32C5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">842</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">857</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC0A8EC03-9142-462D-BFF2-2854505F6AAE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Straits dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCBDE567E-2815-4C6A-A6B1-EDB28D75B409">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">974</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">992</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode02FED374-62CD-4776-B5B7-52FCCAFD947F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2F13621E-3F0A-4CA7-BE4C-171FEF9E2374">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">974</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">976</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode02FED374-62CD-4776-B5B7-52FCCAFD947F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">96</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF77B1F01-C41C-4F23-98A0-F71E594E9F3C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">977</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">992</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode02FED374-62CD-4776-B5B7-52FCCAFD947F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Straits dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

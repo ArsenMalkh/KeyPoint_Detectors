@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373257" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5D237CFC-F45F-4C6A-B653-D9F963A587BC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Nepalese rupee</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">270000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode53159560-3C74-4EBF-B251-0E66CB83F858">
+		<Aux:document_text xml:lang="en-US">Many people in Mustang depend on sheep and mountain goat rearing for livelihood. Some of the points of attraction of animal husbandry are: access to pastureland, proximity to the Kora La border pass, and favourable market prices, as well as and technical help and subsidy from District Livestock Services Office. Yak-cow hybrids (called jhopa, or dzo) are employed as draft animals. Horses are reared largely for transport. In 2016, Mustang earned Nepalese rupee 270 million by exporting 13,000 sheep and 9,000 mountain goats. In 2017, the district supplied at least 25,000 sheep and mountain goats to different markets of Nepal during the Dashain festival. An estimated number of 9,000 mountain goats assumed as imported from Tibet in 2017, though traditional Tibetan traders are increasingly prioritizing Chinese markets.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5A649734-D091-4D30-99BC-93016212B246">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D237CFC-F45F-4C6A-B653-D9F963A587BC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8614E46D-3A04-4BCD-AD12-C61E2C9BDC9F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D237CFC-F45F-4C6A-B653-D9F963A587BC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Nepalese rupee</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode17382D7E-4853-4FEE-9035-125DB722F6EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D237CFC-F45F-4C6A-B653-D9F963A587BC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">270000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

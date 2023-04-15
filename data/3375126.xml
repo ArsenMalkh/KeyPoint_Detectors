@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375126" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode17F1F7B1-772F-44B4-99E1-BE90499F2E81">
+		<BasicEntity:ms_major_currency xml:lang="en-US">cedis</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">74000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDBAA28B7-C08C-4F01-89E2-B51F91CEBE80">
+		<Aux:document_text xml:lang="en-US">The investments to “upgrade basic infrastructure” should have started that year, Dante Mossi, senior operations officer with the World Bank’s office in the West African nation, said in an interview in Accra, the capital, yesterday. “Ghana needs to keep up with the growth of the economy and the growing needs of the people,” he said. The West African nation’s economy, with a gross domestic product of 74 billion cedis ($38 billion) forecast for this year by the International Monetary Fund, grew 14.4 percent in 2011, the fastest pace in sub-Saharan Africa. This year, expansion of 9.4 percent is projected, according to the Finance Ministry. The IMF forecasts growth of 8.8 percent.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAD41DC61-355B-481A-BB8B-D1D7A798FCDD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17F1F7B1-772F-44B4-99E1-BE90499F2E81"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6B9848FB-C73D-4E6C-BF69-68959AB077FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17F1F7B1-772F-44B4-99E1-BE90499F2E81"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">74000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE9F3C158-738D-43BB-9EFB-B365A2E198EE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17F1F7B1-772F-44B4-99E1-BE90499F2E81"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">cedis</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

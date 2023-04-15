@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371011" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode91A52B24-F663-4BF6-A5D6-D4C67099D5E2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">46000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5252D3DD-AE76-4310-B59C-8F84A33639F9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">46000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2785162A-36BB-4DC6-85FC-0FEB35CC4240">
+		<Aux:document_text xml:lang="en-US">On June 29, 2011, Deal of the Year 2010 Award winners were announced at the Trade Finance Awards Dinner in London. This Award is held annually by Trade Finance Magazine, a reputable global publication. This year trade finance deal with the participation of Bank Saint Petersburg was named among the winners of this prestigious award. Deal Details:  MLA, Lender: Landesbank Berlin AG, Germany. Borrower: one of the largest customers of OJSC Bank “Saint-Petersburg”. Amount:  USD 46,000,000. Guarantor:  OJSC Bank “Saint-Petersburg”. Tenor: 3 years. ECA: Export-Import Bank of the United States (US Ex-Im). Advisors: Amco Advisors, London, UK. This project was awarded Deal of the Year 2010 as the largest goods delivery from the US to Russia covered by US Ex-Im in the last 15 years. US Ex-Im and Landesbank Berlin AG acted as the Lenders of the Russian Borrower and arranged USD 46 million buyer credit for gas equipment for a 3 year tenor. The Deal was accomplished due to the efforts of Bank Saint Petersburg acting as the Guarantor under the Guarantee Agreement made between Bank Saint Petersburg, Landesbank Berlin AG and US Ex-Im to secure the Borrower’s obligations to the Lenders.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9CA9CF08-7B19-417D-97B3-58A5940162B9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5252D3DD-AE76-4310-B59C-8F84A33639F9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6DB2439E-EB80-4198-9B7D-137E2F80860F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5252D3DD-AE76-4310-B59C-8F84A33639F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode40CC1E0D-C94A-4A5D-801C-E68A46AC3034">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">478</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">488</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5252D3DD-AE76-4310-B59C-8F84A33639F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">46000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA79CBB65-AAF0-447D-87C7-C1160DE8553E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">875</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">889</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91A52B24-F663-4BF6-A5D6-D4C67099D5E2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD19E9F02-576B-43AF-A440-80657AE363CE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">875</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">878</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91A52B24-F663-4BF6-A5D6-D4C67099D5E2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode833907CB-CBF7-486C-9915-DA512D696C7A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">879</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">889</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91A52B24-F663-4BF6-A5D6-D4C67099D5E2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">46000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

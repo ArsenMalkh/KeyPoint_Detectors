@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375243" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEE72A698-CEAF-49E4-B9AF-A4B04472477B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ringgit</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">21000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5F5178E8-A82D-4DB0-B2E5-DF125A55F0CC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Malaysian ringgit</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode67203CD1-6CFE-4AB4-940C-C2BFFD779213">
+		<Aux:document_text xml:lang="en-US">Brooke Renewables, a venture between Hock Lee Group, Brooke Asia Ltd. (BRK) and Biochemtex Agro Srl, is investing to build a second-generation bio-ethanol and bio-chemical plant in Sarawak, according to Agensi Inovasi Malaysia, set up by the government to facilitate innovation. The “Sarawak biomass hub” will be the first commercial facility in southeast Asia to produce second-generation biofuel made from inedible crops. “This is not only a huge project but also one which has multiple and continuous benefits on the state and national economy,” said Mark Rozario, chief executive officer of the AIM agency. It may involve as much as 20 billion Malaysian ringgit ($6 billion) in additional gross national income for the state, 21 billion ringgit in investment and more than 10,000 new green jobs created by 2023, he said in a statement. First-generation biofuel made from edible crops has been blamed for helping push up food prices.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7BDE2A8E-59D6-4396-8841-B55DEEC9C74F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">637</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">665</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F5178E8-A82D-4DB0-B2E5-DF125A55F0CC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode11A414C8-DA95-4760-9D33-95CFE7AE97ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">637</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">647</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F5178E8-A82D-4DB0-B2E5-DF125A55F0CC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode88789E37-0930-45DE-82E0-B0BEC9E5AA03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">648</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">665</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F5178E8-A82D-4DB0-B2E5-DF125A55F0CC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Malaysian ringgit</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode86BE03A3-F516-43F9-9290-F45AB2F97BFE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">730</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">748</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEE72A698-CEAF-49E4-B9AF-A4B04472477B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB42C4F85-866D-41E1-A4D9-240264B11D67">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">730</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEE72A698-CEAF-49E4-B9AF-A4B04472477B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">21000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3F7E8167-1892-4B41-9964-2A6718D0263C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">748</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEE72A698-CEAF-49E4-B9AF-A4B04472477B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ringgit</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

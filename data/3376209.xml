@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376209" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode70C70715-3CA3-4F31-AF71-9047911AA7E3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">LKR</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB44179DC-1127-4B81-9254-B43A0A0DE882">
+		<Aux:document_text xml:lang="en-US">In 1994, Sajin launched a company Tapes International Pvt Ltd in Free Trade Zone in Biyagama. He borrowed money from a couple (Wimalasiri and Shirani Fernando) to start the company but soon started default on the interest payments. Fernandos filed a case against Sajin in the district court of Colombo and demanded LKR 3.5 million as damages. Shirani Fernando later advised a newspaper that the case was concluded and the chapter was closed. In 1997, a Korean company had invested in Tapes International. Koreans's became suspicious about the financial malpractices of Sajin and reportedly prepared to bring in lawyers from USA to sue Sajin. Sajin then brought investments from an Indian individual called Sharma. However, in year 2000, Sharma filed a complaint against Sajin in the Fraud Bureau. Subsequently, Sajin was remanded for a period of 10 days in the Mahara remand prison. He was later bailed by his father who later had to sell his house in Wijerama Mawatha to settle Sharma's dues.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0917F812-C21E-4295-B114-371BDA3E4D8B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode70C70715-3CA3-4F31-AF71-9047911AA7E3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3BCE792C-8E49-4779-91F3-34B71D3CAD56">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode70C70715-3CA3-4F31-AF71-9047911AA7E3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">LKR</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeAF00FB62-D5A9-4E66-89AC-0E332C84908A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode70C70715-3CA3-4F31-AF71-9047911AA7E3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

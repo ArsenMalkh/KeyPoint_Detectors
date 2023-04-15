@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370142" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode37696B8C-CAA9-42A0-B091-7076ECFCA330">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ECU</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode11A6CC04-5234-43CD-9A96-5B39D01548A1">
+		<Aux:document_text xml:lang="en-US">The Council also accordingly amended Regulation no 549/69 determining the categories of officials and other servants of the European Communities to whom the provisions of Article 12, the second paragraph of Article 13 and Article 14 of the Protocol on the Privileges and Immunities of the Communities apply. Chernobyl Shelter FundThe Council adopted a Decision concerning a Community contribution to the Chernobyl Shelter Fund set up at the European Bank for Reconstruction and Development.  This Decision provides for a contribution by the Community of up to 100 million ECU over the two years 1998-1999 to be managed by the Commission. The contribution will be taken from existing TACIS credits. The annual appropriations will be authorized by the budgetary authority within the limits of the financial perspective.  The Decision follows the agreement of the G7 at the Denver Summit in June 1997 on the setting up of a multilateral funding mechanism to assist Ukraine in transforming the existing Chernobyl sarcophagus into a safe and environmentally stable system.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCE4A07E4-3B36-4F65-A5B3-F3258F328C04">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">560</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">575</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode37696B8C-CAA9-42A0-B091-7076ECFCA330"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDD20FBFF-3C53-41B5-AFAC-99C7CA637C4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">560</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode37696B8C-CAA9-42A0-B091-7076ECFCA330"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7F28A239-D9C0-40B6-AD85-728E55326A3D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">572</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">575</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode37696B8C-CAA9-42A0-B091-7076ECFCA330"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ECU</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

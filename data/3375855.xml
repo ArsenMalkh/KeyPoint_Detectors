@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375855" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD069567B-E051-4FE9-B488-EED7A2D14185">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Djiboutian franc</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">350</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode64004AE8-96E7-49B2-9E5B-0B89157CE30A">
+		<Aux:document_text xml:lang="en-US">It lies at an elevation of 755 metres (2,477 feet) above sea level. It lies on highlands known as the Arta Mountains. The temperate central portion, where Arta lies, is situated on a rocky highland plateau, which over looks the coastal plains. The town is connected to other environs by National Highway 4. Public buses go from Djibouti City to Arta. It takes half an hour to get to Arta. A contracted bus ride from Djibouti city to Arta can charge between 350 Djiboutian franc. We`a is situated just down the mountain, around 3 kilometres (1.9 miles) to the south. Sunshine is abundant in the town, averaging eight to ten hours a day year-round. It is lowest during the wet season, when there is some coastal fog and greater cloud coverage as warm air passes over the mountains.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode11825E37-41EB-42E1-9D41-BBE97FB8DE9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD069567B-E051-4FE9-B488-EED7A2D14185"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDCE04FCF-05BD-426F-B5BC-103818D27628">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD069567B-E051-4FE9-B488-EED7A2D14185"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">350</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8F63ABC0-4167-48F4-A995-0B5D93FBB1D9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">461</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD069567B-E051-4FE9-B488-EED7A2D14185"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Djiboutian franc</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

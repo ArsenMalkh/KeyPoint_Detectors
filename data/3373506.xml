@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373506" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeBEF7EAC7-0AF9-4CF1-BD5D-1F09753687F2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Estonian kroon</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF4CB815B-FC7E-40D6-81FA-557152834206">
+		<Aux:document_text xml:lang="en-US">Hiiu Stadium (Estonian: Hiiu staadion) is a multi-purpose stadium in Tallinn, Estonia. The stadium and the administration building are owned by Nõmme district and are operated by Nõmme Sport Centre (Nõmme spordikeskus). It is used mostly for football matches and is the home stadium of Nõmme Kalju youth teams. The address of the stadium is Pidu tänav 11, Tallinn. The stadium was completely renovated in 2002 and cost 8 million Estonian kroon. In 2006, the old artificial turf was replaced by a 3rd generation turf and an administration building with a stand for 300 people was erected. On 10 September 2011, the highest recorded attendance was set, when 2,730 people watch a football match between hosts JK Nõmme Kalju and FC Flora Tallinn.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC4A4EA35-FE5F-4A31-AB9A-08C4D3C71F17">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBEF7EAC7-0AF9-4CF1-BD5D-1F09753687F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6079A283-AA02-4A2D-AF43-2FBBB0B049E2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBEF7EAC7-0AF9-4CF1-BD5D-1F09753687F2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode98F09A03-8229-47FC-9EC5-55A1CD6F86D2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">443</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBEF7EAC7-0AF9-4CF1-BD5D-1F09753687F2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Estonian kroon</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

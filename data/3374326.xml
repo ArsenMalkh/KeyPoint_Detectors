@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374326" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFF675A4E-64A8-45BC-BC03-3BBA934E78AC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Sri Lankan rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">600000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD5CF2D67-19AA-46CB-A59C-3BB11F0E260E">
+		<Aux:document_text xml:lang="en-US">Due to the cyclone, approximately a thousand people died, more than one million people affected, nearly 250,000 houses partially and completely damaged, 240 school buildings damaged, one fifth of Batticaloa's fishing fleet destroyed, 9 of the 11 paddy stores destroyed and 90 percent of the coconut plantation (28,000 odd acres of coconut plantation) in the Batticaloa district destroyed. The Sri Lankan government spent over 600 million Sri Lankan rupees in relief efforts in the aftermath of the disaster. A tropical cyclone report noted that over 130 electrical lines were downed and copious amounts of religious buildings were reduced to rubble. The cyclone resulted in people being left without electricity and water. Many houses suffered severe structural damage due to the excessive speed of the cyclone.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA09A0197-4D57-49B4-BC0B-4E9890A31550">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFF675A4E-64A8-45BC-BC03-3BBA934E78AC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode07F036CD-0FDA-4D73-97A3-D2176209636D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">437</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFF675A4E-64A8-45BC-BC03-3BBA934E78AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">600000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBFD0C567-6C4E-401D-B20B-AE3758B6C3E0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">438</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFF675A4E-64A8-45BC-BC03-3BBA934E78AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Sri Lankan rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

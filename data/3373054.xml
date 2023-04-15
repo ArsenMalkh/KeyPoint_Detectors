@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373054" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode31C54C37-1310-4C8D-BE34-9AAFAD9F8488">
+		<BasicEntity:ms_major_currency xml:lang="en-US">NZ$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">235000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7752852D-1D77-426A-BA96-7C07DFDE774F">
+		<Aux:document_text xml:lang="en-US">Much of the film was shot in and around Jackson's hometown of Pukerua Bay, north of Wellington, New Zealand using a 25-year-old 16mm Bolex camera. Originally begun as a 20-minute short film called 'Roast of the Day', Bad Taste was shot primarily on weekends over the course of four years, at an initial cost of around $25,000. Toward the end of the shoot the New Zealand Film Commission invested around NZ$235,000 into the film to ensure its completion. Heavily influenced by special effects pioneer Tom Savini, Jackson incorporated many absurdly gory special effects. Peter Jackson himself plays two acting roles. In one early scene halfway down a cliff, careful editing, utilising shots taken months apart, makes it possible for the two characters, Derek and the alien Robert (both played by Jackson), to fight one another.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode03BC2EDD-B696-4183-87DD-2D08C7340199">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31C54C37-1310-4C8D-BE34-9AAFAD9F8488"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA225D876-A63C-4796-AC01-5E6C1E44ECA4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31C54C37-1310-4C8D-BE34-9AAFAD9F8488"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">NZ$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode80CABA70-3164-43C3-A7BD-B7412F81C3B6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode31C54C37-1310-4C8D-BE34-9AAFAD9F8488"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">235000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

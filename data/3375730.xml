@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375730" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode056EE1E3-8D66-4860-A637-6103BC7CCA3D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₤</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">855103</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEFB63A05-0FBC-42ED-993B-629A0D3625B7">
+		<Aux:document_text xml:lang="en-US">The city grew under the administration of its new Commissioner, Henry Bartle Edward Frere, who was appointed in 1850s. Karachi was recognized for its strategic importance, prompting the British to establish the Port of Karachi in 1854. Karachi rapidly became a transportation hub for British India owing to newly built port and rail infrastructure, as well as the increase in agricultural exports from the opening of productive tracts of newly irrigated land in Punjab and interior Sindh. By 1856, the value of goods traded through Karachi reached ₤855,103, leading to the establishment of merchant offices and warehouses. The population in 1856 is estimated to have been 57,000. During the Sepoy Mutiny of 1857, the 21st Native Infantry, then stationed in Karachi, mutinied and declared allegiance to rebel forces in September 1857, though the British were able to quickly defeat the rebels and reassert control over the city.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE534B3DE-0B27-4A59-B6D5-202ACB30874B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode056EE1E3-8D66-4860-A637-6103BC7CCA3D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4BD3687F-5627-4296-BB96-3407E22A8B28">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode056EE1E3-8D66-4860-A637-6103BC7CCA3D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₤</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode68B315C8-3604-43F6-B1B1-2554C93E0D90">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">549</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode056EE1E3-8D66-4860-A637-6103BC7CCA3D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">855103</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

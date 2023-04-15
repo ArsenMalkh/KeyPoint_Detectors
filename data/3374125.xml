@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374125" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA40AEB15-D31C-436E-B5F1-55FC1960A8D8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">THB</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">11000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode491F1CE7-E08F-40F7-902D-20546C0D9E28">
+		<Aux:document_text xml:lang="en-US">In 2014, Switch formed SUPERNAP International in partnership with ACDC Fund and its two limited partners Orascom TMT Investments and Accelero Capital to build data centers based on designs from the Tier IV-rated Switch SUPERNAP U.S. facilities. The two new SUPERNAP International campus projects under construction are located in Siziano, Italy slated to open late 2016 and the Chonburi Province, Thailand campus opening in early 2017. The SUPERNAP data center campus in Siziano, Italy will be 452,084 square-feet (42,000 m2) and have 40-megawatt power distributed via two 132kV transmission paths. The US$300 million (11 billion THB) Thailand SUPERNAP data center facility will have capacity for more than 6,000 data server racks. It will cover an area of nearly 75 rai (12 hectares) and is located 27-kilometers away from an international cable landing station linking national and international telecoms and IT carriers.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE9A8D411-671D-4CB9-A39C-C283BF25B6EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA40AEB15-D31C-436E-B5F1-55FC1960A8D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6D766C61-59B3-420A-9B8B-45A43DE2B3DD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA40AEB15-D31C-436E-B5F1-55FC1960A8D8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">11000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB94954E1-07EA-4C5C-B66C-BFA2D581003B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA40AEB15-D31C-436E-B5F1-55FC1960A8D8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">THB</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

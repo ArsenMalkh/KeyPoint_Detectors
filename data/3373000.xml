@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373000" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA7810A40-293C-4846-8494-368C659FAE1C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">United Arab Emirates dirham</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7B8636EF-DD79-450B-B12C-027E4054FD8C">
+		<Aux:document_text xml:lang="en-US">Dog fighting is illegal in the United Arab Emirates according to Federal Law No. 16 of 2007 on animal welfare and its amendments in Federal Law No. 18 of 2016. It is considered an 'act of animal cruelty' that is punishable by either imprisonment for a term not exceeding one year, or a fine of 200,000 United Arab Emirates dirham, or both. United Kingdom Dog fighting remains illegal under U.K. law. Despite periodic dog fight prosecutions, however, illegal canine pit battles continued after the Cruelty to Animals Act 1835 of England and Wales. The Protection of Animals Act 1911 was specific in outlawing "the fighting or baiting of animals"; however, the sport remains popular in underground circles, particularly among the gypsy and traveller communities.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode754FFE54-E320-47E0-A6A8-CCE3A93A2A64">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA7810A40-293C-4846-8494-368C659FAE1C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6409E2E8-577A-4BB3-9E90-66AA64385C55">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">294</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA7810A40-293C-4846-8494-368C659FAE1C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode072E0D78-34C8-4FB3-A0BB-D0A438A0842C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA7810A40-293C-4846-8494-368C659FAE1C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">United Arab Emirates dirham</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

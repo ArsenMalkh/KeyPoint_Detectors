@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375848" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode91094D20-FE5C-49AE-A921-1F496E68B42D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds Sterling</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode69DF13B5-C5F3-4BC5-A201-F3B5B27EC6B7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds Sterling</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE4C4E7B4-D44A-454D-B3C2-5EAFF6C1F644">
+		<Aux:document_text xml:lang="en-US">The island of Bombay which was a Portuguese possession became a part of the dowry of the Portuguese princess Infanta Catherine of Braganza on her marriage to Charles II of England under the Anglo Portuguese treaty of June 1661. In 1668 King Charles transferred it to the East India Company for a loan of pounds Sterling 50,000 at 6% interest and with a rental of pounds Sterling 10 per annum. Gerald Aungier was placed in charge of the British East India Company's newly acquired factories at Surat and Bombay, which had until then belonged to Portugal. As Governor of Bombay from 1672—1677, Angier built a church, a hospital, a court of justice and other civic amenities on the English model, and fortified the Company's commercial establishment. The foundation stone for the church was laid in 1676, on Bombay Green, at the present site of the St. Thomas' Cathedral, but over 40 years elapsed before construction could be completed. Richard Cobbe, the Chaplain, completed the construction of the building between 1715 and 1718. It was opened for divine service on Christmas Day 1718, and since then has served continuously as an Anglican place of worship. However in 1816 the church was dedicated to St. Thomas, the apostle, by Thomas Middleton, the first Bishop of Kolkata</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode421F746E-3BCA-4A59-9913-F8A2112B4983">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode69DF13B5-C5F3-4BC5-A201-F3B5B27EC6B7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6A0C1E88-C9F2-4364-B3E1-4C7A031FEF06">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode69DF13B5-C5F3-4BC5-A201-F3B5B27EC6B7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds Sterling</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD13D45AE-8215-4AD1-8663-A89F82B04A8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode69DF13B5-C5F3-4BC5-A201-F3B5B27EC6B7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD9B02123-E4A0-4878-B3F1-A5D48964D2F7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">381</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91094D20-FE5C-49AE-A921-1F496E68B42D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB2A4EAE4-3EDC-4127-8298-40B081EF4744">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">378</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91094D20-FE5C-49AE-A921-1F496E68B42D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds Sterling</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCA93B415-FD16-444E-80BF-9E9D7C64DCFE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">381</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91094D20-FE5C-49AE-A921-1F496E68B42D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

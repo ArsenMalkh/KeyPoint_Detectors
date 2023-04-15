@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374508" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode10A7CA75-459C-48FB-8206-F096324FFD99">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Rupiah</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">48300000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC89FEEB1-CADF-475C-84DF-B6A48B819F04">
+		<Aux:document_text xml:lang="en-US">In 2019, VIVA Group made an undisclosed investment in BumiLangit Studios, Indonesian character based entertainment company in Indonesia. Bakrie is concurrently co-leading the development of Indonesia’s own superhero cinematic universe through the library of the intellectual property rights of BumiLangit Studios that he invested in. He aims to replicate the global success of Marvel and DC Comics. The first movie in line, Gundala released in August 2019 was a theater hit grossing 48,3 million Rupiah. Aside from his business career, Anindya was appointed as the chairman of the Indonesian Asia-Pacific Economic Cooperation Business Advisory Council (ABAC) by the Indonesian president Susilo Bambang Yudhoyono and subsequently by the administration of Joko Widodo. Sports team ownership In addition to his business, Bakrie has made an undisclosed investment to English football club Oxford United FC in 2019. Moreover, he was appointed as a board member at the club, joining his countryman and former Inter Milan owner Erick Thohir in Oxford United board of directors. Oxford United currently competing in EFL League One - the 3rd tier of English football league system.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAC8FB12C-AF09-4EED-ACE7-D3F51379F2E4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">483</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10A7CA75-459C-48FB-8206-F096324FFD99"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode993EBBBD-9241-4DA1-9E89-39B93F982D52">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">483</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">495</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10A7CA75-459C-48FB-8206-F096324FFD99"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">48300000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF5141E09-3CF8-4936-B69C-F26087D368C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10A7CA75-459C-48FB-8206-F096324FFD99"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Rupiah</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

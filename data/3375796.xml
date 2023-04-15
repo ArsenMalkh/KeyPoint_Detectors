@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375796" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode28FFD71F-8FA5-4FA5-81D9-EFA972F80DE2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13900000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDA40CD3D-7A02-44EA-AFA9-CA0585670A2E">
+		<Aux:document_text xml:lang="en-US">Wieczorek-Zeul kept her office after Schröder's defeat in the 2005 elections and served in the first government Chancellor Angela Merkel from 2005 until 2009. Wieczorek-Zeul initiated the EU's target of increasing its official development assistance (ODA) from 0.51 percent by 2010 to 0.7 percent of the GDP by 2015. During her time in office, German ODA increased regularly and reached 13.9 billion US$ in disbursements in 2008, taking it to 0.38 percent of GNI. In October 2007, Wieczorek-Zeul joined Merkel on her first official trip to Africa – including stops in Ethiopia, Liberia and South Africa –, during which they met with Nelson Mandela and Graça Machel, John Kufuor and Ellen Johnson-Sirleaf, among others. She also visited Kenya's sprawling slum at Mathare 4A, Kasarani District and virtually pitied Mathare 4A primary school, which had been invaded and harassed by squatters. Today, the old school has been replaced by a new Heidemarie (formally, Mathare 4A) Primary School, courtesy of the German Government through KfW Entwicklungsbank and the government of Kenya.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBDD3713C-D3A5-4165-B30A-73568F7FE338">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28FFD71F-8FA5-4FA5-81D9-EFA972F80DE2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF9D2C6EA-7D52-4BEE-90FC-DC1A87062426">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">387</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28FFD71F-8FA5-4FA5-81D9-EFA972F80DE2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13900000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode814626B9-3ED1-421E-82A0-A91B33D7E8D2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28FFD71F-8FA5-4FA5-81D9-EFA972F80DE2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

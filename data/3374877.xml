@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374877" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9A8BDFF7-7B24-4197-A04C-C8A61DE15343">
+		<BasicEntity:ms_major_currency xml:lang="en-US">EGP</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">169000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF137B922-6CFC-4509-94B6-4F6FAFAA0264">
+		<BasicEntity:ms_major_currency xml:lang="en-US">EGP</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">421000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB24720F8-1964-4E62-9756-AE3B9716CD31">
+		<Aux:document_text xml:lang="en-US">At the end of December 2005, the Group acquired an additional 19.68% of the capital of Sinai Cement Company, bringing the Group's percentage stake in this Egyptian company to 48.25%). Although the Group does not have the majority of voting rights, it does effectively control the company as the remaining shareholders are neither structured nor organised in such a manner as to mobilise a greater number of votes than those held by Vicat. Therefore, Sinai Cement Company, which income statement had been proportionally consolidated over the year 2005, was fully consolidated in the consolidated balance sheet at December 31, 2005 and in the financial statements for 2006. Note that this company had sales of EGP 421 million and restated net income of EGP 169 million for the year ended December 31, 2005. Non-current assets held for sale: In a rapidly changing market under pressure from domestic competitors, high inflation in steel prices and inroads by competing PVC products, CEPECA is no longer large enough to compete effectively against its main competitors and achieve satisfactory profitability. In this difficult environment, the Group has organised the transfer of the CEPECA activity to a major player in the sector with the necessary resources and expertise in the business, which will provide the attention that this entity requires. This project led to the signing of an agreement at year-end 2006 and the effective transfer of the activity is expected to take place near the end of March 2007.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode24BB60A4-72CE-42C2-BC4F-0197D0CBD085">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">708</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF137B922-6CFC-4509-94B6-4F6FAFAA0264"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC14CAF02-21FF-42F1-9629-687AA9DE5312">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">708</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">711</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF137B922-6CFC-4509-94B6-4F6FAFAA0264"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">EGP</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFB0CF370-70C9-4BD1-83FF-03CDEDC07696">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">712</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF137B922-6CFC-4509-94B6-4F6FAFAA0264"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">421000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode80DFD255-4E97-4592-A231-972C608923BA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">751</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">766</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A8BDFF7-7B24-4197-A04C-C8A61DE15343"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8D47E6C6-6943-4602-A04A-14C8F272A3A6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">751</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">754</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A8BDFF7-7B24-4197-A04C-C8A61DE15343"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">EGP</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0F212891-96A4-4813-9931-ED1B2BFB71AD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">755</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">766</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A8BDFF7-7B24-4197-A04C-C8A61DE15343"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">169000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

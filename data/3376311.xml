@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376311" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF5EF14E8-9BA5-4697-BADF-11376BD24463">
+		<BasicEntity:ms_major_currency xml:lang="en-US">quetzals</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode19443126-C64F-4E31-A4FA-CEF50456C827">
+		<BasicEntity:ms_major_currency xml:lang="en-US">quetzals</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode939709A1-22CE-44BE-BB35-A3FB3058D97B">
+		<Aux:document_text xml:lang="en-US">In 2016 the Commission of legislation and constitutional points of Congress (Spanish: Comisión de Legislación y Puntos Constitucionales del Congreso) in Guatemala rejected the Law to regulate the cultivation, production, distribution, commercialization, medicinal and recreational consumption of cannabis (Spanish: Ley para Regular el Cultivo, Producción, Distribución, Comercialización y Consumo Medicinal y Recreativo del Cannabis) as "unfeasible, inopportune, and unconstitutional". The law had been proposed in April of that year by the congressmen from the party Convergencia. Alvaro Velázquez, one of the congressmen, had said he would keep trying for the initiative to advance but he died in 2017. Conviction and sentences According to Guatemalan law, cannabis is illegal, as of 2016, and a person convicted of personal consumption of a drug (including cannabis) would be sentenced to a minimum of 4 months in jail and a 200 quetzals fine, and up to 5 years and a 10,000 quetzals fine, but because "personal consumption" is not defined properly, the prosecutor can accuse the person of traffic and the judge may give a sentence of up to 20 years in prison.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode30404358-B328-4176-8111-9CC9BF6E68F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">928</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode19443126-C64F-4E31-A4FA-CEF50456C827"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode58547BF6-ED12-456C-A4CF-B6856B85CCFA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">928</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">931</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode19443126-C64F-4E31-A4FA-CEF50456C827"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3C7A3276-B52A-442B-A962-F023B215B2E8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">932</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode19443126-C64F-4E31-A4FA-CEF50456C827"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">quetzals</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDC2D1185-B094-4EAC-806B-0C9C9106E344">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">971</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">986</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF5EF14E8-9BA5-4697-BADF-11376BD24463"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC49CAA0B-FD87-44FB-8612-0DCED67B4C36">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">971</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">977</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF5EF14E8-9BA5-4697-BADF-11376BD24463"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9DF919BD-EDB4-47A0-BA1D-9E9207AB6397">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">986</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF5EF14E8-9BA5-4697-BADF-11376BD24463"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">quetzals</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

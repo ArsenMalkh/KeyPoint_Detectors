@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375754" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA9F3EDCD-8A86-4899-872B-EAAC9F990D06">
+		<BasicEntity:ms_major_currency xml:lang="en-US">dinars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">17000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode52B25AD5-0277-4DE7-B54D-7DAFF5E105E4">
+		<Aux:document_text xml:lang="en-US">Montenegro suffered severely in World War I. Shortly after Austria-Hungary declared war on Serbia (28 July 1914), Montenegro lost little time in declaring war on the Central Powers – on Austria-Hungary in the first instance – on 6 August 1914, despite Austrian diplomacy promising to cede Shkoder to Montenegro if it remained neutral. For purposes of coordination in the fight against the enemy army, Serbian General Bozidar Jankovic was named head of High Command of both Serbian and Montenegrin armies. Montenegro received 30 artillery pieces and financial help of 17 million dinars from Serbia. France contributed a colonial detachment of 200 men located in Cetinje at the beginning of war, as well as two radio-stations – located on top of Mount Lovćen and in Podgorica. Until 1915 France supplied Montenegro with necessary war material and food through the port of Bar, which was blockaded by Austrian battleships and submarines. In 1915 Italy took over this role, running supplies unsuccessfully and irregularly across the line Shengjin-Bojana-Lake Skadar, an unsecured route because of constant attacks by Albanian irregulars organised by Austrian agents. Lack of vital materials eventually led Montenegro to surrender.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7AFFE85F-10B8-40F8-BA2F-54C2399DE1FD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">567</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA9F3EDCD-8A86-4899-872B-EAAC9F990D06"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6ACE06AB-92F6-4876-8CEF-9C2CED8EB2AA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">567</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">577</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA9F3EDCD-8A86-4899-872B-EAAC9F990D06"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">17000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0002582C-10CC-4AAE-9C61-D0775F762F8C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">578</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA9F3EDCD-8A86-4899-872B-EAAC9F990D06"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">dinars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

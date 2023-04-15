@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373077" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7F0704DF-B7CF-4916-BE7A-D943BA66C5F3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode773E3CE7-2AD7-4B62-BF27-C77E3F87A851">
+		<Aux:document_text xml:lang="en-US">As of 2018, the number of U.S. citizens residing in their vehicles because they can't find affordable housing has "exploded", particularly in cities with steep increases in the cost of living such as Seattle, Los Angeles, Portland, and San Francisco. Bloomberg reported in November 2018 that the wealthiest cities in the U.S., in particular those in the Western states, are experiencing a homelessness crisis driven largely by stagnant wages and "skyrocketing rents". In 2019, Google had pledged one billion USD into funding 20,000 homes over the next decade throughout the San Francisco Bay Area. The metropolitan area of San Francisco has some of the most expensive real estate in the United States. Housing First The Housing First approach recognizes that housing is one of the most impactful social determinants of health that affect those experiencing homelessness. Housing First has met with success since its initial implementations in 2009 by providing relatively no strings-attached housing to homeless people with substance abuse problems or mental health issues. Housing First allows homeless men and women to be taken directly off the street into private community-based apartments, without requiring treatment first. This allows the homeless to return to some sense of normalcy, from which it is believed that they are better-poised to tackle their addictions or sicknesses. The relapse rate through these types of programs is lower than that of conventional homeless programs.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0E7CB2AE-C2D7-475B-9F4F-AE553711B9EC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F0704DF-B7CF-4916-BE7A-D943BA66C5F3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA1FA9DD-C9AF-4192-9AA4-6F90CF6707DE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F0704DF-B7CF-4916-BE7A-D943BA66C5F3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDD3FC316-0A09-4236-8E7A-07EC47D6E8F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">508</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">511</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F0704DF-B7CF-4916-BE7A-D943BA66C5F3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374726" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4652A5C1-C572-45AE-AE68-31F3A59CCE25">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Liberian dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB7CF497E-BE5F-48BD-A5DC-4B42BDFECDFD">
+		<Aux:document_text xml:lang="en-US">Legal detention centres do not exist in a number of counties. On a visit to Cestos City in River Cess County, the Panel found six individuals, all in pre-trial detention, sharing a rudimentary windowless room in a derelict building that housed a Magistrates' Court. They slept on the rough sand floor, using foam mattresses and blankets, but were usually allowed to sit outside during the day. An UNMIL human rights officer was not aware of any sentenced person being sent to jail. In one case, a presiding judge fined a man 2,500 Liberian dollars for flogging his son severely. The judge said he would have sent him to prison if the appropriate facilities had been available. A newly renovated maximum-security prison 7 km outside Zwedru is awaiting electricity and lighting before it can become operational. The head of United Nations police corrections in Zwedru estimated it would be opened by August 2007. The prison is designed to accommodate 126 inmates. Its primary function will be to accommodate sentenced prisoners, although the unarmed status of LNP means that operational security arrangements will need to be organized with UNMIL.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA1BAA7BC-6549-4AB2-8033-56E64500D941">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">525</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4652A5C1-C572-45AE-AE68-31F3A59CCE25"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5AD9DCF7-3565-4F37-91CF-E3B33E9AD75E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">525</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4652A5C1-C572-45AE-AE68-31F3A59CCE25"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2A05D605-0181-4544-957E-C062ABA70DAF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4652A5C1-C572-45AE-AE68-31F3A59CCE25"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Liberian dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

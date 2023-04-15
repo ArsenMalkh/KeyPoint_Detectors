@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372145" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode28AEEBFC-FE6B-4ABB-AEB3-F5707935329C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAB0AF0E7-4150-42D5-B6F0-4E3FCB11BE9A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">40000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFD5107A5-09C2-4AD8-A057-1F33A326D0C5">
+		<Aux:document_text xml:lang="en-US">The global economy during the third quarter of the fiscal year (FY) 2010 (October 1, 2010 to December 31, 2010) continued to follow a pattern of recovery, albeit at a slowing pace. In the U.S., although some economic indicators are brighter, the economy has not fully recovered as indicated by factors like the employment conditions still being harsh. In Europe, although there continues to be internal economic polarization due to economic weakness in southern European countries, strong manufacturing activity in Germany and France ensured Europe’s bottomed-out economy continued its recovery. In China, though slowing, internal and external demand continued at high levels and the economy continued to follow an expansionary pattern. Meanwhile, Japan’s economy was at a standstill. While corporate revenues and capital investment improved despite the yen climbing to a 15-year high, external demand weakened slightly due to fewer exports to Asia. Personal consumption also remained weak despite the recovery that the economic stimulus measures provided. Looking at the maritime shipping market conditions, in the dry bulker market, Cape-size bulkers’ hire rate largely fluctuated. The rate stayed at the US$40,000/day level from mid October to early November on account of increased iron ore imports in China but then the import growth faltered, causing the rate to plunge to the US$20,000/day 2 (Unaudited translation of ‘kessan tanshin’, provided for reference only)</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode77054209-ACBF-4231-ADEC-144275DEF998">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1207</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1216</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB0AF0E7-4150-42D5-B6F0-4E3FCB11BE9A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5E634F1E-8525-4034-98BE-61DCCA0BF0BF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1207</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1210</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB0AF0E7-4150-42D5-B6F0-4E3FCB11BE9A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0254780F-7F52-49C1-8032-9C5E558B004B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1210</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1216</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB0AF0E7-4150-42D5-B6F0-4E3FCB11BE9A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">40000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode208D5087-C409-40CB-97EE-7FAB4766FCB5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1392</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28AEEBFC-FE6B-4ABB-AEB3-F5707935329C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3A909648-AE47-49E2-B79C-0F54B014C14B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28AEEBFC-FE6B-4ABB-AEB3-F5707935329C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD03D74DD-B698-4979-B5F2-235CED7B0548">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1386</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1392</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28AEEBFC-FE6B-4ABB-AEB3-F5707935329C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

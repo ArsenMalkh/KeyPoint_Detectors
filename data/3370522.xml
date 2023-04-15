@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370522" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDFB15C6D-5F91-46A1-BC55-B1C9D207BF3A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">409</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0E19F6AA-61F1-4867-A7B9-08724BB2640D">
+		<Aux:document_text xml:lang="en-US">SUBTOTAL(109,[Balance]) Table1[[#Totals],[Balance]] &amp;C&amp;10Page &amp;P Table1 Physician phone number Systolic Diastolic Call physician if above Target blood pressure* * National Institutes of Health standard Heart Rate Morning Evening Blood Pressure Tracker m/d/yy;@ Blood Pressure Data Blood Pressure Chart vDateTime 'Blood Pressure Data'!$B$15:$C$28 vDiastolic 'Blood Pressure Data'!$E$15:$E$28 vHeartRate 'Blood Pressure Data'!$F$15:$F$28 vSystolic 'Blood Pressure Data'!$D$15:$D$28 Table1_1 Manager Fuel Meals For Office Use Only Hotel PURPOSE: STATEMENT NUMBER: PAY PERIOD: EMPLOYEE INFORMATION: APPROVED: NOTES: Expense Report Cash Advances m/d/yyyy;; [$-409]d\-mmm\-yy;@ SUM(Table1[[#This Row],[Hotel]:[Misc]]) SUBTOTAL(109,[Hotel]) SUBTOTAL(109,[Transport])</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDF4D90EC-3BC6-4016-B33D-D8A46D22A040">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">658</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDFB15C6D-5F91-46A1-BC55-B1C9D207BF3A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode62F5063D-526A-4356-9575-56040CFEBFF4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">654</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDFB15C6D-5F91-46A1-BC55-B1C9D207BF3A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEC55ECDE-02FE-4F30-958E-4D2F0FA5F006">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">655</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">658</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDFB15C6D-5F91-46A1-BC55-B1C9D207BF3A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">409</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

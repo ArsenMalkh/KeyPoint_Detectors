@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376103" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD11B4F1B-87CF-4E3B-9575-72814B63CB4A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds sterling</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAEAA5FE7-F510-4210-B816-4B0DDAA2FFC4">
+		<Aux:document_text xml:lang="en-US">Sections 10 and 11 and 23 and 24, so far as unrepealed, were repealed by section 56 of, and Part I of Schedule 2 to the Administration of Estates Act 1925 (15 &amp; 16 Geo 5 c 23). Section 24 was also repealed by section 207 of, and Schedule 7 to, the Law of Property Act 1925 (15 Geo 5 c 20). Section 16 Sales of Goods Section 16 proved no contract for the sale of goods for the price of ten pounds sterling or more shall be good except if the buyer shall accept part of the goods and actually receive the same or give some thing in earnest to bind the bargain or in part of payment, or that some note or memorandum in writing of the said contract signed by the parties to be charged by such contract or their authorized agents. This section was amended by section 7 of the Statute of Frauds Amendment Act 1828 (9 Geo. 4 ch 14) to cover goods to be delivered in the future, not yet manufactured, or not yet fit for delivery.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode72738C2B-00FC-4EBB-B97A-6945E53DD889">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD11B4F1B-87CF-4E3B-9575-72814B63CB4A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC2722AF3-D31E-49AC-BCB3-09C445EE770B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD11B4F1B-87CF-4E3B-9575-72814B63CB4A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9C074A0B-056D-4DC2-9A2F-E0BA72DAD2BB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD11B4F1B-87CF-4E3B-9575-72814B63CB4A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds sterling</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

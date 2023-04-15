@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374901" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode2E54B654-4165-47EE-9CAC-F4CE011187FC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">us dollar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">25000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode950D24D2-1CA3-4C4B-9F2C-02606240E3C2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">us dollar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode79FA60FF-D4CE-4F93-90C2-0D3A2AC39D60">
+		<Aux:document_text xml:lang="en-US">o Under us legislation (10 u.s.c. Art. 2327 and related provisions), the us ministry of defense and its departments are prohibited from awarding contracts to companies when a foreign government owns or controls a significant, i.e. greater than 5%, share of the company and that government has been determined by the us Secretary of State to be of a country that has repeatedly provided support for acts of terrorism. Companies concerned are disqualified from bidding for government contracts and placed on a public list issued by the u.s. General Services Administration, Office of Acquisition Policy (Listing). o us companies, specifically automobile manufacturers, typically demand assurances from suppliers that they are unconditionally qualified to conclude government contracts. The legislation applies to contracts greater than us dollar 100,000 and subcontracts greater than us dollar 25,000. o In view of the over 5% interest of IFIC Holding ag in ThyssenKrupp ag, at the end of April 2003, the Office of the United States Undersecretary of Defense announced that it would place the Group on the public list unless the interest held by IFIC Holding ag was reduced and a deadline of only a few days was set for confirmation of compliance. Previously, ThyssenKrupp ag had been requested to ensure that ThyssenKrupp subsidiaries would not bid for contracts above the legislative limits. All efforts by ThyssenKrupp ag to obtain a waiver or an amendment to the us legislation had failed and alternative, less drastic measures were not available. Through the repurchase of ThyssenKrupp ag shares from IFIC Holding ag, the imminent public listing and subsequent serious damage to ThyssenKrupp ag's business activities in the usa were avoided.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7513DAEB-6876-47C0-BE32-79C0ECDDD6E4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">834</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">851</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode950D24D2-1CA3-4C4B-9F2C-02606240E3C2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode97EE52B1-182A-4009-A360-F77A08A71A85">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">834</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">843</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode950D24D2-1CA3-4C4B-9F2C-02606240E3C2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">us dollar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFC35FF18-8FE2-40F5-A53B-3B1C0B5996C7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">844</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">851</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode950D24D2-1CA3-4C4B-9F2C-02606240E3C2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5F44F18F-B230-4FB5-84F4-95840C81A8EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">882</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E54B654-4165-47EE-9CAC-F4CE011187FC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD9B2F645-9FC5-41F1-919B-7B71A6E8E175">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">882</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">891</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E54B654-4165-47EE-9CAC-F4CE011187FC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">us dollar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode93513E93-9D0C-4ECC-9D72-650FFD47CD41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">892</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E54B654-4165-47EE-9CAC-F4CE011187FC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">25000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

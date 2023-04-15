@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376329" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDE393905-F56E-4DE5-B4E1-F3555EE0CDCF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">VND</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2665CBD8-0EEC-4E43-8418-1162B9164C2F">
+		<Aux:document_text xml:lang="en-US">The Tailor (Vietnamese: Cô Ba Sài Gòn) is a 2017 Vietnamese 35mm drama film directed by Trần Bửu Lộc and Nguyễn Lê Phương Khanh. Ngo Thanh Van and Thuy Nguyen are the producers of the movie which is loosely based on a script by A Type Machine. Starring Ninh Duong Lan Ngoc, Hong Van, Diem My, Ngo Thanh Van, Diem My 9x, S.T (365 The Band), Oanh Kieu, Tung Leo, Kaylee, Hai Trieu, Thanh Tu and Thuy Vy. The theme of the movie is to embrace the beauty of Ao Dai, a traditional costume of Viet Nam The movie was internationally released at 22nd Busan International Film Festival on October 14, 2017 in Korea, before the official release in Vietnam on November 10, 2017. After 1 month, the movie earned more than 60 billion VND in theatrical revenues. At 20th Vietnam Film Festival, The Tailor won two awards, including an award from the judge. It was selected as the Vietnamese entry for the Best Foreign Language Film at the 91st Academy Awards, but it was not nominated.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8578E78C-5092-4BFE-899E-E0570A7E7995">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">709</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE393905-F56E-4DE5-B4E1-F3555EE0CDCF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC006A6CD-5335-4B2A-BC68-99E27655BCCD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">709</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE393905-F56E-4DE5-B4E1-F3555EE0CDCF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD226C27A-3044-4634-997A-79CCD236035D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">720</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE393905-F56E-4DE5-B4E1-F3555EE0CDCF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">VND</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371779" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode36940206-14F6-4C17-848F-9C4BF49B19A4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">75000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode687A0036-AE57-4687-B049-A22F3EF3E687">
+		<BasicEntity:ms_major_currency xml:lang="en-US">American Dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1C69ED5B-50D7-4A21-880A-C5A794DB834D">
+		<Aux:document_text xml:lang="en-US">Plaintiff does not allege the jurisdictional basis of this case. She states simply that “I want this case in this U.S.A. Federal Court.” Plaintiff has not identified any federal cause of action. From her rendition of the facts, it appears that she previously attended services at Valley View Baptist Church. However, on Easter Sunday 2011, she had conversation with Rev. Douglas Boyles about him “bearing false witness” against her. Thereafter, she decided not to return to the Valley View Baptist Church. She alleges that after she did not show up for Sunday School the following week, she received a telephone call from Defendant Pam Hansley threatening her and her two sons. Plaintiff is seeking “five million American Dollars” in damages. As Plaintiff has not articulated any federal law claims, the Court must determine whether she can satisfy the requirements of diversity jurisdiction under 28 U.S.C. § 1332. To properly invoke the Court’s diversity jurisdiction, Plaintiff must establish that this action is between citizens of different states and that the amount in controversy exceeds the sum or value of $75,000.00. Id.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4F605A5B-CFE0-4921-A538-E56DEEB0CD32">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode687A0036-AE57-4687-B049-A22F3EF3E687"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE296ED14-B460-48DB-BD6C-024B1D47A85C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">712</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode687A0036-AE57-4687-B049-A22F3EF3E687"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBE51B4C0-EDE9-4962-9B09-77A6D2984935">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">713</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode687A0036-AE57-4687-B049-A22F3EF3E687"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">American Dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1C72FC88-25EB-445D-8C7A-93FC7930FC65">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1116</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1126</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36940206-14F6-4C17-848F-9C4BF49B19A4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode481FDD66-49B9-4772-906B-0BABB27D7029">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1116</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1117</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36940206-14F6-4C17-848F-9C4BF49B19A4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1ED956F7-8143-455F-A74F-E5409DC6C23B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1117</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1126</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36940206-14F6-4C17-848F-9C4BF49B19A4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">75000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371826" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB4BCB145-BC1F-42BA-9370-853FC6C969BC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Swedish Krona</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">550300000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8543B456-105C-4C5D-912C-1CB89F5451BA">
+		<Aux:document_text xml:lang="en-US">Notwithstanding anything to the contrary in this Guaranty, in the event Guarantor (i) sells or transfers (including without limitation a transfer resulting from a sale of stock or a merger, consolidation or reorganization) a controlling ownership interest in Tenant to a Qualified Transferee (as defined below), and provides to Landlord a substitute guaranty executed by such Qualified Transferee in substantially the same form, and with the same legal effect, as this Guaranty, or (ii) provides to Landlord a substitute for this Guaranty in the form of a letter of credit in a form, from an issuer and in an amount acceptable to Landlord in its sole discretion, then in either case this Guaranty shall be deemed terminated and Guarantor shall be released from all further liability under this Guaranty and/or the Lease accruing after the date of the substitution. The term "Qualified Transferee" shall mean any person or entity having an audited Tangible Net Worth (as defined below) not less than 550,300,000 Swedish Krona, being the Tangible Net Worth of Guarantor as of the date hereof. The term "Tangible Net Worth" shall Mean the excess of total assets over total liabilities, in each case as determined in accordance with International Financial Reporting Standards (IFRS), excluding, however, from the determination of total assets all assets which would be classified as intangible assets under IFRS, including goodwill, customer relations, licenses, patents, trademarks, trade names, copyrights and franchises.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode53737106-4184-46A5-B229-66558639EF04">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">999</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4BCB145-BC1F-42BA-9370-853FC6C969BC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0BA2560D-6BAD-48F5-8F65-E181463D08F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">999</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4BCB145-BC1F-42BA-9370-853FC6C969BC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">550300000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB32613C9-9053-41E4-A876-2992EB91AF59">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1011</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4BCB145-BC1F-42BA-9370-853FC6C969BC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Swedish Krona</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

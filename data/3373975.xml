@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373975" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8C61FB1C-8514-44CC-ABFD-69F0ADA95217">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Spanish pesetas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode7B7B0B0D-A112-4879-BE8C-4B9016BE7138">
+		<Aux:document_text xml:lang="en-US">Following the Driscoll brothers' visit, life on Winterdown Farm is calm. Marlene, Tyler and Boycie have settled down and are beginning to enjoy village life. However, they cannot return to Peckham due to a deal between the Driscoll brothers and Boycie – he would allow them to bury a secret item (later revealed to be 5 million Spanish pesetas in cash) on his land and he must protect it. The events of 2006 still had repercussions in 2007, even though Farm Idol was accepting auditions and Earl was missing in the woods. Also, Boycie began to worry about his health after finding out about a genetic similarity between him and past generations (but still worrying about it after finding out that his biological father was a captured Nazi-German pilot). A death was about to hit the farm hard though, Brian's pet turkey, Paxo.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8A46E083-B044-4C39-B2CD-79C518AA8FF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8C61FB1C-8514-44CC-ABFD-69F0ADA95217"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC5231625-35ED-4AAE-B3C5-A954DA062EA8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">327</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8C61FB1C-8514-44CC-ABFD-69F0ADA95217"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFBF30F9A-00A9-4440-BC75-EA1EDDFB81A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8C61FB1C-8514-44CC-ABFD-69F0ADA95217"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Spanish pesetas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

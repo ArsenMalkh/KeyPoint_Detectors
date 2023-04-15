@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373792" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode187B0E0F-66E3-4770-B75C-D2DA951A6529">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Austrian krone</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode124108F5-042F-47B7-9A03-CCB087F65087">
+		<Aux:document_text xml:lang="en-US">Zavarovalnica Triglav is publicly traded on Ljubljana Stock Exchange, and it is a component of SBI TOP index which is a main share index of companies listed on Ljubljana Stock Exchange. History Foundation Zavarovalnica Triglav was founded in Ljubljana on 5 July 1900 with initial capital of 100,000 Austrian krone. Its first president and one of its founders was Ivan Vencajz, member of Austrian empire council, lawyer and judge. The company commenced operations on 1 August 1900. At the beginning, it provided mostly fire and church bell insurance. During the first few years, Triglav encountered multiple difficulties due to the negative reaction of rival insurance companies to its foundation. In an attempt to prevent it from growing further, they decreased their premiums and urged reinsurance firms against providing reinsurance to Triglav. Eventually, Triglav had to find reinsurance in Czech Republic.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2437C9EB-E9D4-43E5-9C72-FA1BCCD74DC9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode187B0E0F-66E3-4770-B75C-D2DA951A6529"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB650159D-94AE-4D8B-8B75-55ECD64CE394">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode187B0E0F-66E3-4770-B75C-D2DA951A6529"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode44977636-7534-420B-95F4-A98B04645629">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode187B0E0F-66E3-4770-B75C-D2DA951A6529"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Austrian krone</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376163" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5F27F4B1-1ABF-4814-939A-48D2C5D380FA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Estonian kroons</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4727E912-FE6E-4E96-8B26-4AE0E0FF313F">
+		<Aux:document_text xml:lang="en-US">Drug smuggling In 2002, when he was still under criminal investigation under suspicion of attempting to smuggle about a tonne of marijuana from Africa to Estonia, Helin gained notoriety by his bail, which was on 18 September 2002 set on 1.5 million Estonian kroons. As of 2007, it's still the largest bail set in Estonia. In April 2005, Helin was convicted for several drug-related crimes, including the attempt to smuggle 973.46 kg of marijuana from Malawi to Estonia, and sentenced to six years and six months of imprisonment. Along with him were convicted Indrek Sürje and Märt Joller. Notably, all three were cleared of charges of membership in criminal organisation, sometimes (incorrectly) compared with the Common Law crime of criminal conspiracy.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode36004504-5DF3-4C9C-B7F9-08ACFBED2A8C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F27F4B1-1ABF-4814-939A-48D2C5D380FA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5297319C-E448-4DEA-9D4B-93D84DBD28EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F27F4B1-1ABF-4814-939A-48D2C5D380FA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC8D34180-A74B-4CF7-8C41-B5A4E856B084">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5F27F4B1-1ABF-4814-939A-48D2C5D380FA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Estonian kroons</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

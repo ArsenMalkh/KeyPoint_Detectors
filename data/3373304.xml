@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373304" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCEE03E50-8D48-4C5D-A64E-D630EFD42927">
+		<BasicEntity:ms_major_currency xml:lang="en-US">grosz</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1BA789FB-0E74-4D4E-B1A5-3173E78D04D1">
+		<Aux:document_text xml:lang="en-US">The earliest known mention of the local Jewish community is a document dated September 5, 1522, issued by King Sigismund I the Old of Poland. In it, the monarch awarded for three years to Isaac Jesofovitch, a Jew of Brest, for the sum of 300 times sixty grosz a lease of the inns and other sources of revenue in Kletsk. The next mention of the Kletzk community, as it was known in Yiddish, is found in a document dated January 21, 1529, which imposes military duties on its inhabitants, as well as on those of other towns. On June 15, 1542, the boyar Grishko Kochevich brought suit against Zachariah Markovich, a Jew of Kletzk, the latter's oxen having broken into Grishko's field and injured the growing grain; the court awarded to Grishko twelve "ruble groschen" damages.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1304984C-308E-4C88-94E1-A50DAD3B8990">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCEE03E50-8D48-4C5D-A64E-D630EFD42927"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode35B39DF9-6BB0-459B-944A-A76545AAE4C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCEE03E50-8D48-4C5D-A64E-D630EFD42927"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3430D1FD-B582-43F8-8E98-78958CD71218">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCEE03E50-8D48-4C5D-A64E-D630EFD42927"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">grosz</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

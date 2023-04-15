@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372613" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode91B120B1-7C00-42E1-A0C9-99CF60257B0F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">EGP</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2500000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode01B46D6E-EAB7-4632-8A66-13A8A089B7E4">
+		<Aux:document_text xml:lang="en-US">The proposed media bills give the Supreme Council the right to block websites and file criminal complaints against digital media platforms and individuals on the basis of vaguely worded offences such as "inciting people to violate laws" and "defamation against individuals and religions”. They also prohibit news websites from creating smartphone apps unless they have special permission from the Council, and prohibit websites from selling any advertising spaces if they are not registered with the Council. The new bills also create a number of bureaucratic and financial hurdles for digital media outlets. Establishing an online video channel on a website now requires a company to have capital of 2,500,000 EGP. “Every day we receive reports about people from all levels of Egyptian society who have been persecuted for Facebook posts, tweets, art work, and even personal, unpublished writing that has fallen into the hands of the Egyptian authorities,” said Najia Bounaim.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode251DFC7F-293C-427C-B924-65C1C7FA4F5B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">701</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">714</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91B120B1-7C00-42E1-A0C9-99CF60257B0F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode64BAA666-32BA-4418-8811-25210E0A870A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">701</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">710</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91B120B1-7C00-42E1-A0C9-99CF60257B0F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2500000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF1F667E0-B20C-4153-998F-A8D16C138987">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">711</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">714</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91B120B1-7C00-42E1-A0C9-99CF60257B0F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">EGP</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

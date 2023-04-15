@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373233" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB2208AC3-16D6-4687-AEE4-A60B96D46517">
+		<BasicEntity:ms_major_currency xml:lang="en-US">dirham</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFF8B9DA4-A6C2-4EF2-8359-7B7CFC8B7C65">
+		<Aux:document_text xml:lang="en-US">The Dubai World Trade Centre (DWTC) (Arabic: مركز دبي التجاري العالمي‎), historically called Sheikh Rashid Tower, is a 38-storey and a height 184 m skyscraper in Dubai, United Arab Emirates which was erected in 1979. It is a purpose-built complex for events and exhibitions. The building is featured on the 100 dirham bank note. The building is the first tallest building to be on record in the history of the United Arab Emirates from the period of 1979 to 1999. With over 1.3 million square feet of covered exhibition and event space, comprising 21 halls and over 40 meeting rooms across 3 floors, Dubai World Trade Centre hosts over 500 events annually. In 2015, the venue held 396 trade events and welcomed over 2.74 million visitors.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode83C47CFF-CA88-46FD-9F95-568A1A9272F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB2208AC3-16D6-4687-AEE4-A60B96D46517"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCAD28B73-6D6D-4454-BC34-3A700FDE7803">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB2208AC3-16D6-4687-AEE4-A60B96D46517"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4C3FD736-9F8A-45FF-844F-E36D54BC64D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">311</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB2208AC3-16D6-4687-AEE4-A60B96D46517"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">dirham</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373218" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode83F48BE7-845D-4D9C-8785-9DE0D80441A8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">ƒ</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">360000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode90C87DFE-FAB0-4487-9B93-DAA8897722A5">
+		<Aux:document_text xml:lang="en-US">The building that is now the Merdeka Palace was built in the premise of the Rijswijk Palace (present Istana Negara) when it was considered no longer sufficed for administrative purposes e.g. big receptions and conferences during the mid-19th-century. In 1869, the instruction to construct a new palace was given by Governor-General Pieter Mijer. Construction took place on the south lawn of the Rijswijk Palace on 23 March 1873 during the tenure of Governor-General James Loudon. The Neo-Palladian palace was designed by Jacobus Bartholomeus Drossaers and was built by the Department of Public Works and the contracting firm Drossaers &amp; Company at a cost of ƒ 360,000. The new building was built in southern part of the Rijswijk Palace grounds, directly facing Koningsplein (now Merdeka Square). Construction of the palace was finished in 1879 during the tenure of Governor-General Johan Wilhelm van Lansberge. The new palace was given the official name Paleis van de Gouverneur Generaal ("Palace of the Governor-General"), the official residence of the Governor-General of the Dutch East Indies and his family.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF7FD4864-A33A-4E57-9D3B-6645C73B4493">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">658</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">667</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83F48BE7-845D-4D9C-8785-9DE0D80441A8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode89C84308-0BA7-4DFF-80C8-92AB282B4BF3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">658</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">659</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83F48BE7-845D-4D9C-8785-9DE0D80441A8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">ƒ</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCBFD5984-B82A-4F91-8DE2-D3D66A662D82">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">667</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83F48BE7-845D-4D9C-8785-9DE0D80441A8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">360000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

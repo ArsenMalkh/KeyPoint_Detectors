@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370895" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode160FC4E8-4297-491E-8319-DE79E42DF22D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Djibouti francs</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode68EE6EC9-F6EC-4D7D-97F9-78FED28FF44D">
+		<Aux:document_text xml:lang="en-US">But life in Balbala is not easy, either. "The situation here is very hard. Sometimes we get money from family members in town," Farah said. "In Dikhil, at least we had livestock that would always provide us with food." Even so, many pastoralists have lost their livestock to the droughts. To cope, Farah has split up his family – two of his children are staying with relatives in Djibouti City. A lack of jobs is causing city residents to migrate to peri-urban areas such as Balbala. Abdillahi Djama Abdiguedi's family moved to Balbala from Gagada, an area closer to the city, where rent cost them 5,000 Djibouti francs ($28) per month. "Here, we pay nothing," he said. "Most of the people around here moved from the city." Abdiguedi works as a casual labourer every morning, heading to town to search for work at construction sites. "Today, I left at 4am to go and look for work and came back home with nothing. There are days when we eat nothing," he said. "The children have forgotten what milk is."</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode05694408-D822-452A-B713-5A698B32E7CE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">598</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode160FC4E8-4297-491E-8319-DE79E42DF22D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3515ECF4-211F-43B5-8038-F03C0C09978A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">598</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode160FC4E8-4297-491E-8319-DE79E42DF22D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4A003DCD-8F27-45A9-A2E7-3BA53546F2B6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">619</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode160FC4E8-4297-491E-8319-DE79E42DF22D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Djibouti francs</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

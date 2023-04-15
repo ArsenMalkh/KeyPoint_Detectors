@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373062" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode632CD755-2BD3-491D-87DF-4CA2A11110AF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Estonian kroon</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5485C279-E2EA-49DC-80DC-7946AA199388">
+		<Aux:document_text xml:lang="en-US">The observation deck on the 21st floor, originally designed to have a rotating section, is located 170 m above ground and has a diameter of 38 m. The tower was closed to the public on 26 November 2007. Before it was closed, tickets were priced at 60 Estonian kroon and, aside from an infrequently used concrete and metal staircase, the observation deck was accessed by two elevators. The Vilnius TV tower has a similar architectural design but features a rotating observation deck 165 m above ground. The structure consists of a 190-metre reinforced concrete tower and a 124-metre metal mast on top of it. Under the tower is a two-storey building with equipment rooms, entrance halls and a conference centre. The diameter of the tower at its base is 15.2 metres and the wall thickness is 50 cm. The diameter of the tower from 140 metres up is 8.2 metres. A total of 10,000 m3 of concrete and 1,900 tonnes of steel were used in the construction.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB3DB3A7F-DFBA-4326-ABBE-DD27CB33750C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode632CD755-2BD3-491D-87DF-4CA2A11110AF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4CFDBADF-85BE-433E-90B5-8497E726A366">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode632CD755-2BD3-491D-87DF-4CA2A11110AF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6ADEAACB-0E69-43AE-BC23-91D08C0BDA93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode632CD755-2BD3-491D-87DF-4CA2A11110AF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Estonian kroon</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

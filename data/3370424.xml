@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370424" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode893BB1EE-EA89-4823-A00D-DFE756937CAE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">tenge</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">50000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0D13B154-67A7-497C-856E-7600DF5B50FD">
+		<Aux:document_text xml:lang="en-US">Earlier only two types of deals were considered as price manipulative: repo opening and closing deals, which refer to the same repo transaction, executed in the trade organizer trading system sector intended for such transactions; two deals of the same volume in the same securities, the second of which has been concluded for purposes of correction of the technical error committed at conclusion of the first of the two deals. The Resolution has complemented the list with two more types of security deals: deals concluded by a market maker for the purpose of maintaining of security mandatory quotation in the trade organizer trading system; deals in securities, concluded in the trade organizer trading system by open trade method, provided, during the last thirty days, preceding the deal conclusion date, but at least within ten days of this period, at least twenty deals in these securities were concluded by at least ten trade organizer members for the total of fifty million tenge. Thus, AFS took into account additional availabilities of exchange deals, which, due to their nature, must not be evaluated by the state as security price manipulative; however, such deals could be referred to as manipulative according to formal features. The amendment has been initiated by members of the Association of Financiers of Kazakhstan (AFK) and Kazakhstan Stock Exchange (KASE). The working group consisting of representatives of AFS, KASE and AFK members was formed at the beginning of 2008 to respond the initiative. Welcoming the approval of the Resolution, KASE, at the same time, is emphasizing the Resolution comprised only some proposals of those discussed by the working group. Item 3 of article 56 of the law of the Republic of Kazakhstan "On Securities Market", a priori and without exception defining deals with certain features as executed for purposes of security price manipulation, should be further modified. According to KASE, the legislation act regarding this issue must not be of imperative nature (with account of unlimited variety of circumstances, at which, or under influence of which, exchange deals in securities are concluded), but, must exclusively specify that one or the other feature may characterize (however, may not do so) deals as concluded for the security price manipulative purpose</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA38855D5-8841-49F4-B585-F50B90968D68">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">969</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">988</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode893BB1EE-EA89-4823-A00D-DFE756937CAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBD954F61-FB5A-48FF-A38B-32CA755784C4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">969</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">982</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode893BB1EE-EA89-4823-A00D-DFE756937CAE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">50000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8EE248F4-5C1F-43F1-A753-2A1B7D7B8764">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">983</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">988</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode893BB1EE-EA89-4823-A00D-DFE756937CAE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">tenge</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

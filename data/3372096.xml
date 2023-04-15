@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372096" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF1D7DFFB-A364-45B5-8AAD-8EE1E930CD13">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US-$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">56000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0B1D28F4-ABCE-4AF7-952E-5D0B92575D2A">
+		<Aux:document_text xml:lang="en-US">Proponents of the Cape Wind proposal emphasize the project’s potential for improving air and water quality, as well as lowering the cost of electricity and stimulating the regional economy. Clean Power Now, for ex-ample, asserts that the project would reduce concentration of particulates in the air over Cape Cod, and thereby prevent 15 premature deaths a year, along with 5,000 asthma attacks and 35,000 upper respiratory problems. In addition to the human suffering prevented, this cleaning of the air would save US-$ 56 million annually in health care costs. More sweepingly, they assert that the project would ".. .take a meaningful and positive step toward reducing man-kind’s impact upon climate change and global warming."11 An article in the same group’s most recent newsletter declares, "We know what the Cape Wind project will mean to us in terms of wind energy being supplied - cleaner air, a brake on escalating energy costs, and a blow struck against both global warming and oil and gas imports."12</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8AC32670-5309-42D4-955F-FF1793526AE5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF1D7DFFB-A364-45B5-8AAD-8EE1E930CD13"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6803D3F8-B1E3-4F4B-908D-8FBD2CDE6290">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">516</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">520</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF1D7DFFB-A364-45B5-8AAD-8EE1E930CD13"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US-$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1CB93509-0EA2-46CC-B5E6-12E4865293C7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">521</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF1D7DFFB-A364-45B5-8AAD-8EE1E930CD13"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">56000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

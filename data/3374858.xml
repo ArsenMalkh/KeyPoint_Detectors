@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374858" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode32C522E4-A0CE-4CE5-9507-B832D5249F30">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">9000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC1BD6319-4673-4111-BE78-92A2E5F5F5FE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">160000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5CC1187E-9CFF-4C73-94C3-6A9B5A720085">
+		<Aux:document_text xml:lang="en-US">There has been much research involved in producing these high technology marvels and such research continues unabated at a faster and faster pace. Continued developments in Si and, more recently, SiiGe alloy and strained silicon technology [1,2] continue to advance the frontiers of device integration, complexity, and speed. This continued advance has been driven by application requirements in switching technology (e.g., computers) and high-speed electronics (e.g., wireless telecommunications). Today the thrust is towards pervasive computing: the end-user will use all the power of a computer without noticing that the device he is using has a computer inside. Other compound semiconductor materials, such as GaAs or InP or III-V alloys, have, however, maintained a significant role in the construction of optoelectronic and purely photonic devices [ ]. Photonics is the technology associated with signal generation, processing, transmission and detection where the signal is carried by photons (i.e., light); principal photonic devices are lasers, waveguides, modulators, detectors, and optical fibers [4]. If one compares today's photonics industry (worth almost 9 b$) with the microelectronics one (worth almost 160 b$) there are many differences. A variety of different materials is used: e.g., the InP substrate for source development, silica as the material for fibers, lithium niobate for modulators, other materials for DWDM components and EDFA amplifiers, and so on (see Fig. I).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7FB26FFD-72D8-4FB0-B48D-7F814D456F1F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1170</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1174</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32C522E4-A0CE-4CE5-9507-B832D5249F30"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB20B1561-8AB2-4878-928D-69E1653BD0D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1170</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1173</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32C522E4-A0CE-4CE5-9507-B832D5249F30"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">9000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode24D00A6C-CB54-4F7F-B89C-250BBE8EFB48">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1173</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1174</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32C522E4-A0CE-4CE5-9507-B832D5249F30"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF6336CD5-73D3-42A8-9A59-58C5422C17FB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1220</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1226</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1BD6319-4673-4111-BE78-92A2E5F5F5FE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode699AB3C2-BFA2-48D8-A09A-22A5E0F4A5AD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1220</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1225</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1BD6319-4673-4111-BE78-92A2E5F5F5FE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">160000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode650E2BB1-B940-414C-8356-C2C51F5A26F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1225</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1226</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1BD6319-4673-4111-BE78-92A2E5F5F5FE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374200" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode73B37A8A-9664-44CD-BBB7-3FD32BB5A0C7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">vatu</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">700000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1929E929-1F85-4833-B189-380875259353">
+		<Aux:document_text xml:lang="en-US">In March 1997, Richard Jae-yong Jung, a South Korean national with an earlier criminal conviction for sale of military goods as well as outstanding charges of securities counterfeiting in his home country, approached then-Prime Minister Serge Vohor, Finance Minister Willie Jimmy, and later Foreign Minister Vital Soksok to propose a "passports-for-cash" scheme whereby his company Resort Las Vegas would build a 350-room, US$100 million hotel, and grant investors in the hotel Vanuatu permanent residency and passports, for a suggested price of 700,000 vatu each. Jong was granted honorary citizenship of Vanuatu on April 29, and received an ordinary Vanuatu passport on May 5. In September that year, he was appointed Vanuatu Trade Commissioner to South Korea, and also received an official passport. The Vanuatu Office of the Ombudsman found that Soksok and Vohor had "acted in a grossly incompetent and naive manner" and suggested they resign, and also proposed a number of changes to the passport issuance system.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode77DF923A-C75D-4F9B-88FF-DA4578E1829C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">558</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73B37A8A-9664-44CD-BBB7-3FD32BB5A0C7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3AC9F738-5DAE-4154-AD08-5FFF42DCAF39">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">553</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73B37A8A-9664-44CD-BBB7-3FD32BB5A0C7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">700000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode33975FAC-A723-4FEB-A43A-E070807C9AB8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">558</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode73B37A8A-9664-44CD-BBB7-3FD32BB5A0C7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">vatu</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

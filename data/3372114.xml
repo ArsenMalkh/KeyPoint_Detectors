@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372114" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4E1B696E-6379-4664-82E1-66B105A635F2">
+		<BasicEntity:ms_major_currency xml:lang="en-US">deutsche marks</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4B75BDD2-AECE-458D-AB24-F6B3756F0464">
+		<Aux:document_text xml:lang="en-US">Ledwinka’s 1936 Tatra T97 had a rear-mounted, air-cooled four-cylinder boxer-type engine; a central-structural-tunnel floor pan; rear-wheel drive; four seats; and a luggage compartment located under the hood. Two years later, when the first Volkswagen Beetle was introduced, Ledwinka brought a lawsuit against the manufacturer and its designer, Ferdinand Porsche, over the similarities between the two vehicles. When the Germans annexed Czechoslovakia in 1938, the suit was dropped. After the war ended, the Soviets trumped up charges that Ledwinka had collaborated with the Nazis and jailed him for six years. The lawsuit was revived, and Volkswagen had to pay Tatra about 3 million deutsche marks. Ledwinka never got a pfennig of the settlement—but he had the satisfaction of being the only person who ever sued Porsche and won. When I first saw the T87, 20 years ago at a ear show, I told the owner to call me if he ever wanted to sell it. After he passed away, I got the call. When I went to see the family, they told me exactly what they wanted for the car, and I paid exactly what they asked. I always say, you don’t pay too much, you just buy too soon.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeADC61DC1-E7C8-4185-A0C7-10D45881E0FF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">674</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">698</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4E1B696E-6379-4664-82E1-66B105A635F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode25DE2DD3-63FA-4139-89BF-0BB594D08CF5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">674</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4E1B696E-6379-4664-82E1-66B105A635F2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4DA86132-DF53-4B8F-B636-DA5982B74C71">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">698</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4E1B696E-6379-4664-82E1-66B105A635F2"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">deutsche marks</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

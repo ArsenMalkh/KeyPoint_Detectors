@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373367" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5D483EF8-85B7-427C-B46D-DD22FC3BCA6C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">daler</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC84798C7-6B82-404F-8C84-4B2E165DC2B0">
+		<Aux:document_text xml:lang="en-US">During her early childhood, she, as well as her siblings in the royal nursery, were primarily under the care of her mother the queen's trusted nurse, Brigitta Lars Anderssons, her mother's cousin lady Margareta and the noble widow Ingrid Amundsdotter. After the death of her mother in 1551, she as well as her siblings were placed in the care of Christina Gyllenstierna and then under her aunts Brita and Martha Leijonhufvud before her father's remarriage to Catherine Stenbock. In 1556, she and her sisters were given a dowry of 100.000 daler, had their portraits painted and their personal qualities described in Latin by the court poet Henricus Mollerus and were presented on the Dynastic marriage market. The same year, her father presented Ostfriesland with a trading treaty and a marriage alliance. Ostfriesland was chosen because it was strategically placed toward Denmark, and because the Calvinistic Emden was a rival to Lubeck and a treaty could break the domination of the Hanseatic league in Sweden. In 1557, the trading treaty was completed, and in 1558, Edzard visited Sweden to meet Catherine and her sister Cecilia and chose one of them to complete the marriage treaty.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode72B2EC63-CF39-467D-80DB-2C45B89AED4E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D483EF8-85B7-427C-B46D-DD22FC3BCA6C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1E271A47-C423-4904-B724-AEC1DA09CD89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">537</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D483EF8-85B7-427C-B46D-DD22FC3BCA6C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8A14570-F789-451D-ACBD-31A518855508">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D483EF8-85B7-427C-B46D-DD22FC3BCA6C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">daler</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

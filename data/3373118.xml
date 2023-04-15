@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373118" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4C5DEE12-72C2-4EFB-AC87-C7A9CD9B5033">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₪</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD5E874E3-3831-4E8B-B0B8-7DE35A7E8632">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₪</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1450</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5A00BE8C-3CDA-4C87-86B7-6ADB31C301ED">
+		<Aux:document_text xml:lang="en-US">High unemployment in the Palestinian economy led about 100,000 Palestinians to work in Israel. By March 2014, about 45,000 permits were issued for work in Israel with further 25,000 issued for work in West Bank settlements. It is estimated 35,000 Palestinian work through illegal channels and without a permit. Recently the quota for permits has increased and minimum age for obtaining one was reduced from 26 to 24. Sectors in which Palestinians are employed include construction, manufacturing, commerce and agriculture. As of 2013, average daily wages in Israel and the settlements is nearly 2.2 times higher than in the private sector in the West Bank and over 4 times that in Gaza. Palestinian monthly minimum wage is ₪1,450, almost a third of the Israeli minimum wage of ₪4,300. In the West Bank, Israeli labour laws are partially applied through military enactments, and a ruling of the Supreme Court of Israel of 2007 apply the law for work done inside Israeli settlements. Yet, there have been incidents where Israeli employers did not fulfill their legal obligations to the employees by refusing to provide a paycheck or hide the number of work hours to avoid labour laws such as minimum wage or social security benefits.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB9B3913D-CBDE-480A-BA01-F4273AD3A38C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD5E874E3-3831-4E8B-B0B8-7DE35A7E8632"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode64FADAA9-9A26-4A27-9BC9-B198252AFEF9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD5E874E3-3831-4E8B-B0B8-7DE35A7E8632"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₪</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode81564267-F6A5-4A37-B4A7-BECE385FC774">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD5E874E3-3831-4E8B-B0B8-7DE35A7E8632"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1450</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode16D2DC65-03C7-4850-BE45-E295D9EFD146">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">777</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">783</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C5DEE12-72C2-4EFB-AC87-C7A9CD9B5033"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF8D6FA35-D7F8-4FC9-88C6-4AB633A5F08A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">777</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">778</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C5DEE12-72C2-4EFB-AC87-C7A9CD9B5033"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₪</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC6CB930C-421E-4117-9BF8-0C9AAAB69733">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">778</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">783</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C5DEE12-72C2-4EFB-AC87-C7A9CD9B5033"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

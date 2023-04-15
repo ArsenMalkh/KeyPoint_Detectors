@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373296" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA2475779-4DBD-4111-80E6-8CCD7AC084F9">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Estonian kroons</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4F45BA4A-3F22-40CD-BD9E-4112E05BF007">
+		<Aux:document_text xml:lang="en-US">The Estonian issue began on 24 February 2008 – Independence Day – and included silver, gold and platinum coins. The platinum coin was a first for Estonia. Its reverse featured a barn swallow – the national symbol of Estonia – and the obverse showed the national coat of arms. The coin had a face value of 100 Estonian kroons, a platinum purity of 999/1000, a weight of 7.775 grams, and a diameter of 18.0 mm. The coin was designed by Tiit Jϋrna and produced by the Mint of Finland with a quantity of 3,000 pieces. The opening sale took place in the Hall of Independence at the National Bank, where the independence of Estonia was proclaimed 90 years ago; 349 coins and 176 sets were sold within three and a half hours. The entire issue is now sold out.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1F44C4FD-B6B1-4E0A-BFCC-8E5A17200057">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA2475779-4DBD-4111-80E6-8CCD7AC084F9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6C7A1082-4764-4A36-8340-B9485751E1A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA2475779-4DBD-4111-80E6-8CCD7AC084F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDE0C3B72-5BD9-45C4-B092-6387B10F783C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">309</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA2475779-4DBD-4111-80E6-8CCD7AC084F9"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Estonian kroons</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

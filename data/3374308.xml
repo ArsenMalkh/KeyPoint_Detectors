@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374308" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCE28FFEA-14C8-45D1-8336-566C1CD2BF34">
+		<BasicEntity:ms_major_currency xml:lang="en-US">SGD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">54000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode984D9C92-5F55-4B56-A80A-576D13DEEF64">
+		<Aux:document_text xml:lang="en-US">The current church was built in 1950 and was designed by the architectural firm Swan and Maclaren. Porticoes were added in the late 1950s to cater to the large and growing number of devotees coming for the popular Saturday novena devotions. The side walls that existed earlier in the main church hall were removed and grilles added. After 33 months of renovation and spending SGD 54 million, Novena Church's redevelopment is finally completed. The church had reopened on 29 September 2017 with striking new Gothic-style. Novena devotions The novena devotions to Our Lady of Perpetual Help is a popular novena devotion held each Saturday and which regularly draws thousands of devotees from all faiths to the Church. They were started by the Redemptorists in 1949 in a small chapel and initially saw only a handful of people attending the sessions. However, news of the devotion and reports of many answered petitions soon led to the rapid rise in the number of devotees attending. News of the devotion were mostly spread by word of mouth, but there were the few car stickers distributed by the Church with the caption "Have You Been To The Novena?". The increase in the number of devotees required the church building to be expanded and the porticoes at the sides of the main Church building were added as a result</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB523CA50-871B-4CAE-B093-7BF952A6EBB5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE28FFEA-14C8-45D1-8336-566C1CD2BF34"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEC1F71D0-AB79-4818-97D3-36EE4FD441CD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">376</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE28FFEA-14C8-45D1-8336-566C1CD2BF34"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">SGD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0499091E-0F4C-44D0-AE69-AFE487756509">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">380</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE28FFEA-14C8-45D1-8336-566C1CD2BF34"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">54000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

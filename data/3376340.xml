@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376340" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD86C9908-B87E-49A2-9993-CA4683DEA228">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Ghana cedis</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">59900000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode58D81580-E19B-4852-A807-23E3E230BC1A">
+		<Aux:document_text xml:lang="en-US">Prince began his career in the Ghana Armed Forces when he joined the Ghana Armed Forces after undergraduate degree from the University of Ghana in April 1975. He was commissioned as a Lieutenant in November 1975. Personal life Prince is single. Controversies and Allegations In January 2020, Mr. Amoabeng was charged with the embezzlement of a total amount of 59.9 million Ghana cedis from UT Bank. Mr. Amoabeng was a cofounder of the bank which collapsed during Ghana's banking crisis. The original charges were subsequently dropped and the prosecution intends to bring other charges. He has claimed the charges have a political basis as he has never provided support to either main political party.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode959C1048-4982-4FE7-B93B-E1778C212ED4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD86C9908-B87E-49A2-9993-CA4683DEA228"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEF3DC27E-BDB6-482A-8FE2-59E9361CE069">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">372</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD86C9908-B87E-49A2-9993-CA4683DEA228"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">59900000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9087D9F9-5D8C-4C2A-A3FB-3BE28C8440B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD86C9908-B87E-49A2-9993-CA4683DEA228"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Ghana cedis</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

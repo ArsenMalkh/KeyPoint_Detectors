@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373168" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode606A4890-8B99-4D13-A7A4-C08DD3815948">
+		<BasicEntity:ms_major_currency xml:lang="en-US">yuan</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2200000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8BDC0265-CB82-45E6-839B-B55822B75831">
+		<Aux:document_text xml:lang="en-US">As air traffic skyrocketed starting in the 1980s and especially since the 1990s, the airport had its first major expansion in April 1984. It was then expanded four more times, in 1992–93, 1999, 2005, and 2011–12. It served more than 13 million passengers in 2012, ranking 15th in China. Because of the expansion of the city of Dalian, the airport is now surrounded by built-up urban area and has no more room to grow even though it is expected to reach its capacity in 2016. As a result, the authorities launched the new Dalian Jinzhouwan International Airport project, which was included in the 12th national five-year plan in 2011. Facilities In September 2011, a new 71,000 square-meter terminal building was completed as part of the 2.2 billion yuan third-phase expansion project of the airport. The airport has a 3,300-meter runway (class 4E), 135,000 square metres (1,450,000 sq ft) of terminal buildings, 42 aircraft parking places, and 2,600 car parking places. The entire airport covers an area of 3,450,000 square metres (37,100,000 sq ft).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode29088DD0-998E-4FE3-B615-1CA304ED7FD9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode606A4890-8B99-4D13-A7A4-C08DD3815948"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode38A6A57A-BA37-427B-BF7E-560027F370DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">748</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode606A4890-8B99-4D13-A7A4-C08DD3815948"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2200000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBA2493C6-D603-4C96-A711-CBCCB824A14C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode606A4890-8B99-4D13-A7A4-C08DD3815948"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">yuan</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

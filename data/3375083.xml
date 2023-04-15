@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375083" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1805854B-4CA3-4FFE-9157-37F513FEBAD4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">boliviano</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">97800000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5F0494EE-C832-41D6-88F0-5FA9B2A4BFF9">
+		<Aux:document_text xml:lang="en-US">Exterran Holdings Wins Bolivia YPFB Gas Plant Contract, ABI Says U.S. natural gas services company  Exterran Holdings Inc. (EXH) won a contract to operate one of Yacimientos Petroliferos Fiscales Bolivianos’ gas plants, state news agency ABI reported. Houston-based Exterran won a two-year, 97.8 million boliviano ($14.2 million) contract to operate the Rio Grande gas liquids separation plant in the eastern Santa Cruz region, the agency said, citing Carlos Villegas, chief executive officer of the state oil company known as YPFB. Exterran previously signed contracts in Bolivia with Repsol SA, BG Group Plc (BG/) and Petroleo Brasileiro SA (PETR4), ABI said.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1ABB95C6-3BF6-4653-96BE-968909D2626B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1805854B-4CA3-4FFE-9157-37F513FEBAD4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBAAC11E9-892E-4707-8CA2-17DA4D707809">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1805854B-4CA3-4FFE-9157-37F513FEBAD4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">97800000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6C91E7BD-FB0D-4E65-A347-74317AEE6242">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1805854B-4CA3-4FFE-9157-37F513FEBAD4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">boliviano</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

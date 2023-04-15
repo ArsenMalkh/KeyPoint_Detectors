@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373140" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode08795B47-3B5F-4AE7-9D99-E1ECEED9EEC6">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₽</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4134000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB313C37A-8D65-40B2-8E1B-A9B2965F9BCB">
+		<Aux:document_text xml:lang="en-US">Rosneft was founded in 1993 as a state enterprise and later incorporated in 1995, acquiring a number of state-controlled gas and oil assets. Rosneft became Russia's leading oil company after purchasing assets of former oil company Yukos at state-run auctions. After acquiring OJSC TNK-BP in 2013, then one of the largest oil companies of Russia, Rosneft became the world's largest publicly traded petroleum company. Rosneft is the third largest company of Russia and the second-largest state-controlled company after Gazprom in Russia in terms of revenue (₽4,134 billion). Internationally, it is one of the largest oil companies, ranking 24 in terms of revenue. The company operates in more than twenty countries around the world. History Origins Rosneft had played a major role in the history of Russia's oil industry. The first mentioning of the name Rosneft dates back to the late 19th century, where exploration of oil fields in Sakhalin began in 1889. Most of Rosneft's current assets were established during the Soviet era.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7786A31C-272E-4A5B-A4BA-A0C23B8B2ECE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08795B47-3B5F-4AE7-9D99-E1ECEED9EEC6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode80B31C93-D651-435A-8D38-B22D7599C7F9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">557</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08795B47-3B5F-4AE7-9D99-E1ECEED9EEC6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₽</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD354BC5B-5725-4DF9-A915-A705AA8D502C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">557</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08795B47-3B5F-4AE7-9D99-E1ECEED9EEC6"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4134000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370913" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeDE3975AC-E772-4151-8680-07FCA76CB73C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Czech korunas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1600</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3E6C1682-C848-4ADF-B17D-7DB2C5AE9222">
+		<Aux:document_text xml:lang="en-US">Sumava may be the largest and best-equipped Czech ski area of all, boasting centres such as Zelezna Ruda-Spícák, Vrchlabí, Harrachov and Pec pod Snežkou. But perhaps the most picturesque and characterful is Boží Dar, which translates as "God's Gift". About an hour's drive from Prague behind sputtering Skodas, Boží Dar is right on the German border and therefore the most westerly of all the Czech ski centres. It costs about £5 a day to ski and there are no queues because there are few skiers and plenty of open spaces. The two main hotels are the Santa Anna ( hotel-anna.cz, doubles in winter from 1,600 Czech korunas – around £50) and the Zeleny Dum ( hotel-zelenydum.cz, doubles from around £40). Bohemia, the western two-thirds of the country, is like Bulgaria before Crystal Holidays arrived. The mountains are totally rep-less. The skiing is easy, therefore relaxing and exhilarating. The snow cover is not deep, so you don't spend all day trying to find your skis if you fall.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeED0507D4-1910-49ED-A8E5-1EAF91E43C3E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE3975AC-E772-4151-8680-07FCA76CB73C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode11D85B68-BB22-4210-AFFF-44667B24D92F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">602</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">607</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE3975AC-E772-4151-8680-07FCA76CB73C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1600</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8AE89FE2-F9A4-4EA6-971D-F3BA075A7E8C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">608</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE3975AC-E772-4151-8680-07FCA76CB73C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Czech korunas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

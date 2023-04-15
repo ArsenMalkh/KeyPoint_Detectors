@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374202" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9C2C4FFE-FBDE-44FC-911A-FFE05ACFCE69">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₪</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD9B68A95-B664-406E-A743-209D7ACA9076">
+		<Aux:document_text xml:lang="en-US">CEO Nachman Shai understood that the competition hurt Channel 2 and Channel 1, and asked Israel Broadcasting Authority CEO Mordechai Kirshenbaum to share resources. Kirshenbaum refused, and Channel 2's viewership increased. Six weeks after Rabin's death, the company bought amateur photographer Roni Kempler's videotape of the assassination for₪1 million and re-aired it. The company prepared to compete with Channel 1 during the 1996 election, its first. Reporters were placed at all party headquarters, and the prediction-poll results were announced at 10 pm; both channels were wrong. In 1997, Haim Yavin was replaced as anchor of Channel 1's Mabat by Geula Even. Ya'akov Eilon and Miki Haimovich anchored Channel 2's evening news. The company built new studios, and two CH-53 helicopters crashed; seventy-three soldiers were killed. Both channels interrupted their broadcasts with the breaking news. A photographer accidentally filmed a soldier's bag with his name on it, painfully informing the soldier's family of his death.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7FB87847-2835-423D-A070-291D384AC4A5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">344</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C2C4FFE-FBDE-44FC-911A-FFE05ACFCE69"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode26CC3834-52C3-4FA5-8667-B846C1234674">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">344</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C2C4FFE-FBDE-44FC-911A-FFE05ACFCE69"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₪</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3AE267C6-751E-4E5B-BF51-D5AF2D5B1FB7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9C2C4FFE-FBDE-44FC-911A-FFE05ACFCE69"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

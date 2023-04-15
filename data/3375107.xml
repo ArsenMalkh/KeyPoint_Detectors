@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375107" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode753A2EE0-DE2A-43B3-95E9-49FD2AAF175C">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Egyptian pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode143C9BE0-3821-406F-A106-FEFA052256EE">
+		<Aux:document_text xml:lang="en-US">“Any perceived improvement in the political or economic picture will reflect more on the dollar and euro T-bills than the pound ones,” Nour Mohei-el-Din, assistant general manager for treasury at BNP Paribas Egypt SAE, said by phone. “Dollar T-bills still offer attractive yields, especially with rates coming down on the pound.” The yield on one-year pound-denominated T-bills fell 38 basis points at last week’s auction to 10.95 percent, taking its decline since the military takeover of power in July to 446 basis points. The government also raised 3 billion Egyptian pounds at an auction of three- and seven-year T-bonds, according to Finance Ministry data. The yield on 2016 notes fell 19 basis points from the last sale Dec. 2 to 12.2 percent, while the yield on 2020 securities advanced five basis points to 13.95 percent.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBC18377F-2960-4949-9F97-F729F24FF0FC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">577</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode753A2EE0-DE2A-43B3-95E9-49FD2AAF175C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF93C75D6-A878-4C57-B0E0-72E44EC7C226">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">561</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode753A2EE0-DE2A-43B3-95E9-49FD2AAF175C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB992AE19-75E0-4B73-8561-F508773E9D06">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">562</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">577</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode753A2EE0-DE2A-43B3-95E9-49FD2AAF175C"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Egyptian pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

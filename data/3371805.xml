@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371805" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3C6FCF46-723D-41FD-9FCD-C1CC8E8A7FB7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">RMB</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode46FE7277-CE17-47D4-8A56-EFEBF1780C75">
+		<Aux:document_text xml:lang="en-US">Only when Party B waives its priority to purchase or the exclusive right to use such Business-related Technology, Party A may transfer the title on such Business-related Technology to any third party or license any third party to use such Business-related Technology provided that the conditions (including but not limited to transfer price or license fees) should not be favorable than those offered to Party B, and Party A shall guarantee that such third party fully complies with and performs the relevant liabilities and obligations to be complied with and performed by Party A hereunder; and (C) except for the circumstances set forth in item (B) above, within the period provided by Article 8.1 hereof, Party B is entitled to purchase such Business-related Technology, at which time Party A shall consent to such purchase by Party B, subject to compliance with mandatory provisions of the PRC Law, at a price of Renminbi one yuan (RMB1.00) or the minimum price permitted by the then effective Law.     5        5.3 If Party B is exclusively licensed to use the Business-related Technology according to Article 5.2(2) hereof, such license is subject to the provisions below:</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode67BDB2CD-05CE-41F2-9C26-D75D523DAFFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">944</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3C6FCF46-723D-41FD-9FCD-C1CC8E8A7FB7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7A52B77E-7A24-4AEB-84E2-29D548B25A8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">937</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3C6FCF46-723D-41FD-9FCD-C1CC8E8A7FB7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">RMB</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B63590D-B486-4496-96EC-79AD7FB8422C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">944</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3C6FCF46-723D-41FD-9FCD-C1CC8E8A7FB7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

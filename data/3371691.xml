@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371691" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode36F14D86-4754-4E1B-B097-E4C3BF1DE35F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">77000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3B9D1FF0-E20D-4C3A-998C-9B379AA536B3">
+		<Aux:document_text xml:lang="en-US">This is an Amendment to the existing Rape Prevention and Education Professional Services Contract entered into by and between the Indiana State Department of Health (hereinafter referred to as the "State”) and Purdue University (hereinafter referred to as the "Contractor”) for the period from November 1, 2013 through October 31, 2014, in Ore amount of $77,000. In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows: The amount of the Professional Services Contract is being decreased by $55,000, making the new total of the Professional/Personal Services Contract $22,000. The decrease In funds is due to funding only the first three months of the agreement ISDH intends to amend the agreement to reflect the original scope of work and budget once the FY14 funding award is received. Activities are described in Attachment A-1, attached hereto, which replaces Attachment A, made a part hereof, and incorporated herein by reference as a part of this Professional Services Contract.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode59CBD014-F681-4BD1-B1BA-DBB6D51F03EA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36F14D86-4754-4E1B-B097-E4C3BF1DE35F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0E982A7E-8040-4F79-8242-C7763776347B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36F14D86-4754-4E1B-B097-E4C3BF1DE35F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCA6169D1-A032-43A3-8167-482E62A372D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36F14D86-4754-4E1B-B097-E4C3BF1DE35F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">77000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

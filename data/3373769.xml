@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373769" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode56FAE8C0-AEFB-42F2-85BF-2798BE1915BF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Japanese yen</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode01D4B74E-0285-43A4-81B7-2C48E3D14FB3">
+		<Aux:document_text xml:lang="en-US">In June – July 2019, Watanabe was the challenger to Masayuki Toyoshima in the 90th Kisei title match. Toyoshima won the first game of the match, but Watanabe came back to win the next three games and capture the Kisei title for the first time. With the victory, Watanabe returned to being a 3-crown title holder. In November 2019, Watanabe defeated Hirose in the finals of the 40th JT Nihon Series to repeat as tournament champion and win the tournament's five million Japanese yen first prize. Watanabe successfully defended his Kiō title in January–March 2020 by defeating Kei Honda 3 games to 1 to win the 45th Kiō title match. In January – March 2020, Watanabe and Hirose met once again in the 69th Ōshō title match. Watanabe was trailing 3 games to 2 after five games, but won the next two games to defend his Ōshō title.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD2CBC00E-A930-46A2-84CC-98E9FA1B8815">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">456</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">481</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56FAE8C0-AEFB-42F2-85BF-2798BE1915BF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB5C08334-75A2-4CA8-8BB0-18B47AE39A6C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">456</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56FAE8C0-AEFB-42F2-85BF-2798BE1915BF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9ACD8845-CF9F-4F1B-BA92-F82D10EEB703">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">481</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode56FAE8C0-AEFB-42F2-85BF-2798BE1915BF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Japanese yen</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

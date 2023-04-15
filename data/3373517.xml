@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373517" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7E93E1CA-6F6C-468B-B509-149E686B9C2F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Lebanese Pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">11500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC165245F-A6A3-4B54-8E8A-FB1885E1CB62">
+		<Aux:document_text xml:lang="en-US">A 32-page passport with a burgundy red cover, commonly known as the old burgundy style came into use in 1990 under the auspices of the International Civil Aviation Organization (ICAO) with the formation of the Passport Service following international agreement on a standard format for passports, and remained in use until replaced by the modern-style machine-readable navy blue passport on April 12, 2003. As with many documents worldwide and all booklet-format documents, details were handwritten into the passport and (as of 1998) included: number, holder's name, "accompanied by his wife" and her maiden name, "and" (number) "children", national status. For both bearer and wife: profession, place and date of birth, country of residence, height, eye and hair colour, special peculiarities, signature and photograph. Names, birth dates, and sexes of children, list of countries for which valid, issue place and date, expiry date, a page for renewals and, at the back, details of the amount of foreign exchange for travel expenses (a limited amount of sterling, typically 11,500 Lebanese Pounds but increasing with inflation, could be taken out of the country). The bearer's sex was not explicitly stated, although the name was written in with title ("Mr"). Descriptive text was printed in both Arabic, French, and English. (a practice which still continues), e.g. برفقة زوجته / Accompagné de sa femme (Née) / Accompanied by his wife (Maiden name)/. Changed details were struck out and rewritten, with a rubber-stamped note confirming the change.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode27FD0C8D-43AB-41A9-9BFC-BCACB058CCC2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1075</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1097</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7E93E1CA-6F6C-468B-B509-149E686B9C2F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBE7C7EEF-A256-46BF-9B36-3EB493143C62">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1075</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1081</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7E93E1CA-6F6C-468B-B509-149E686B9C2F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">11500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode45A71413-1E0F-4E42-A98F-A94CDA890ADA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1082</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1097</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7E93E1CA-6F6C-468B-B509-149E686B9C2F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Lebanese Pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

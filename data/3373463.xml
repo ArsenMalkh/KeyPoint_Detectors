@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373463" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode79589E2F-9BB7-4FF3-8424-0C1A2157ABC1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds Scots</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode61C87664-A35D-4B2C-97F2-22D1B9D5C97B">
+		<Aux:document_text xml:lang="en-US">One longstanding theory is the suggestion that the Earls of Morton and Moray were behind the murder, directing Bothwell's actions, to forward Moray's ambitions. These Earls made a denial of their involvement in their lifetime. The later and partisan Memoirs written by John Maxwell, Lord Herries in 1656, follow and develop this line of reasoning. Herries, after considering the arguments of previous writers, believed that Mary herself was innocent of involvement, and the two Earls arranged her marriage to Bothwell. After the explosion, Sir William Drury reported to the English Secretary of State William Cecil, 1st Baron Burghley, that James Balfour had purchased gunpowder worth 60 pounds Scots shortly beforehand. Balfour could have stored the powder at the property next-door, also owned by the Balfours, and then mined the prince's lodgings by moving the powder from one cellar to the next. However, this James Balfour was the captain of Edinburgh Castle and was likely to buy powder for use at the Castle.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE74AE070-2695-462A-A2E5-EED9D5041906">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">685</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode79589E2F-9BB7-4FF3-8424-0C1A2157ABC1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF8500E55-8044-4818-89F8-812CFDD2706D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">685</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode79589E2F-9BB7-4FF3-8424-0C1A2157ABC1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4E9DAB90-526F-464D-B24F-1440CFC1E5B7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">688</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode79589E2F-9BB7-4FF3-8424-0C1A2157ABC1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds Scots</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

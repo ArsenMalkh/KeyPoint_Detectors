@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375258" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode81C83F59-C4D8-4BE3-AE77-347EA51ED408">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Belarusian ruble</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">800000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0DB8479C-1575-48DA-B4E6-B49CC6750D25">
+		<Aux:document_text xml:lang="en-US">Alyaksandr Kutsko and Alyaksandr Ihnatovich gave false evidence at the trial that the activist had used obscene words. Andrei Molchan told charter97.org website they were the first to see the flag and call police. Both witnesses gave confused evidence. They said the activist had not been beaten, but attacked them himself. Molchan says they did not use force against him. The policemen, who beat the activist, did not appear in the court. He thinks police chiefs from the Pershamaiski police department decided not to show sadistic officers. On the basis of false evidence by Kutsko and Ihnatovich, judge Syarhei Lyushtik found Molchan guilty of violating article 23.34 and issued a fine of 800,000 Belarusian ruble.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode02F8C73D-5D88-4D44-B5CC-290A1D7AA2ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">692</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">716</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81C83F59-C4D8-4BE3-AE77-347EA51ED408"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE480A39B-2DAD-4CAA-BABA-185F08D351BC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">692</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">699</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81C83F59-C4D8-4BE3-AE77-347EA51ED408"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">800000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode61F0A2EE-82C2-4505-A599-E84662194F16">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">700</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">716</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81C83F59-C4D8-4BE3-AE77-347EA51ED408"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Belarusian ruble</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374618" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode32E88EBB-C997-4261-9CD5-DF41DFCA0B81">
+		<BasicEntity:ms_major_currency xml:lang="en-US">bitcoins</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">100</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0CE93D8C-421F-4A50-81A0-3B29883B9DB4">
+		<Aux:document_text xml:lang="en-US">The blockchain revolution resides precisely in die absence of a centralised register or a sole party responsible for die custody and administration this record. Through block-chain technology an electronic record of transactions and data is created tiiat is accessible to all participants of die system. This way, each of these participants is responsible for registering and verifying die transactions tiiat are reported, fn die event of discrepancy in die data supplied, any participant can “veto” die transaction and it will not be registered. For instance, if party A wishes to pay 100 bitcoins to party B but party As virtual wallet does not have enough bitcoins, when a request is made to record die transaction all die participants in die system (not only die two parties involved) will be able to verify tiiat A does not have sufficient funds, and tiiat die transaction cannot tiierefore go ahead.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode46E2CC7A-F9B1-44AB-B1A8-175FD71B4348">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">598</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32E88EBB-C997-4261-9CD5-DF41DFCA0B81"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode34C2AAD3-A694-43E5-9730-351D8675F9B9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">589</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32E88EBB-C997-4261-9CD5-DF41DFCA0B81"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">100</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode176F7C94-81AF-492A-86FE-C9F9BD7BD60A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">590</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">598</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32E88EBB-C997-4261-9CD5-DF41DFCA0B81"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">bitcoins</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373638" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode48295D2A-DAB3-40D6-9134-2DC1563935AF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Algerian dinars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">800000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9CF2DF4C-FACA-4477-9C9D-C2BA0E328A43">
+		<Aux:document_text xml:lang="en-US">An Algerian international, Slimani made his international debut in 2012 and played at the Africa Cup of Nations in 2013, 2015 and 2017, and was part of the Algeria side that won the 2019 tournament. He was also part of Algeria's squad at the 2014 FIFA World Cup, where he finished as the team's joint top scorer with two goals. As of October 2019, he has won 68 international caps and scored 29 goals, making him Algeria's second highest all-time goalscorer. Club career Early career In May 2009, Slimani joined CR Belouizdad from JSM Chéraga for a transfer fee of 800,000 Algerian dinars, signing a two-year contract. In August, he made his official debut for the club as a starter against MC Oran in the first week of the 2009–10 Algerian Championnat National. He finished his first season with Belouizdad with 8 goals in 30 games.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode606E0155-D3D3-492A-B937-9EE8ECE0A581">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">565</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode48295D2A-DAB3-40D6-9134-2DC1563935AF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode13F9A55B-659C-4064-A8CA-93ED79A35F9F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">565</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">572</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode48295D2A-DAB3-40D6-9134-2DC1563935AF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">800000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode403BD0DE-EC28-4794-A4FB-B225FA506E98">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">573</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode48295D2A-DAB3-40D6-9134-2DC1563935AF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Algerian dinars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

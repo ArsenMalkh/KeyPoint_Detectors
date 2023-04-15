@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374806" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode695907F6-51DF-46C3-809B-4F06ECC9FF21">
+		<BasicEntity:ms_major_currency xml:lang="en-US">NOK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">8.12</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeAAD2C6EC-00EB-4E54-92C7-132198AEA4FA">
+		<BasicEntity:ms_major_currency xml:lang="en-US">euro</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0DB464B6-0D2A-4071-9FE9-BE89BE6D99EA">
+		<Aux:document_text xml:lang="en-US">Lapland, or the Sápmi area, is a geographical region of Northern Europe. It faces the Arctic Ocean to the north, the Norwegian Sea to the west and the Barents Sea to the east. The province of Finnmark, commonly known as Norwegian Lapland, occupies an area of 48,637 square kilometres. Although it lies on the same latitude as Siberia, Greenland and Alaska, the Gulf Stream prevents the ports on the coast of Finnmark from freezing over, and the region enjoys mild winters. Although a good deal of snow usually falls in the winter season, many parts of the region are surrounded by mountains protecting them from the cold and winds from the sea. In the interior, near the frontier with Finland, the winter is much colder and the summers tend to be warm and dry. Currency The official currency of Norway is the Norwegian krone (NOK). One euro equals 8.12 NOK. Accommodation Gastronomy Every recipe in Lapp cuisine is based on the seasonal local ingredients of reindeer meat, fish and wild berries. Among its delicacies are shamefaced crab, capercaillie, lamb with coastal herbs and a flavour of the sea, delicious forest fruits and vegetables, and stewed reindeer meat with potatoes and redcurrants. Fish, indispensable to Lapp cooking, is chiefly represented by salmón, though the people are also proud of their stewed or baked herring, their burbot in sauce and their wide variety of smoked fish. Burbot roe with sour cream is a much appreciated delicacy. Meals are generally accompanied with water and beer, and sometimes even with milk.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9CA02389-E90C-4E38-85C7-AF21C6CF2E4A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">832</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAAD2C6EC-00EB-4E54-92C7-132198AEA4FA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode45C736F9-CBD0-4666-BA57-0D3E6A3C91A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">832</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">835</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAAD2C6EC-00EB-4E54-92C7-132198AEA4FA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5AE56320-261F-4A5D-B015-79E862B8C6AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">836</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAAD2C6EC-00EB-4E54-92C7-132198AEA4FA"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">euro</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2BF689CB-1082-41D5-BE67-EF5D95FE3C86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">848</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">856</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode695907F6-51DF-46C3-809B-4F06ECC9FF21"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5F0F72B4-ADDA-4864-9E9E-068330614ADD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">848</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">852</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode695907F6-51DF-46C3-809B-4F06ECC9FF21"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">8.12</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeEB7F8F40-1CD7-4420-A85D-3A12FCE16EA3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">856</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode695907F6-51DF-46C3-809B-4F06ECC9FF21"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">NOK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

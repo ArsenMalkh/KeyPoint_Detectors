@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373133" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF123CBD7-F486-4367-AE73-F2CC0F392CE0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode26704945-702D-4E28-A51F-73A5269F5CB4">
+		<BasicEntity:ms_major_currency xml:lang="en-US">South Korean won</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">25000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode13C5D3E0-A680-467C-9819-42F0138564BD">
+		<Aux:document_text xml:lang="en-US">A growing number of international students attend POSTECH as it expands its recruiting efforts abroad. POSTECH offers full tuition fellowships to excellent graduate students from the following countries: Afghanistan, Bhutan, Cambodia, China, Democratic Republic of the Congo, India, Indonesia, Japan, Kazakhstan, Malaysia, Mongolia, Pakistan, Philippines, Singapore, Taiwan, Tajikistan, Thailand, Uzbekistan, Vietnam, and Zimbabwe. However, the international program still lacks proper care and attention to the well-being and integration of international students into POSTECH, as the university's cultural and social norms are not suited for an international community. Growing reports indicate the wide spread presence of racism, sexism, and discrimination against international students. All graduate students receive a small teaching assistant scholarships and the university provides the Tae-Joon Park Graduate Fellowship, which provides the highest level of scholarship (approximately 25 million South Korean won) to about 50 top graduate students each year. The POSCO Fellowship is available for students recommended by a POSTECH departmental committee and then selected by the POSCO TJ Park Foundation. POSTECH offers a one-time settlement grant of approximately US$1,500 to all incoming international graduate students during the first semester of enrollment.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8BC5027C-40AD-4FBA-BF16-D6C2627B0F8F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">992</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1019</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode26704945-702D-4E28-A51F-73A5269F5CB4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode287B9E15-B8D0-49EC-A321-F37689A0A3C9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">992</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1002</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode26704945-702D-4E28-A51F-73A5269F5CB4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">25000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA36EFA13-9996-45FB-B9B4-059257EF7D1B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1003</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1019</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode26704945-702D-4E28-A51F-73A5269F5CB4"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">South Korean won</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode92B9C10F-3C6C-4664-AF3A-AEE33C9850B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1272</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1280</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF123CBD7-F486-4367-AE73-F2CC0F392CE0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB341D139-CB14-4C59-9A6C-0B25899B5551">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1272</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1275</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF123CBD7-F486-4367-AE73-F2CC0F392CE0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode625EF078-3071-4712-B03F-5BEDA76CD7D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1275</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1280</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF123CBD7-F486-4367-AE73-F2CC0F392CE0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

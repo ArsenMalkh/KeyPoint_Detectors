@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372286" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB760F55A-9212-4842-A4DC-2A5D7FED78FE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">520</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE2E69F4F-7239-4B0F-AE4A-E43485B74145">
+		<Aux:document_text xml:lang="en-US">The oysters served at the famous Yamatsumi have gone through careful examination and selection by the restaurant’s owner. Here, the dishes incorporate branded oysters from Akitsu in Higashi-Hiroshima and Pacific oysters from Etajima in Hiroshima, and customers get to enjoy their rich and creamy taste. Sample dish: The Akitsu Brand Kaki Komachi L-Size (520 JPY (excl. tax)) is the most popular dish in this restaurant, so it would be best to come and order this dish early. ぐるなび ぐるなび 1. Yamatsumi • Details • Map • Gurunavi 2. Kanawa Founded in 1867, Kanawa is restaurant that is famous for its Kakifune (a pleasure boat with roof that is tethered on the riverbank, where customers can eat oyster dishes) that floats on the river beside the Hiroshima Peace Memorial Park in Hiroshima. The oysters that they use in their dishes are produced at Fukaura, Okurokami Island in Hiroshima. Known for their robust saltiness and the firm sweetness, these high-grade oysters are incredibly delicious when eaten raw or cooked, such as in the form of Dotenabe (※).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode624EDE65-A287-46C1-A709-DE55C6065066">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB760F55A-9212-4842-A4DC-2A5D7FED78FE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDA3853D5-2F40-488A-9575-265D07D5DDFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB760F55A-9212-4842-A4DC-2A5D7FED78FE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">520</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode31BF3D8B-63F7-47F6-844F-6DEF4DEC878F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB760F55A-9212-4842-A4DC-2A5D7FED78FE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

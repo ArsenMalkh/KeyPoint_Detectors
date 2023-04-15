@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375155" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode55998847-CF6D-4BC0-BEDF-D8AA556CB9AC">
+		<BasicEntity:ms_major_currency xml:lang="en-US">$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">0.4</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1BCC1659-1F00-4A66-BC70-9C4C2B9E9022">
+		<Aux:document_text xml:lang="en-US">The Nigerian government’s fuel subsidies aren’t “sustainable” because they foment corruption and deplete government coffers, central bank Governor Lamido Sanusi said. Labor unions in Africa ’s biggest oil producer began a nationwide strike Jan. 9, shutting banks, businesses and ports, as gasoline prices more than doubled from 65 naira ($0.40) a liter after the government scrapped fuel subsidies. The strike was suspended on Jan. 16 after President Goodluck Jonathan  restricted gasoline-price increases to 97 naira a liter. The subsidies cost the government $8 billion last year, equivalent to all the revenue it received from the oil industry, Sanusi said today during a speech in London. Gasoline costs three times as much in neighboring countries, allowing residents there to take the advantage of the price differences by crossing the border to buy fuel and adding to expenses for the Nigerian government, he said.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60BDB41A-B797-4CAC-8E35-935D936631A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode55998847-CF6D-4BC0-BEDF-D8AA556CB9AC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7661B1CC-A32C-403C-8EF1-9568CC4347DA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">338</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode55998847-CF6D-4BC0-BEDF-D8AA556CB9AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA97DFF7D-2BA5-43B2-8283-3F36EE5D63E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode55998847-CF6D-4BC0-BEDF-D8AA556CB9AC"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">0.4</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

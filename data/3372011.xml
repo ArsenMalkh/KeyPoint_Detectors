@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372011" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8ECB29AC-7C9B-46B1-B4F9-6405964261AB">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Mauritian rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2800</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode13269D4F-3F58-4D7A-BF8F-1780AA9FAB5D">
+		<Aux:document_text xml:lang="en-US">Under the shadows of Le Morne is Mauritius’ ultimate surfing spot, One Eye – so named because when a surfer finds the sweet spot in which to catch the perfect wave they will see a small hole, or 'eye', in Le Morne’s jagged rock face. The pros at Club Mistral, a worldwide surfing organization based on the nearby Indian Resort, can point you in the direction of One Eye during a one-hour private lesson (2800 Mauritian rupees). For beginners, it is best to test your luck on the west side of the peninsula, at what has become known as the Kite Lagoon, due to the increasing popularity of kite-surfers. In fact, if you are looking to strap a harness on, there are two recommended operators in the area that can get you kitted: Son of Kite and the International Kiteboarding Organization-affiliated Yoaneye Kite Centre.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA45AC8DD-A531-477B-B6B0-1F5B3BF787F2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8ECB29AC-7C9B-46B1-B4F9-6405964261AB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA4D75AA7-C9EC-47E3-83E3-AFAE17E4E853">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8ECB29AC-7C9B-46B1-B4F9-6405964261AB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2800</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8433D51E-6F66-4600-A511-8B9301C14B41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8ECB29AC-7C9B-46B1-B4F9-6405964261AB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Mauritian rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373576" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFBF8AB7F-CD78-4DF4-A4D9-A8A0FBC5D823">
+		<BasicEntity:ms_major_currency xml:lang="en-US">RMB</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">24500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDA4B0359-5348-417F-A36C-BC394130D8FB">
+		<Aux:document_text xml:lang="en-US">Shanghai Disneyland Park (Chinese: 上海迪士尼乐园) is a theme park located in Pudong, Shanghai, China, that is part of the Shanghai Disney Resort. The park is operated by Disney Parks, Experiences and Products and Shanghai Shendi Group, through a joint venture between The Walt Disney Company and Shendi. Construction began on April 8, 2011. The park opened on June 16, 2016. The park operated in its first half-year with a visitor attendance of 5.60 million guests. The park covers an area of 3.9 square kilometres (1.5 sq mi), costing 24.5 billion RMB, with Shendi holding 57% and Disney holding the remaining 43%. The park has seven themed areas: Mickey Avenue, Gardens of Imagination, Fantasyland, Treasure Cove, Adventure Isle, Tomorrowland, and Toy Story Land. On January 22, 2019, Disney Parks announced that an eighth themed land, City of Zootopia, based on Disney's animated film Zootopia, would be coming to the park. Construction on the land officially began on December 9, 2019.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7120BF75-97FA-4EBD-8004-67515111F7BD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFBF8AB7F-CD78-4DF4-A4D9-A8A0FBC5D823"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode729EC398-56CE-44F7-9312-BBDAA7800AAC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFBF8AB7F-CD78-4DF4-A4D9-A8A0FBC5D823"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">24500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF1C87E6C-B76A-4823-870D-88B7BCAC8FA4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFBF8AB7F-CD78-4DF4-A4D9-A8A0FBC5D823"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">RMB</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374113" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF8AD8DDB-7709-470D-AB1C-F406F94181C0">
+		<BasicEntity:ms_major_currency xml:lang="en-US">GH₵</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">34900000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode86CE66A2-AD6C-4735-8CAE-7165B69755CF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">16200000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD4EB7DF4-C700-45E9-877F-3B9DF790487A">
+		<Aux:document_text xml:lang="en-US">Mahindra vehicles are sold to state institutions, private organizations, industries, United Nations agencies and individuals in Ghana, on the Africa continent and around the world. Mahindra &amp; Mahindra Ghana Limited automobiles to be manufactured in Ghana and exported from Ghana include the latest generation of Mahindra &amp; Mahindra Limited vehicles - the Mahindra XUV500, the urban electric car the Mahindra e2o, the Mahindra Genio and the Mahindra Xylo. As part of Mahindra's efforts to make it easy for more people on the Africa continent to afford vehicles, the company has joined with Ghana-headquartered financial institution Fidelity Bank Ghana to provide financial assistance to customers through hire-purchase and lease schemes. Mahindra Group is a GH₵34.9 billion (US$16.2 billion) multinational conglomerate and operates in the key industries that drive economic growth such as a strong presence in the agribusiness, aerospace, component-based software engineering, information technology consulting services, defence, electricity generation, financial services, industrial equipment, logistics, real estate, retail, steel, commercial vehicles, two-wheeler motorcycles and dicycles industries. In 2012, Mahindra featured in the Forbes Global 2000, a listing of the biggest and most powerful companies in the world. In 2013, the Mahindra Group received the Financial Times Boldness in Business Award in the Emerging Markets category.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2668CB10-201B-408C-869D-9D0855EDEF1B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">757</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF8AD8DDB-7709-470D-AB1C-F406F94181C0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">GH₵</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6E6A0A64-225B-4A86-B4E8-7B348DF56E7E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">757</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">772</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF8AD8DDB-7709-470D-AB1C-F406F94181C0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeFDA96417-0FB1-433D-B856-2CA8A33CED73">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">760</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">772</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF8AD8DDB-7709-470D-AB1C-F406F94181C0"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">34900000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB1BF3263-101A-4854-9C45-03DB849DD00B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86CE66A2-AD6C-4735-8CAE-7165B69755CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode767E5997-43B3-421B-BD87-09FD1BFA4E29">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">777</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86CE66A2-AD6C-4735-8CAE-7165B69755CF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode02B82565-ED8B-49A7-B005-580743FF12B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">777</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">789</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86CE66A2-AD6C-4735-8CAE-7165B69755CF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">16200000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

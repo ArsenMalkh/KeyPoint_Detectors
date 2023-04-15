@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373758" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7E3B5D61-1CD0-422E-90B8-9A414C0ED07D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">17860000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA768D723-6E40-441F-A13B-2046A1DE1A3A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">₩</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB50E8478-3267-46C3-9E88-677E3206DEF3">
+		<Aux:document_text xml:lang="en-US">The impeachment of Park Geun-hye, President of South Korea, was the culmination of a political scandal involving interventions to the presidency from her aide. The impeachment vote took place on 9 December 2016, with 234 members of the 300-member National Assembly voting in favour of the impeachment and temporary suspension of Park Geun-hye's presidential powers and duties. Thus, Hwang Kyo-ahn, then Prime Minister of South Korea, became Acting President while the Constitutional Court of Korea was due to determine whether to accept the impeachment. The court upheld the impeachment in a unanimous 8–0 decision on 10 March 2017, removing Park from office. The regularly scheduled presidential election was advanced to 9 May 2017, and Moon Jae-in, former leader of the Democratic Party, was elected as Park's permanent successor. Park was formally sentenced to 24 years in prison on 6 April 2018 after being found guilty of abuse of power and coercion. This was later raised to 25 years and a fine of ₩20 billion (US$17.86 million) following an appeal by prosecutors. Background South Korean Constitution and Constitutional Court Act The procedure for impeachment is set out in the 10th Constitution of South Korea in 1987. And according to Article 65 Clause 1, if the President, Prime Minister, or other state council members violate the Constitution or other laws of official duty, the National Assembly can impeach them.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8D52D7FA-4F93-4345-9D96-16844BD0A7BD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1004</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1015</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA768D723-6E40-441F-A13B-2046A1DE1A3A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA421524D-F6D6-492D-837A-4C778B7BDE8B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1004</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1005</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA768D723-6E40-441F-A13B-2046A1DE1A3A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">₩</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode41B79090-E6FA-4C5B-91F0-BD610C3ED9C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1005</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1015</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA768D723-6E40-441F-A13B-2046A1DE1A3A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF11C0AAB-6C34-47E3-90BD-5B1C2D42FBAA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1017</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1033</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7E3B5D61-1CD0-422E-90B8-9A414C0ED07D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode2D6E2F90-EF03-4D28-851F-3EDA0102C43A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1017</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1020</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7E3B5D61-1CD0-422E-90B8-9A414C0ED07D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF6CCBCB5-D3AC-4847-A00F-C46C10F14888">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1020</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1033</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7E3B5D61-1CD0-422E-90B8-9A414C0ED07D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">17860000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

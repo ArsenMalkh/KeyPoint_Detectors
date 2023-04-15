@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374086" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5144EE35-A944-4C74-92B3-A3AD248AA4EE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">United States dollar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode2F108CAD-E759-4EEA-B80E-9E4E43D83A25">
+		<Aux:document_text xml:lang="en-US">Smith's design firm, P. Allen Smith &amp; Associates, specializes in estate master planning, garden design and installation, with projects at public institutions, private corporations, and family estates. He is a former Board Member of the Royal Oak Foundation (the American partner of England's National Trust) and has contributed to preservation efforts at Thomas Jefferson's Monticello and George Washington's Mount Vernon among other historic properties. He is a Certified Fellow of the Royal Horticultural Society and is an Honorary Member of the Garden Club of America. Smith received the Garden Club of America's 'Medal of Honor' in 2006 at the GCA's 93rd Annual Meeting Awards Dinner in Denver, Colorado. Homes Located in the historic Quapaw Quarter of Little Rock, Arkansas, the original Garden Home is a 1904 Colonial Revival cottage surrounded by a series of garden rooms designed by Smith. He purchased the house for one United States dollar and relocated it to a 15,000-square-foot (1,400 m2) vacant lot. The bargain price was contingent on Allen receiving permission from the local historical commission to move the home from its original site and restore it elsewhere in the city. This garden was created to illustrate his 12 principles of design, the basis of his first book in the Garden Home series.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEC11530C-8070-4E99-ADA9-697668AC351C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">925</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5144EE35-A944-4C74-92B3-A3AD248AA4EE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5EBDFAF6-F7B5-471A-BE84-8A85B797E472">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">925</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">928</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5144EE35-A944-4C74-92B3-A3AD248AA4EE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode911FBC59-8C4C-4069-84FC-34244BA05A2F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">929</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5144EE35-A944-4C74-92B3-A3AD248AA4EE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">United States dollar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

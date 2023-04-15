@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374048" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA412A103-3CDA-4919-A943-27D5E02338CE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Dutch guldens</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode4DF7EFC0-A5E4-40DE-81DA-12621C716DEC">
+		<Aux:document_text xml:lang="en-US">Jorien van den Herik (born 11 November 1943 in Sliedrecht) is a Dutch businessman. He is most widely known as the former chairman of Dutch football club Feyenoord Rotterdam between 1992 and 2006. Van den Herik helped Feyenoord to purchase some players in 1984 as chairman of the "Friends of Feyenoord Group". In a few years time he had invested 3 million Dutch guldens in the club. In 1989 be became president of the Stadion Feyenoord NV. When Feyenoord almost was bankrupt due to their sponsor HCS, Van den Herik claimed his position in the Feyenoord board by saying "If I lose my money, I would like to be there myself". In 1992, he became Feyenoord's chairman by taking over from Amandus Lundqvist.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode65AD04A8-1C09-42FA-AC68-F141BC78FD13">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA412A103-3CDA-4919-A943-27D5E02338CE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA9BDB4E9-A571-4FA7-9FD6-D2B70D0A89CD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA412A103-3CDA-4919-A943-27D5E02338CE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC0FBD6E3-4BA5-450D-9AE4-A1DFF99BC686">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA412A103-3CDA-4919-A943-27D5E02338CE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Dutch guldens</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

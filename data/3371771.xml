@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3371771" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3E82D1DC-6A13-4EBA-AFC0-EDB8E1DC0F7E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">American dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFC6727BC-8A8A-45CD-91F1-90A6CCA8E5ED">
+		<Aux:document_text xml:lang="en-US">The girl says something he doesn’t understand, but it sounds like “Enough.” He takes her hand and they leave. There’s a taxi outside and they go to her room without saying anything. Behind the door, she unties the dress, and then reaches for his belt. He pushes her hands away. He’ll do it all himself, though his right hand is bleeding. He sits on a small wooden chair and pulls her down on top of him and feels how rough and silky she is straddling him. He is the one moving her, as if she’s a doll, and he knows it has to be this way because it makes him feel that he won’t die, at least for tonight. He groans when it’s over, and it’s over quickly the first time. He stays with her in her filthy bed, and in the morning, he leaves the address of his hotel on a sheet of notebook paper and also two American dollars. He thinks he probably won’t see her again, but that it would be all right if he did. He has more money to spend, and maybe if he saw her again, he wouldn’t feel so sick, like he does now, and maybe it will be better and maybe it will fix something.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0EFC8641-F7B1-449D-B3AD-A1E7A5DF6B10">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">798</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">818</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E82D1DC-6A13-4EBA-AFC0-EDB8E1DC0F7E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1B997C9C-842F-4925-9292-D0A5295B106F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">798</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">801</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E82D1DC-6A13-4EBA-AFC0-EDB8E1DC0F7E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9777F451-7F8B-4CEF-9CF1-505E393704B7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">802</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">818</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E82D1DC-6A13-4EBA-AFC0-EDB8E1DC0F7E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">American dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

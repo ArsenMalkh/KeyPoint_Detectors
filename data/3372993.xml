@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372993" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode7F4A03E0-640E-4436-A1F4-F9A7326518D7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Norwegian kroner</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode714E22C0-B93F-4317-ACC1-4FEDC1565986">
+		<Aux:document_text xml:lang="en-US">Kongsberg Digital was established in 2016 to increase to group's focus and efforts on industrial digitalization. It was fully operational from July 1, 2016. The business area consists of simulation from the previous business area of Kongsberg Oil &amp; Gas Technologies and simulation from Kongsberg Maritime. In addition the business area has established positions within the renewable and utilities area. The business area is headquartered in Asker, with offices throughout Norway and the world. Notable Kongsberg Digital products EmPower K-Sim K-Spice Kognifai LedaFlow® Rig Manager® SiteCom® Corruption charges In 2014 the company and Kongsberg Defence Systems were charged by Norway, for corruption related to deliveries (worth around Norwegian kroner 1.5 billion) of communication equipment to Romania during 1999–2008. The alleged corruption supposedly occurred in Kongsberg Defence &amp; Aerospace, according to Aftenposten. In spring 2012 "various signals" indicated corrupt practices, and within a short time, investigators from outside the company were put to task. In autumn of 2013 the company discontinued a year-long investigation by PricewaterhouseCoopers—without giving the investigators' report to the police. The investigation found that funds had been transferred to tax havens.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode584F2D3B-A526-4E0E-B7A9-8EC8EC879F0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">764</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F4A03E0-640E-4436-A1F4-F9A7326518D7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeDB140451-98F7-41DB-913D-2B370FAB1476">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">752</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F4A03E0-640E-4436-A1F4-F9A7326518D7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Norwegian kroner</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode16061276-777B-43A1-9444-4EE0CA9036F2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">764</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F4A03E0-640E-4436-A1F4-F9A7326518D7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

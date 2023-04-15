@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374118" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE56E1C86-977B-48B3-935F-F2EBB5F5A584">
+		<BasicEntity:ms_major_currency xml:lang="en-US">pounds sterling</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">79</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBC834614-479E-4F62-85CE-92281A119A62">
+		<Aux:document_text xml:lang="en-US">In 1884 the population of Harry's Harbour was 65 persons. Sixteen were under the age of 10 and ten were between the ages of 50 and 70. In 1883 there was 1 birth, 1 death and 1 marriage. Sixty-four persons were Newfoundland born and 1 was English born. There was 1 widow and 1 widower. All 65 persons were Wesleyans. Thirty-four could read and write. Five children between the ages of 5 and 15 were in school but 18 were not. There was 1 school house. Forty persons were fisherfolk. There were 2 fishing boats (10 qls.) with 13 nets and 2 traps. Ninety-three qls. Of codfish and 120 barrels of capelin valued at 79 pounds sterling were caught and 78 gallons of cod liver oil was produced. There were 11 houses, 15 barns/sheds and 7 fish rooms in use. In 1884 5 tonnes of hay and 97 barrels of potatoes were grown on 9 acres of cultivated land. There were 27 sheep, 2 cows, 2 goats and 1 swine. In the same year the population of Three Arms was 102, Western Arm – 13, King's Cove – 45, Salmon Cove – 45, Nick's Nose Cove – 9, Langdown's Cove – 15, Jackson's Cove – 99 and Birchy Cove -15.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE0439060-4D34-4FA4-A737-C845E0E24330">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE56E1C86-977B-48B3-935F-F2EBB5F5A584"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCAE0384D-391B-4D6C-9566-EEDA7C307AA3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE56E1C86-977B-48B3-935F-F2EBB5F5A584"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">79</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode73F1065A-88E7-4C00-82A8-3FD0D83E7859">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE56E1C86-977B-48B3-935F-F2EBB5F5A584"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">pounds sterling</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

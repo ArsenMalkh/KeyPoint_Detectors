@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372208" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode9145738B-6BE5-4806-A3CD-F9FDBE45168B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">¥</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">64936000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode5DDAFE9B-7296-43A1-A46B-22753A2B840E">
+		<Aux:document_text xml:lang="en-US">TOYOTA TSUSHO CORPORATION CSR REPORT 2010  Corporate Profile  Company Name Establishment Paid-in Capital Common Stock Issued Head Office Tokyo Head Office Branches &amp; Sales Offices  Bases  Consolidated Companies Number of Employees  Toyota Tsusho Corporation July 1,1948 ¥64,936 million 354,056,516 shares  Century Toyota Bldg. 9-8, Meieki 4-chome, Nakamura-ku, Nagoya 450-8575, Japan 3-13, Konan 2-chome, Minato-ku, Tokyo 108-8208  Hokkaido, Tohoku, Niigata, Hamamatsu, Matsumoto, Mishima,Toyota, Kariya, Osaka, Hokuriku, Hiroshima, Kyushu,  Fukuyama, Takamatsu  Domestic:16 bases Overseas: 28 bases</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB4CD5E54-93BA-4EAA-9355-FBFE79AF19E2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9145738B-6BE5-4806-A3CD-F9FDBE45168B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode80E92922-EBCC-4DB9-8A66-3969EEFEAAA9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9145738B-6BE5-4806-A3CD-F9FDBE45168B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">¥</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD68ECD1A-7EF0-4C14-8AA7-1A13FA45DB98">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9145738B-6BE5-4806-A3CD-F9FDBE45168B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">64936000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

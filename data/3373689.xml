@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373689" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeEEDA438C-F5EC-4675-94A5-112B39C105F1">
+		<BasicEntity:ms_major_currency xml:lang="en-US">centavos</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">20</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBE116424-CF32-46EE-939C-3332286376FD">
+		<Aux:document_text xml:lang="en-US">The Moros also performed various cruelties during the war, such as thoughtlessly assaulting Japanese immigrants already living in Mindanao before the war. The vicious warlord Datu Busran Kalaw was known for boasting that he "fought both the Americans, Filipinos and the Japanese", which took the lives of both American and Filipino agents and the Japanese occupiers. Nonetheless, the Americans respected the success of the Moros during the war. American POW Herbert Zincke recalled in his secret diary that the Japanese guarding him and other prisoners were scared of the Moro warriors and tried to keep as far away from them as possible to avoid getting attacked. The American Captain Edward Kraus recommended Moro fighters for a suggested plan to capture an airbase in Lake Lanao before eventually driving the Japanese occupiers out of the Philippines. The Moro Datu Pino sliced the ears off Japanese and cashed them in with the American guerrilla leader Colonel Fertig at the exchange rate of a pair of ears for one bullet and 20 centavos.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode70D0BD15-6123-489F-A276-D0644173BF3A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1030</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1041</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEEDA438C-F5EC-4675-94A5-112B39C105F1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeC469FF3C-9E2E-44AB-AAB0-D19596F038C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1030</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1032</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEEDA438C-F5EC-4675-94A5-112B39C105F1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">20</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7481FBEF-83B2-495A-B3E9-B2EE91195F54">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1033</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1041</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEEDA438C-F5EC-4675-94A5-112B39C105F1"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">centavos</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

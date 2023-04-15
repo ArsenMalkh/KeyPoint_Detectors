@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376205" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeE7A6F842-6801-44B7-A02C-FF2AB3C57F40">
+		<BasicEntity:ms_major_currency xml:lang="en-US">DKK</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">403000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode0E716D01-39DD-4DBD-A09C-FF9BB4645F73">
+		<Aux:document_text xml:lang="en-US">In Autumn 2003, an 48-inmate capacity increase was authorised, to give a total capacity of 228 inmates distributed amongst 4 standard sections and one especially secure section. Construction of the prison buildings began in August 2004 and was completed by Summer 2006. The prison was officially opened on 2 October 2006 and received its first inmates shortly after on 16 October 2006. Construction costs totaled 403 million DKK. Including the outer security zone, the prison occupies a total area of 65 hectares.In 2008, it was awarded the Horsens Municipality architecture prize. Operation Enner Mark Prison has five separate sections. Three are identical, with capacity for 48 inmates each. The fourth is for remanded prisoners and those serving short sentences. The fifth section is for solitary confinement and particularly problematic prisoners (often those with connections to Danish motorcycle gangs) and also houses medical facilities. Other facilities include social areas with attached bathrooms and toilets, a cultural centre with attached church, a mosque, a sports hall, a supermarket, a gym, and special visiting areas.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode238A4642-6878-41F8-B939-D79BF85BC580">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE7A6F842-6801-44B7-A02C-FF2AB3C57F40"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBA921518-C441-492A-8C96-72F155F84C56">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE7A6F842-6801-44B7-A02C-FF2AB3C57F40"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">403000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBC71C5A4-5D0B-45B2-B73A-789E292BC12C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">425</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE7A6F842-6801-44B7-A02C-FF2AB3C57F40"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">DKK</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

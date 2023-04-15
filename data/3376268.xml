@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3376268" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCDE6B144-2D61-492A-BC40-69A01F8FB47B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Maldivian Ruffiya</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">13000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode1BAE30DB-1731-4DBD-98DD-6D07A880BDDF">
+		<BasicEntity:ms_major_currency xml:lang="en-US">US Dollar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5200000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode1674C953-DFA3-4ACA-9F6B-ED7EDEC365CD">
+		<Aux:document_text xml:lang="en-US">In addition to the houses IFRC funded the construction of community infrastructure such as an administrative building, a pre-school, primary school and secondary school, an auditorium, water supply and sewage systems, a sports complex, roads, mosque, and a power supply system. Currently, there are two mosques in the island, one funded by the government. On 9 May 2010 MNDF completed the renovation of the roads in Dhuvaafaru. This project was carried out to upgrade the road condition and over 11 km (6.8 mi) of road was improved. A modern harbour costing over US Dollar 5.2 million was also constructed in the island. This project was funded jointly by the governments of United States and Maldives. Some houses in Dhuvaafaru cannot obtain clean water from the ground as the area is a marshland and there were protests in 2011 about this issue. On 18 March 2012 a project worth 13 Million Maldivian Ruffiya was awarded to Male' Water and Sewerage Company by the government to construct a water plant to produce clean mineral water for the populace. This project is conducted with the view of providing clean water to nearby islands and atolls.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56E4788E-1329-483F-A67F-ED26F1CEEC0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">563</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BAE30DB-1731-4DBD-98DD-6D07A880BDDF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode816365F9-1D03-4EC9-BB17-DAAA26628950">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">563</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">572</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BAE30DB-1731-4DBD-98DD-6D07A880BDDF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">US Dollar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode03E95548-4044-4A3D-8F2E-26751B7CD541">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">573</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BAE30DB-1731-4DBD-98DD-6D07A880BDDF"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5200000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA0E0B519-B4CC-4893-A724-7D767AFA8655">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">881</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">909</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCDE6B144-2D61-492A-BC40-69A01F8FB47B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7514A5D1-0A14-4269-B350-43557332B0F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">881</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">891</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCDE6B144-2D61-492A-BC40-69A01F8FB47B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">13000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode92760A0F-3F60-45CE-8C80-8A9FF9BFC045">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">892</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">909</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCDE6B144-2D61-492A-BC40-69A01F8FB47B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Maldivian Ruffiya</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

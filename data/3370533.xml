@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370533" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeFCDC9025-95BA-4F7E-A517-B526EA6F0634">
+		<BasicEntity:ms_major_currency xml:lang="en-US">SGD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">250000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode42AE911F-526E-4A5A-9033-B75338DEE6CD">
+		<Aux:document_text xml:lang="en-US">Asia is deemed to be the market for building material with the highest growth rate, which supports a robust development of the construction industry. The main growth drivers are India and China with their investments in public infrastructure and buildings. The governments of some countries launched incentive programmes to stimulate the construction industry. Singapore, for instance, provided around SGD 250 million for investments in the construction industry. In China, on the other hand, the government has meanwhile started to deliberately curb the booming economy by raising interest rates. TRANSPORT AND HAULAGE Parallel with the growing passenger car sales market, truck sales in the European Union started to recover in 2010 as well. According to data provided by the European Automobile Manufacturers' Association (ACEA) large EU economies such as France, Germany, but also Great Britain, Italy, and Spain recorded two-digit percent growth rates. Sales of heavy commercial vehicles in Italy and France were stepped up by approximately 50 percent and 40 percent respectively as compared to the previous year. When it comes to smaller trucks, France, Italy, and Germany recorded growth rates between 30 and 40 percent.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD7D25F75-CED3-430F-974C-8B56A1B3F192">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFCDC9025-95BA-4F7E-A517-B526EA6F0634"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7ADF6027-BA1C-4F5E-8B98-8FD64724212A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFCDC9025-95BA-4F7E-A517-B526EA6F0634"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">SGD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode21EBBFA9-70E1-4C59-9409-D42D048B6E51">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFCDC9025-95BA-4F7E-A517-B526EA6F0634"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">250000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

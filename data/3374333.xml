@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374333" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCDFC9E38-0C3B-4F00-B9CE-0A77A1EB3F53">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Singapore dollars</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">4200000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode9CC173BF-4280-4887-B786-45B0F8C2372A">
+		<Aux:document_text xml:lang="en-US">The Gallery aims to showcase Singapore’s physical transformation in the last 50 years to become "one of the most liveable cities in Asia." It also aims to explain how "forward-looking, long-term and integrated land use planning and partnership between private and public sectors is achieved" in Singapore. The Gallery also presents "creative solutions to balancing different competing needs, the many live, work, play opportunities planned for, extensive conservation efforts and urban design strategies to create a more distinctive Singapore." History The gallery, which had an initial cost of 4.2 million Singapore dollars, was opened on 27 January 1999,by Lim Hng Kiang, who was National Development Minister at the time. The gallery was initially projected to attract 36,000 visitors a year over the first three years of its existence, most of whom were expected to be students or local community groups. In 2004, the gallery underwent a major renovation of 80% of its exhibits. Upon its reopening on 3 December 2004, the Gallery was renamed the Singapore City Gallery. The Gallery's key exhibit, the Central Area Model, was also expanded to include areas which were formerly not shown, such as Orchard Road, Kampong Glam, Little India, Bras Basah, and Bugis. The model was also updated to include the latest plans for Marina Bay. In 2008, the Gallery received its millionth visitor. In 2011, the gallery was redesigned again, and reopened in August of that year, to include new exhibits such as a 270-degree panorama of life in Singapore and an 8-player multimedia game on urban planning</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5CCD2EF5-39AE-4CA9-A3E1-76B8B93EACB3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCDFC9E38-0C3B-4F00-B9CE-0A77A1EB3F53"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA99EC1EE-F60A-45AC-99F8-D58EC80F4A9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">595</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCDFC9E38-0C3B-4F00-B9CE-0A77A1EB3F53"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">4200000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeADE32986-E915-4FA7-8F0D-10FB2BB6FE81">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">607</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCDFC9E38-0C3B-4F00-B9CE-0A77A1EB3F53"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Singapore dollars</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

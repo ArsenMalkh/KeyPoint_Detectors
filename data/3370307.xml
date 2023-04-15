@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370307" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB666A306-D32E-412F-A019-DE834B6B398E">
+		<BasicEntity:ms_major_currency xml:lang="en-US">RUR</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">500000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeEF70F490-ACEB-42D1-BDB2-2A0976C7EA73">
+		<Aux:document_text xml:lang="en-US">Vagit Alekperov, OAO LUKOIL President, and Oleg Chirkunov, Governor of Perm Region, signed a Cooperation Protocol for 2009 between the Region and the Company in Perm today.  The Protocol was signed in accordance with the Framework Agreement on economic and social cooperation dated December 20, 2005. Under the protocol, in 2009 the Company shall invest RUR 500 million, obtained due to a reduced profit tax, into construction of public facilities in the Region.  Besides, extra funding of the Company's investment projects shall come to another RUR 500 million. The document also provides for further construction of gas distribution facilities to supply natural gas from Kokuyskoye gas condensate field to the consumers of Chernushka and Kuedina districts, and from Magovskoye and Tsepelskoye gas condensate fields to consumers in Krasnovishersk, as well as construction of a gas dehydration unit at Tsepelskoye gas condensate field. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE21DECD-ADEC-457C-86C0-97DCF6388254">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB666A306-D32E-412F-A019-DE834B6B398E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8365AEE4-9CBB-42BC-AD22-5106A49CB3CE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB666A306-D32E-412F-A019-DE834B6B398E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">RUR</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB1EF928B-68A2-4F72-9804-0C6B661EC97A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB666A306-D32E-412F-A019-DE834B6B398E"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">500000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

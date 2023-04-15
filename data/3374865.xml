@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374865" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeD6AA6615-CCCD-4D81-9DE2-5A4621913DFE">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Reichsthaler</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">6</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode30135704-3E2F-4B82-BA46-420CB9A7C8F7">
+		<Aux:document_text xml:lang="en-US">History gets thicker as it approaches recent times (Taylor, 1965:602). [S]everal knowledgeable people familiar with Brazil have advised me about the things I will need most when I arrive in the [New] Land. ... Also, I have sure information ... that a suit of clothes that costs around six Reichsthaler in Amsterdam could only with difficulty be made for sixteen in the [New] land. ... Also, shoes, slippers, hats, and white linen cloth are as expensive in the [New] Land as in Amsterdam. ... We are today, 8/18 January, putting out to sea in the name of the Highest, having waited out, praise God, a desired good wind. I ask Herr Morian most sincerely, if it is possible and can be done, to send me these items on the next ships going to Brazil (Stephan Carl Behaim, musketeer officer of the Dutch West India Company to Johannes Morian, January 1636, as he embarked to Brazil [Ozment, 1990:269-271]).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB7FB836B-AD5D-4315-86EB-56E07BA6CCA2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD6AA6615-CCCD-4D81-9DE2-5A4621913DFE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeCCFE7AE0-2550-4B8B-A5A4-4CD3BE6C60C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD6AA6615-CCCD-4D81-9DE2-5A4621913DFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">6</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode08F930C9-9491-48D1-AAD2-0EC401936038">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD6AA6615-CCCD-4D81-9DE2-5A4621913DFE"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Reichsthaler</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

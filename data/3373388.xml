@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373388" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode738DD02A-7FDD-452A-9433-6F6D9517A102">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Prussian thalers</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE4AC5FB0-A356-4554-B617-0683865428FE">
+		<Aux:document_text xml:lang="en-US">Bathurst's wife Phillida immediately left for Germany to search for her husband, accompanied by the explorer Heinrich Röntgen. They arrived at Perleberg to find that the authorities had been looking into the affair and that a Captain von Klitzing had been put in charge of the investigation. After Captain Klitzing was notified of Bathurst's disappearance, he took immediate steps to mobilise his troops and conducted a vigorous search, apparently working on the initial assumption that the missing man had vanished of his own accord. On the 26th the river Stepenitz was dragged, and civilian officials ordered a second search of the village. On 27 November 1809 the Englishman's valuable fur coat – worth 200 or 300 Prussian thalers – was discovered hidden in an outhouse owned by a family named Schmidt. Then, on 16 December, two old women out scavenging in the woods near Quitzow, three miles north of Perleberg, came across Bathurst's pantaloons. Investigation quickly revealed that one August Schmidt had been working as hostler in the courtyard of the White Swan on the night Bathurst disappeared, and that his mother, who also worked at the inn, had taken the Englishman's coat. Frau Kestern, a woman employed at the German Coffee House, testified years later that immediately after Bathurst had visited the establishment, Auguste Schmidt had come in, asked her where the visitor had gone, then hastened after him and (she supposed) taken some opportunity to destroy him.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9143E826-D42C-4D96-BDD4-EB5CE9760BFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">713</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode738DD02A-7FDD-452A-9433-6F6D9517A102"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5060C0C9-4D32-426C-9389-4A463123B835">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">713</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">716</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode738DD02A-7FDD-452A-9433-6F6D9517A102"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode52164E7A-3E61-4C93-B1D9-AD536E6AE60E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">717</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode738DD02A-7FDD-452A-9433-6F6D9517A102"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Prussian thalers</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

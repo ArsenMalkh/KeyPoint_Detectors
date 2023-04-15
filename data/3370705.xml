@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370705" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode4667DA1F-CFF7-4249-AB2C-8EAE05A3F097">
+		<BasicEntity:ms_major_currency xml:lang="en-US">USD</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">60000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode51192329-3AF7-48D5-95C9-8AA334A5BDAB">
+		<Aux:document_text xml:lang="en-US">RHI AG and several RHI affiliates entered into settlement agreements on 9 April 2004 with the previous US owners, Honeywell and Halliburton / DM, and with the companies that are operating under Chapter 11 in order to finally clarify unresolved issues, earlier contractual agreements as well as mutual claims and claims of third parties.These agreements regulate the waiver by RHI to receivables due from the US companies before the Chapter 11 proceedings as well as the waiver by RHI to all shares in the US companies in conjunction with the termination of the Chapter 11 proceedings. As RHI wrote down all accounts receivable and carrying values of related investments in the financial statements 2001, these agreements will not adversely affect RHI's results. A condition to the coming into effect of the settlement agreement is a USD 40 million payment by Honeywell to RHI Refractories Holding under a prior contract related to NARCO's Chapter 11 proceedings, as soon as the decision has become final and has been implemented. (Based on this contract, USD 60 million has already been paid.)</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD322D85D-6A94-4256-AA1D-AC4C03F89B2D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1055</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1069</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4667DA1F-CFF7-4249-AB2C-8EAE05A3F097"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0A8D73B2-C9D0-44B3-BE8D-754D8B2F3AF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1055</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1058</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4667DA1F-CFF7-4249-AB2C-8EAE05A3F097"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">USD</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode55B79833-CD88-4997-9B79-28E1BFCAE4D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1059</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1069</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4667DA1F-CFF7-4249-AB2C-8EAE05A3F097"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">60000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

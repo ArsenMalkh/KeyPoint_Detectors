@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373449" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode89E5A8CC-FDAC-4BE7-843A-51C64A210EED">
+		<BasicEntity:ms_major_amount xml:lang="en-US">1200</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode3F55DD11-1CB1-4BA2-B5C8-793D36A4A143">
+		<BasicEntity:ms_major_currency xml:lang="en-US">thalers</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1500</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode8A2C2CD6-B364-4D95-98A7-3CFFFC31CA2B">
+		<BasicEntity:ms_major_currency xml:lang="en-US">grosz</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">3</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode02B25CB9-B314-4CB8-BFB4-6C233A7D56D6">
+		<Aux:document_text xml:lang="en-US">On 11 July 1562 the king concluded a New agreement with Krzysztof Taxis, the executive director of the imperial post in Vienna, on the basis of which, he acquired all posts in Poland, establishing the institution under the name of Poczta Polska (Polish Post), i.e. Royal post. It was composed of the Italian post (Cracow-Vienna-Venice) and Lithuanian Post (Cracow-Warsaw-Vilnius). The postal messenger left Cracow each Sunday morning, arrived in Vienna on Wednesday and then left for Venice, where he arrived after seven days journey. The courier set off to Lithuania each week on Wednesday, in order to arrive in Vilnius after a week's journey. Therefore, the letter from Cracow to Venice took 10 days and from Cracow to Vilnius 7 days. The postal charge amounted to 3 grosz from 1 lot of weight of private parcel. The king's and court's parcels were free of charge, but the monarch paid yearly subsidy for the benefit of the post in the amount of 1500 thalers (1200 for the Italian post, 300 for the Lithuanian post). This amount was collected in instalments from the Cracow duty. The director, who received the total income from the post, in return had to take care of the maintenance and its supplies. Although the Polish post under the management of a new director created new extensive and proper international connection, the contract with Taxis was terminated after two years due to various intrigues.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5A12DFF2-7237-431C-9F67-35CE6EF294D0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">768</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">775</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A2C2CD6-B364-4D95-98A7-3CFFFC31CA2B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeF0D37895-C30F-4931-9A89-8B30C76F3CEA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">768</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">769</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A2C2CD6-B364-4D95-98A7-3CFFFC31CA2B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">3</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8B508E01-A23C-4CF5-B7B8-99DCD90800D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">770</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">775</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A2C2CD6-B364-4D95-98A7-3CFFFC31CA2B"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">grosz</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5C4D8972-89E5-49E3-893C-622B7A9B77CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">961</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3F55DD11-1CB1-4BA2-B5C8-793D36A4A143"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0B91018B-36C6-493B-B0B8-11BD4EE4CEC7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">953</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3F55DD11-1CB1-4BA2-B5C8-793D36A4A143"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1500</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9B9E6D9E-82AE-4487-A25C-A139D8D499B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">954</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">961</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3F55DD11-1CB1-4BA2-B5C8-793D36A4A143"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">thalers</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4EA7F2DA-F92D-4C3C-8A6C-AE1AD1B1FC01">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">963</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89E5A8CC-FDAC-4BE7-843A-51C64A210EED"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD8E37B9C-780E-4ACD-99E4-4EF8E3511B77">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">963</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89E5A8CC-FDAC-4BE7-843A-51C64A210EED"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1200</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370491" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCE0026E9-3C57-486F-9711-B572D697169D">
+		<BasicEntity:ms_major_currency xml:lang="en-US">silver dirhams</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">10</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeA918AE73-55A4-4F2F-B7E2-5381ADCA6DEB">
+		<BasicEntity:ms_major_currency xml:lang="en-US">gold dinar</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode3D0FA556-2573-4CAB-B436-897625743853">
+		<Aux:document_text xml:lang="en-US">Until the tenth century, the spread of Islam brought about an intercontinental economic and cultural sphere which amalgamated measuring standards of Egyptian, Arabic, Greek, Roman-Byzantine, Mesopotamian and Persian origin. This resulted in a multiplicity of regional and functional systems of measurement, which were constantly modified by power politics, institutional reforms or, simply, by the rulers' autocratic order. Quite often, the advent of new dynasties brought about the introduction of new metrological standards, mainly in the field of the basic weight units of currency of gold (mithqal) and silver (dirham), and the exchange rate of gold dinar and silver dirham, which were fixed at a very early state by the canonical texts of the Qur'an and the prophetic tradition (hadith). Contrary to the more or less stable weight rate (10 weight dirhams equal 7 weight mithqal), which everyday use polished into the handier ratio of 3:2, the prescribed rate of value (10 silver dirhams equal 1 gold dinar) incessantly deteriorated over the course of time. Ratios of 12:1, 16 4/5:1, 20:1, 30:1 and even 50:1 are recorded. Nevertheless, modern Islamic jurists insist on referring to the canonical rates (10:7; 10:1) when, for example, fixing the minimum income (nisdb) for the obligatory alms payment (zakai) by Muslims of a determinate portion of their lawful property. The canonical ratio of the value of gold and silver (10:1) reflected the historical situation in the Mediterranean region and the Middle East after the Roman period (12:1). During the Il-Khanid period (thirteenth to fourteenth century), silver from Central Asia was massively imported to the West, the price of silver sank again, for a short period, to the Roman value. Gold, in contrast, remained remarkably stable over the millennium. Under the Persian king Darius the Great (522-486), mutton cost the same as in Anatolia in 1340: the equivalent of 1.9355 g pure gold.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode17C5D5B5-ADE2-4216-9DF9-8B38651FFF8D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">974</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">991</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE0026E9-3C57-486F-9711-B572D697169D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7CA44C3C-D1CE-4A1C-AC4F-6869833CF0B1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">974</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">976</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE0026E9-3C57-486F-9711-B572D697169D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">10</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode6D23E533-812E-48B3-8B2E-DD0653C52C5C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">977</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">991</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE0026E9-3C57-486F-9711-B572D697169D"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">silver dirhams</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1222954F-C60A-4937-B78F-1F16C010F514">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">998</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA918AE73-55A4-4F2F-B7E2-5381ADCA6DEB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode19F86BEF-EDCD-4F9F-B548-9248320E578E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">998</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">999</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA918AE73-55A4-4F2F-B7E2-5381ADCA6DEB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode40055EB5-9678-45A0-BF28-BD11872BFB9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1010</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA918AE73-55A4-4F2F-B7E2-5381ADCA6DEB"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">gold dinar</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

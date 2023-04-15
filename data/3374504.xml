@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3374504" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode098DCA51-FB72-4719-9548-AE1A12C6404A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">baht</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD2CD6156-E93D-4150-BF49-D5BE9F00A215">
+		<Aux:document_text xml:lang="en-US">The So Heng Tai Mansion (Thai: บ้านโซวเฮงไถ่, from Chinese: 蘇恒泰) is a nineteenth-century Chinese courtyard house in the historic neighbourhood of Talat Noi in Bangkok. It was built by Phra Aphaiwanit (Chat, of the So (蘇) clan, 1813–1849), a Hokkien Chinese bird's nest tax farmer with ancestry from Fujian who eventually joined the nobility under King Rama III. His descendants include many prominent Thai businessmen, celebrities and politicians including Korn Chatikavanij. The house has continuously been inhabited by his descendants, including one branch who now form the Poshyachinda family. It is one of the last remaining traditional Chinese houses in Bangkok and claims to be the oldest private residence in the city. A Thai Chinese tycoon reportedly offered to buy the residence for 2 billion baht, an offer turned down by the family. Today, it also operates as a diving school, a pool having been built in the courtyard in 2004. The house has at times been opened to the public, especially since 2014 when the Talat Noi area was promoted as a cultural tourism destination. Multiple organizations have offered assistance in its restoration, though lack of government support has largely left maintenance of the house to the family's own expense.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode13CF5521-62C6-4EA8-A5E8-0A71F704760F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">806</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode098DCA51-FB72-4719-9548-AE1A12C6404A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE1EEA73E-941A-415D-92D4-EAA0EAEB2B35">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">801</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode098DCA51-FB72-4719-9548-AE1A12C6404A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode9510B7C2-BB5B-4C0B-9EF0-14068852B654">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">802</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">806</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode098DCA51-FB72-4719-9548-AE1A12C6404A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">baht</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

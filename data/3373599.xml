@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373599" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC94EC581-13DD-4784-8CD1-67C3BC8B37D3">
+		<BasicEntity:ms_major_currency xml:lang="en-US">CHF</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">447000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode161E9ED8-1B01-402A-B30F-6679A737C015">
+		<Aux:document_text xml:lang="en-US">The RABe 514 is a four-car double decker electrical multiple unit used by the Swiss Federal Railways SBB-CFF-FFS for the Zürich S-Bahn. It is part of the Siemens Desiro Double Deck product family. The trains are also referred to as DTZ which stands for the German word Doppelstocktriebzug (English: double decker multiple unit). History On 23 February 2003 the Swiss Federal Railways' board of directors decided to give the 447 million CHF contract for building 35 double decker trains to Siemens Transportation Systems. This decision came as a surprise since Siemens had never built double decker EMUs before, except for an experimental train built in a consortium with DWA Görlitz (now Bombardier Transportation) that never entered into service. To fulfill the domestic content requirement in the contact, Siemens reached an agreement with Stadler Rail to perform some of the assembling and the commissioning in their factory in Altenrhein, Switzerland.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode623F7C4C-D08D-4E78-8DAB-706A72D0664F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC94EC581-13DD-4784-8CD1-67C3BC8B37D3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE384AEF7-4FB9-440A-B42E-1B169DDA656F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC94EC581-13DD-4784-8CD1-67C3BC8B37D3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">447000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode26ED43FA-2170-419D-AB23-D412C78FA64C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC94EC581-13DD-4784-8CD1-67C3BC8B37D3"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">CHF</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

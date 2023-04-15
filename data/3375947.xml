@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375947" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC15DDBB6-E5E8-46F2-B08F-3FA3A86E8DF7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">drachmas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">18</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeCE4FC31A-05B1-431D-97A6-45C958930E2A">
+		<BasicEntity:ms_major_currency xml:lang="en-US">drachmas</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">5</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDA8615FE-393F-4944-83B2-03FF9C0D16C9">
+		<Aux:document_text xml:lang="en-US">Unlike the breweries Fischer (Φίσερ), Bachauer (Μπαχάουερ) and Melcher (Μέλχερ), the Fix beer was characterized by a constant quality and had prevailed since at least the first half of the 20th century. In 1925, the brewery invested in a refrigerating machine with a capacity of 2 to 6 million BTU by Sulzer AG , which cooled the entire cellar. Until the 1950s, this was one of the most powerful compressors ever. Previously, it was only cooled with bar ice, of which one built by LA Riedinger plant produced 1000 kg a day. "The good and light fix beer (birra) was available in every restaurant. It cost 5 drachmas per glass of beer, 18 drachmas per 1 bottle" as mentioned in a 1937 Athens travel guide. During the Nazi occupation of Athens, Antonios (Anthony) and Elli Fix hid the Jewess Yvonne Molho in their house. (In 2004, their names were added to the Righteous Among the Nations list). At that time, the brewery also had its own bar in Patisia, which was visited mainly by Germans.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0CB74C6F-8E32-475C-A89E-DFF263A1199A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE4FC31A-05B1-431D-97A6-45C958930E2A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode4C68F721-A5BC-4C0C-9D3E-3EC45FCA51A6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">605</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE4FC31A-05B1-431D-97A6-45C958930E2A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">5</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeBF550FFE-D146-43F8-8302-32DB3EB340A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE4FC31A-05B1-431D-97A6-45C958930E2A"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">drachmas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode500A8D5C-761C-460E-96DA-C3BA40483034">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">645</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC15DDBB6-E5E8-46F2-B08F-3FA3A86E8DF7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeB91EBFEC-7CDC-46B3-AF07-54B1E9B5E252">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">636</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC15DDBB6-E5E8-46F2-B08F-3FA3A86E8DF7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">18</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode08267C18-6527-4F63-BFD3-3492C6145EBF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">637</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">645</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC15DDBB6-E5E8-46F2-B08F-3FA3A86E8DF7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">drachmas</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

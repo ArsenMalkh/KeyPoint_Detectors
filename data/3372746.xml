@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3372746" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF7F81C1B-E2DF-4F70-9FEF-D025C6BA5B43">
+		<BasicEntity:ms_major_currency xml:lang="en-US">euros</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">550000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeC88E0C2E-EB9F-413A-8FB5-00CD3357F36F">
+		<BasicEntity:ms_major_currency xml:lang="en-US">złoty</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">2000000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE9B11CEB-082B-4772-BF33-9FE022436B44">
+		<Aux:document_text xml:lang="en-US">The EU is currently investigating whether in offering Internet access at a particularly low rate Polish Telekom (TPSA) abused its dominant market position. The conservative daily Rzeczpospolita comments: "At issue is a breach of the principle of competition. ... The whole affair was so fishy that even Brussels smelt a rat . But it is hard to be surprised about TPSA. For some time now - ultimately because of a ruling of the market monitoring authority UKE - TPSA has been losing customers to its rivals. [The monopoly Telekom is legally obliged to allow private telecommunications companies to use its network.] And no company will willingly share its profits with its rivals. ... But one need not feel sorry for TPSA [either], for its profits exceeded two billion złoty [around 550 million euros] in the first ten months of this year." (30/10/2008) http://www.rp.pl/artykul/9158,212202_Skrzywdzona_Telekomunikacje_  wciaz_stac_na_terapie.html  Frankfurter Allgemeine Zeitung - Germany  Spain wants to join the G20  The daily Frankfurter Allgemeine Zeitung comments on the efforts of Spanish Prime Minister José Luis Rodríguez Zapatero to get a last-minute invitation to the meeting of the G20 group. The G8 and the chief newly industrialised countries will meet in the United States in November to discuss a new order for the financial market. "There should really be no doubt that after thirty years of democracy and an astonishing flourishing of its economy Spain should no longer be sitting at the children's table when the international community discusses strategies for the future. Through skillful national government and generous European funding Spain has prospered to become a model economy and, in terms of GDP, number 5 in the EU and number 8 in the world</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode331364D9-8DCA-4BE4-8E46-013673143A41">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">773</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC88E0C2E-EB9F-413A-8FB5-00CD3357F36F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5F4637A2-C54B-42D1-8484-5A9E615BDC19">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">767</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC88E0C2E-EB9F-413A-8FB5-00CD3357F36F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">2000000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8E04AD95-A34E-48AB-A4C2-83E2B921765E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">768</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">773</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC88E0C2E-EB9F-413A-8FB5-00CD3357F36F"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">złoty</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC5D49352-D38C-4018-A7FB-79D5EFA6D052">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">782</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">799</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF7F81C1B-E2DF-4F70-9FEF-D025C6BA5B43"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode8AB1641C-8A03-40D5-8895-49BDD495339B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">782</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">793</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF7F81C1B-E2DF-4F70-9FEF-D025C6BA5B43"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">550000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode3FFBB8C2-E786-4776-8F07-3A662D6A5F3F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">794</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">799</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF7F81C1B-E2DF-4F70-9FEF-D025C6BA5B43"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">euros</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

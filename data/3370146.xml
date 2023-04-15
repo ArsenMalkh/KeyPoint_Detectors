@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3370146" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode777CFFBE-92E5-44FD-BD41-42CFB6993863">
+		<BasicEntity:ms_major_currency xml:lang="en-US">rubles</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode37A4B60B-5827-4E0C-94C0-5836F340D0F8">
+		<BasicEntity:ms_major_currency xml:lang="en-US">rub</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode8F7EA137-1000-4306-9976-83920BA78CC6">
+		<Aux:document_text xml:lang="en-US">7 October 2008: Smeshariki aiding children. UNICEF, Detskiy Mir and “Smeshariki” announce joint action Detskiy Mir gift certificate for 1000 rub, 10% of which will be donated towards the implementation of UNICEF’s charity programmes Moscow, October 7, 2008. Today, the launch of the charity action “Unite for Children” to benefit UNICEF programmes was announced at a press conference in Moscow. The action is to be held from October 10 until November 10, 2008 at the network shops Detski Mir throughout Russia in cooperation with the Smeshariki project.  Having bought a specially marked gift certificate issued by the network shops Detskiy Mir on the occasion of the charity action, the shoppers will be able to purchase goods for children worth the amount indicated on the gift certificate. 10% of each certificate’s value will be donated towards the implementation of UNICEF’s charity programmes to protect the right of children to a safe, healthy and happy childhood and deposited in the UNICEF’s bank account. The organizers of the charity action, which is scheduled to be held in 117 network shops Detskiy Mir in 54 cities all over Russia, expect to raise at least 1 million rubles</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8BADC7F8-F9FC-486C-8DA0-4B8D39513D0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode37A4B60B-5827-4E0C-94C0-5836F340D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode0B7C826F-F739-4B3E-A3C0-05A5BDD100A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode37A4B60B-5827-4E0C-94C0-5836F340D0F8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE96773E7-2B2E-4E38-ACB9-3D2C8C37C2B4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode37A4B60B-5827-4E0C-94C0-5836F340D0F8"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">rub</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFFFA4A0F-34CC-44B5-AEAD-5A224CA1D71C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1171</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1187</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode777CFFBE-92E5-44FD-BD41-42CFB6993863"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode1322F1BE-0B8C-48D9-865C-D480924F610C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1171</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1180</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode777CFFBE-92E5-44FD-BD41-42CFB6993863"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE8239E64-F336-4657-8295-BC624835D90E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1181</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1187</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode777CFFBE-92E5-44FD-BD41-42CFB6993863"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">rubles</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

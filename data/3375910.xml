@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375910" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeF96CFC58-A2D8-4F33-A9EB-4B3E753F5F96">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Palestine pounds</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD71BEC01-F174-4317-997A-65399CE630B3">
+		<Aux:document_text xml:lang="en-US">In 1933, a children's book by Zvi Lieberman Oded ha-noded (Oded the Wanderer) was made into a silent film, the country's first full-length feature film for children, produced on a shoestring budget with private financing. In 1938, another book by Lieberman, Me’al ha-khoravot(Over the Ruins) was turned into a 70-minute film with a soundtrack and dialogue. Lieberman wrote the screenplay himself. Produced by Nathan Axelrod and directed by Alfred Wolf, it told the story of children in a Second Temple Jewish village in the Galilee where all the adults were killed by the Romans. The children rebuild the village. Production costs came to 1,000 Palestine pounds. It failed at the box office, but is considered a landmark in the history of Israeli cinema. One of the pioneers of cinema in Israel was Baruch Agadati. Agadati purchased cinematographer Yaakov Ben Dov's film archives in 1934 when Ben Dov retired from filmmaking and together with his brother Yitzhak established the AGA Newsreel. He directed the early Zionist film entitled This is the Land (1935).</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode819F32B4-E0E9-481A-9ABD-FD7BA7EFEF9B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">639</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF96CFC58-A2D8-4F33-A9EB-4B3E753F5F96"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode5F2590BB-5C79-4F05-9873-CE6CEF02A462">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">639</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">644</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF96CFC58-A2D8-4F33-A9EB-4B3E753F5F96"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode81779CE5-658D-4153-8894-702B33C940C1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">645</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF96CFC58-A2D8-4F33-A9EB-4B3E753F5F96"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Palestine pounds</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

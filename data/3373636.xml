@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373636" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode09BDBA2E-DCD2-47A4-A2A7-9B31795DD7D7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">AU$</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">177000000</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD720ACF6-EA0C-4D96-809E-692DD4EF6504">
+		<Aux:document_text xml:lang="en-US">Perisher Ski Resort (known as Perisher Blue until 2009) is the largest ski resort in the Southern Hemisphere. Located in the Australian Snowy Mountains, the resort is an amalgamation of four villages (Perisher Valley, Smiggin Holes, Guthega, and Blue Cow) and their associated ski fields, covering approximately 12 square kilometres (5 sq mi), with the base elevation at 1,720 metres (5,640 ft) AHD, and the summit elevation of 2,054 metres (6,739 ft) at the top of Mount Perisher. 4.4 square kilometres (1.7 sq mi) of this area is covered by 240 snow guns, which are used to artificially supplement the natural snowfall. Perisher was acquired by Vail Resorts, United States on March 30, 2015 for a sum of approximately AU$177 million. The resort is accessible by road and by the Skitube from Jindabyne, Australia's only underground rack railway. The main skiing period is in July and August, with the official season running from the second weekend in June to the first weekend of October. Perisher consists of 47 lifts: The Village Eight Express, an eight-seater chairlift (built in 2003), two high-speed quad detachable chairlifts, five fixed-grip quad chairlifts, four double chairlifts, two triple chairlifts, 21 T-Bars, three J-bars, seven ski carpets, and 2 rope tows. The run difficulties are graded 22% beginner, 60% intermediate and 18% advanced.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2261DDAB-A0F4-4517-A666-94F58E182EBE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">720</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09BDBA2E-DCD2-47A4-A2A7-9B31795DD7D7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA2AE6DB2-37D8-41EF-852D-C57FD91D3077">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">720</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09BDBA2E-DCD2-47A4-A2A7-9B31795DD7D7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">AU$</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeD52065DA-093F-48F1-B5FF-FA06D78E000A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode09BDBA2E-DCD2-47A4-A2A7-9B31795DD7D7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">177000000</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

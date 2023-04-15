@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3375523" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnode5D80B0BF-B45F-4B50-8576-C2303EA32747">
+		<BasicEntity:ms_major_currency xml:lang="en-US">JPY</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">1300</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode6A0DA3DE-E79E-4E74-BC41-35095CF01DD1">
+		<Aux:document_text xml:lang="en-US">Jugetsudo Tsukiji Main Store is a specialty store for Japanese tea opened by Maruyama Nori-ten, which was established in 1854. Their Mont Blanc, made with plenty of the highest-quality tea leaves, is deliciously moist. Walkerplus The matcha version has a whole Japanese chestnut inside, while the hojicha version has Kanoko beans. Enjoy it with the shop's original blended tea for a luxurious tea time. The set costs 1,300 JPY. Walkerplus ■Jugetsudo Tsukiji Main Store Address: 4-7-5 Tsukiji, Chuo-ku, Tokyo Phone: 03-3547-4747 Hours: 9:00 am - 6:00 pm, Cafe 9:30 am - 5:00 pm (L.O. 4:30 pm) Holidays: National Holidays (Sundays for the cafe) Seating: 7 (no smoking) Jugetsudo Tsukiji Main Store</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode638076A6-CF70-4E25-B1AB-45C211E486A7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D80B0BF-B45F-4B50-8576-C2303EA32747"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode639F6187-C320-42D7-8223-33DD69616F35">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D80B0BF-B45F-4B50-8576-C2303EA32747"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">1300</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeA3CCE2C6-1B66-4137-9996-148DA693195F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5D80B0BF-B45F-4B50-8576-C2303EA32747"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">JPY</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

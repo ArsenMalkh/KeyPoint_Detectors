@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="3373166" markupID="2092790" OntoTechnologyVersion="3.59.92.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:BasicEntity="http://www.abbyy.com/ns/BasicEntity#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<BasicEntity:MoneySimplified rdf:nodeID="bnodeB70AF964-47E0-45C8-BAC2-6DCA5A2914E7">
+		<BasicEntity:ms_major_currency xml:lang="en-US">Rupees</BasicEntity:ms_major_currency>
+		<BasicEntity:ms_major_amount xml:lang="en-US">400</BasicEntity:ms_major_amount>
+	</BasicEntity:MoneySimplified>
+	<Aux:TextAnnotations rdf:nodeID="bnode19A22A81-7C00-49D9-9A95-F6CBC070A7CB">
+		<Aux:document_text xml:lang="en-US">As a result of the 1931 agitation, the Maharajah appointed a Grievances Commission with an Englishman B.J. Glancy as President who submitted its report in March 1932. Subsequently, a Constitutional Reforms Conference also presided over by B.J. Glancy recommended the setting up of an elected Legislative Assembly (Praja Sabha). Consequently, a Praja Sabha with 33 elected and 42 nominated members elected on the basis of separate electorates for Hindus and Muslims was established in 1934. Women and illiterate men without sufficient property, or title, or annual income of less than Rupees four hundred did not have the right to vote. Roughly less than 10% (according to Justice Anand only 3%) of the population were enfranchised. Even after the formation of Praja Sabha in 1934 as recommended by the Commission real power continued to remain in the hands of the Maharajah.</Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7E6A301A-0209-400E-AE47-DBD877B92798">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB70AF964-47E0-45C8-BAC2-6DCA5A2914E7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnode7E217674-BBE4-4B37-9029-99F9554E0213">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">584</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">590</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB70AF964-47E0-45C8-BAC2-6DCA5A2914E7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_currency</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">Rupees</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:PropertyAnnotation rdf:nodeID="bnodeE6748682-4C5A-4455-A956-EAF5131A8D74">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">591</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB70AF964-47E0-45C8-BAC2-6DCA5A2914E7"/>
+				<Aux:property_name xml:lang="en-US">http://www.abbyy.com/ns/BasicEntity#ms_major_amount</Aux:property_name>
+				<Aux:property_value xml:lang="en-US">400</Aux:property_value>
+			</Aux:PropertyAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>
