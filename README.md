@@ -12,6 +12,6 @@ orb - 0.5\\
 
 ### method - repeatablity\\
 
-shi-thomasi - 0.5\\
-sift - 0.47\\
-orb - 0.49\\
+shi-thomasi - 0.5\
+sift - 0.47\
+orb - 0.49\
